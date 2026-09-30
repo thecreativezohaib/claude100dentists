@@ -1,0 +1,2002 @@
+[
+ {
+  "name": "Creative Dental of Syosset (Mozner)",
+  "city": "Syosset",
+  "state": "NY",
+  "url": "syossetsmiles.com",
+  "verdict": "REJECT/pending \u2014 binary HTML, modern-looking; recheck low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Syosset Dental",
+  "city": "Syosset",
+  "state": "NY",
+  "url": "syossetdentalcare.com",
+  "verdict": "REJECT \u2014 modern WP kobak theme \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Innovative Dental",
+  "city": "Syosset",
+  "state": "NY",
+  "url": "mysyossetdentist.com",
+  "verdict": "REJECT \u2014 modern current site \u00a92026, likely group",
+  "approx_score": null
+ },
+ {
+  "name": "Progressive Dentistry (Levy)",
+  "city": "Merrick",
+  "state": "NY",
+  "url": "merrickdentistry.com",
+  "verdict": "Cloudflare bot-walled; pending WebFetch",
+  "approx_score": null
+ },
+ {
+  "name": "Merrick Dental Care",
+  "city": "Merrick",
+  "state": "NY",
+  "url": "merrickdental.com",
+  "verdict": "bot-walled; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Krayevsky DDS",
+  "city": "Merrick",
+  "state": "NY",
+  "url": "yaninakrayevskydds.com",
+  "verdict": "bot-walled; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Feigelson DDS",
+  "city": "Commack",
+  "state": "NY",
+  "url": "commack-dentist.com",
+  "verdict": "REJECT \u2014 modern current \u00a92026 (vendor-built), sedation dentist; low gap",
+  "approx_score": null
+ },
+ {
+  "name": "Green & Glasser Dental Associates",
+  "city": "Commack",
+  "state": "NY",
+  "url": "dentistsincommack.com",
+  "verdict": "REJECT \u2014 DSO: The Smilist",
+  "approx_score": null
+ },
+ {
+  "name": "Signature Smiles Cosmetic & Implant (Giordano)",
+  "city": "Commack",
+  "state": "NY",
+  "url": "drgiordano.net",
+  "verdict": "pending \u2014 check",
+  "approx_score": null
+ },
+ {
+  "name": "Commack Dental Associates",
+  "city": "Commack",
+  "state": "NY",
+  "url": "dentist-commack.com",
+  "verdict": "bot-walled/loader; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Commack Dental Design",
+  "city": "Commack",
+  "state": "NY",
+  "url": "commackdentaldesign.com",
+  "verdict": "REJECT \u2014 WP wts theme \u00a92026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Schoengold DDS",
+  "city": "Riverdale",
+  "state": "NY",
+  "url": "schoengolddental.com",
+  "verdict": "pending",
+  "approx_score": null
+ },
+ {
+  "name": "Riverdale Cosmetic Dentists (Kahane)",
+  "city": "Bronx",
+  "state": "NY",
+  "url": "riverdale-cosmetic-dentists.net",
+  "verdict": "bot-walled; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Care of Riverdale",
+  "city": "Bronx",
+  "state": "NY",
+  "url": "adcriv.com",
+  "verdict": "REJECT \u2014 WP \u00a92026 modern-ish, accessibility widget",
+  "approx_score": null
+ },
+ {
+  "name": "Riverdale Comprehensive Dentistry",
+  "city": "Bronx",
+  "state": "NY",
+  "url": "riverdaledentistryspa.com",
+  "verdict": "REJECT \u2014 modern vendor site (angies/bbb icons, current)",
+  "approx_score": null
+ },
+ {
+  "name": "Schoengold Dental",
+  "city": "Riverdale/White Plains",
+  "state": "NY",
+  "url": "schoengolddental.com",
+  "verdict": "REJECT \u2014 Divi \u00a92024, multi-location, moderate site",
+  "approx_score": null
+ },
+ {
+  "name": "Payam Cohen DDS",
+  "city": "Forest Hills",
+  "state": "NY",
+  "url": "foresthillsdentistry.com",
+  "verdict": "REJECT \u2014 custom WP \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Perfect Smile Design (Lestz)",
+  "city": "Forest Hills",
+  "state": "NY",
+  "url": "dentalimplantsandcosmetics.com",
+  "verdict": "REJECT/low \u2014 Doctor Genius but \u00a92026 refreshed; 35 yr solo; recheck if short",
+  "approx_score": null
+ },
+ {
+  "name": "Forest Hills Dental (Gregory Mark)",
+  "city": "Forest Hills",
+  "state": "NY",
+  "url": "foresthillsdental.com",
+  "verdict": "REJECT \u2014 custom WP \u00a92025",
+  "approx_score": null
+ },
+ {
+  "name": "Amazing Smile Dental",
+  "city": "Forest Hills",
+  "state": "NY",
+  "url": "amazingsmiledentalny.com",
+  "verdict": "REJECT \u2014 betheme \u00a9current",
+  "approx_score": null
+ },
+ {
+  "name": "Queens Comprehensive Dental",
+  "city": "Forest Hills",
+  "state": "NY",
+  "url": "foresthillsdds.com",
+  "verdict": "pending \u2014 tiny 12KB page, check",
+  "approx_score": null
+ },
+ {
+  "name": "Timeless Dentistry (prosth)",
+  "city": "Forest Hills",
+  "state": "NY",
+  "url": "queensdds.com",
+  "verdict": "REJECT \u2014 Ekwa \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Forest Hills Dental Arts",
+  "city": "Forest Hills",
+  "state": "NY",
+  "url": "dentist-foresthills.com",
+  "verdict": "REJECT \u2014 modern vendor \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Brooklyn Smile & Implants (Herskovits)",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "brooklynsmile.com",
+  "verdict": "bot-walled; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Visintini Dental",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "visintinidental.com",
+  "verdict": "bot-walled; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Henry Young DDS",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "bay-ridge-dental.com",
+  "verdict": "REJECT \u2014 modern vendor \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "David Gutwirth DDS / Bay Ridge Dental",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "bayridgedental.com",
+  "verdict": "pending \u2014 check",
+  "approx_score": null
+ },
+ {
+  "name": "5th Ave Dentistry & Implants",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "5thavedentistry.com",
+  "verdict": "REJECT \u2014 modern vendor \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Bay Ridge Dental Arts",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "brdentalarts.com",
+  "verdict": "REJECT \u2014 Squarespace, young practice",
+  "approx_score": null
+ },
+ {
+  "name": "B. Souferian DDS",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "bayridgedentist.com",
+  "verdict": "pending \u2014 IONOS MyWebsite tiny site; check credentials/reviews",
+  "approx_score": null
+ },
+ {
+  "name": "Trachuk DDS",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "trachukdds.net",
+  "verdict": "REJECT \u2014 Wix, young solo",
+  "approx_score": null
+ },
+ {
+  "name": "Queens Comprehensive Dental",
+  "city": "Forest Hills",
+  "state": "NY",
+  "url": "foresthillsdds.com",
+  "verdict": "pending (tiny page)",
+  "approx_score": null
+ },
+ {
+  "name": "Harrison Avenue Dental Associates",
+  "city": "Mamaroneck/Harrison",
+  "state": "NY",
+  "url": "harrisonavenuedentalassociates.com",
+  "verdict": "REJECT \u2014 modern vendor site",
+  "approx_score": null
+ },
+ {
+  "name": "Westchester Dental Care",
+  "city": "New Rochelle",
+  "state": "NY",
+  "url": "westchester-dentalcare.com",
+  "verdict": "bot-walled; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Cosmetic Dentistry of Westchester (Mayers AAACD)",
+  "city": "White Plains",
+  "state": "NY",
+  "url": "cosmeticdentistrywestchester.com",
+  "verdict": "pending \u2014 Dentalfone WP; check design",
+  "approx_score": null
+ },
+ {
+  "name": "Purchase Street Family Dental",
+  "city": "Rye",
+  "state": "NY",
+  "url": "ryedentist.com",
+  "verdict": "pending \u2014 WP twentythirteen theme \u00a92024",
+  "approx_score": null
+ },
+ {
+  "name": "Gentle Touch Dentistry",
+  "city": "Harrison",
+  "state": "NY",
+  "url": "gtdentistry.com",
+  "verdict": "REJECT \u2014 Elementor 2026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Fairfield Cosmetic Dentistry (Donald Miller)",
+  "city": "Fairfield",
+  "state": "CT",
+  "url": "fairfieldcosmeticdentistry.com",
+  "verdict": "pending \u2014 Dentalfone \u00a92013-2026, 4 decades; check design",
+  "approx_score": null
+ },
+ {
+  "name": "Worthington Advanced Dentistry",
+  "city": "Fairfield",
+  "state": "CT",
+  "url": "drworthington.com",
+  "verdict": "REJECT \u2014 modern vendor \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Perfect Smiles of Fairfield",
+  "city": "Fairfield",
+  "state": "CT",
+  "url": "perfectsmilesoffairfield.com",
+  "verdict": "REJECT \u2014 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Evergreen Family Dental Group",
+  "city": "Fairfield/Southbury",
+  "state": "CT",
+  "url": "evergreenfamilydentalgroup.com",
+  "verdict": "REJECT \u2014 Drupal 7 small but young/multi-loc; low",
+  "approx_score": null
+ },
+ {
+  "name": "Fairfield County Implants & Periodontics (Sonick)",
+  "city": "Fairfield",
+  "state": "CT",
+  "url": "sonickdmd.com",
+  "verdict": "REJECT \u2014 perio referral practice / Specialty1 Partners DSO",
+  "approx_score": null
+ },
+ {
+  "name": "Cosmetic & Implant Dentistry of CT (Gross)",
+  "city": "Hamden",
+  "state": "CT",
+  "url": "cidct.com",
+  "verdict": "REJECT \u2014 Einstein modern \u00a92026, multi-loc",
+  "approx_score": null
+ },
+ {
+  "name": "New Haven Dental Group",
+  "city": "New Haven/Hamden",
+  "state": "CT",
+  "url": "newhavendental.com",
+  "verdict": "REJECT \u2014 DSO: 42 North Dental",
+  "approx_score": null
+ },
+ {
+  "name": "Cranston Cosmetic Dentistry (Lakhkar)",
+  "city": "Cranston",
+  "state": "RI",
+  "url": "cranstoncosmeticdentistry.com",
+  "verdict": "bot-walled; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Hodosh Cosmetic & Implant Dentistry",
+  "city": "Providence",
+  "state": "RI",
+  "url": "hodosh.com",
+  "verdict": "REJECT \u2014 dentalcarealliance footprint / DSO suspect, modern",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Matrullo & Associates",
+  "city": "Cranston",
+  "state": "RI",
+  "url": "rismile.com",
+  "verdict": "REJECT \u2014 DoctorLogic modern \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Todd Shatkin DDS",
+  "city": "Buffalo/Amherst",
+  "state": "NY",
+  "url": "toddshatkindds.com",
+  "verdict": "REJECT \u2014 modern flatsome \u00a92026 / DentalMarketing agency",
+  "approx_score": null
+ },
+ {
+  "name": "East Amherst Dental Center",
+  "city": "Amherst",
+  "state": "NY",
+  "url": "eastamherstdentalcenter.com",
+  "verdict": "REJECT \u2014 modern \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "William Faricellie III DMD",
+  "city": "Amherst",
+  "state": "NY",
+  "url": "wjfiiidmd.com",
+  "verdict": "bot-walled (\"One moment\"); pending",
+  "approx_score": null
+ },
+ {
+  "name": "Souferian DDS",
+  "city": "Bay Ridge",
+  "state": "NY",
+  "url": "bayridgedentist.com",
+  "verdict": "BENCH-LOW \u2014 IONOS MyWebsite w/ leftover \"Jamaica Family Dental Care\" text, but insurance/affordable positioning (low FC)",
+  "approx_score": 58
+ },
+ {
+  "name": "Rubinstein & Ducoff",
+  "city": "Providence",
+  "state": "RI",
+  "url": "drsrubinsteinandducoff.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Aesthetic Dentistry of Fairfield",
+  "city": "Fairfield",
+  "state": "CT",
+  "url": "adfct.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Lyndon Family Dental",
+  "city": "Fayetteville",
+  "state": "NY",
+  "url": "lyndonfamilydental.com",
+  "verdict": "CANDIDATE \u2014 TNT Dental; homepage still shows COVID \"Office Open for Emergencies Only ... Governor Cuomo's Executive Order 202.8\" banner; verify est/doctors/reviews",
+  "approx_score": 62
+ },
+ {
+  "name": "Levesque Family Dentistry",
+  "city": "Nashua",
+  "state": "NH",
+  "url": "levesquedentistry.com",
+  "verdict": "CANDIDATE-MID \u2014 80+ yrs, 4 docs (Dental Revenue site, no \u00a9); moderate site; verify",
+  "approx_score": 58
+ },
+ {
+  "name": "Anthony Grasso DDS",
+  "city": "Syracuse",
+  "state": "NY",
+  "url": "syracusenydentist.com",
+  "verdict": "REJECT \u2014 SilverStripe \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Shoppingtown Dental Services",
+  "city": "DeWitt",
+  "state": "NY",
+  "url": "shoppingtowndentalservices.com",
+  "verdict": "REJECT \u2014 modern vendor \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Manlius Dental Group",
+  "city": "Manlius",
+  "state": "NY",
+  "url": "manliusdentist.com",
+  "verdict": "REJECT \u2014 Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Albany Dental",
+  "city": "Albany",
+  "state": "NY",
+  "url": "albanydental.com",
+  "verdict": "REJECT \u2014 emergency/denture positioning, \u00a92004-2026 template",
+  "approx_score": null
+ },
+ {
+  "name": "Bausback & McGarry",
+  "city": "Albany area",
+  "state": "NY",
+  "url": "bausbackmcgarry.com",
+  "verdict": "pending (202 response)",
+  "approx_score": null
+ },
+ {
+  "name": "Portland Dental Health Care & Implant Center (Davis)",
+  "city": "Portland",
+  "state": "ME",
+  "url": "portlandmainedental.com",
+  "verdict": "bot-walled; pending WebFetch",
+  "approx_score": null
+ },
+ {
+  "name": "Make ME Smile (Russo)",
+  "city": "Yarmouth",
+  "state": "ME",
+  "url": "makemesmileyarmouth.com",
+  "verdict": "bot-walled; pending",
+  "approx_score": null
+ },
+ {
+  "name": "Nashua Cosmetic & Restorative Dentistry (Smith/Whitcomb)",
+  "city": "Nashua",
+  "state": "NH",
+  "url": "nashuadentistry.com",
+  "verdict": "bot-walled loader; pending",
+  "approx_score": null
+ },
+ {
+  "name": "Nashua Dentist (6 Concord St)",
+  "city": "Nashua",
+  "state": "NH",
+  "url": "nashuadentist.com",
+  "verdict": "REJECT \u2014 Wix; check small",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Arts of Exeter",
+  "city": "Exeter",
+  "state": "NH",
+  "url": "dentalartsofexeter.com",
+  "verdict": "REJECT \u2014 \u00a92026 current",
+  "approx_score": null
+ },
+ {
+  "name": "Caring Family Dentistry",
+  "city": "Concord",
+  "state": "NH",
+  "url": "caringfamilydentistry.com",
+  "verdict": "REJECT \u2014 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Herbert Dental",
+  "city": "Montpelier",
+  "state": "VT",
+  "url": "drherbertdental.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Woodstock Dentistry (Knott)",
+  "city": "Woodstock",
+  "state": "VT",
+  "url": "woodstockdentistry.com",
+  "verdict": "REJECT \u2014 Squarespace \u00a92026 (recent)",
+  "approx_score": null
+ },
+ {
+  "name": "Champlain Smile Solutions",
+  "city": "S. Burlington",
+  "state": "VT",
+  "url": "champlainsmilesolutions.com",
+  "verdict": "REJECT \u2014 Ekwa modern",
+  "approx_score": null
+ },
+ {
+  "name": "Catamount Family Dental",
+  "city": "S. Burlington",
+  "state": "VT",
+  "url": "catamountfamilydental.com",
+  "verdict": "EXCLUDED \u2014 prior round (also MB2 footprint)",
+  "approx_score": null
+ },
+ {
+  "name": "Willard Street Dental",
+  "city": "Burlington",
+  "state": "VT",
+  "url": "willardstreetdental.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Midland Family Dental Care (Puccio)",
+  "city": "Wyckoff/Garfield",
+  "state": "NJ",
+  "url": "midlandfamilydental.com",
+  "verdict": "REJECT \u2014 Dentalfone but modern \u00a92013-2026 LayerSlider; multi-loc",
+  "approx_score": null
+ },
+ {
+  "name": "Dadaian Dental",
+  "city": "Cresskill/Franklin Lakes",
+  "state": "NJ",
+  "url": "dadaiandental.com",
+  "verdict": "REJECT \u2014 WPBakery \u00a92026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Hawthorne Dental Associates",
+  "city": "Hawthorne",
+  "state": "NJ",
+  "url": "hawthornedentalnj.com",
+  "verdict": "pending \u2014 small site 47KB",
+  "approx_score": null
+ },
+ {
+  "name": "Sandor Family Dentistry",
+  "city": "Freehold",
+  "state": "NJ",
+  "url": "sandorfamilydentistry.com",
+  "verdict": "REJECT \u2014 Doctor Genius refreshed \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Molee DMD",
+  "city": "Freehold",
+  "state": "NJ",
+  "url": "drmolee.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Faktor DMD",
+  "city": "Manalapan",
+  "state": "NJ",
+  "url": "faktordmd.com",
+  "verdict": "unreachable; low",
+  "approx_score": null
+ },
+ {
+  "name": "Chatham Dental",
+  "city": "Chatham",
+  "state": "NJ",
+  "url": "chatham-dental.com",
+  "verdict": "bot-walled; pending WebFetch",
+  "approx_score": null
+ },
+ {
+  "name": "Dentistry of Mendham",
+  "city": "Mendham",
+  "state": "NJ",
+  "url": "dentistryofmendham.com",
+  "verdict": "REJECT \u2014 Dentalfone X-pro modern \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Dayna Cassandra & Associates",
+  "city": "Paramus",
+  "state": "NJ",
+  "url": "cosmeticdentistofparamus.com",
+  "verdict": "REJECT \u2014 Growthstack modern; practice est 2006",
+  "approx_score": null
+ },
+ {
+  "name": "Malki Dental",
+  "city": "River Edge",
+  "state": "NJ",
+  "url": "malkidental.com",
+  "verdict": "REJECT \u2014 Einstein \u00a92026 refreshed",
+  "approx_score": null
+ },
+ {
+  "name": "Flemington Dentistry (Adams)",
+  "city": "Flemington",
+  "state": "NJ",
+  "url": "flemingtondentistry.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "O'Conner Family Dental",
+  "city": "Flemington",
+  "state": "NJ",
+  "url": "oconerfamilydental.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Clinton Center Dental",
+  "city": "Clinton",
+  "state": "NJ",
+  "url": "clintoncenterdental.com",
+  "verdict": "REJECT \u2014 modern WP \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Bridgewater Family Dental",
+  "city": "Bridgewater",
+  "state": "NJ",
+  "url": "mybridgewaterdentist.com",
+  "verdict": "pending (202)",
+  "approx_score": null
+ },
+ {
+  "name": "Bedminster Dental",
+  "city": "Bedminster/Bernardsville",
+  "state": "NJ",
+  "url": "bedminsterdental.com",
+  "verdict": "REJECT \u2014 Duda modern, multi-loc",
+  "approx_score": null
+ },
+ {
+  "name": "Gittleman Dental",
+  "city": "Morristown",
+  "state": "NJ",
+  "url": "gittlemandental.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Kurpis / West Ridgewood Dental Professionals",
+  "city": "Ridgewood",
+  "state": "NJ",
+  "url": "\u2014",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Lexington Dental Care (Freedman)",
+  "city": "Lexington",
+  "state": "MA",
+  "url": "lexingtondentalcare.net",
+  "verdict": "pending \u2014 WP vendor, 30 yrs; check design",
+  "approx_score": null
+ },
+ {
+  "name": "Keith Asarkof DMD & Associates",
+  "city": "Lexington",
+  "state": "MA",
+  "url": "asarkof.com",
+  "verdict": "bot-walled; pending",
+  "approx_score": null
+ },
+ {
+  "name": "Belmont Dental Group",
+  "city": "Belmont/Arlington",
+  "state": "MA",
+  "url": "belmontdental.com",
+  "verdict": "REJECT \u2014 modern multi-location, \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Danvers Dental Care",
+  "city": "Danvers",
+  "state": "MA",
+  "url": "danversdentalcare.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Dano Dental Arts (Armina Dano DMD)",
+  "city": "South Hamilton",
+  "state": "MA",
+  "url": "danodentalarts.com",
+  "verdict": "CANDIDATE-LOW \u2014 ProSites tiny page \"Copyright \ufffd 2019 Prosites\"; solo family, no cosmetic credentials; FC unverified",
+  "approx_score": 50
+ },
+ {
+  "name": "Danvers Dentistry (fmr Chestnut Green Dental Group)",
+  "city": "Danvers",
+  "state": "MA",
+  "url": "danversdentistry.com",
+  "verdict": "REJECT \u2014 4-doctor group, newer rebrand, \"Book Online\" (possible DSO)",
+  "approx_score": null
+ },
+ {
+  "name": "Danvers Dental Associates",
+  "city": "Danvers",
+  "state": "MA",
+  "url": "danvers-dental.com",
+  "verdict": "pending (202)",
+  "approx_score": null
+ },
+ {
+  "name": "Star Smile Dental & Implant Center",
+  "city": "Framingham",
+  "state": "MA",
+  "url": "starsmile.com",
+  "verdict": "CANDIDATE-MID \u2014 Web.com \"Copyright \u00a9 2013\", 30+ yrs, oral surgery/emergency positioning; verify owner",
+  "approx_score": 58
+ },
+ {
+  "name": "Mark Fried DMD",
+  "city": "Framingham",
+  "state": "MA",
+  "url": "drmarkfried.com",
+  "verdict": "REJECT \u2014 modern; \"Best office in town 26 yrs\" but fresh site",
+  "approx_score": null
+ },
+ {
+  "name": "Nobscot Dental Care",
+  "city": "Framingham",
+  "state": "MA",
+  "url": "nobscotdentalcare.com",
+  "verdict": "REJECT \u2014 Duda modern \u00a92025",
+  "approx_score": null
+ },
+ {
+  "name": "Framingham Dental Group",
+  "city": "Framingham",
+  "state": "MA",
+  "url": "framinghamdentalgroup.com",
+  "verdict": "REJECT \u2014 TNT Dental, $149 new patient special/insurance checker positioning (low FC / possible group)",
+  "approx_score": null
+ },
+ {
+  "name": "Lincoln Dental (Frank Voci DMD + 4)",
+  "city": "Worcester",
+  "state": "MA",
+  "url": "dentistworcester.com",
+  "verdict": "CANDIDATE-MID \u2014 Internet Dental Alliance \u00a92026 doorway template, 5 doctors, \"Affordable\" title; verify est",
+  "approx_score": 58
+ },
+ {
+  "name": "Shustak Dental Group",
+  "city": "Worcester",
+  "state": "MA",
+  "url": "drshustak.com",
+  "verdict": "bot-walled; pending",
+  "approx_score": null
+ },
+ {
+  "name": "Worcester Cosmetic & Restorative Dentistry",
+  "city": "Worcester",
+  "state": "MA",
+  "url": "worcestercrd.com",
+  "verdict": "REJECT \u2014 Elementor 2026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Taylor Street Dental",
+  "city": "Springfield",
+  "state": "MA",
+  "url": "mygreatsmile.com",
+  "verdict": "REJECT \u2014 DSO: 42 North pattern (\"Cost of Dental Care\" title, TNT)",
+  "approx_score": null
+ },
+ {
+  "name": "EMA Dental",
+  "city": "Northampton/E Longmeadow",
+  "state": "MA",
+  "url": "emadental.com",
+  "verdict": "REJECT \u2014 DSO: 42 North pattern title",
+  "approx_score": null
+ },
+ {
+  "name": "Goodman Fox Dental",
+  "city": "Springfield",
+  "state": "MA",
+  "url": "goodmanfoxdental.com",
+  "verdict": "bot-walled; pending",
+  "approx_score": null
+ },
+ {
+  "name": "Mahshid Mirghassemi DDS",
+  "city": "Danvers",
+  "state": "MA",
+  "url": "libertytreeprosthodontics.com",
+  "verdict": "REJECT \u2014 Doctor Genius \u00a92026, est 2005",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Huntington (Epakchi)",
+  "city": "Huntington",
+  "state": "NY",
+  "url": "dentist-huntington-ny.com",
+  "verdict": "REJECT \u2014 modern WP theme7",
+  "approx_score": null
+ },
+ {
+  "name": "Laurence Schwartz DDS",
+  "city": "Huntington",
+  "state": "NY",
+  "url": "huntingtonnysmiles.com",
+  "verdict": "bot-walled (WebFetch 403); pending",
+  "approx_score": null
+ },
+ {
+  "name": "North Shore Prosthodontic Associates",
+  "city": "Manhasset/Woodbury",
+  "state": "NY",
+  "url": "nspali.com",
+  "verdict": "bot-walled loader; pending WebFetch",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Design Studio",
+  "city": "Poughkeepsie",
+  "state": "NY",
+  "url": "dentaldesignstudio.net",
+  "verdict": "REJECT \u2014 Duda modern",
+  "approx_score": null
+ },
+ {
+  "name": "Hudson Valley Dental TMD",
+  "city": "Poughkeepsie",
+  "state": "NY",
+  "url": "hvtmdfa.com",
+  "verdict": "REJECT \u2014 Duda modern",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles of the Hudson Valley Dentistry",
+  "city": "Poughkeepsie/Highland",
+  "state": "NY",
+  "url": "smileshv.com",
+  "verdict": "REJECT-LOW \u2014 Hearst Media Services template, 2-loc group, \"MYLOGO\" placeholder text in nav; no est evidence",
+  "approx_score": null
+ },
+ {
+  "name": "Dentists Office of the Hudson Valley (Family Dental Group)",
+  "city": "Lake Katrine",
+  "state": "NY",
+  "url": "thedentistsoffice.com",
+  "verdict": "REJECT \u2014 DSO: Dental Care Alliance",
+  "approx_score": null
+ },
+ {
+  "name": "Center for Dental Excellence (Christian)",
+  "city": "Simsbury/W Hartford/Litchfield",
+  "state": "CT",
+  "url": "ctcde.com",
+  "verdict": "bot-walled; pending (since 1966, 5 docs, prosthodontist)",
+  "approx_score": null
+ },
+ {
+  "name": "Harborview Dental (Chenet)",
+  "city": "Old Saybrook",
+  "state": "CT",
+  "url": "harborviewdentalct.com",
+  "verdict": "bot-walled; low (Chenet Dental is EXCLUDED family \u2014 likely same)",
+  "approx_score": null
+ },
+ {
+  "name": "Friedler Dental Group",
+  "city": "Guilford",
+  "state": "CT",
+  "url": "friedlerdentalgroup.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "RI Cosmetic Dentistry (Izzi/Mansolillo)",
+  "city": "E Greenwich",
+  "state": "RI",
+  "url": "rhodeislandcosmeticdentistry.net",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Mehran Javid",
+  "city": "E Greenwich",
+  "state": "RI",
+  "url": "drjavid.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Peri Mutewera DMD",
+  "city": "Warwick",
+  "state": "RI",
+  "url": "drperimutewera.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Thomas Vutech DDS",
+  "city": "N Kingstown",
+  "state": "RI",
+  "url": "northkingstowndental.com",
+  "verdict": "CANDIDATE-LOW \u2014 solo, tiny 19KB site \"\u00a9 2023 By Thomas Vutech\"; verify",
+  "approx_score": 50
+ },
+ {
+  "name": "NJ Smile Center (Vocaturo, AACD)",
+  "city": "Colts Neck",
+  "state": "NJ",
+  "url": "njsmilecenter.com",
+  "verdict": "REJECT \u2014 Wix \u00a92026, 1.9MB modern",
+  "approx_score": null
+ },
+ {
+  "name": "Zen Dentist (Rioseco AACD)",
+  "city": "White Plains",
+  "state": "NY",
+  "url": "zendentist.com",
+  "verdict": "REJECT \u2014 modern AIOSEO \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Bella Smiles (Lotardo)",
+  "city": "Roslyn/Riverhead",
+  "state": "NY",
+  "url": "bellasmilesnow.com",
+  "verdict": "REJECT \u2014 modern custom theme, multi-loc",
+  "approx_score": null
+ },
+ {
+  "name": "Kennebec River Dentistry",
+  "city": "Augusta",
+  "state": "ME",
+  "url": "kennebecriverdentistry.com",
+  "verdict": "REJECT \u2014 Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Kennebunk Center for Dentistry",
+  "city": "Kennebunk",
+  "state": "ME",
+  "url": "kennebunkdental.com",
+  "verdict": "REJECT \u2014 modern \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Kennebunk ME Dentist (Slaughter)",
+  "city": "Kennebunk",
+  "state": "ME",
+  "url": "kennebunkmedentist.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Maine Family Dental (Buxton)",
+  "city": "Bangor",
+  "state": "ME",
+  "url": "mainefamilydental.com",
+  "verdict": "REJECT \u2014 Great Dental Websites but est. 2007, solo family",
+  "approx_score": null
+ },
+ {
+  "name": "Nicholas Rizos DMD",
+  "city": "Bedford",
+  "state": "NH",
+  "url": "drnickdmd.com",
+  "verdict": "REJECT \u2014 Squarespace, est 2001",
+  "approx_score": null
+ },
+ {
+  "name": "NH Family Dentistry",
+  "city": "Manchester",
+  "state": "NH",
+  "url": "nhfamilydentist.com",
+  "verdict": "REJECT \u2014 modern WP 2026",
+  "approx_score": null
+ },
+ {
+  "name": "Portsmouth Dental",
+  "city": "Portsmouth",
+  "state": "NH",
+  "url": "portsmouthdental.com",
+  "verdict": "bot-walled; pending",
+  "approx_score": null
+ },
+ {
+  "name": "New England Dental Arts",
+  "city": "Salem",
+  "state": "NH",
+  "url": "newengland-dentalarts.com",
+  "verdict": "REJECT \u2014 Divi \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Welsh & King Prosthodontics",
+  "city": "Portsmouth",
+  "state": "NH",
+  "url": "welshandking.com",
+  "verdict": "bot-walled; pending (prosthodontists)",
+  "approx_score": null
+ },
+ {
+  "name": "Coastal Dental Associates",
+  "city": "Portsmouth",
+  "state": "NH",
+  "url": "\u2014",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Arts of Bedford",
+  "city": "Bedford",
+  "state": "NH",
+  "url": "\u2014",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Matlach Dental",
+  "city": "Huntington",
+  "state": "NY",
+  "url": "matlachdental.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "North Shore Dental Group / Rubenstein Dental Group / Prosthodontic Assoc of LI",
+  "city": "Long Island",
+  "state": "NY",
+  "url": "\u2014",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Saddle River Dental Care (Vitarelli)",
+  "city": "Saddle River",
+  "state": "NJ",
+  "url": "vitarellidental.com",
+  "verdict": "REJECT \u2014 Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Gruber Dental",
+  "city": "Parsippany",
+  "state": "NJ",
+  "url": "gruberdental.com",
+  "verdict": "pending \u2014 Great Dental Websites footprint, 4 dentists",
+  "approx_score": null
+ },
+ {
+  "name": "Rangel Dental",
+  "city": "Morristown",
+  "state": "NJ",
+  "url": "rangeldental.com",
+  "verdict": "REJECT \u2014 Dentalfone refreshed \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Reinhard Dentistry",
+  "city": "Whippany",
+  "state": "NJ",
+  "url": "reinharddentistry.com",
+  "verdict": "REJECT \u2014 modern small site (though since 1918)",
+  "approx_score": null
+ },
+ {
+  "name": "Morristown Dental Associates",
+  "city": "Morristown",
+  "state": "NJ",
+  "url": "morristowndentalassociates.com",
+  "verdict": "REJECT \u2014 \u00a92025 current",
+  "approx_score": null
+ },
+ {
+  "name": "Dickerson Dental Group",
+  "city": "Randolph",
+  "state": "NJ",
+  "url": "dickersondentalgroup.com",
+  "verdict": "REJECT \u2014 BB theme \u00a92026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Denville Dental Studio",
+  "city": "Denville",
+  "state": "NJ",
+  "url": "denvilledentalstudio.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Yvette Glina DDS (The Amazing Smile)",
+  "city": "Marblehead",
+  "state": "MA",
+  "url": "dryvetteglina.com",
+  "verdict": "REJECT \u2014 Wix \u00a92023, est unknown/solo small",
+  "approx_score": null
+ },
+ {
+  "name": "Marblehead Toothfairy (peds/ortho)",
+  "city": "Marblehead",
+  "state": "MA",
+  "url": "marbleheadtoothfairy.com",
+  "verdict": "REJECT \u2014 pediatric/ortho, Wix",
+  "approx_score": null
+ },
+ {
+  "name": "Marblehead Smile Design & Family Dental",
+  "city": "Marblehead",
+  "state": "MA",
+  "url": "marbleheadsmiledesign.com",
+  "verdict": "bot-walled; low",
+  "approx_score": null
+ },
+ {
+  "name": "Whiting Dental Arts",
+  "city": "Marblehead",
+  "state": "MA",
+  "url": "whitingdentalarts.com",
+  "verdict": "bot-walled/captcha; low",
+  "approx_score": null
+ },
+ {
+  "name": "Christopher Wyckoff DMD",
+  "city": "Madison",
+  "state": "NJ",
+  "url": "wyckoffdmd.com",
+  "verdict": "CANDIDATE-LOW \u2014 Wix \"\u00a92020 by Christopher S Wyckoff, DMD\"; listed Morris County Top Dentist 2025; verify est/doctors",
+  "approx_score": 50
+ },
+ {
+  "name": "Krause Dental Care",
+  "city": "Cranford",
+  "state": "NJ",
+  "url": "krausedentalcare.com",
+  "verdict": "REJECT \u2014 Doctor Genius \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Aesthetic Family Dentistry",
+  "city": "Denville",
+  "state": "NJ",
+  "url": "aestheticfamilydentistry.com",
+  "verdict": "REJECT \u2014 WPBakery \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Perratto, Laura C, DMD",
+  "city": "Smithtown",
+  "state": "NY",
+  "url": "http://www.drsperrattoandchimenti.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dated, \u00a92011); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Nichols, Gloria, DDS",
+  "city": "Penfield",
+  "state": "NY",
+  "url": "https://penfieldfamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (godaddy, \u00a92015); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "You Dental Family Dentistry",
+  "city": "Penfield",
+  "state": "NY",
+  "url": "https://www.youdentalfamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Paul M. Hertz, DMD, LLC",
+  "city": "Riverdale",
+  "state": "NY",
+  "url": "https://www.hertzdental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Lotus Smiles",
+  "city": "Manalapan",
+  "state": "NJ",
+  "url": "https://www.lotussmiles.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Premiere Dental Care",
+  "city": "Rhinebeck",
+  "state": "NY",
+  "url": "https://www.premieredentalny.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Cohasset Village Dentistry PC",
+  "city": "Scituate",
+  "state": "MA",
+  "url": "https://www.cohassetvillagedentistry.com/",
+  "verdict": "BENCH \u2014 Wix \u00a92021, Cohasset 35 yrs, new owner 2021",
+  "approx_score": 48
+ },
+ {
+  "name": "Hutner, Robert S, DMD",
+  "city": "Brookline",
+  "state": "MA",
+  "url": "https://www.hutnerdental.com/contact",
+  "verdict": "BENCH \u2014 ProSites, Robert Hutner DMD Brookline; not profiled",
+  "approx_score": 50
+ },
+ {
+  "name": "Plourde Family Dental PC",
+  "city": "Bath",
+  "state": "ME",
+  "url": "https://www.plourdefamilydental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92020); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Peer, Amanda B, DDS",
+  "city": "Duxbury",
+  "state": "MA",
+  "url": "https://duxburychildrensdentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (godaddy, \u00a92015); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Gallo, Rosalia A, DMD",
+  "city": "Andover",
+  "state": "MA",
+  "url": "https://www.andovercomprehensivedentalcare.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Flemington Family & Cosmetic Dental Group",
+  "city": "Flemington",
+  "state": "NJ",
+  "url": "https://www.familycosmeticdentalgroup.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92015); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Delicate Dentistry of the Caldwells",
+  "city": "Caldwell",
+  "state": "NJ",
+  "url": "https://www.thedelicatedentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "The New Jersey Center for Laser and Cosmetic Dentistry",
+  "city": "Caldwell",
+  "state": "NJ",
+  "url": "https://www.drdalbon.com/",
+  "verdict": "BENCH \u2014 ProSites, NJ Center for Laser & Cosmetic Dentistry West Caldwell since 1998",
+  "approx_score": 56
+ },
+ {
+  "name": "Anthony Castellano, D.M.D. Family Dentistry",
+  "city": "Caldwell",
+  "state": "NJ",
+  "url": "https://acastellanodmd.wixsite.com/website",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92020); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Waterbury Smiles",
+  "city": "Waterbury",
+  "state": "CT",
+  "url": "https://www.waterburysmiles.com/",
+  "verdict": "BENCH \u2014 TNT \u00a92015, since 1986, Waterbury CT (weaker market)",
+  "approx_score": 50
+ },
+ {
+  "name": "AAA Dental Care",
+  "city": "Stamford",
+  "state": "CT",
+  "url": "https://www.aaadentalstamford.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Care of Quincy",
+  "city": "Braintree",
+  "state": "MA",
+  "url": "https://www.advanceddentalquincy.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dentalmarketing,foundation, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Buffalo Dental Group",
+  "city": "Williamsville",
+  "state": "NY",
+  "url": "https://www.thebuffalodentalgroup.com/contact-us.html",
+  "verdict": "BENCH \u2014 TNT \u00a92019, 2 locations, since 1994, Buffalo NY",
+  "approx_score": 54
+ },
+ {
+  "name": "Day Robert E",
+  "city": "Camden",
+  "state": "ME",
+  "url": "https://www.drrobertday.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Dagilis, William F, DMD",
+  "city": "Hyannis",
+  "state": "MA",
+  "url": "https://www.winterstreetdental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dentalmarketing,foundation, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "First Care Dental Center",
+  "city": "Parsippany",
+  "state": "NJ",
+  "url": "https://www.bellevilledentalcenter.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dentalfone, \u00a92013); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Feiler Dental Associates",
+  "city": "Hackensack",
+  "state": "NJ",
+  "url": "https://www.feilerdental.com/",
+  "verdict": "BENCH \u2014 ProSites, Feiler Dental Associates River Edge NJ, multi-doctor, since 1979",
+  "approx_score": 54
+ },
+ {
+  "name": "Dr Paul Slusarz",
+  "city": "Barrington",
+  "state": "RI",
+  "url": "http://www.gsendo.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dated, \u00a92000); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Designers PC",
+  "city": "Salem",
+  "state": "MA",
+  "url": "https://www.smiledesigners.org/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Richard Richman",
+  "city": "Rockville Centre",
+  "state": "NY",
+  "url": "https://www.smilesunlimited.com/",
+  "verdict": "BENCH \u2014 Squarespace \u00a92015, Smiles Unlimited Rockville Centre NY 30 yrs, large staff",
+  "approx_score": 52
+ },
+ {
+  "name": "Mark Dental Group",
+  "city": "Newton",
+  "state": "MA",
+  "url": "https://www.markdental.com/",
+  "verdict": "BENCH \u2014 ProSites \u00a92019, Dr. Mark Gallucci, Newton MA, since ~1986; thin bio",
+  "approx_score": 58
+ },
+ {
+  "name": "Epstein, Neil",
+  "city": "Newton",
+  "state": "MA",
+  "url": "https://www.westnewtondental.com/",
+  "verdict": "BENCH \u2014 ProSites, West Newton Dental Associates, 25 yrs, large multi-specialty (possible group)",
+  "approx_score": 52
+ },
+ {
+  "name": "Dr. SHUCHI DHADWAL, D.M.D, B.D.S",
+  "city": "Newton",
+  "state": "MA",
+  "url": "https://www.newenglandtmj.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (weebly, \u00a92020); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Dazzling Smiles Dental PC",
+  "city": "Jericho",
+  "state": "NY",
+  "url": "https://www.dazzlingsmilesli.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Newport Dental",
+  "city": "Newport",
+  "state": "RI",
+  "url": "https://www.mynewportdentist.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (tntdental,foundation, \u00a92020); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Atlantic Family Dental",
+  "city": "Portsmouth",
+  "state": "NH",
+  "url": "https://www.atlanticfamilydental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Harden, Melanie K, DDS",
+  "city": "Portsmouth",
+  "state": "NH",
+  "url": "http://oceanshadesdental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Gary J Krugman DMD",
+  "city": "Livingston",
+  "state": "NJ",
+  "url": "https://www.livingstonsmiles.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Pantano, Peter J, DDS",
+  "city": "Winchester",
+  "state": "MA",
+  "url": "https://www.russellhilldental.com/",
+  "verdict": "BENCH \u2014 ProSites, Peter Pantano DDS Winchester MA; not profiled",
+  "approx_score": 50
+ },
+ {
+  "name": "Edward H McCall Inc",
+  "city": "Winchester",
+  "state": "MA",
+  "url": "https://mccallfamilydental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (godaddy, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Hassam, Riyazali DDS",
+  "city": "Rumson",
+  "state": "NJ",
+  "url": "https://www.drhassam.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (squarespace,wpengine, \u00a92015); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Chapel Street Dental PC",
+  "city": "New Haven",
+  "state": "CT",
+  "url": "https://www.newhavendental.care/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Doctor Malinconcio Office",
+  "city": "New Haven",
+  "state": "CT",
+  "url": "https://www.drmalinconico.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Port Jefferson Dental Group",
+  "city": "Port Jefferson",
+  "state": "NY",
+  "url": "https://www.portjeffdental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (squarespace, \u00a92022); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Progressive Dental Care",
+  "city": "Port Jefferson",
+  "state": "NY",
+  "url": "http://www.mtsinaidentist.com/contactus.html",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dated, \u00a92010); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Distinctive Dentistry of Long Island",
+  "city": "Port Jefferson",
+  "state": "NY",
+  "url": "https://www.distinctivedentistryoflongisland.com/contact-us",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Wayne M Tong DDS PC",
+  "city": "Bronx",
+  "state": "NY",
+  "url": "https://waynemtongddspc.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (godaddy, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Dragon, Carolyn B, DDS",
+  "city": "Manlius",
+  "state": "NY",
+  "url": "https://www.smilesbykonys.com/contact",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Ronzo, Kenneth R",
+  "city": "Rochester",
+  "state": "NY",
+  "url": "https://www.ronzodental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Capital District Advanced Dental Arts",
+  "city": "Clifton Park",
+  "state": "NY",
+  "url": "https://www.capitaldistrictadvanceddentalarts.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Harry Weisenfeld DDS",
+  "city": "Staten Island",
+  "state": "NY",
+  "url": "https://www.weisenfelddds.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Rabeni, Melanie M, DDS",
+  "city": "Plymouth",
+  "state": "MA",
+  "url": "https://www.rabenidental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Montclair Digital Dentistry",
+  "city": "Verona",
+  "state": "NJ",
+  "url": "https://www.montclairdigitaldentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Vincent, Eden B, DDS",
+  "city": "Verona",
+  "state": "NJ",
+  "url": "https://www.ebvincentdmd.com/contact",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Manickas, Krista N, DMD",
+  "city": "Lexington",
+  "state": "MA",
+  "url": "https://www.lexingtonprosthodontics.com/",
+  "verdict": "BENCH \u2014 ProSites, prosthodontics Burlington MA; thin info",
+  "approx_score": 54
+ },
+ {
+  "name": "North Haven Dental Group",
+  "city": "Hamden",
+  "state": "CT",
+  "url": "http://northhavendentalgroup.com/",
+  "verdict": "BENCH \u2014 CEREC/one-visit group, \u00a92016 footer, WP Engine; owner Dr. Lazaroff; check DSO/ownership",
+  "approx_score": 58
+ },
+ {
+  "name": "Romano, James M, DDS",
+  "city": "Fairport",
+  "state": "NY",
+  "url": "https://www.cedarwooddentalgroup.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites,foundation, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Dove Dental Associates",
+  "city": "Bronxville",
+  "state": "NY",
+  "url": "https://www.kaceyannthompson.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (televox,milestone, \u00a92015); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Comfortable Dentistry",
+  "city": "Princeton",
+  "state": "NJ",
+  "url": "https://comfortabledentistry.net/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (godaddy, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Buttarazzi, Mark R, DMD",
+  "city": "Scarborough",
+  "state": "ME",
+  "url": "https://www.scarboroughdentalassociates.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Scarborough Dental Associates PA",
+  "city": "Scarborough",
+  "state": "ME",
+  "url": "https://www.scarboroughdentalassociates.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Dunstan Dental Center",
+  "city": "Scarborough",
+  "state": "ME",
+  "url": "https://www.dunstandental.com/",
+  "verdict": "BENCH \u2014 Wix \u00a92019, Dunstan Dental Scarborough ME since 1986 family practice",
+  "approx_score": 48
+ },
+ {
+  "name": "Susan M Minchin DDS",
+  "city": "Elmira",
+  "state": "NY",
+  "url": "http://minchinfamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dated, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Rubin, Jeffrey S, DDS",
+  "city": "Northport",
+  "state": "NY",
+  "url": "https://www.northportfamilydental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Wen-hui Liu, D.D.S.",
+  "city": "Englewood",
+  "state": "NJ",
+  "url": "http://www.dynodental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "East Hill Dental",
+  "city": "Englewood",
+  "state": "NJ",
+  "url": "https://www.easthilldental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dentistry of Wall - Wesley, DMD, PA",
+  "city": "Manasquan",
+  "state": "NJ",
+  "url": "https://www.advanceddentistryofwall.com/",
+  "verdict": "BENCH \u2014 ProSites, 40+ yrs, Wesley Blakeslee DMD; site flaky/000 during check",
+  "approx_score": 57
+ },
+ {
+  "name": "Young, Mark E, DDS",
+  "city": "Woodstock",
+  "state": "VT",
+  "url": "https://www.markyoungdds.com/",
+  "verdict": "BENCH \u2014 Divi agency site, Mark Young DDS Norwich/White River Jct VT since 1991, CEREC",
+  "approx_score": 52
+ },
+ {
+  "name": "Hingham Dental Associates",
+  "city": "Hingham",
+  "state": "MA",
+  "url": "https://familydentisthingham.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (practicecafe, \u00a92014); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Izower, Louis B, DDS",
+  "city": "Paramus",
+  "state": "NJ",
+  "url": "https://farviewfamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (godaddy, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Excel Family Dental",
+  "city": "Milton",
+  "state": "MA",
+  "url": "https://www.excelfamilydental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Guerra, Ann M, DDS",
+  "city": "Briarcliff Manor",
+  "state": "NY",
+  "url": "https://www.briarcliffchildrensdental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dentalfone, \u00a92013); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Frank J Salvato Jr, DMD",
+  "city": "Westfield",
+  "state": "NJ",
+  "url": "https://westfieldsmiledesign.com/index.html",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dentalmarketing,foundation, \u00a92015); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "CT East Dental Center",
+  "city": "Manchester",
+  "state": "CT",
+  "url": "http://eastcenterfamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Jody C Levy DDS",
+  "city": "Manchester",
+  "state": "CT",
+  "url": "http://jodiclevydds.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Golparvar, Mohammad H, DMD",
+  "city": "Manchester",
+  "state": "NH",
+  "url": "https://www.websterdentalnh.com/",
+  "verdict": "BENCH \u2014 TNT \u00a92021, Webster Dental Associates Manchester NH since 1980, promo/financing tone (possible group)",
+  "approx_score": 52
+ },
+ {
+  "name": "Amoskeag Family Dentistry",
+  "city": "Manchester",
+  "state": "NH",
+  "url": "https://www.amoskeagfamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Peter H. Pruden, DDS, PC and Associates",
+  "city": "Huntington",
+  "state": "NY",
+  "url": "https://drpeterpruden.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Rodgers, Jacqueline, DDS",
+  "city": "Huntington",
+  "state": "NY",
+  "url": "http://www.creativesmilesofhuntington.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Nosov Family Dental PC",
+  "city": "Massapequa",
+  "state": "NY",
+  "url": "https://www.nosovcosmeticdentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92012); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Massapequa Family Dentistry",
+  "city": "Massapequa",
+  "state": "NY",
+  "url": "https://www.massapequafamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Sam Tanoglu DMD",
+  "city": "Worcester",
+  "state": "MA",
+  "url": "https://www.smilesbytanoglu.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Napolillo, David, DDS",
+  "city": "Cranston",
+  "state": "RI",
+  "url": "http://www.drnap.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dated, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Marianna Gaitsgory, DMD",
+  "city": "Framingham",
+  "state": "MA",
+  "url": "https://www.framinghampremierdental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (tntdental, \u00a92016); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Walnut Dental Group PC",
+  "city": "Framingham",
+  "state": "MA",
+  "url": "https://mywalnutdental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (godaddy, \u00a92017); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "DR Bob's Family Dentistry",
+  "city": "Brunswick",
+  "state": "ME",
+  "url": "http://drbobsfamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com,foundation, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Woburn Family Dental",
+  "city": "Woburn",
+  "state": "MA",
+  "url": "https://www.woburnfamilydental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites,foundation, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Leclair, Adrienne A, DMD",
+  "city": "Beverly",
+  "state": "MA",
+  "url": "http://www.leclairdental.com/contact",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Meng-Chieh Lee, DDS, PC",
+  "city": "Beverly",
+  "state": "MA",
+  "url": "https://braidc.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (godaddy, \u00a92021); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Care of Falmouth",
+  "city": "Falmouth",
+  "state": "MA",
+  "url": "https://www.thefalmouthdentist.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dentalmarketing,foundation, \u00a92018); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Lucarelli, Annika L, DDS",
+  "city": "Somerville",
+  "state": "NJ",
+  "url": "https://www.midjerseyendo.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dentalfone, \u00a92013); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "DR John Ohoro DMD PC",
+  "city": "North Andover",
+  "state": "MA",
+  "url": "https://www.northandoverdentist.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (tntdental, \u00a92016); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dentistry: Williams Michael J DDS",
+  "city": "Simsbury",
+  "state": "CT",
+  "url": "https://www.mysimsburyfamilydentist.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (tntdental, \u00a92015); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Cosmetic Sedation & Implant",
+  "city": "Great Neck",
+  "state": "NY",
+  "url": "https://www.csi-dentist.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Sahani, Jitin, DDS",
+  "city": "Concord",
+  "state": "MA",
+  "url": "https://www.smilesforlifeboston.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Thomaston Family Dental",
+  "city": "Litchfield",
+  "state": "CT",
+  "url": "https://www.thomastonfamilydental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com,sitewit, \u00a92015); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Robert H Strick DMD",
+  "city": "Norwich",
+  "state": "CT",
+  "url": "https://www.stricklyteeth.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92022); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Aujla, Nirmal S, DDS",
+  "city": "Watertown",
+  "state": "NY",
+  "url": "http://www.jeffersondentalhealth.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dated, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Anthony Ladds, DDS, PLLC",
+  "city": "Concord",
+  "state": "NH",
+  "url": "https://www.drdanhaleydmd.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (dentalfone, \u00a92013); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "R Thomas Finn Jr DMD",
+  "city": "Laconia",
+  "state": "NH",
+  "url": "http://www.finndental.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Charles J Puglisi DMD",
+  "city": "Merrick",
+  "state": "NY",
+  "url": "https://www.puglisifamilydentistry.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Serenity Dental",
+  "city": "Newton",
+  "state": "NJ",
+  "url": "https://www.serenitydentalspa.net/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (wix.com, \u00a92022); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "K dental Smiles",
+  "city": "Freehold",
+  "state": "NJ",
+  "url": "http://www.kdentalsmiles.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ },
+ {
+  "name": "Mattiacio, Michael D, DDS",
+  "city": "Syracuse",
+  "state": "NY",
+  "url": "https://www.questdentalgroup.com/",
+  "verdict": "REJECT/LOW \u2014 bulk-screened weak-site flag (prosites, \u00a92019); not profiled (peds/ortho/oral-surgery mix, thin cosmetic signal, or unverified market)",
+  "approx_score": null
+ }
+]

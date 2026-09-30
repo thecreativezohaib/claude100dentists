@@ -76,17 +76,29 @@ def likelihood_rank(l):
 def load_all():
     items, cands = [], []
     for r in REGIONS:
-        p = os.path.join(WORK, f"{r}_top18.json")
-        if os.path.exists(p):
-            for i, it in enumerate(json.load(open(p, encoding="utf-8"))):
+        p = os.path.join(WORK, f"{r}_top18_v2.json")
+        if not os.path.exists(p):
+            p = os.path.join(WORK, f"{r}_top18.json")
+        rank = 0
+        for fname in (p, os.path.join(WORK, f"{r}_wave2.json")):
+            if not os.path.exists(fname):
+                continue
+            for it in json.load(open(fname, encoding="utf-8")):
                 it["region"] = r
-                it["region_rank"] = i + 1
+                if it.get("drop"):
+                    cands.append({"name": it["name"], "city": it.get("city"), "state": it.get("state"),
+                                  "url": it.get("url"), "verdict": "DROPPED finalist — " + it["drop"], "region": r})
+                    continue
+                rank += 1
+                it["region_rank"] = rank
+                it["wave"] = 2 if fname.endswith("_wave2.json") else 1
                 items.append(it)
-        c = os.path.join(WORK, f"{r}_candidates.json")
-        if os.path.exists(c):
-            for it in json.load(open(c, encoding="utf-8")):
-                it["region"] = r
-                cands.append(it)
+        for c in (f"{r}_candidates.json", f"{r}_wave2_candidates.json"):
+            c = os.path.join(WORK, c)
+            if os.path.exists(c):
+                for it in json.load(open(c, encoding="utf-8")):
+                    it["region"] = r
+                    cands.append(it)
     ov_path = os.path.join(WORK, "overrides.json")
     ov = json.load(open(ov_path)) if os.path.exists(ov_path) else {}
     for it in ov.get("add", []):
