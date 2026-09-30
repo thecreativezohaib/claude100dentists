@@ -16,8 +16,8 @@
   "Campbell Dental (Jarrod Campbell DDS)": "Cedar Park TX (jarrodcampbelldds.com); excluded Campbell Dental is Campbell CA (campbelldentists.com)",
   "Orinda Dental Care": "Different practice/domain from excluded Orinda Family Dentistry",
   "Premier Dental Care (Dr. Lin Lin Chen)": "Pleasanton CA (premierdental.us); excluded Premier Dental entries are NH, Vero Beach FL, Gilbert AZ",
-  "Coastal Cosmetic Dental Associates": "Little River SC (coastalcosmeticdental.com); excluded 'Coastal Cosmetic' is Pensacola FL (pensacoladentistry.com)",
-  "New Canaan Dental Care (Anthony T. Festa, DDS)": "Verified different practice: Festa, 43 Pine St (newcanaandentalcare.com) vs excluded Advanced Dentistry of New Canaan = Drs. Meyers & DeWaele, 208 South Ave (newcanaanctdental.com)"
+  "New Canaan Dental Care (Anthony T. Festa, DDS)": "Verified different practice: Festa, 43 Pine St (newcanaandentalcare.com) vs excluded Advanced Dentistry of New Canaan = Drs. Meyers & DeWaele, 208 South Ave (newcanaanctdental.com)",
+  "Coastal Cosmetic Dental Associates (Dr. Patty Van Wie)": "Little River SC (coastalcosmeticdental.com); excluded 'Coastal Cosmetic' is Pensacola FL (pensacoladentistry.com); also distinct from Coastal Dental Associates (Portsmouth NH) and Coastal Smiles Dentistry (Newport Beach CA)"
  },
  "notes": {},
  "new_dso": []
