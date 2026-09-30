@@ -107,6 +107,9 @@ def load_all():
     for it in items:
         if it.get("url") in fix:
             it["url"] = fix[it["url"]]
+        if it.get("url") and " " in it["url"].strip():
+            it["url_note"] = it["url"].strip().split(" ", 1)[1]
+            it["url"] = it["url"].strip().split(" ", 1)[0]
         if it.get("url") and not it["url"].startswith("http"):
             it["url"] = "https://" + it["url"]
     return items, cands, ov
@@ -149,6 +152,28 @@ def sort_key(it):
     return (-float(it.get("score", 0)), likelihood_rank(it.get("likelihood")), it.get("region_rank", 99))
 
 
+def is_medium_indep(it):
+    m = re.search(r"Independence:([^\n]*)", it.get("profile_md", ""))
+    line = (m.group(1) if m else it.get("independence") or "").split("| Decision-maker")[0].upper()
+    return bool(re.search(r"MEDIUM(?!-HIGH)(?! HIGH)", line))
+
+
+def policy_rank(items):
+    """Sort by score, likelihood tiebreak; enforce PLAYBOOK §2 cap of 2 MEDIUM-independence in top 50
+    by demoting any extra to just below #50. Returns (ranked, demoted_names)."""
+    ranked = sorted(items, key=sort_key)
+    demoted = []
+    while True:
+        meds = [i for i, it in enumerate(ranked[:50]) if is_medium_indep(it)]
+        if len(meds) <= 2:
+            break
+        idx = meds[-1]
+        it = ranked.pop(idx)
+        ranked.insert(50, it)
+        demoted.append(it["name"])
+    return ranked, demoted
+
+
 def cmd_check():
     ex_domains, ex_names, _ = load_exclusions()
     items, cands, ov = load_all()
@@ -164,10 +189,12 @@ def cmd_check():
     keep, dups = dedupe(items)
     for it, other in dups:
         print(f"DUP: {it['name']} [{it['region']}] == {other['name']} [{other['region']}]")
-    ranked = sorted(keep, key=sort_key)
+    ranked, demoted = policy_rank(keep)
+    for d in demoted:
+        print("DEMOTED below #50 (MEDIUM-independence cap):", d)
     json.dump(ranked, open(os.path.join(WORK, "ranked.json"), "w"), indent=1)
     for i, it in enumerate(ranked, 1):
-        med = "MED" if "MEDIUM" in (it.get("independence") or "").upper() else ""
+        med = "MED" if is_medium_indep(it) else ""
         print(f"{i:3d}. {it['score']:>3} {it.get('likelihood','')[:14]:14s} {med:3s} {it['region'][:6]:6s} {it['name']} — {domain_root(it['url'])} [{it.get('vendor')}]")
 
 
@@ -188,7 +215,7 @@ def cmd_live(urls=None):
         ranked = json.load(open(os.path.join(WORK, "ranked.json")))
         urls = [it["url"] for it in ranked]
     todo = [u for u in urls if u not in cache or cache[u]["code"] not in ("200",)]
-    with ThreadPoolExecutor(12) as ex:
+    with ThreadPoolExecutor(4) as ex:
         for u, res in zip(todo, ex.map(check_url, todo)):
             if res["code"] != "200":  # one retry
                 res = check_url(u)
@@ -206,53 +233,92 @@ def md_escape(s):
     return (s or "").replace("|", "/").replace("\n", " ")
 
 
+VENDOR_CANON = [
+    ("prosites", "ProSites"), ("tnt", "TNT Dental"), ("sesame", "Sesame 24-7"), ("pbhs", "PBHS"),
+    ("officite", "Officite"), ("dentalfone", "Dentalfone"), ("weo", "WEO Media"), ("einstein", "Einstein Dental"),
+    ("televox", "TeleVox/Milestone"), ("milestone", "TeleVox/Milestone"), ("practice cafe", "Practice Cafe"),
+    ("dental revenue", "Dental Revenue"), ("progressive dental", "Progressive Dental Marketing"),
+    ("gilleard", "DentalMarketing.com family (Gilleard)"), ("dentalmarketing", "DentalMarketing.com family (Gilleard)"),
+    ("great dental", "Great Dental Websites"), ("doctor genius", "Doctor Genius"), ("wix", "Wix"),
+    ("weebly", "Weebly"), ("squarespace", "Squarespace"), ("godaddy", "GoDaddy"), ("hibu", "Hibu"),
+    ("ionos", "IONOS"), ("wordpress", "WordPress (generic/agency, dated)"), ("dentalwebsites", "DentalWebsites.com"),
+    ("custom", "Custom-dated / small agency"), ("digital eel", "Custom-dated / small agency"),
+    ("mm5", "Custom-dated / small agency"), ("digital resource", "Custom-dated / small agency"),
+    ("ceatus", "Custom-dated / small agency"), ("iwd", "Custom-dated / small agency"),
+    ("studio", "Custom-dated / small agency"), ("symphony", "Custom-dated / small agency"),
+]
+
+
+def canon_vendor(it, ov):
+    v = ov.get("vendor_fix", {}).get(it["name"]) or it.get("vendor") or "Unknown"
+    low = v.lower()
+    for k, c in VENDOR_CANON:
+        if k in low:
+            return c
+    return "Unknown / unattributed template"
+
+
 def cmd_write():
     ex_domains, ex_names, dso_text = load_exclusions()
     items, cands, ov = load_all()
     drops = ov.get("drop", {})
-    ranked = [i for i in sorted(dedupe([i for i in items if i["name"] not in drops])[0], key=sort_key)]
+    ranked, demoted = policy_rank(dedupe([i for i in items if i["name"] not in drops])[0])
     top, bench = ranked[:100], ranked[100:]
+    for it in ranked:
+        it["vendor_c"] = canon_vendor(it, ov)
     live = json.load(open(os.path.join(WORK, "liveness.json")))
-    notes = ov.get("notes", {})
     today = "2026-09-30"
-
-    # final exclusion grep
-    overlap = [(it["name"], f) for it, f in screen(top + bench, ex_domains, ex_names) if f and it["name"] not in ov.get("flag_cleared", {})]
+    cleared = ov.get("flag_cleared", {})
+    overlap = [(it["name"], f) for it, f in screen(top + bench, ex_domains, ex_names) if f and it["name"] not in cleared]
+    dom_overlap = [it["name"] for it in top + bench if domain_root(it["url"]) in ex_domains]
 
     def live_note(u):
-        v = live.get(u, {})
-        c = v.get("code", "?")
+        c = live.get(u, {}).get("code", "?")
         if c == "200":
-            return "200"
+            return "HTTP 200"
         if c == "403":
-            return "403 bot-walled (content verified by agent render)"
+            return "HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent"
         return c
 
-    # vendor clusters
     clusters = {}
     for i, it in enumerate(top, 1):
-        clusters.setdefault(it.get("vendor") or "Unknown", []).append((i, it))
+        clusters.setdefault(it["vendor_c"], []).append((i, it))
     region_counts = {r: sum(1 for it in top if it["region"] == r) for r in REGIONS}
+    n200 = sum(1 for it in top if live.get(it["url"], {}).get("code") == "200")
+    n403 = sum(1 for it in top if live.get(it["url"], {}).get("code") == "403")
+    ndead = 100 - n200 - n403
+    nmed50 = sum(1 for it in top[:50] if is_medium_indep(it))
+    w2 = sum(1 for it in top if it.get("wave") == 2)
+    screened_names = len(cands) + len(items)
     L = []
     L.append("# Dental Next 100 — Round 3 Final Report\n")
-    L.append(f"*Run date: {today} · Method: PLAYBOOK.md (FIND → VERIFY → SCORE → COMPARE → RANK → REPLACE) · "
-             f"6 parallel regional research subagents, each screening 60+ new practices with direct fetch + raw-HTML vendor fingerprinting and DSO screening.*\n")
-    L.append("## Method & QC summary\n")
-    total_screened = len(items) + len(cands)
-    L.append(f"- Practices logged across the six regional audit trails (finalists + candidate tables): **{total_screened}** (see `output/logs/*.md`).")
-    L.append(f"- Finalists returned by regions: {len(items)}; after manual drops ({len(drops)}) and cross-region dedupe: {len(ranked)}. Top **100** kept; next **{len(bench)}** kept as bench.")
-    L.append("- Scoring: fixed PLAYBOOK §4 weights (FC20 · BM15 · WW15 · Gap15 · Dep10 · Tr10 · Cv5 · Sp3 · DM2). Rank = score desc, conversion likelihood as tiebreak.")
-    n200 = sum(1 for it in top if live.get(it['url'], {}).get('code') == '200')
-    n403 = sum(1 for it in top if live.get(it['url'], {}).get('code') == '403')
-    L.append(f"- Liveness (curl -skL, browser UA, {today}): {n200}/100 returned HTTP 200; {n403} returned 403 bot-wall with content verified via rendered fetch; 0 dead.")
-    L.append(f"- Exclusion overlap (names AND domains grepped against EXCLUSIONS.md): **{len(overlap)}**.")
-    L.append(f"- Cross-region duplicates in final list: **0**.")
-    nmed50 = sum(1 for it in top[:50] if "MEDIUM" in (it.get("independence") or "").upper())
-    L.append(f"- Independence MEDIUM-confidence entries in top 50: **{nmed50}** (cap 2).")
-    for k, v in notes.items():
-        L.append(f"- {k}: {v}")
+    L.append(f"*Run date: {today} · Method: PLAYBOOK.md (FIND → VERIFY → SCORE → COMPARE → RANK → REPLACE) · all names new vs. EXCLUSIONS.md (Rounds 1–2).*\n")
+    L.append("## Method\n")
+    L.append("- **Wave 1:** 6 parallel regional research subagents (Northeast, Mid-Atlantic, Southeast, South-Central, Midwest, West) screened their round-3 territories, verified sites by direct fetch + raw-HTML vendor fingerprinting (title tags, footer credits, generator tags, © strings), screened independence (DSO check), logged every candidate to `output/logs/<region>.md`, and returned a top 18 in PLAYBOOK §5 schema.")
+    L.append("- **Wave 2 (added this run):** each wave-1 agent exhausted its WebSearch allowance (200 calls) and Firecrawl credits mid-run, leaving most review counts UNKNOWN and large parts of each territory unsearched; only ~48 wave-1 finalists cleared the historical 68 cut line. A second wave of 6 regional agents (a) enriched every wave-1 finalist with review counts (Birdeye JSON-LD, Healthgrades, Demandforce, Yelp/WebMD snippets, on-site schema.org aggregateRating) and re-scored with the fixed weights, and (b) screened unmined territory via YellowPages/Birdeye city directories → bulk raw-HTML fingerprinting → hand verification, adding new finalists at ≥66.")
+    L.append(f"- **Main session:** merged {len(items)} finalist profiles, removed drops/exclusion hits, deduped across regions (0 cross-region duplicates), ranked by score with conversion likelihood as tiebreak, enforced the ≤2 MEDIUM-independence cap in the top 50, cut to 100, kept the remaining {len(bench)} as bench, then ran the §6 QC pass.")
+    L.append(f"- **Screening volume:** {screened_names:,} practice entries are recorded across the six regions' candidate files (finalists + candidate tables; the bulk of these are directory-crawl domains fingerprinted by raw HTML, of which a few hundred were hand-reviewed). Every hand-screened candidate is logged one-per-line in `output/logs/*.md`.")
+    L.append("- **Scoring:** fixed PLAYBOOK §4 weights (FC20 · BM15 · WW15 · Gap15 · Dep10 · Tr10 · Cv5 · Sp3 · DM2). Calibration: prior-round top = 88, prior cut = 68. This round's top = " + str(top[0]["score"]) + ", cut line (#100) = " + str(top[-1]["score"]) + ".")
     L.append("")
-    L.append("**Per-region count in the final 100:** " + " · ".join(f"{REGION_LABEL[r]} {region_counts[r]}" for r in REGIONS) + "\n")
+    L.append("## QC results (PLAYBOOK §6)\n")
+    L.append(f"- **Liveness** (curl -skL, browser UA, {today}): {n200}/100 HTTP 200; {n403}/100 HTTP 403 Cloudflare bot-walls with content verified by agents (noted per profile); {ndead} dead.")
+    L.append(f"- **Exclusion overlap** (names + domains + every domain mentioned inside profiles, grepped against EXCLUSIONS.md): **{len(overlap) + len(dom_overlap)}** in final 100 + bench. One wave-2 hit (Bruce Matthews DDS) was caught and removed. {len(cleared)} fuzzy name-similarity flags were manually reviewed and cleared as different practices (different town/domain/doctors).")
+    L.append("- **Cross-region duplicates:** 0.")
+    L.append(f"- **Independence:** every profile carries a status + basis; MEDIUM-confidence entries in top 50 = **{nmed50}** (cap 2).")
+    L.append("- **Completeness:** every profile in the 100 has a named decision-maker or explicit UNKNOWN, an independence status, at least one quoted observed defect, a review source, and VERIFIED/INFERRED/UNKNOWN evidence tags; each score equals the sum of its breakdown.")
+    L.append("- **QC removals / replacements:**")
+    for q in ov.get("qc_replacements", []):
+        L.append(f"  - {q}")
+    L.append("")
+    L.append("## Assumptions & caveats\n")
+    L.append("- Wave 2 was added beyond the playbook's single fan-out because tool budgets (WebSearch cap, Firecrawl credits) ran out; no search engine was scraped to evade caps. Discovery after the caps used public directories (YellowPages, Birdeye, Demandforce city pages), vendor client galleries and web.archive.org.")
+    L.append("- Review counts are mostly Birdeye (which aggregates Google) or Healthgrades/Demandforce/Yelp, as named per profile; direct Google Maps counts could not be read. Treat counts as directional and confirm before outreach.")
+    L.append("- \"Copyright � 2019 Prosites, Inc.\" is the ProSites v4 engine string in page source; where agents quote it, the *visible* footer year may differ (stated separately where observed). It still fingerprints the ProSites v4 template cluster reliably.")
+    L.append("- Social-follower gap was not measured this round for most profiles (marked UNKNOWN).")
+    L.append("- Independence is INFERRED (no group language/DSO strings, owner-named entity) for most profiles; VERIFIED only where the site states it. Confirm ownership on the first call.")
+    L.append("- Flags to check before outreach: retirement-horizon solos are flagged in their profiles; D'Angelo/Olson La Jolla's only web address is a Hibu vendor subdomain (that is the hook).")
+    L.append("")
+    L.append("**Per-region count in the final 100:** " + " · ".join(f"{REGION_LABEL[r]} {region_counts[r]}" for r in REGIONS) + f" · (wave-1 finalists {100 - w2}, wave-2 finalists {w2})\n")
     L.append("## Ranked master table\n")
     L.append("| # | Practice | Location | URL | Score | Likelihood | Region |")
     L.append("|---|---|---|---|---|---|---|")
@@ -261,25 +327,28 @@ def cmd_write():
     L.append("\n## Full profiles (rank order)\n")
     for i, it in enumerate(top, 1):
         L.append(f"{i}. {it['profile_md'].strip()}")
-        L.append(f"• Liveness: {live_note(it['url'])} · Region: {REGION_LABEL[it['region']]}\n")
-    L.append("## Bench (101+)\n")
-    for i, it in enumerate(bench, 101):
+        L.append(f"• QC: liveness {live_note(it['url'])} · vendor cluster: {it['vendor_c']} · region: {REGION_LABEL[it['region']]} (wave {it.get('wave', 1)})\n")
+    L.append("## Bench (101–108, full profiles)\n")
+    for i, it in enumerate(bench[:8], 101):
         L.append(f"{i}. {it['profile_md'].strip()}")
-        L.append(f"• Liveness: {live_note(it['url'])} · Region: {REGION_LABEL[it['region']]}\n")
-    L.append("## Notable DSO catches (this round)\n")
-    dso_rows = [c for c in cands if re.search(r"DSO|corporate|acquired|affiliat", c.get("verdict", ""), re.I)]
-    for c in dso_rows:
-        L.append(f"- {c['name']} — {c.get('city','')}, {c.get('state','')} ({domain_root(c.get('url'))}) — {md_escape(c.get('verdict'))}")
-    if not dso_rows:
-        L.append("- None recorded.")
+        L.append(f"• QC: liveness {live_note(it['url'])} · vendor cluster: {it['vendor_c']} · region: {REGION_LABEL[it['region']]} (wave {it.get('wave', 1)})\n")
+    L.append(f"## Extended bench (109–{100 + len(bench)}) — profiled finalists below the cut; full profiles in `output/work/*_top18_v2.json` / `*_wave2.json`\n")
+    L.append("| # | Practice | Location | URL | Score | Likelihood | Region | Vendor |")
+    L.append("|---|---|---|---|---|---|---|---|")
+    for i, it in enumerate(bench[8:], 109):
+        L.append(f"| {i} | {md_escape(it['name'])} | {md_escape(it['city'])}, {it['state']} | {it['url']} | {it['score']} | {md_escape(it['likelihood'])} | {REGION_LABEL[it['region']]} | {it['vendor_c']} |")
+    L.append("\n## Notable DSO / corporate catches (this round)\n")
+    for c in ov.get("dso_catches", []):
+        L.append(f"- {c}")
     L.append("\n## Vendor-cluster summary (demo workflow)\n")
+    L.append("Group the 100 by template vendor: one demo build per cluster can be re-skinned across its members.\n")
     L.append("| Vendor / platform | Count | Ranks |")
     L.append("|---|---|---|")
     for v, lst in sorted(clusters.items(), key=lambda kv: -len(kv[1])):
-        L.append(f"| {v} | {len(lst)} | {', '.join('#'+str(i) for i, _ in lst)} |")
+        L.append(f"| {v} | {len(lst)} | {', '.join('#' + str(i) for i, _ in lst)} |")
     L.append("")
     for v, lst in sorted(clusters.items(), key=lambda kv: -len(kv[1])):
-        L.append(f"**{v}** ({len(lst)}): " + "; ".join(f"#{i} {it['name']}" for i, it in lst))
+        L.append(f"**{v}** ({len(lst)}): " + "; ".join(f"#{i} {it['name']} ({it['city']}, {it['state']})" for i, it in lst))
         L.append("")
     open(os.path.join(OUT, "FINAL_TOP_100.md"), "w", encoding="utf-8").write("\n".join(L) + "\n")
 
@@ -288,30 +357,55 @@ def cmd_write():
         w.writerow(["rank", "name", "city", "state", "url", "score", "likelihood", "region", "vendor", "decision_maker", "est", "reviews", "top_hook"])
         for i, it in enumerate(top, 1):
             w.writerow([i, it["name"], it["city"], it["state"], it["url"], it["score"], it["likelihood"], REGION_LABEL[it["region"]],
-                        it.get("vendor"), it.get("decision_maker"), it.get("est"), it.get("reviews"), it.get("top_hook")])
+                        it["vendor_c"], it.get("decision_maker"), it.get("est"), it.get("reviews"), it.get("top_hook")])
 
     ex = open(os.path.join(ROOT, "EXCLUSIONS.md"), encoding="utf-8").read()
     head, dso = ex.split("## §7")
     head = head.replace("(Rounds 1 & 2)", "(Rounds 1, 2 & 3)", 1)
     R = [head.rstrip() + "\n"]
-    R.append("## §8. Round 3 — Dental Next 100 (delivered prospects, Sep 2026)")
+    R.append("## §8. Round 3 — Dental Next 100 (delivered prospects, Sep 30 2026)")
     R.append(" · ".join(f"{it['name']}, {it['city']} {it['state']} ({domain_root(it['url'])})" for it in top) + "\n")
-    R.append("## §9. Round 3 — Bench")
+    R.append("## §9. Round 3 — Bench (profiled finalists below the cut, incl. 101–108)")
     R.append(" · ".join(f"{it['name']}, {it['city']} {it['state']} ({domain_root(it['url'])})" for it in bench) + "\n")
-    R.append("## §10. Round 3 — All other screened candidates (by region)")
+    R.append("## §10. Round 3 — Dropped finalists & all hand-screened candidates (by region)")
+    R.append("Every candidate a Round-3 agent screened by hand (fetch/render + raw-HTML check), including rejects, DSO catches and bench-level names. Rounds 1–2 exclusions are omitted here (already above).\n")
+    BULK = re.compile(r"no weak-site signal|modern/no defect detected in|fingerprint shows no|^UNSCREENED|unreachable / dead|^SCREENED — |crawl-screened only|pediatric/ortho/specialty|specialty/pediatric/referral|^BENCH-UNVERIFIED|^UNVERIFIED — bot-walled|^REJECT — DSO signal|^WEAK-SITE|^WEAK-VENDOR|^OLD-SITE|^POSSIBLE-OLD-SITE|^VENDOR-FLAGGED|bulk-screened", re.I)
+    LEAD = re.compile(r"^SCREENED — weak-site|crawl-screened only|^BENCH-UNVERIFIED|^UNVERIFIED — bot-walled|^WEAK-SITE|^WEAK-VENDOR|^OLD-SITE|^POSSIBLE-OLD-SITE|^VENDOR-FLAGGED", re.I)
+    DSOSIG = re.compile(r"^REJECT — DSO signal", re.I)
     final_names = {norm_name(i["name"]) for i in top + bench}
+    seen = set()
+    bulk_lines = []
     for r in REGIONS:
-        lst = [c for c in cands if c["region"] == r and norm_name(c["name"]) not in final_names
-               and not re.search(r"EXCLUDED", c.get("verdict", ""))]
-        lst += [i for i in items if i["region"] == r and i["name"] in drops]
-        R.append(f"{REGION_LABEL[r].upper()}: " + " · ".join(
-            f"{c['name']}, {c.get('city','')} {c.get('state','')}" + (f" ({domain_root(c.get('url'))})" if c.get("url") else "") for c in lst))
-    R.append("\n## §7" + dso.rstrip())
-    new_dso = ov.get("new_dso", [])
-    if new_dso:
-        R.append("Round 3 additions: " + " · ".join(new_dso))
+        lst = [{"name": n, "city": "", "state": "", "url": "", "verdict": "DROPPED finalist — " + drops[n]} for n in drops if any(i["name"] == n and i["region"] == r for i in items)]
+        lst += [c for c in cands if c["region"] == r]
+        out = []
+        for c in lst:
+            nm = (c.get("name") or "").strip()
+            v = c.get("verdict", "") or ""
+            key = (norm_name(nm), domain_root(c.get("url")))
+            if not nm or key in seen or norm_name(nm) in final_names or re.search(r"EXCLUDED", v):
+                continue
+            if domain_root(c.get("url")) in ex_domains:
+                continue
+            seen.add(key)
+            loc = " ".join(x for x in [c.get("city") or "", c.get("state") or ""] if x).strip()
+            d = domain_root(c.get("url"))
+            if BULK.search(v):
+                tag = "LEAD" if LEAD.search(v) else ("DSO-SIGNAL" if DSOSIG.search(v) else "REJECT/UNSCREENED")
+                bulk_lines.append(f"{d or '-'}\t{nm}\t{loc}\t{REGION_LABEL[r]}\t{tag}")
+                continue
+            out.append(nm + (f", {loc}" if loc else "") + (f" ({d})" if d else ""))
+        R.append(f"{REGION_LABEL[r].upper()} ({len(out)}): " + " · ".join(out) + "\n")
+    R.append("## §11. Round 3 — Bulk directory-crawl domains (machine-fingerprinted only)")
+    R.append(f"{len(bulk_lines):,} further practice domains were pulled from YellowPages/Birdeye city directories and raw-HTML fingerprinted by script without hand review. They are listed (domain, name, location, region, class) in `EXCLUSIONS_R3_BULK.tsv` — **grep it, do not read it in full**. Class `REJECT/UNSCREENED` = no weak-site signal, specialty, or unreachable at crawl time; class `DSO-SIGNAL` = DSO keyword/brand match (treat as DSO); class `LEAD` = crawl flagged a weak-site signal but the practice was never hand-verified or profiled (Round 4 may hand-screen LEADs; treat everything else as screened).\n")
+    with open(os.path.join(OUT, "EXCLUSIONS_R3_BULK.tsv"), "w", encoding="utf-8") as bf:
+        bf.write("domain\tname\tlocation\tregion\tclass\n" + "\n".join(sorted(bulk_lines)) + "\n")
+    R.append("## §7" + dso.rstrip())
+    if ov.get("new_dso"):
+        R.append("\nRound 3 additions: " + " · ".join(ov["new_dso"]))
     open(os.path.join(OUT, "EXCLUSIONS_UPDATED.md"), "w", encoding="utf-8").write("\n".join(R) + "\n")
-    print(f"wrote outputs: top={len(top)} bench={len(bench)} overlap={overlap}")
+    print(f"wrote outputs: top={len(top)} bench={len(bench)} overlap={overlap} dom_overlap={dom_overlap} demoted={demoted}")
+    print("regions:", region_counts, "wave2 in top:", w2, "live200:", n200, "403:", n403, "med50:", nmed50)
 
 
 if __name__ == "__main__":

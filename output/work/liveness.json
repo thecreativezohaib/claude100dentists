@@ -355,9 +355,9 @@
   "checked": "2026-09-30 16:12 UTC"
  },
  "https://www.lakewoodranchsmiles.com/": {
-  "code": "000",
+  "code": "200",
   "final": "https://www.lakewoodranchsmiles.com/",
-  "checked": "2026-09-30 16:12 UTC"
+  "checked": "2026-09-30 16:56 UTC"
  },
  "https://www.dentist-in-fairfax.com/": {
   "code": "200",
@@ -493,5 +493,435 @@
   "code": "200",
   "final": "https://www.fayfdc.com/",
   "checked": "2026-09-30 16:12 UTC"
+ },
+ "https://mtlookoutdentistry.com": {
+  "code": "200",
+  "final": "https://mtlookoutdentistry.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://sdadental.com": {
+  "code": "200",
+  "final": "https://www.sdadental.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.ctcde.com/": {
+  "code": "403",
+  "final": "https://www.ctcde.com/",
+  "checked": "2026-09-30 16:57 UTC"
+ },
+ "https://www.kalilandkress.com/": {
+  "code": "200",
+  "final": "https://www.kalilandkress.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.parkcitiesdentalgroup.com/": {
+  "code": "200",
+  "final": "https://parkcitiesdentalgroup.com/",
+  "checked": "2026-09-30 16:57 UTC"
+ },
+ "https://harbordentalmn.com": {
+  "code": "200",
+  "final": "https://www.harbordentalmn.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.highlandsmilesdental.com/": {
+  "code": "200",
+  "final": "https://www.highlandsmilesdental.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.paoluccifamilydentists.com/": {
+  "code": "200",
+  "final": "https://www.paoluccifamilydentists.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.paolidentist.com/": {
+  "code": "200",
+  "final": "https://www.paolidentist.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://dentalgroupwest.com": {
+  "code": "200",
+  "final": "https://www.dentalgroupwest.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.gwinnettsmiles.com/": {
+  "code": "200",
+  "final": "https://www.gwinnettsmiles.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.gbpdental.com/": {
+  "code": "200",
+  "final": "https://www.gbpdental.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://gatesfamilydentistry.com": {
+  "code": "200",
+  "final": "https://www.gatesfamilydentistry.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.newcanaandentalcare.com/": {
+  "code": "200",
+  "final": "https://www.newcanaandentalcare.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.progressivedentalgbg.com/": {
+  "code": "200",
+  "final": "https://www.progressivedentalgbg.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.drvason.com/": {
+  "code": "200",
+  "final": "https://www.drvason.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.foxchapeldentistry.com/": {
+  "code": "200",
+  "final": "https://www.foxchapeldentistry.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.heckfamilydentistry.com/": {
+  "code": "200",
+  "final": "https://heckfamilydentistry.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.gardenoaksfamilydental.com/": {
+  "code": "200",
+  "final": "https://www.gardenoaksfamilydental.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://rothmandentist.com/": {
+  "code": "200",
+  "final": "https://rothmandentist.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.familydentiststoneoak.com/": {
+  "code": "200",
+  "final": "https://www.familydentiststoneoak.com/index.php",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://oakbrookdentalcenter.com": {
+  "code": "200",
+  "final": "https://oakbrookdentalcenter.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.nspali.com/": {
+  "code": "200",
+  "final": "https://www.nspali.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://foxvalleydentalcl.com": {
+  "code": "200",
+  "final": "https://www.foxvalleydentalcl.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.baltimoredentalarts.com/": {
+  "code": "200",
+  "final": "https://www.baltimoredentalarts.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://www.marasdentistry.com/": {
+  "code": "200",
+  "final": "https://marasdentistry.com/",
+  "checked": "2026-09-30 16:51 UTC"
+ },
+ "https://fishersfamilydentistry.com": {
+  "code": "200",
+  "final": "https://fishersfamilydentistry.com",
+  "checked": "2026-09-30 (recheck; first pass timed out)"
+ },
+ "https://www.oakcanyondentistry.com/": {
+  "code": "200",
+  "final": "https://www.oakcanyondentistry.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://montrosedds.com/": {
+  "code": "200",
+  "final": "https://montrosedds.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://www.smilesbymartin.com/": {
+  "code": "200",
+  "final": "https://www.smilesbymartin.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://www.merrickdentistry.com/": {
+  "code": "403",
+  "final": "https://www.merrickdentistry.com/",
+  "checked": "2026-09-30 16:58 UTC"
+ },
+ "https://thomsendental.com": {
+  "code": "200",
+  "final": "https://www.thomsendental.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://byerlydental.com": {
+  "code": "200",
+  "final": "https://byerlydental.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://www.andrewjohannddsmspc.com/": {
+  "code": "200",
+  "final": "https://www.andrewjohannddsmspc.com/",
+  "checked": "2026-09-30 (recheck; first pass timed out)"
+ },
+ "https://bfdentistry.com/": {
+  "code": "200",
+  "final": "https://bfdentistry.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://marchdentistry.com": {
+  "code": "200",
+  "final": "https://marchdentistry.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://www.nwadentist.com/": {
+  "code": "200",
+  "final": "https://www.nwadentist.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://www.moultondentistry.com/": {
+  "code": "200",
+  "final": "https://www.moultondentistry.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://www.portlandmainedental.com/": {
+  "code": "403",
+  "final": "https://www.portlandmainedental.com/",
+  "checked": "2026-09-30 16:58 UTC"
+ },
+ "https://www.crsmile.com/": {
+  "code": "200",
+  "final": "https://www.crsmile.com/",
+  "checked": "2026-09-30 16:52 UTC"
+ },
+ "https://alwaysgreatsmiles.com": {
+  "code": "200",
+  "final": "https://www.alwaysgreatsmiles.com/",
+  "checked": "2026-09-30 16:58 UTC"
+ },
+ "https://dentalartsofdelaware.com/": {
+  "code": "200",
+  "final": "https://dentalartsofdelaware.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.cmbdental.com/": {
+  "code": "200",
+  "final": "https://www.cmbdental.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.cincomeadowsdental.com/": {
+  "code": "200",
+  "final": "https://www.cincomeadowsdental.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.allisonfamilydentistry.com/": {
+  "code": "200",
+  "final": "https://www.allisonfamilydentistry.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.dentistrycoralsprings.com/": {
+  "code": "200",
+  "final": "https://www.dentistrycoralsprings.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.demartindental.com/": {
+  "code": "200",
+  "final": "https://www.demartindental.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.egidiodentalcare.com/": {
+  "code": "200",
+  "final": "https://www.egidiodentalcare.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.drblossfeld.com/": {
+  "code": "200",
+  "final": "https://www.drblossfeld.com/",
+  "checked": "2026-09-30 16:58 UTC"
+ },
+ "https://perfectsmilesdentalcare.com": {
+  "code": "200",
+  "final": "https://www.perfectsmilesdentalcare.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://dpsmilecenter.com": {
+  "code": "200",
+  "final": "https://www.dpsmilecenter.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.macinnesdentistry.com/": {
+  "code": "200",
+  "final": "https://www.macinnesdentistry.com/",
+  "checked": "2026-09-30 16:53 UTC"
+ },
+ "https://www.kahalasmileprofessionals.com/": {
+  "code": "200",
+  "final": "https://www.kahalasmileprofessionals.com/",
+  "checked": "2026-09-30 16:58 UTC"
+ },
+ "https://jonsondentalcare.com": {
+  "code": "200",
+  "final": "https://www.jonsondentalcare.com/",
+  "checked": "2026-09-30 16:58 UTC"
+ },
+ "https://www.fargodentist.net/": {
+  "code": "200",
+  "final": "https://www.fargodentist.net/",
+  "checked": "2026-09-30 16:58 UTC"
+ },
+ "https://www.stallerdental.com/": {
+  "code": "200",
+  "final": "https://www.stallerdental.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.lansdaledentalpc.com/": {
+  "code": "200",
+  "final": "https://www.lansdaledentalpc.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.mydentalimage.com/": {
+  "code": "200",
+  "final": "https://www.mydentalimage.com/",
+  "checked": "2026-09-30 16:58 UTC"
+ },
+ "https://www.eastavenuedentistry.com/": {
+  "code": "200",
+  "final": "https://www.eastavenuedentistry.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://downriversmiles.com": {
+  "code": "403",
+  "final": "https://downriversmiles.com/",
+  "checked": "2026-09-30 16:59 UTC"
+ },
+ "https://www.maconsmiles.com/": {
+  "code": "200",
+  "final": "https://www.maconsmiles.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.virginiadentistrybydesign.com/": {
+  "code": "200",
+  "final": "https://www.virginiadentistrybydesign.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://tuscaloosauniversitydentistry.com/ (legacy domain universitygeneraldentistry.com 301-redirects here)": {
+  "code": "000",
+  "final": "https://tuscaloosauniversitydentistry.com/ (legacy domain universitygeneraldentistry.com 301-redirects here)",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.coastalcosmeticdental.com/": {
+  "code": "200",
+  "final": "https://www.coastalcosmeticdental.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://trolleydental.com/": {
+  "code": "200",
+  "final": "https://trolleydental.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.goochdental.com/ (drgooch.com 301-redirects here)": {
+  "code": "000",
+  "final": "https://www.goochdental.com/ (drgooch.com 301-redirects here)",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.lifetimecosmeticdentistry.com/": {
+  "code": "200",
+  "final": "https://www.lifetimecosmeticdentistry.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.westlakehillsdentalarts.com/": {
+  "code": "200",
+  "final": "https://www.westlakehillsdentalarts.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.cosmeticdentistindallas.com/": {
+  "code": "200",
+  "final": "https://www.cosmeticdentistindallas.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://friedmanfamilydentistry.com": {
+  "code": "200",
+  "final": "https://friedmanfamilydentistry.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://esplanade-dental.com": {
+  "code": "200",
+  "final": "https://www.esplanade-dental.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.aestheticdentistryofscottsdale.com/": {
+  "code": "200",
+  "final": "https://www.aestheticdentistryofscottsdale.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.fullertondentistry.com/": {
+  "code": "200",
+  "final": "https://www.fullertondentistry.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.diablovalleyprosthodontics.com/": {
+  "code": "200",
+  "final": "https://www.diablovalleyprosthodontics.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.issaquahdental.com/": {
+  "code": "200",
+  "final": "https://www.issaquahdental.com/",
+  "checked": "2026-09-30 16:55 UTC"
+ },
+ "https://www.coraopolisdentist.com/": {
+  "code": "200",
+  "final": "https://www.coraopolisdentist.com/",
+  "checked": "2026-09-30 16:59 UTC"
+ },
+ "https://www.drcurtiscrandall.com/": {
+  "code": "200",
+  "final": "https://www.drcurtiscrandall.com/",
+  "checked": "2026-09-30 16:59 UTC"
+ },
+ "https://olberdingdental.com": {
+  "code": "200",
+  "final": "https://www.olberdingdental.com/",
+  "checked": "2026-09-30 16:56 UTC"
+ },
+ "https://wagnerfamilydds.com": {
+  "code": "200",
+  "final": "https://www.wagnerfamilydds.com/",
+  "checked": "2026-09-30 16:56 UTC"
+ },
+ "https://drzizic.com": {
+  "code": "200",
+  "final": "https://drzizic.com/index.html",
+  "checked": "2026-09-30 16:56 UTC"
+ },
+ "https://bullvalleydentistry.com": {
+  "code": "200",
+  "final": "https://www.bullvalleydentistry.com/",
+  "checked": "2026-09-30 16:56 UTC"
+ },
+ "https://madisonfamilydental.com": {
+  "code": "200",
+  "final": "https://madisonfamilydental.com/",
+  "checked": "2026-09-30 16:56 UTC"
+ },
+ "https://deleonfamilydental.com": {
+  "code": "200",
+  "final": "https://www.deleonfamilydental.com/",
+  "checked": "2026-09-30 16:56 UTC"
+ },
+ "https://alexanderdentistry.net": {
+  "code": "200",
+  "final": "https://www.alexanderdentistry.net/",
+  "checked": "2026-09-30 16:59 UTC"
+ },
+ "https://tuscaloosauniversitydentistry.com/": {
+  "code": "200",
+  "final": "https://tuscaloosauniversitydentistry.com/",
+  "checked": "2026-09-30 16:59 UTC"
+ },
+ "https://www.goochdental.com/": {
+  "code": "200",
+  "final": "https://www.goochdental.com/",
+  "checked": "2026-09-30 16:59 UTC"
  }
 }

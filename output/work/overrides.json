@@ -1,6 +1,6 @@
 {
  "drop": {
-  "Bruce E. Matthews, DDS, PA (Matthews family practice)": "EXCLUDED \u2014 prior round (EXCLUSIONS \u00a76 Mid-Atlantic: 'Bruce Matthews DDS, Wilmington DE'); caught in main-session QC"
+  "Bruce E. Matthews, DDS, PA (Matthews family practice)": "EXCLUDED — prior round (EXCLUSIONS §6 Mid-Atlantic: 'Bruce Matthews DDS, Wilmington DE'); caught in main-session QC"
  },
  "url_fix": {
   "fargodentist.net": "https://www.fargodentist.net/",
@@ -20,5 +20,51 @@
   "Coastal Cosmetic Dental Associates (Dr. Patty Van Wie)": "Little River SC (coastalcosmeticdental.com); excluded 'Coastal Cosmetic' is Pensacola FL (pensacoladentistry.com); also distinct from Coastal Dental Associates (Portsmouth NH) and Coastal Smiles Dentistry (Newport Beach CA)"
  },
  "notes": {},
- "new_dso": []
+ "new_dso": [
+  "Dental Care Alliance/Mortenson (catches: Dentists Office of the Hudson Valley; Miami Center for Cosmetic & Implant)",
+  "Specialty1 Partners (catch: Fairfield County Implants & Periodontics)",
+  "Grin Dentistry (catch: Noblesville Family Dentistry)",
+  "North American Dental Group (catch: Saint Petersburg Dental)",
+  "Dental Associates Group / dag.dental (catch: Fox Dental Asheville)",
+  "Smile Partners USA additional catch: Station Dental",
+  "42 North additional catches: New Haven Dental Group, Taylor Street Dental, EMA Dental",
+  "MB2 additional catches: Exceptional Dental of St. Pete, FIT Dental Center, The Collierville Dentist, Dental Care Burke"
+ ],
+ "vendor_fix": {
+  "Brewer Family Dentistry": "Progressive Dental Marketing"
+ },
+ "dso_catches": [
+  "Green & Glasser Dental Associates, Commack NY — The Smilist (Northeast)",
+  "New Haven Dental Group (CT), Taylor Street Dental (Springfield MA), EMA Dental (Northampton MA) — 42 North Dental (Northeast)",
+  "Dentists Office of the Hudson Valley, Lake Katrine NY — Dental Care Alliance (Northeast)",
+  "Fairfield County Implants & Periodontics (Sonick) — Specialty1 Partners; also perio referral (Northeast)",
+  "Hodosh Cosmetic & Implant Dentistry, Providence RI — suspected Dental Care Alliance string (Northeast)",
+  "Signature Smiles, Chesapeake VA — Atlantic Dental Care division (Mid-Atlantic)",
+  "Dental Care Burke, VA — MB2 string in HTML (Mid-Atlantic)",
+  "Midlothian Dental Center, VA — 'a division of' language (Mid-Atlantic)",
+  "Cox Family Dentistry — Smile Brands theme (Mid-Atlantic)",
+  "'Dentists of Bristow', 'Dentists of Centreville', 'Modern Dentistry Richmond' — Pacific Dental Services naming pattern (Mid-Atlantic)",
+  "Saint Petersburg Dental (Clearwater FL) — nadentalgroup.com email (Southeast)",
+  "Exceptional Dental of St. Pete, FIT Dental Center (Chattanooga), The Collierville Dentist, Dentistry Today — MB2 markers (Southeast)",
+  "Biltmore Dental Group, Asheville NC — Heartland strings (Southeast)",
+  "Miami Center for Cosmetic & Implant Dentistry — Dental Care Alliance markers (Southeast)",
+  "DentFirst Smyrna GA — DentFirst (Southeast)",
+  "Fox Dental, Asheville NC — careers page links dag.dental (Southeast)",
+  "Lovett Dental West U, Houston TX — Lovett (South-Central)",
+  "Aspen Dental / Affordable Dentures, Olive Branch MS & Bowling Green KY (South-Central)",
+  "Midwest Dental, Wichita KS — Smile Brands (South-Central)",
+  "Noblesville Family Dentistry, IN — Grin Dentistry group (Midwest)",
+  "Aesthetic Dentistry of Frankfort, IL — smilesbyad multi-office group (Midwest)",
+  "Lincoln Dental Group, NE — suspected Marquee/MB2 strings (Midwest)",
+  "Station Dental — Smile Partners USA (West)",
+  "Fuller Smiles (11 locations), Espire, Hawaii Family Dental, Alcan/Anchorage Dental Group (White Mountain Holdings) (West)",
+  "Visalia Modern Dentistry, Marin Modern Dentistry — Pacific Dental Services 'Modern Dentistry' pattern (West)"
+ ],
+ "qc_replacements": [
+  "Aesthetic Dental Innovations (Dornbush), Marblehead MA — REMOVED: site drdornbush.com redirects to cgi-sys/suspendedpage.cgi ('Account Suspended'); failed liveness.",
+  "Bruce E. Matthews DDS PA, Wilmington DE (wave-2 finalist, score 70) — REMOVED in main-session QC: listed in EXCLUSIONS §6 (Mid-Atlantic) as 'Bruce Matthews DDS, Wilmington DE'.",
+  "Oak Brook Dental Center, Elmhurst IL (score 73, would rank #37) — DEMOTED to #51: third MEDIUM-confidence independence in the top 50 (PLAYBOOK §2 cap = 2).",
+  "Capitol Hill Dentistry DC (66→55), David A. Faget DMD Coral Gables (61→57), Premier Dental Care Pleasanton (62→56) — dropped by wave-2 review enrichment (thin review corpus / weak evidence); replaced from wave-2 finalist pools.",
+  "Fishers Family Dentistry and Johann Prosthetics of Boulder — first-pass curl timeout; 200 on recheck (not replaced). fargodentist.net apex fails; canonical www URL used (200)."
+ ]
 }
