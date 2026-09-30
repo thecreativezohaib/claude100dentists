@@ -691,3 +691,113 @@ NOTE: WebSearch quota (200) and Firecrawl credits exhausted mid-run; discovery c
 - Ridgepointe Dental | 59 -> 73 | Birdeye 905 @4.9 (JSON-LD)
 - Austin Primary Dental | 58 -> 63 | Birdeye 370, Yelp 58
 ### Job B - new candidates (screened lines follow)
+- Rick Larson DDS | Coppell, TX | https://www.ricklarsondds.com/ | BENCH ~67 - Officite template (Wayback 2025: generic title 'Coppell, TX Dentist', 8 imgs, (c) 2025 MH Sub I LLC dba Officite); Birdeye 5.0 (681); live site Cloudflare-walled (WebFetch 403) so verified via web.archive.org only; solo
+- 21st Century Dental of Irving | Irving, TX | https://www.21stcenturydental.com/ | BENCH ~66 - TNT template (CMS comment, footer no year, generic title); est. 1985 (About), 3 dentists (Roy/Bristow/Kumar), Birdeye ~925 + Yelp 116 (snippets); independence MEDIUM ('of Irving' naming); design fairly current
+- Hometown Family Dental | Louisville (St. Matthews), KY | https://www.hometownfamilydental502.com/ | BENCH ~66 - Officite 1-image site (Wayback 2024, (c) 2024 Officite); Birdeye 5.0 (721); 30+ yrs (wave-1 note); CF-walled live; general/low-ticket mix
+- Dove Dentistry | Allen, TX | https://www.mydovedentist.com/ | VIABLE ~65 - ProSites v4.0 (c)2019 mojibake; Drs. Hsu & Yew; Birdeye 4.8 (394); est UNKNOWN
+- Bedford Family Dentistry | New Braunfels, TX | https://www.bedfordfamilydentistry.com/ | VIABLE ~65 - ProSites v4.0 (c)2019; Drs. Don/Brev Bedford, Tami Herring; Birdeye 4.8 (226)
+- Denton Family Dentistry (Dr. Joseph Choi) | Denton, TX | https://www.dentonfamilydentistry.com/ | VIABLE ~64 - ProSites v4.0 (c)2019; YP 31 yrs; Birdeye 4.8 (467); solo young-ish owner; 3 imgs
+- McDonald & Luck DDS | Plano, TX | https://www.mcdonalddds.com/ | VIABLE ~65 - WEO Media .asp site, 30+ yrs, 2 docs; Birdeye 5.0 (240); (c) auto-updates to 2026 so no frozen year
+- Elwood Avenue Dental | Jenks, OK | https://www.elwoodavenuedental.com/ | VIABLE ~65 - TNT keyword-spam title 'Dentist Near Me | Cost of Dental Care'; Birdeye 5.0 (2,250); 3 docs (Salayta/Pracht/Renfro); affordability/insurance positioning lowers FinCap; modern-ish template
+- Smiles of Tulsa | Tulsa, OK | https://www.smilesoftulsa.com/ | VIABLE ~63 - WEO Media (.asp), implants/All-on-4; Birdeye 4.9 (269); est UNKNOWN
+- West U Dental Smiles (Dr. Yepez / Dodig) | Houston (West U), TX | https://www.westudental.com/ | VIABLE ~63 - TNT (c)2016 footer; Birdeye 4.9 (181); est UNKNOWN; ownership not checked beyond DSO scan
+- David C. Cunningham Jr. DDS | The Woodlands, TX | https://www.dcunninghamdds.com/ | VIABLE ~62 - TNT (c)2018; since 1984; Birdeye 5.0 (127); solo
+- Cosmetic Dental Arts (Dr. Olson) | Southlake, TX | https://www.cosmeticdentalarts.com/ | VIABLE ~60 - ProSites (c)2019, title has ZIP '76092'; YP 27 yrs; Birdeye only 13 reviews
+- Ken Berley DDS | Rogers, AR | https://www.drkenberley.com/ | VIABLE ~62 - ProSites (c)2019; YP 46 yrs; Birdeye 4.9 (69); likely retirement horizon
+- Allen Smile Design (Dr. Tonie Lewis) | Allen, TX | https://www.allensmiledesign.com/ | VIABLE ~63 - TNT (c)2020; Birdeye 4.9 (345); Dr. Lewis only ~15 yrs
+- Shannon Stokes DDS | Plano, TX | https://www.shannonstokesdds.com/ | VIABLE ~60 - TNT (c)2014; Birdeye 4.9 (66)
+- C. Gary Simmons DDS | Spring, TX | https://www.garysimmonsdds.com/ | VIABLE ~58 - TNT (c)2016; YP 41 yrs; Birdeye 4.8 (55); solo
+- Dileo Dental Group | Metairie, LA | https://www.dileodentalgroupllc.com/ | VIABLE ~60 - ProSites (c)2019; YP 33 yrs; Birdeye 5.0 (97)
+- DuBois Dentistry | New Orleans, LA | https://www.duboisdentistry.com/ | VIABLE ~55 - ProSites (c)2019; YP 42 yrs; Birdeye 4.8 (21) thin
+- Chaney Family Dentistry (Mark & Nicholas Chaney) | New Orleans, LA | https://www.chaneyfamilydentistry.com/ | VIABLE ~58 - ProSites (c)2019; 2 docs; YP 70 yrs; Birdeye not matched
+- Joseph C. Steele DMD MS (prosthodontist) | Bowling Green, KY | https://www.steeledmd.com/ | VIABLE ~58 - ProSites (c)2019; YP 33 yrs; Birdeye 4.2 (12) thin/mixed
+- Lawton Dentistry (David Drummond DDS) | Lawton, OK | https://www.lawtondentistry.com/ | VIABLE ~55 - ProSites (c)2019; YP 44 yrs; retirement horizon
+- Sarah Pitarra DDS | Corpus Christi, TX | https://www.corpuschristidentistry.com/ | REJECT-ish ~55 - current TNT template, airway/holistic focus; Birdeye 5.0 (479)
+- Matthews Dental Group | College Station, TX | https://www.matthewsdental.net/ | VIABLE ~58 - Officite (Wayback 2024); 3 docs, 25+ yrs; Birdeye 5.0 (111); CF-walled live
+- Coppell Smiles (Prachi Deore DDS) | Coppell, TX | https://www.coppellsmilesonline.com/ | VIABLE ~55 - Officite + Divi (Wayback 2026); Birdeye 4.5 (241); solo
+- Southaven Dental Care (C. Dean Umfress) | Southaven, MS | https://www.southavendentalcare.net/ | VIABLE ~58 - Officite (Wayback 2025); 30 yrs; Birdeye 4.7 (505); price-led denture/Invisalign positioning (low FinCap)
+- Robert H. Dakin Jr. DDS | Wichita, KS | https://www.dakindds.com/ | VIABLE ~52 - PBHS WordPress (Wayback 2025), 49 yrs, Birdeye 5.0 (121); retirement-horizon solo
+- Detmer Family Dentistry | Maize, KS | https://www.detmerfamilydentistry.com/ | VIABLE ~54 - PBHS WordPress (Wayback 2025); family practice; Birdeye 5.0 (172)
+- Austin Prosthodontics (Ernesto Carmona) | Austin, TX | https://austinprostheticdental.com/ | REJECT - Elementor/WordPress modern (Wayback 2025); CF/403
+- Ron S. White DDS | Dripping Springs, TX | https://www.ronswhite.com/ | CF-walled (403 via curl and WebFetch); already logged in wave 1 - not re-screened
+- Bell Springs Family Dentistry (Dr. Marcelo Uriegas) | Dripping Springs, TX | https://www.bellspringsfamilydentistry.com/ | VIABLE ~55 - ProSites (c)2019 mojibake, EMPTY <title>; but Google only 5.0 from 20 reviews
+- Brazos Dental Associates | College Station, TX | https://www.brazosdentalassociates.com/ | VIABLE ~55 - Great Dental Websites; est 1976, Dr. Rychetsky; reviews UNKNOWN
+- Scasta Family Dentistry (J. Craig Scasta DDS) | College Station, TX | https://www.scastadds.com/ | VIABLE ~56 - PBHS WordPress; Birdeye 5.0 (259+255); cosmetic/general; combined eye-care brand
+- Smiles by Design / Dr. Caffey-Earle | Flower Mound, TX | https://www.drcaffeyearle.com/ | VIABLE ~52 - Doctor Genius (c)2014; reviews UNKNOWN
+- Saddle Creek Dental (Dr. Dod Moore) | Waco (China Spring), TX | https://www.saddlecreekdental.com/ | VIABLE ~58 - ProSites (c)2019; Birdeye 4.9 (837+874 profiles); rural-edge market lowers FinCap
+- Stone Oak Dental (Kurt Riewe) | San Antonio, TX | https://www.mystoneoakdental.com/ | VIABLE ~55 - ProSites (fingerprint); Birdeye 4.9 (307); site returned empty body on re-check
+- Park Cities Dental Group (second Birdeye profile: Dr. Ted Smith) | Dallas, TX | https://www.parkcitiesdentalgroup.com/ | DUPLICATE of finalist
+- Highland Park Dental (Aaron Jones DDS) | Dallas, TX | https://www.hpdentist.com/ | REJECT - Elementor/Hello modern WP
+- Lovers Lane Dental | Dallas, TX | https://www.loverslanedental.com/ | CF-walled; not assessed
+- Randall Dentistry (Drs. Randall/Evans) | University Park, TX | https://drdrewrandall.com/ | REJECT - modern Salient/marketing-app site (c)2026
+- Inwood Village Dental | Dallas, TX | https://inwoodvillagedental.com/ | REJECT - Elementor modern
+- Preston Hollow Dental Care & Orthodontics | Dallas, TX | https://prestonhollowdentalcare.com/ | REJECT - OceanWP WP 6.8 modern; ortho group feel
+- Bryan Ritchey DDS | Houston (Memorial), TX | https://www.bryanritcheydds.com/ | REJECT - current (c)2026 custom
+- Naba Dental | Houston, TX | https://www.nabadental.com/ | REJECT - modern WP
+- Memorial Dentists | Houston, TX | https://memorialdentists.com/ | REJECT - modern Elementor
+- Parker Nickolas Read Dental | Houston (Memorial), TX | https://www.memorialdds.com/ | REJECT - agency-built current site
+- River Oaks Dentistry | Houston, TX | https://www.riveroaksdentistry.com/ | REJECT - Wonderist agency site (2020)
+- River Oaks Dental Arts | Houston, TX | https://www.riveroaksdentalarts.com/ | REJECT - Squarespace (c)2025 modern
+- William L. Krell DDS | Houston, TX | https://krelldds.com/ | REJECT - modern (c)2026
+- Kenneth Curl DDS | The Woodlands, TX | https://www.kennethcurldds.com/ | REJECT - Einstein site (c)2012-2024 but modern video hero; since 1980
+- Scott Young DDS | The Woodlands, TX | https://www.scottyoungdds.com/ | REJECT - Einstein (c)2026 modern
+- Westlake Smiles (Dr. Vincent Ho) | West Lake Hills, TX | https://www.westlakesmiles.com/ | PENDING ~50 - Divi WP (Animate.css 2015 only; no visible (c)); reviews UNKNOWN
+- Tomasik Family Dental | Bee Cave, TX | https://www.tomasikdental.com/ | REJECT - modern, est 2010
+- Lakeway Dental Associates | Lakeway, TX | https://www.lakewaydentalassociates.com/ | REJECT - (c)2026 modern
+- The Hills Dental Spa | Austin, TX | https://www.thehillsdentalspa.com/ | REJECT - (c)2026 modern
+- Joni Wallace DDS | Austin (Tarrytown), TX | https://www.drjoniwallace.com/ | REJECT - Elementor modern
+- Westlake Hills Dental (flatsome) | Austin, TX | https://www.westlakehillsdental.com/ | REJECT - Flatsome (c)2026
+- Joshua Austin DDS & Associates | San Antonio, TX | https://www.joshuaaustindds.com/ | REJECT - Wonderist 2022, est ~2010
+- Dental Care of San Antonio | San Antonio, TX | https://www.dentalcareofsa.com/ | REJECT - Elementor (c)2025
+- Alamo Heights Dental (Dr. Dirk DeKoch) | San Antonio, TX | https://alamoheightsdental.com/ | PENDING ~50 - Slider Revolution site, 40+ yrs Alamo Heights; no vendor/(c) fingerprint
+- Edward Castillon DDS | San Antonio, TX | https://www.edwardcastillondds.com/ | CF-walled; not assessed
+- Mckinney Dentist (Dr. Marvin Berlin / Jeff Lynch) | McKinney, TX | https://mckinneydentist.com/ | PENDING ~55 - Divi WP + TNT string; no visible frozen (c); reviews UNKNOWN
+- Prosper Dental Health | Prosper, TX | https://www.prosperdentalhealth.com/ | REJECT - est 2014 (too young); TNT
+- Prosper Smiles Family Dentistry | Prosper, TX | https://www.prospersmiles.com/ | REJECT - Great Dental Websites; Dr. Patel young practice
+- ProCare Dental Studio | McKinney, TX | https://procaredentalstudio.com/ | REJECT - modern (c)2026
+- Smile For Miles Dental | Southlake, TX | https://www.smileformilesdental.com/ | REJECT - modern WP (c)2025
+- Custom Dental of The Colony | The Colony, TX | https://www.customdentalthecolony.com/ | VIABLE ~52 - Sesame 24-7; Drs. Tadi/Gates; possible Custom Dental group - independence unverified
+- Beverley Dental Center | Carrollton, TX | https://www.beverlydentalcenter.com/ | REJECT - TNT site updated (c)2026
+- 918 Dentist | Glenpool (Tulsa), OK | https://918dentist.com/ | REJECT - WPBakery/ekko (c)2026 modern
+- Yale Avenue Dentistry (Dr. Molly Hays) | Tulsa, OK | https://www.yaleave.com/ | REJECT - legacy marshallfamilydentists.com replaced by new site; est 1977, 476 Demandforce reviews
+- Wynn Dentistry | Broken Arrow, OK | https://www.tulsadentistdds.com/ | REJECT - (c)2025 modern
+- Coffee Creek Family Dentistry | Edmond, OK | https://coffeecreekfamilydentistry.com/ | REJECT - Elementor (c)2026
+- OKC Smiles (Dr. Kevin Murray) | Moore/OKC, OK | https://www.okcdentalimplantdentistry.com/ | REJECT - WP 7.x (c)2026
+- Darlene Henry DMD | Erlanger, KY | https://darlenesandwalldmd.com/ | REJECT-ish ~48 - WP 6.2 oshin (c)2023; 30+ yrs
+- Downtown Family Dentistry (Dr. Cynthia Rush Yeiser) | Frankfort, KY | https://rushyeiserdentistry.com/ | VIABLE ~50 - Wix (c)2012 string; 78 yrs listed by YP; small market
+- Tammy Graham-Fortune DDS | Louisville, KY | https://fortunedentalcenter.com/ | VIABLE ~52 - Wix (c)2021; 55 yrs YP
+- Susan M. King DMD | Elizabethtown, KY | https://www.susankingdentistry.com/ | VIABLE ~50 - ProSites (c)2019; small market
+- 1st Dental | Hattiesburg, MS | https://1stdentalhattiesburg.com/ | VIABLE ~52 - ProSites (c)2019; YP 42 yrs; Jackson MS pool thin
+- Tramel & Brown Dentistry | Ridgeland, MS | https://www.tramelandbrowndentistry.com/ | VIABLE ~55 - ProSites (c)2019; 2 docs; Jackson-metro
+- Fern Avenue Dentistry | Shreveport, LA | https://www.fernavenuedentistry.com/ | VIABLE ~52 - ProSites (c)2019; YP 22 yrs
+- Bear Creek Family Dentistry | Dallas, TX | https://www.bearcreekfamilydentistry.com/ | REJECT - multi-location group (10+ Birdeye profiles)
+- Lifetime Dental (Austin/Boerne group) | Austin, TX | https://www.lifetimedental.com/ | REJECT - multi-location group brand
+- Ideal Dental | Multiple, TX | https://www.myidealdental.com/ | REJECT - DSO (Ideal Dental)
+- Clear Lake Dentistry (Dr. Robert Blanchard) | Houston (Clear Lake), TX | https://www.clearlakedentistry.com/ | VIABLE ~55 - ProSites (c)2019; YP 36 yrs; Birdeye not matched
+- Dental Associates of Houston | Houston, TX | https://www.dentalassociatesofhouston.com/ | VIABLE ~52 - ProSites (c)2019; YP 30 yrs; multi-doctor; ownership not verified
+- Tillman Dentistry (David Tillman DDS) | Fort Worth, TX | https://www.tillmansmiles.com/ | VIABLE ~55 - TNT (c)2014; YP 33 yrs; Birdeye not matched
+- Johnny Cheng DDS (Hulen) | Fort Worth, TX | https://www.hulendental.com/ | VIABLE ~50 - TNT keyword-spam title; 49 yrs; Birdeye 5.0 (18) thin
+- Barrett L. Bartell DDS | Fort Worth, TX | https://www.bartelldds.com/ | PENDING ~55 - Practice Cafe (c)2013 per scan; Birdeye 4.9 (181); site returned empty body on re-check
+- Weaver & Jaynes DDS | Beaumont, TX | https://www.weaverandjaynesdentistry.com/ | VIABLE ~55 - GoDaddy (c)2015, 45 yrs, 2 docs; reviews not matched
+- Mark Wood DDS / Corinth Dentistry | Leawood/Prairie Village, KS | https://www.corinthdentistry.com/ | VIABLE ~52 - ProSites (c)2019; KC-metro border
+
+### WAVE 2 FINALISTS (15, all >=66; profiles in work/south-central_wave2.json)
+- Park Cities Dental Group (Dr. Phillip Allison / Dr. Ted Smith) | Dallas (Highland Park), TX | https://www.parkcitiesdentalgroup.com/ | FINALIST 75 MEDIUM-HIGH - WordPress-generic - Birdeye 4.9 (546 reviews; JSON-LD aggregateRating, 2026-09-30); Dr. Ted Smith separate Bir
+- Highland Smiles Dental (Dr. Girish Sandadi / Dr. Rachna Patel) | Dallas (Highland Park / McKinney Ave), TX | https://www.highlandsmilesdental.com/ | FINALIST 74 HIGH - TNT Dental - Birdeye 4.8 (1,991 reviews; JSON-LD aggregateRating, 2026-09-30); directory snippet cites 
+- Heck Family Dentistry of Lawrence (Dr. Brian Heck + 3 dentists) | Lawrence, KS | https://www.heckfamilydentistry.com/ | FINALIST 72 MEDIUM-HIGH - TNT Dental - Birdeye 4.9 (757 reviews) + second Birdeye profile 4.8 (418) - JSON-LD / slug lookup 2026-
+- Garden Oaks Family & Cosmetic Dentistry (Drs. Patrick Ruehle & Erika Eide) | Denton, TX | https://www.gardenoaksfamilydental.com/ | FINALIST 72 MEDIUM-HIGH - TNT Dental - Birdeye 5.0 (432 reviews; JSON-LD) + legacy Birdeye profile 5.0 (50), 2026-09-30
+- Canyon Golf Family Dentistry (Dr. Bryan E. Soto) | San Antonio (Stone Oak), TX | https://www.familydentiststoneoak.com/ | FINALIST 72 MEDIUM-HIGH - Practice Cafe - Birdeye 4.9 (486 reviews; JSON-LD, 2026-09-30)
+- Oak Canyon Dentistry (Dr. Steven Haase) | Bee Cave (Austin), TX | https://www.oakcanyondentistry.com/ | FINALIST 71 MEDIUM-HIGH - ProSites - Birdeye 5.0 (506 reviews; JSON-LD, 2026-09-30)
+- Montrose DDS (Drs. Samuel Carrell & Austin Faulk) | Houston (Montrose), TX | https://montrosedds.com/ | FINALIST 71 MEDIUM-HIGH - GoDaddy - Birdeye 5.0 (323 reviews; JSON-LD, 2026-09-30); Yelp 38 (search snippet)
+- Smiles by Martin (Dr. Greg Martin - third generation) | Grapevine, TX | https://www.smilesbymartin.com/ | FINALIST 71 MEDIUM-HIGH - TNT Dental - Birdeye 4.9 (277 reviews; JSON-LD, 2026-09-30)
+- Todd Phelan DDS (Drs. S. Todd Phelan & Tyler Gossett) | Rogers, AR | https://www.nwadentist.com/ | FINALIST 70 MEDIUM-HIGH - TNT Dental - Birdeye 4.9 (621 reviews; JSON-LD lookup, 2026-09-30)
+- Blossfeld Family Dentistry (Dr. Carol M. Blossfeld) | Edmond / Oklahoma City, OK | https://www.drblossfeld.com/ | FINALIST 69 MEDIUM - ProSites - Birdeye 5.0 (440 reviews) + two further Birdeye profiles 5.0 (194) and 5.0 (142), 2026-09-
+- Cinco Meadows Dental (Dr. Brian Williams) | Katy (Cinco Ranch), TX | https://www.cincomeadowsdental.com/ | FINALIST 69 MEDIUM-HIGH - ProSites - Birdeye 4.9 (898 reviews; JSON-LD, 2026-09-30)
+- Lifetime Cosmetic Dentistry / Lifetime Dentistry (Keller) | Keller (Fort Worth), TX | https://www.lifetimecosmeticdentistry.com/ | FINALIST 67 MEDIUM - ProSites - Birdeye 5.0 (488 reviews; JSON-LD, 2026-09-30); Yelp listing linked
+- Westlake Hills Dental Arts (Dr. Rebecca Long) | West Lake Hills (Austin), TX | https://www.westlakehillsdentalarts.com/ | FINALIST 67 MEDIUM - TNT Dental - Birdeye 5.0 (235 reviews; JSON-LD, 2026-09-30)
+- Park Cities Family Dentistry (Drs. Jeffrey Hubbard & Lyle Petrutsas) | Dallas (Park Cities / N Central Expy), TX | https://www.cosmeticdentistindallas.com/ | FINALIST 67 MEDIUM - Sesame 24-7 - Birdeye 4.4 (267 reviews; JSON-LD, 2026-09-30) - rating is the weak point; Yelp 59 (search
+- Curtis A. Crandall, DDS | Plano (East Plano), TX | https://www.drcurtiscrandall.com/ | FINALIST 66 MEDIUM - ProSites - Birdeye 4.9 (265 reviews; JSON-LD, 2026-09-30)
+
+### WAVE 2 NOTES
+- WebSearch budget hit its session cap (200/200) mid-run; discovery continued via YellowPages city crawls (~8k listings, 70 cities) + bulk curl fingerprinting (3,007 domains) + Birdeye public sitemap lookups for review counts (JSON-LD). Yelp/Facebook walled.
+- 9 Cloudflare-walled wave-1 PENDING names: WebFetch also 403; assessed via web.archive.org snapshots (2024-2026) - Officite/PBHS templates, none promoted to finalist; Larson, Hometown on bench.

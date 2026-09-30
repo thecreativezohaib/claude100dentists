@@ -1,0 +1,714 @@
+[
+ {
+  "name": "Rick Larson DDS",
+  "city": "Coppell",
+  "state": "TX",
+  "url": "https://www.ricklarsondds.com/",
+  "verdict": "BENCH ~67 - Officite template (Wayback 2025: generic title 'Coppell, TX Dentist', 8 imgs, (c) 2025 MH Sub I LLC dba Officite); Birdeye 5.0 (681); live site Cloudflare-walled (WebFetch 403) so verified via web.archive.org only; solo",
+  "approx_score": 67
+ },
+ {
+  "name": "21st Century Dental of Irving",
+  "city": "Irving",
+  "state": "TX",
+  "url": "https://www.21stcenturydental.com/",
+  "verdict": "BENCH ~66 - TNT template (CMS comment, footer no year, generic title); est. 1985 (About), 3 dentists (Roy/Bristow/Kumar), Birdeye ~925 + Yelp 116 (snippets); independence MEDIUM ('of Irving' naming); design fairly current",
+  "approx_score": 66
+ },
+ {
+  "name": "Hometown Family Dental",
+  "city": "Louisville (St. Matthews)",
+  "state": "KY",
+  "url": "https://www.hometownfamilydental502.com/",
+  "verdict": "BENCH ~66 - Officite 1-image site (Wayback 2024, (c) 2024 Officite); Birdeye 5.0 (721); 30+ yrs (wave-1 note); CF-walled live; general/low-ticket mix",
+  "approx_score": 66
+ },
+ {
+  "name": "Dove Dentistry",
+  "city": "Allen",
+  "state": "TX",
+  "url": "https://www.mydovedentist.com/",
+  "verdict": "VIABLE ~65 - ProSites v4.0 (c)2019 mojibake; Drs. Hsu & Yew; Birdeye 4.8 (394); est UNKNOWN",
+  "approx_score": 65
+ },
+ {
+  "name": "Bedford Family Dentistry",
+  "city": "New Braunfels",
+  "state": "TX",
+  "url": "https://www.bedfordfamilydentistry.com/",
+  "verdict": "VIABLE ~65 - ProSites v4.0 (c)2019; Drs. Don/Brev Bedford, Tami Herring; Birdeye 4.8 (226)",
+  "approx_score": 65
+ },
+ {
+  "name": "Denton Family Dentistry (Dr. Joseph Choi)",
+  "city": "Denton",
+  "state": "TX",
+  "url": "https://www.dentonfamilydentistry.com/",
+  "verdict": "VIABLE ~64 - ProSites v4.0 (c)2019; YP 31 yrs; Birdeye 4.8 (467); solo young-ish owner; 3 imgs",
+  "approx_score": 64
+ },
+ {
+  "name": "McDonald & Luck DDS",
+  "city": "Plano",
+  "state": "TX",
+  "url": "https://www.mcdonalddds.com/",
+  "verdict": "VIABLE ~65 - WEO Media .asp site, 30+ yrs, 2 docs; Birdeye 5.0 (240); (c) auto-updates to 2026 so no frozen year",
+  "approx_score": 65
+ },
+ {
+  "name": "Elwood Avenue Dental",
+  "city": "Jenks",
+  "state": "OK",
+  "url": "https://www.elwoodavenuedental.com/",
+  "verdict": "VIABLE ~65 - TNT keyword-spam title 'Dentist Near Me | Cost of Dental Care'; Birdeye 5.0 (2,250); 3 docs (Salayta/Pracht/Renfro); affordability/insurance positioning lowers FinCap; modern-ish template",
+  "approx_score": 65
+ },
+ {
+  "name": "Smiles of Tulsa",
+  "city": "Tulsa",
+  "state": "OK",
+  "url": "https://www.smilesoftulsa.com/",
+  "verdict": "VIABLE ~63 - WEO Media (.asp), implants/All-on-4; Birdeye 4.9 (269); est UNKNOWN",
+  "approx_score": 63
+ },
+ {
+  "name": "West U Dental Smiles (Dr. Yepez / Dodig)",
+  "city": "Houston (West U)",
+  "state": "TX",
+  "url": "https://www.westudental.com/",
+  "verdict": "VIABLE ~63 - TNT (c)2016 footer; Birdeye 4.9 (181); est UNKNOWN; ownership not checked beyond DSO scan",
+  "approx_score": 63
+ },
+ {
+  "name": "David C. Cunningham Jr. DDS",
+  "city": "The Woodlands",
+  "state": "TX",
+  "url": "https://www.dcunninghamdds.com/",
+  "verdict": "VIABLE ~62 - TNT (c)2018; since 1984; Birdeye 5.0 (127); solo",
+  "approx_score": 62
+ },
+ {
+  "name": "Cosmetic Dental Arts (Dr. Olson)",
+  "city": "Southlake",
+  "state": "TX",
+  "url": "https://www.cosmeticdentalarts.com/",
+  "verdict": "VIABLE ~60 - ProSites (c)2019, title has ZIP '76092'; YP 27 yrs; Birdeye only 13 reviews",
+  "approx_score": 60
+ },
+ {
+  "name": "Ken Berley DDS",
+  "city": "Rogers",
+  "state": "AR",
+  "url": "https://www.drkenberley.com/",
+  "verdict": "VIABLE ~62 - ProSites (c)2019; YP 46 yrs; Birdeye 4.9 (69); likely retirement horizon",
+  "approx_score": 62
+ },
+ {
+  "name": "Allen Smile Design (Dr. Tonie Lewis)",
+  "city": "Allen",
+  "state": "TX",
+  "url": "https://www.allensmiledesign.com/",
+  "verdict": "VIABLE ~63 - TNT (c)2020; Birdeye 4.9 (345); Dr. Lewis only ~15 yrs",
+  "approx_score": 63
+ },
+ {
+  "name": "Shannon Stokes DDS",
+  "city": "Plano",
+  "state": "TX",
+  "url": "https://www.shannonstokesdds.com/",
+  "verdict": "VIABLE ~60 - TNT (c)2014; Birdeye 4.9 (66)",
+  "approx_score": 60
+ },
+ {
+  "name": "C. Gary Simmons DDS",
+  "city": "Spring",
+  "state": "TX",
+  "url": "https://www.garysimmonsdds.com/",
+  "verdict": "VIABLE ~58 - TNT (c)2016; YP 41 yrs; Birdeye 4.8 (55); solo",
+  "approx_score": 58
+ },
+ {
+  "name": "Dileo Dental Group",
+  "city": "Metairie",
+  "state": "LA",
+  "url": "https://www.dileodentalgroupllc.com/",
+  "verdict": "VIABLE ~60 - ProSites (c)2019; YP 33 yrs; Birdeye 5.0 (97)",
+  "approx_score": 60
+ },
+ {
+  "name": "DuBois Dentistry",
+  "city": "New Orleans",
+  "state": "LA",
+  "url": "https://www.duboisdentistry.com/",
+  "verdict": "VIABLE ~55 - ProSites (c)2019; YP 42 yrs; Birdeye 4.8 (21) thin",
+  "approx_score": 55
+ },
+ {
+  "name": "Chaney Family Dentistry (Mark & Nicholas Chaney)",
+  "city": "New Orleans",
+  "state": "LA",
+  "url": "https://www.chaneyfamilydentistry.com/",
+  "verdict": "VIABLE ~58 - ProSites (c)2019; 2 docs; YP 70 yrs; Birdeye not matched",
+  "approx_score": 58
+ },
+ {
+  "name": "Joseph C. Steele DMD MS (prosthodontist)",
+  "city": "Bowling Green",
+  "state": "KY",
+  "url": "https://www.steeledmd.com/",
+  "verdict": "VIABLE ~58 - ProSites (c)2019; YP 33 yrs; Birdeye 4.2 (12) thin/mixed",
+  "approx_score": 58
+ },
+ {
+  "name": "Lawton Dentistry (David Drummond DDS)",
+  "city": "Lawton",
+  "state": "OK",
+  "url": "https://www.lawtondentistry.com/",
+  "verdict": "VIABLE ~55 - ProSites (c)2019; YP 44 yrs; retirement horizon",
+  "approx_score": 55
+ },
+ {
+  "name": "Sarah Pitarra DDS",
+  "city": "Corpus Christi",
+  "state": "TX",
+  "url": "https://www.corpuschristidentistry.com/",
+  "verdict": "REJECT-ish ~55 - current TNT template, airway/holistic focus; Birdeye 5.0 (479)",
+  "approx_score": 55
+ },
+ {
+  "name": "Matthews Dental Group",
+  "city": "College Station",
+  "state": "TX",
+  "url": "https://www.matthewsdental.net/",
+  "verdict": "VIABLE ~58 - Officite (Wayback 2024); 3 docs, 25+ yrs; Birdeye 5.0 (111); CF-walled live",
+  "approx_score": 58
+ },
+ {
+  "name": "Coppell Smiles (Prachi Deore DDS)",
+  "city": "Coppell",
+  "state": "TX",
+  "url": "https://www.coppellsmilesonline.com/",
+  "verdict": "VIABLE ~55 - Officite + Divi (Wayback 2026); Birdeye 4.5 (241); solo",
+  "approx_score": 55
+ },
+ {
+  "name": "Southaven Dental Care (C. Dean Umfress)",
+  "city": "Southaven",
+  "state": "MS",
+  "url": "https://www.southavendentalcare.net/",
+  "verdict": "VIABLE ~58 - Officite (Wayback 2025); 30 yrs; Birdeye 4.7 (505); price-led denture/Invisalign positioning (low FinCap)",
+  "approx_score": 58
+ },
+ {
+  "name": "Robert H. Dakin Jr. DDS",
+  "city": "Wichita",
+  "state": "KS",
+  "url": "https://www.dakindds.com/",
+  "verdict": "VIABLE ~52 - PBHS WordPress (Wayback 2025), 49 yrs, Birdeye 5.0 (121); retirement-horizon solo",
+  "approx_score": 52
+ },
+ {
+  "name": "Detmer Family Dentistry",
+  "city": "Maize",
+  "state": "KS",
+  "url": "https://www.detmerfamilydentistry.com/",
+  "verdict": "VIABLE ~54 - PBHS WordPress (Wayback 2025); family practice; Birdeye 5.0 (172)",
+  "approx_score": 54
+ },
+ {
+  "name": "Austin Prosthodontics (Ernesto Carmona)",
+  "city": "Austin",
+  "state": "TX",
+  "url": "https://austinprostheticdental.com/",
+  "verdict": "REJECT - Elementor/WordPress modern (Wayback 2025); CF/403",
+  "approx_score": 30
+ },
+ {
+  "name": "Ron S. White DDS",
+  "city": "Dripping Springs",
+  "state": "TX",
+  "url": "https://www.ronswhite.com/",
+  "verdict": "CF-walled (403 via curl and WebFetch); already logged in wave 1 - not re-screened",
+  "approx_score": 0
+ },
+ {
+  "name": "Bell Springs Family Dentistry (Dr. Marcelo Uriegas)",
+  "city": "Dripping Springs",
+  "state": "TX",
+  "url": "https://www.bellspringsfamilydentistry.com/",
+  "verdict": "VIABLE ~55 - ProSites (c)2019 mojibake, EMPTY <title>; but Google only 5.0 from 20 reviews",
+  "approx_score": 55
+ },
+ {
+  "name": "Brazos Dental Associates",
+  "city": "College Station",
+  "state": "TX",
+  "url": "https://www.brazosdentalassociates.com/",
+  "verdict": "VIABLE ~55 - Great Dental Websites; est 1976, Dr. Rychetsky; reviews UNKNOWN",
+  "approx_score": 55
+ },
+ {
+  "name": "Scasta Family Dentistry (J. Craig Scasta DDS)",
+  "city": "College Station",
+  "state": "TX",
+  "url": "https://www.scastadds.com/",
+  "verdict": "VIABLE ~56 - PBHS WordPress; Birdeye 5.0 (259+255); cosmetic/general; combined eye-care brand",
+  "approx_score": 56
+ },
+ {
+  "name": "Smiles by Design / Dr. Caffey-Earle",
+  "city": "Flower Mound",
+  "state": "TX",
+  "url": "https://www.drcaffeyearle.com/",
+  "verdict": "VIABLE ~52 - Doctor Genius (c)2014; reviews UNKNOWN",
+  "approx_score": 52
+ },
+ {
+  "name": "Saddle Creek Dental (Dr. Dod Moore)",
+  "city": "Waco (China Spring)",
+  "state": "TX",
+  "url": "https://www.saddlecreekdental.com/",
+  "verdict": "VIABLE ~58 - ProSites (c)2019; Birdeye 4.9 (837+874 profiles); rural-edge market lowers FinCap",
+  "approx_score": 58
+ },
+ {
+  "name": "Stone Oak Dental (Kurt Riewe)",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "https://www.mystoneoakdental.com/",
+  "verdict": "VIABLE ~55 - ProSites (fingerprint); Birdeye 4.9 (307); site returned empty body on re-check",
+  "approx_score": 55
+ },
+ {
+  "name": "Park Cities Dental Group (second Birdeye profile: Dr. Ted Smith)",
+  "city": "Dallas",
+  "state": "TX",
+  "url": "https://www.parkcitiesdentalgroup.com/",
+  "verdict": "DUPLICATE of finalist",
+  "approx_score": 0
+ },
+ {
+  "name": "Highland Park Dental (Aaron Jones DDS)",
+  "city": "Dallas",
+  "state": "TX",
+  "url": "https://www.hpdentist.com/",
+  "verdict": "REJECT - Elementor/Hello modern WP",
+  "approx_score": 25
+ },
+ {
+  "name": "Lovers Lane Dental",
+  "city": "Dallas",
+  "state": "TX",
+  "url": "https://www.loverslanedental.com/",
+  "verdict": "CF-walled; not assessed",
+  "approx_score": 40
+ },
+ {
+  "name": "Randall Dentistry (Drs. Randall/Evans)",
+  "city": "University Park",
+  "state": "TX",
+  "url": "https://drdrewrandall.com/",
+  "verdict": "REJECT - modern Salient/marketing-app site (c)2026",
+  "approx_score": 25
+ },
+ {
+  "name": "Inwood Village Dental",
+  "city": "Dallas",
+  "state": "TX",
+  "url": "https://inwoodvillagedental.com/",
+  "verdict": "REJECT - Elementor modern",
+  "approx_score": 25
+ },
+ {
+  "name": "Preston Hollow Dental Care & Orthodontics",
+  "city": "Dallas",
+  "state": "TX",
+  "url": "https://prestonhollowdentalcare.com/",
+  "verdict": "REJECT - OceanWP WP 6.8 modern; ortho group feel",
+  "approx_score": 30
+ },
+ {
+  "name": "Bryan Ritchey DDS",
+  "city": "Houston (Memorial)",
+  "state": "TX",
+  "url": "https://www.bryanritcheydds.com/",
+  "verdict": "REJECT - current (c)2026 custom",
+  "approx_score": 30
+ },
+ {
+  "name": "Naba Dental",
+  "city": "Houston",
+  "state": "TX",
+  "url": "https://www.nabadental.com/",
+  "verdict": "REJECT - modern WP",
+  "approx_score": 25
+ },
+ {
+  "name": "Memorial Dentists",
+  "city": "Houston",
+  "state": "TX",
+  "url": "https://memorialdentists.com/",
+  "verdict": "REJECT - modern Elementor",
+  "approx_score": 25
+ },
+ {
+  "name": "Parker Nickolas Read Dental",
+  "city": "Houston (Memorial)",
+  "state": "TX",
+  "url": "https://www.memorialdds.com/",
+  "verdict": "REJECT - agency-built current site",
+  "approx_score": 30
+ },
+ {
+  "name": "River Oaks Dentistry",
+  "city": "Houston",
+  "state": "TX",
+  "url": "https://www.riveroaksdentistry.com/",
+  "verdict": "REJECT - Wonderist agency site (2020)",
+  "approx_score": 30
+ },
+ {
+  "name": "River Oaks Dental Arts",
+  "city": "Houston",
+  "state": "TX",
+  "url": "https://www.riveroaksdentalarts.com/",
+  "verdict": "REJECT - Squarespace (c)2025 modern",
+  "approx_score": 30
+ },
+ {
+  "name": "William L. Krell DDS",
+  "city": "Houston",
+  "state": "TX",
+  "url": "https://krelldds.com/",
+  "verdict": "REJECT - modern (c)2026",
+  "approx_score": 25
+ },
+ {
+  "name": "Kenneth Curl DDS",
+  "city": "The Woodlands",
+  "state": "TX",
+  "url": "https://www.kennethcurldds.com/",
+  "verdict": "REJECT - Einstein site (c)2012-2024 but modern video hero; since 1980",
+  "approx_score": 40
+ },
+ {
+  "name": "Scott Young DDS",
+  "city": "The Woodlands",
+  "state": "TX",
+  "url": "https://www.scottyoungdds.com/",
+  "verdict": "REJECT - Einstein (c)2026 modern",
+  "approx_score": 25
+ },
+ {
+  "name": "Westlake Smiles (Dr. Vincent Ho)",
+  "city": "West Lake Hills",
+  "state": "TX",
+  "url": "https://www.westlakesmiles.com/",
+  "verdict": "PENDING ~50 - Divi WP (Animate.css 2015 only; no visible (c)); reviews UNKNOWN",
+  "approx_score": 50
+ },
+ {
+  "name": "Tomasik Family Dental",
+  "city": "Bee Cave",
+  "state": "TX",
+  "url": "https://www.tomasikdental.com/",
+  "verdict": "REJECT - modern, est 2010",
+  "approx_score": 25
+ },
+ {
+  "name": "Lakeway Dental Associates",
+  "city": "Lakeway",
+  "state": "TX",
+  "url": "https://www.lakewaydentalassociates.com/",
+  "verdict": "REJECT - (c)2026 modern",
+  "approx_score": 30
+ },
+ {
+  "name": "The Hills Dental Spa",
+  "city": "Austin",
+  "state": "TX",
+  "url": "https://www.thehillsdentalspa.com/",
+  "verdict": "REJECT - (c)2026 modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Joni Wallace DDS",
+  "city": "Austin (Tarrytown)",
+  "state": "TX",
+  "url": "https://www.drjoniwallace.com/",
+  "verdict": "REJECT - Elementor modern",
+  "approx_score": 25
+ },
+ {
+  "name": "Westlake Hills Dental (flatsome)",
+  "city": "Austin",
+  "state": "TX",
+  "url": "https://www.westlakehillsdental.com/",
+  "verdict": "REJECT - Flatsome (c)2026",
+  "approx_score": 25
+ },
+ {
+  "name": "Joshua Austin DDS & Associates",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "https://www.joshuaaustindds.com/",
+  "verdict": "REJECT - Wonderist 2022, est ~2010",
+  "approx_score": 30
+ },
+ {
+  "name": "Dental Care of San Antonio",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "https://www.dentalcareofsa.com/",
+  "verdict": "REJECT - Elementor (c)2025",
+  "approx_score": 25
+ },
+ {
+  "name": "Alamo Heights Dental (Dr. Dirk DeKoch)",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "https://alamoheightsdental.com/",
+  "verdict": "PENDING ~50 - Slider Revolution site, 40+ yrs Alamo Heights; no vendor/(c) fingerprint",
+  "approx_score": 50
+ },
+ {
+  "name": "Edward Castillon DDS",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "https://www.edwardcastillondds.com/",
+  "verdict": "CF-walled; not assessed",
+  "approx_score": 40
+ },
+ {
+  "name": "Mckinney Dentist (Dr. Marvin Berlin / Jeff Lynch)",
+  "city": "McKinney",
+  "state": "TX",
+  "url": "https://mckinneydentist.com/",
+  "verdict": "PENDING ~55 - Divi WP + TNT string; no visible frozen (c); reviews UNKNOWN",
+  "approx_score": 55
+ },
+ {
+  "name": "Prosper Dental Health",
+  "city": "Prosper",
+  "state": "TX",
+  "url": "https://www.prosperdentalhealth.com/",
+  "verdict": "REJECT - est 2014 (too young); TNT",
+  "approx_score": 40
+ },
+ {
+  "name": "Prosper Smiles Family Dentistry",
+  "city": "Prosper",
+  "state": "TX",
+  "url": "https://www.prospersmiles.com/",
+  "verdict": "REJECT - Great Dental Websites; Dr. Patel young practice",
+  "approx_score": 40
+ },
+ {
+  "name": "ProCare Dental Studio",
+  "city": "McKinney",
+  "state": "TX",
+  "url": "https://procaredentalstudio.com/",
+  "verdict": "REJECT - modern (c)2026",
+  "approx_score": 25
+ },
+ {
+  "name": "Smile For Miles Dental",
+  "city": "Southlake",
+  "state": "TX",
+  "url": "https://www.smileformilesdental.com/",
+  "verdict": "REJECT - modern WP (c)2025",
+  "approx_score": 25
+ },
+ {
+  "name": "Custom Dental of The Colony",
+  "city": "The Colony",
+  "state": "TX",
+  "url": "https://www.customdentalthecolony.com/",
+  "verdict": "VIABLE ~52 - Sesame 24-7; Drs. Tadi/Gates; possible Custom Dental group - independence unverified",
+  "approx_score": 52
+ },
+ {
+  "name": "Beverley Dental Center",
+  "city": "Carrollton",
+  "state": "TX",
+  "url": "https://www.beverlydentalcenter.com/",
+  "verdict": "REJECT - TNT site updated (c)2026",
+  "approx_score": 40
+ },
+ {
+  "name": "918 Dentist",
+  "city": "Glenpool (Tulsa)",
+  "state": "OK",
+  "url": "https://918dentist.com/",
+  "verdict": "REJECT - WPBakery/ekko (c)2026 modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Yale Avenue Dentistry (Dr. Molly Hays)",
+  "city": "Tulsa",
+  "state": "OK",
+  "url": "https://www.yaleave.com/",
+  "verdict": "REJECT - legacy marshallfamilydentists.com replaced by new site; est 1977, 476 Demandforce reviews",
+  "approx_score": 30
+ },
+ {
+  "name": "Wynn Dentistry",
+  "city": "Broken Arrow",
+  "state": "OK",
+  "url": "https://www.tulsadentistdds.com/",
+  "verdict": "REJECT - (c)2025 modern",
+  "approx_score": 25
+ },
+ {
+  "name": "Coffee Creek Family Dentistry",
+  "city": "Edmond",
+  "state": "OK",
+  "url": "https://coffeecreekfamilydentistry.com/",
+  "verdict": "REJECT - Elementor (c)2026",
+  "approx_score": 25
+ },
+ {
+  "name": "OKC Smiles (Dr. Kevin Murray)",
+  "city": "Moore/OKC",
+  "state": "OK",
+  "url": "https://www.okcdentalimplantdentistry.com/",
+  "verdict": "REJECT - WP 7.x (c)2026",
+  "approx_score": 30
+ },
+ {
+  "name": "Darlene Henry DMD",
+  "city": "Erlanger",
+  "state": "KY",
+  "url": "https://darlenesandwalldmd.com/",
+  "verdict": "REJECT-ish ~48 - WP 6.2 oshin (c)2023; 30+ yrs",
+  "approx_score": 48
+ },
+ {
+  "name": "Downtown Family Dentistry (Dr. Cynthia Rush Yeiser)",
+  "city": "Frankfort",
+  "state": "KY",
+  "url": "https://rushyeiserdentistry.com/",
+  "verdict": "VIABLE ~50 - Wix (c)2012 string; 78 yrs listed by YP; small market",
+  "approx_score": 50
+ },
+ {
+  "name": "Tammy Graham-Fortune DDS",
+  "city": "Louisville",
+  "state": "KY",
+  "url": "https://fortunedentalcenter.com/",
+  "verdict": "VIABLE ~52 - Wix (c)2021; 55 yrs YP",
+  "approx_score": 52
+ },
+ {
+  "name": "Susan M. King DMD",
+  "city": "Elizabethtown",
+  "state": "KY",
+  "url": "https://www.susankingdentistry.com/",
+  "verdict": "VIABLE ~50 - ProSites (c)2019; small market",
+  "approx_score": 50
+ },
+ {
+  "name": "1st Dental",
+  "city": "Hattiesburg",
+  "state": "MS",
+  "url": "https://1stdentalhattiesburg.com/",
+  "verdict": "VIABLE ~52 - ProSites (c)2019; YP 42 yrs; Jackson MS pool thin",
+  "approx_score": 52
+ },
+ {
+  "name": "Tramel & Brown Dentistry",
+  "city": "Ridgeland",
+  "state": "MS",
+  "url": "https://www.tramelandbrowndentistry.com/",
+  "verdict": "VIABLE ~55 - ProSites (c)2019; 2 docs; Jackson-metro",
+  "approx_score": 55
+ },
+ {
+  "name": "Fern Avenue Dentistry",
+  "city": "Shreveport",
+  "state": "LA",
+  "url": "https://www.fernavenuedentistry.com/",
+  "verdict": "VIABLE ~52 - ProSites (c)2019; YP 22 yrs",
+  "approx_score": 52
+ },
+ {
+  "name": "Bear Creek Family Dentistry",
+  "city": "Dallas",
+  "state": "TX",
+  "url": "https://www.bearcreekfamilydentistry.com/",
+  "verdict": "REJECT - multi-location group (10+ Birdeye profiles)",
+  "approx_score": 15
+ },
+ {
+  "name": "Lifetime Dental (Austin/Boerne group)",
+  "city": "Austin",
+  "state": "TX",
+  "url": "https://www.lifetimedental.com/",
+  "verdict": "REJECT - multi-location group brand",
+  "approx_score": 15
+ },
+ {
+  "name": "Ideal Dental",
+  "city": "Multiple",
+  "state": "TX",
+  "url": "https://www.myidealdental.com/",
+  "verdict": "REJECT - DSO (Ideal Dental)",
+  "approx_score": 0
+ },
+ {
+  "name": "Clear Lake Dentistry (Dr. Robert Blanchard)",
+  "city": "Houston (Clear Lake)",
+  "state": "TX",
+  "url": "https://www.clearlakedentistry.com/",
+  "verdict": "VIABLE ~55 - ProSites (c)2019; YP 36 yrs; Birdeye not matched",
+  "approx_score": 55
+ },
+ {
+  "name": "Dental Associates of Houston",
+  "city": "Houston",
+  "state": "TX",
+  "url": "https://www.dentalassociatesofhouston.com/",
+  "verdict": "VIABLE ~52 - ProSites (c)2019; YP 30 yrs; multi-doctor; ownership not verified",
+  "approx_score": 52
+ },
+ {
+  "name": "Tillman Dentistry (David Tillman DDS)",
+  "city": "Fort Worth",
+  "state": "TX",
+  "url": "https://www.tillmansmiles.com/",
+  "verdict": "VIABLE ~55 - TNT (c)2014; YP 33 yrs; Birdeye not matched",
+  "approx_score": 55
+ },
+ {
+  "name": "Johnny Cheng DDS (Hulen)",
+  "city": "Fort Worth",
+  "state": "TX",
+  "url": "https://www.hulendental.com/",
+  "verdict": "VIABLE ~50 - TNT keyword-spam title; 49 yrs; Birdeye 5.0 (18) thin",
+  "approx_score": 50
+ },
+ {
+  "name": "Barrett L. Bartell DDS",
+  "city": "Fort Worth",
+  "state": "TX",
+  "url": "https://www.bartelldds.com/",
+  "verdict": "PENDING ~55 - Practice Cafe (c)2013 per scan; Birdeye 4.9 (181); site returned empty body on re-check",
+  "approx_score": 55
+ },
+ {
+  "name": "Weaver & Jaynes DDS",
+  "city": "Beaumont",
+  "state": "TX",
+  "url": "https://www.weaverandjaynesdentistry.com/",
+  "verdict": "VIABLE ~55 - GoDaddy (c)2015, 45 yrs, 2 docs; reviews not matched",
+  "approx_score": 55
+ },
+ {
+  "name": "Mark Wood DDS / Corinth Dentistry",
+  "city": "Leawood/Prairie Village",
+  "state": "KS",
+  "url": "https://www.corinthdentistry.com/",
+  "verdict": "VIABLE ~52 - ProSites (c)2019; KC-metro border",
+  "approx_score": 52
+ }
+]
