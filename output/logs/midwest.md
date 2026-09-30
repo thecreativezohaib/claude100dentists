@@ -1185,3 +1185,87 @@ Job A (review-count enrichment; sources: WebSearch snippets of Birdeye/Yelp/Heal
 - JOB A | Fox Valley Dental Associates (Tami Zuck DDS) | Crystal Lake, IL | foxvalleydentalcl.com | 60 -> 71 MEDIUM-HIGH | 4.9 on ~1,180 reviews (Birdeye reviews.birdeye.com/fox-valley-dental-associates-158405325650813, page 75 of listing); serving Crystal Lake since 1994 (Healthgrades directory snippet).
 - JOB A | DeLeon Family Dental | Wheaton / Glen Ellyn, IL | deleonfamilydental.com | 59 -> 57 MEDIUM | Yelp 12 reviews; Facebook 98% recommend (WebSearch). Thin corpus. Site re-verified live 200.
 - JOB A | Alexander Dentistry (Kim A. Alexander DDS) | Greenwood, IN | alexanderdentistry.net | 57 -> 56 MEDIUM | Healthgrades 14 reviews (Dr. Alexander); DDS 1997, 20+ yrs in Greenwood; rated 5 on Yellow Pages (WebSearch). Thin corpus.
+
+Job B (method: curl-fingerprint of 268 wave-1 leftovers [direct + web.archive.org for bot-walled], then YellowPages city-page crawl of 112 fresh towns -> 3,913 new practice domains fingerprinted; review counts via Demandforce public pages local.demandforce.com/b/<slug>; WebSearch budget was exhausted after Job A)
+- Southdale Dental Associates | Edina, MN | sdadental.com | VIABLE 77 — Wix; 1,140 reviews, 5-star aggregate, 98.9% would refer (Demandforce local.demandforce.com/b/sdadental, VERIFIED via fetch; patients listed as customers si
+- Harbor Dental | Plymouth, MN | harbordentalmn.com | VIABLE 75 — ProSites; 2,941 reviews, 5-star aggregate, 99.4% would refer (Demandforce local.demandforce.com/b/harbordentalmn, VERIFIED via fetch; customers since 1995 shown
+- Gates Family Dentistry | Loveland, OH | gatesfamilydentistry.com | VIABLE 73 — ProSites; 1,994 reviews, 5-star aggregate, 99.2% would refer (Demandforce local.demandforce.com/b/gatesfamilydentistry, VERIFIED via fetch; customers since 1992
+- Oak Brook Dental Center | Elmhurst, IL | oakbrookdentalcenter.com | VIABLE 73 — Custom-dated; 3,478 reviews, 5-star aggregate (Demandforce local.demandforce.com/b/oakbrookdentalcenter, VERIFIED via fetch). None surfaced on the 9-page static sit
+- Fishers Family Dentistry | Fishers, IN | fishersfamilydentistry.com | VIABLE 71 — ProSites; 3,957 reviews, 5-star aggregate, 99.5% would refer (Demandforce local.demandforce.com/b/fishersfamilydentistry, VERIFIED via fetch). The homepage carr
+- March Dentistry | Upper Arlington (Columbus), OH | marchdentistry.com | VIABLE 70 — Custom-dated; 3,331 reviews, 5-star aggregate, 99.6% would refer (Demandforce local.demandforce.com/b/marchdentistry, VERIFIED via fetch; customers since 2002 shown
+- Booker Family Dentistry | Trenton, MI | downriversmiles.com | VIABLE 67 — Officite; 2,247 reviews, 5-star aggregate, 99.7% would refer (Demandforce local.demandforce.com/b/bookerfamilydentistry, VERIFIED via fetch); 'Patient Reviews' 
+- Friedman Family & Cosmetic Dentistry | Westfield, IN | friedmanfamilydentistry.com | VIABLE 66 — Custom-dated; 979 reviews, 5-star aggregate, 99.3% would refer (Demandforce local.demandforce.com/b/friedmanfamilydentistry, VERIFIED via fetch; customers since 200
+- Artisan Dental | Madison, WI | artisandentalmadison.com | REJECT — TNT WP current (WP 7.1.2); 529 Demandforce reviews
+- Boger Dental | Minneapolis, MN | bogerdental.com | REJECT — modern WP 7.1; 813 Demandforce reviews; 50-yr Plymouth MN practice, site not weak
+- Advanced Dental Solutions | Crystal Lake, IL | cldentist.com | NEAR-MISS ~58 — ProSites ©2019, Dr. Mistie Norten, 396 Demandforce reviews, Crystal Lake IL
+- Crowder Richard DDS | Lenexa, KS | crowderfamilydentistry.com | NEAR-MISS ~66 — Officite ©2025, est. 2006, 1,618 Demandforce reviews; weak quotable defect, younger practice
+- Corinth Dental Care | Leawood, KS | corinthdentalcare.com | NEAR-MISS ~60 — Sesame 24-7, Dr. Tricia Halford solo, Prairie Village KS, 414 Demandforce reviews, est. UNKNOWN
+- Duff Family Dental | Springfield, MO | dufffamilydental.com | REJECT — modern custom site ©2026; 1,422 Demandforce reviews
+- Family SmileCare Center | Cedar Rapids, IA | familysmilecarecenter.com | NEAR-MISS ~64 — Officite, Drs Stodola/Recker, 3,558 Demandforce reviews, est. year UNKNOWN, Cedar Rapids
+- Levan Dental Group | Livonia, MI | levandentalgroup.com | REJECT — modern WPBakery/Slider Revolution site; 1,087 Demandforce reviews
+- Lakebrink Dental | Liberty, MO | lakebrinkdental.com | REJECT — modern WP 7.1 + WPBakery ©2026 (Milestone footer only); 884 Demandforce reviews
+- Stacie A Piacsek, DDS | Oconomowoc, WI | lspdental.com | LEAD — Drs. Leaman, Setnicar & Piacsek, Oconomowoc WI: Demandforce (635 reviews) lists lspdental.com but the live domain serves an Indonesian slot-gambling page (title 'RAJAPOLA : Platform Slot Gacor'); practice's current site UNKNOWN — worth a call
+- Mulka Dental | Livonia, MI | mulkadental.com | NEAR-MISS ~61 — ProSites ©2019, since 1997 Dr. Laurie Mulka, 386 Demandforce reviews, Livonia/Redford MI
+- Wallace Group Dentistry | Cincinnati, OH | wallacegroupdentistry.com | REJECT-ish ~58 — Officite, Norwood OH, Dr. Graham (2019) mentored by Dr. Wallace; 663 Demandforce reviews; modest market
+- Weimar Family & Implant Dentistry | Maple Grove, MN | weimardds.com | REJECT — modern site (©2026, WP 7.1, no vendor credit); 861 Demandforce reviews, Dr. Weimar 34 yrs
+- First Impressions Family Dental Care | Westfield, IN | firstimpressionsdental.com | NEAR-MISS ~60 — ©2019 WP, Westfield IN, Dr. Flannagan solo since 1995, 762 Demandforce reviews
+- Hurley Family Dentistry | Chesterfield, MO | hurleyfamilydentistry.net | NEAR-MISS ~60 — Great Dental Websites, Chesterfield MO, 499 Demandforce reviews; est. UNKNOWN
+- Oak Cliff Dental Care - Eagan | Eagan, MN | oakcliffdentalcare.com | NEAR-MISS ~60 — ProSites, Eagan MN, Drs Bellmont/Vossen, 357 Demandforce reviews
+- Whitt, Cheryl, DDS | Westlake, OH | beautifulsmileswestlake.com | NEAR-MISS ~60 — ©2013 static site, Westlake OH, Dr. Maryam Azadi solo, 310 Demandforce reviews
+- Frankfort Smiles Dental | Frankfort, IL | frankfortsmilesdental.com | REJECT — Divi WP, est. 2009, modern (DiviCode); 407 Demandforce reviews
+- Brown, Miranda M, DDS | Brookfield, WI | brookfielddentalcare.com | NEAR-MISS ~65 — Sesame 24-7, Drs Resop/Lundgren, 1,110 Demandforce reviews; est. year UNKNOWN, Brookfield WI
+- Dr Heidi Bunch | New Albany, OH | beechercrossingdentalgroup.com | REJECT — Runion Dental Group, modern WPBakery ©2026; 1,212 Demandforce reviews
+- Country Club Dental Care | West Des Moines, IA | countryclubdental.com | NEAR-MISS ~62 — ©2017 WPBakery, West Des Moines, Dr. Larry Long, All-on-4, 275 Demandforce reviews
+- Meuselbach Robt Scott DDS Inc | West Chester, OH | drmeuselbach.com | NEAR-MISS ~58 — Sesame, West Chester OH solo, 282 Demandforce reviews
+- Frankart Family Dental | Loveland, OH | frankartfamilydental.com | REJECT — WEO Media current (©2023-2026); 1,954 Demandforce reviews, Mason OH
+- Dental Innovations | Omaha, NE | dentistryomaha.com | NEAR-MISS ~58 — AIOSEO WP, Dr. Danahay solo, 519 Demandforce reviews, Omaha
+- CAP Dental Care | Naperville, IL | capdentalcare.com | NEAR-MISS ~65 — Divi WP by DIGI SEARCH, Drs Pang/Chen practicing since 1997, 822 Demandforce reviews, Naperville; weak quotable defect
+- Ryan Dental | Olathe, KS | ryandental.com | REJECT — Practice Cafe current ©2026; 1,024 Demandforce reviews
+- Bander, Samuel T, DDS | Ada, MI | drsambander.com | REJECT — legacy domain hijacked (redirects to kalamisposh.com gambling site); practice now runs banderdentalgroup.com (modern, 4 docs)
+- Dever Dental | West Chester, OH | deverdental.com | NEAR-MISS ~62 — Squarespace, since 1976, Dr. Martha Dever, 763 Demandforce reviews; fairly modern (video by Lemonlight), West Chester OH
+- Southdale Family Dentistry | Edina, MN | edinasedationdentist.com | REJECT — modern WP; Demandforce 574
+- Cody Welding DDS PA | Prairie Village, KS | codyweldingddspa.localsearch.com | NEAR-MISS ~55 — YP/Thryv listing page; real site prairiedentalkc.com (Wix, see that entry)
+- prairiedentalkc.com | ,  | prairiedentalkc.com | NEAR-MISS ~55 — Wix built after Dr. Welding bought Dr. Faerber's practice in 2025 (footer '© 2035'); 1,397 Demandforce reviews; new owner just invested in site
+- Eola Dental | Naperville, IL | eoladental.com | WEAK-SITE (vendor/old ©) ; 25+ yrs; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Family Dental Center | Glenview, IL | glenviewfamilydental.com | WEAK-SITE (vendor/old ©) ; since 2006; 40+ yrs; ~11 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Radiante Dental & Facial | Elmhurst, IL | radiantedentalfacial.com | WEAK-SITE (vendor/old ©) ; 30+ yrs; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Barone, Nicholas J, DDS | Farmington Hills, MI | baronefamilydental.com | WEAK-SITE (vendor/old ©) ; 40+ yrs; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Centennial Lakes Dental Group | Edina, MN | centlakedent.com | WEAK-SITE (vendor/old ©) ; since 1974; ~13 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Marchese, Frank J, DDS | Lisle, IL | arbordentalcare.com | WEAK-SITE (vendor/old ©) ; 30+ yrs; ~6 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Oral-Maxillofacial-Lake County | Lake Forest, IL | oralsurgeonsoflakecounty.com | WEAK-SITE (vendor/old ©) ; 30+ yrs; ~5 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Glacier Lake Dental | Lakeville, MN | glacierlakedental.com | WEAK-SITE (vendor/old ©) ; since 1996; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Breen, Randy J, DDS | East Grand Rapids, MI | breenfamilydentistry.com | WEAK-SITE (vendor/old ©) ; since 1985; 26+ yrs; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Everly, Everly and Mercho Dental | Carmel, IN | everlydentalandassociates.com | WEAK-SITE (vendor/old ©) ; since 1971; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Van Buren Dental | Dayton, OH | vanburendental.com | WEAK-SITE (vendor/old ©) ; since 1966; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Zulawinski, Brian P, DDS | Arlington Heights, IL | dentistarlingtonheights.com | WEAK-SITE (vendor/old ©) ; since 1952; ~10 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Dr. Timothy S Berger, DMD | Fort Wayne, IN | bergerdentistry.com | WEAK-SITE (vendor/old ©) ; since 1954; 50+ yrs; ~7 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- CORE Dental | St Charles, IL | coredentalstcharles.com | WEAK-SITE (vendor/old ©) ; 35+ yrs; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Embree Sandra | Ann Arbor, MI | embreedentistry.com | WEAK-SITE (vendor/old ©) ; since 2007; 20+ yrs; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Countryside Dental | Buffalo Grove, IL | countrysidedentist.com | WEAK-SITE (vendor/old ©) ; since 1992; ~6 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Burnsville Family Dental | Burnsville, MN | burnsvillefamilydental.com | WEAK-SITE (vendor/old ©) ; since 1994; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Stewart, Amanda, DDS | Ankeny, IA | ankenysmiles.com | WEAK-SITE (vendor/old ©) ; since 1984; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Sachs Dental: Cynthia M. Sachs DDS, PC | Rockford, IL | sachsdental.net | WEAK-SITE (vendor/old ©) ; since 1978; 21+ yrs; ~6 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Smile Specialties | Lincoln, NE | smilespecialties.com | WEAK-SITE (vendor/old ©) ; since 2002; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Nymberg, Thomas R, DDS | Mason, OH | docnymberg.com | WEAK-SITE (vendor/old ©) ; since 1999; 35+ yrs; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Michael D Salkovitch D.D.S., Inc | Solon, OH | drsalk.com | WEAK-SITE (vendor/old ©) ; since 1974; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Wildhorse Dental | Chesterfield, MO | wildhorsedental.com | WEAK-SITE (vendor/old ©) ; since 2000; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- James L McDonald DDS | Fargo, ND | mgdentalonline.com | WEAK-SITE (vendor/old ©) ; since 2004; ~5 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Costello Dental Excellence | Arlington Heights, IL | costellodental.com | WEAK-SITE (vendor/old ©) ; since 1966; 55+ yrs; ~7 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Bobcock & Morgan Family Dental | Prior Lake, MN | mypriorlakedentist.com | WEAK-SITE (vendor/old ©) ; 20+ yrs; ~6 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Tinsley, William S, DDS | Liberty, MO | seaportdentistry.com | WEAK-SITE (vendor/old ©) ; since 1989; 30+ yrs; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Brian  Miller DDS | Ankeny, IA | ankenydentalassoc.com | WEAK-SITE (vendor/old ©) ; 20+ yrs; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Michigan Center for Tmj and Sleep Wellness | Troy, MI | michigantmjandsleep.com | WEAK-SITE (vendor/old ©) ; 25+ yrs; ~5 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Agarwal, Manika, DDS | Elmhurst, IL | smilesbyaos.com | WEAK-SITE (vendor/old ©) ; 20+ yrs; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Gerome & Patrice Family Dentistry | Loveland, OH | geromefamilydentistry.com | WEAK-SITE (vendor/old ©) ; 30+ yrs; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Everwell Dentistry | Ann Arbor, MI | everwelldentistry.com | WEAK-SITE (vendor/old ©) ; since 2007; 20+ yrs; ~3 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Distinctive Smile Design | Orland Park, IL | distinctivesmiledesign.com | WEAK-SITE (vendor/old ©) ; since 1987; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Hoover Dental | Omaha, NE | hooverdental.org | WEAK-SITE (vendor/old ©) ; 50+ yrs; ~6 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Farian Zenon Inc | Shaker Heights, OH | drfarian.com | WEAK-SITE (vendor/old ©) ; 30+ yrs; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Affiliated Dentists SC | Madison, WI | affiliateddentists.com | WEAK-SITE (vendor/old ©) ; since 1997; ~6 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Dr Jeffrey Forr Est Dds | Novi, MI | drforrestdds.com | WEAK-SITE (vendor/old ©) ; since 1970; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Advanced Dental Associates | Lees Summit, MO | advanceddentalkc.com | WEAK-SITE (vendor/old ©) ; since 1989; ~8 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Dr. Maczko and Associates Ltd. | Arlington Heights, IL | mkmdental.com | WEAK-SITE (vendor/old ©) ; 30+ yrs; ~5 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- Shadow Ridge Dental | Elkhorn, NE | shadowridgedental.com | WEAK-SITE (vendor/old ©) ; since 2004; ~4 doctors named; reviews UNKNOWN — LEAD: multi-doctor established practice, needs review-count enrichment
+- BULK: 4182 practice domains screened in wave 2 (fingerprint only for non-flagged); full list with verdicts in output/work/midwest_wave2_candidates.json
+- NOTE: one stray curl to a Google URL (max-time 1s, output discarded) was issued by mistake during wave 2; no Google/Bing/DDG scraping was otherwise performed.
+- EXCLUDED/DSO checks: no finalist domain or name found in EXCLUSIONS.md; raw HTML scanned for DSO strings (none). harbordentalmn.com and downriversmiles.com had been flagged VENDOR-FLAGGED in wave 1 candidates and are promoted here.

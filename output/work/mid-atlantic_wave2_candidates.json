@@ -1,0 +1,994 @@
+[
+ {
+  "name": "Mid State Dental (Friedman/Grater/Williams/Sandusky)",
+  "city": "Harrisburg",
+  "state": "PA",
+  "url": "https://www.friedmangrater.com/",
+  "verdict": "BENCH ~65 - Televox/Milestone CMS 6.0, dead plus.google.com link; Birdeye 331 (4.9); 4 docs, 38th annual Free Dental Day; general-family mix, lower ticket; Dr. Steven Grater DM",
+  "approx_score": 65
+ },
+ {
+  "name": "Dean Dental (Drs. Stacy & Jessica Dean)",
+  "city": "Washington",
+  "state": "PA",
+  "url": "https://www.deandentalteam.com/",
+  "verdict": "BENCH ~66 borderline - TNT; Birdeye 770 (5.0); sister-owned 10 yrs; no (c) year, 10/36 imgs no alt; younger practice",
+  "approx_score": 66
+ },
+ {
+  "name": "Fredericksburg Dental Care (Drs. Fusaro, Johnson, Duong)",
+  "city": "Fredericksburg",
+  "state": "VA",
+  "url": "https://www.fredericksburgdentalcare.com/",
+  "verdict": "BENCH ~66 - DIY Squarespace, UA-140230486-5; Birdeye 1,197 (4.8); 3 docs; est UNKNOWN; independence unconfirmed",
+  "approx_score": 66
+ },
+ {
+  "name": "Tomchik Family Dentistry (Jayme Tomchik DMD)",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "url": "https://www.tomchikdental.com/",
+  "verdict": "BENCH ~65 - ProSites; Birdeye 527 (4.9); solo, Pitt 1991",
+  "approx_score": 65
+ },
+ {
+  "name": "Charlottesville Dental Health Partners (Dr. Zachary Paukert)",
+  "city": "Charlottesville",
+  "state": "VA",
+  "url": "https://www.charlottesvilledental.com/",
+  "verdict": "BENCH ~64 - DIY Squarespace, 30+ yrs claimed; Birdeye 3,102 (5.0) looks aggregated; site fairly clean; 4-day week",
+  "approx_score": 64
+ },
+ {
+  "name": "Pike Creek Dental",
+  "city": "Wilmington",
+  "state": "DE",
+  "url": "https://pikecreekdental.com/",
+  "verdict": "BENCH ~64 - WP/Porto, (c) Copyright 2019 footer, header typo '14901 LIMESTONE ROAD'; Birdeye 1,765 (4.9); 45+ yrs; site not weak enough",
+  "approx_score": 64
+ },
+ {
+  "name": "Gwaltney Dental (Drs. J. Ryland, Steve, Whitney Gwaltney)",
+  "city": "Suffolk",
+  "state": "VA",
+  "url": "https://www.gwaltneydental.net/",
+  "verdict": "BENCH ~62 - Dental Revenue WP theme (modern); since 1983; 3 family docs; Birdeye 607; intermittent 403 for non-www",
+  "approx_score": 62
+ },
+ {
+  "name": "Center One Dental (Dr. Raj Vekariya)",
+  "city": "Canonsburg",
+  "state": "PA",
+  "url": "https://www.centeronedental.com/",
+  "verdict": "BENCH ~62 - TNT (c)2018, keyword title, 2020 COVID letter on homepage; Birdeye 128-149; single doc; est UNKNOWN",
+  "approx_score": 62
+ },
+ {
+  "name": "Newark Dental Associates",
+  "city": "Newark",
+  "state": "DE",
+  "url": "https://newarkdental.com/",
+  "verdict": "BENCH ~60 - Elementor WP (c) 2020; Birdeye 65 (4.6); est 1962",
+  "approx_score": 60
+ },
+ {
+  "name": "Dental Health First (Drs. Vaughan & Yokum)",
+  "city": "Washington",
+  "state": "PA",
+  "url": "https://www.dentalhealthfirst.com/",
+  "verdict": "BENCH ~60 - TNT, since 1979; review count UNKNOWN; small market",
+  "approx_score": 60
+ },
+ {
+  "name": "Yorkshire Dental (Dr. Bommu)",
+  "city": "York",
+  "state": "PA",
+  "url": "https://www.yorkshiredentalpllc.com/",
+  "verdict": "BENCH ~58 - ProSites; Birdeye 550 (4.7); insurance-driven general practice, dentures, lower ticket",
+  "approx_score": 58
+ },
+ {
+  "name": "Aesthetic Dental Arts",
+  "city": "York",
+  "state": "PA",
+  "url": "https://www.aestheticdentalarts.com/",
+  "verdict": "UNVERIFIED ~55 - TNT; not researched further",
+  "approx_score": 55
+ },
+ {
+  "name": "Delaney and Burke Dental Group",
+  "city": "Lutherville",
+  "state": "MD",
+  "url": "https://delaneydental.com/",
+  "verdict": "BENCH ~58 - ProSites; Roland Park/Lutherville; no review data found",
+  "approx_score": 58
+ },
+ {
+  "name": "Kelliher Family Dentists",
+  "city": "Springfield",
+  "state": "VA",
+  "url": "https://www.kelliherfamilydentists.com/",
+  "verdict": "BENCH ~58 - Wix (c)2020; est 1962; public review corpus thin (Yelp 1, FB 5)",
+  "approx_score": 58
+ },
+ {
+  "name": "Canton Dental Associates",
+  "city": "Baltimore",
+  "state": "MD",
+  "url": "https://www.cantondentalassociates.com/",
+  "verdict": "BENCH ~58 - 3 female docs; Birdeye 8, Yelp 84; ownership UNKNOWN",
+  "approx_score": 58
+ },
+ {
+  "name": "Gregory Hillyard DMD / Dr. Alexandra Monroe",
+  "city": "Media",
+  "state": "PA",
+  "url": "https://www.drgregoryhillyard.com/",
+  "verdict": "BENCH ~60 - Dental Revenue; practice since 1991; Birdeye 335",
+  "approx_score": 60
+ },
+ {
+  "name": "Feddock Family Dentistry (Todd J. Feddock DMD)",
+  "city": "Lancaster",
+  "state": "PA",
+  "url": "https://www.toddjfeddock.com/",
+  "verdict": "BENCH ~60 - ProSites; Birdeye 438 (4.9); solo; est UNKNOWN",
+  "approx_score": 60
+ },
+ {
+  "name": "Margaret A. Beamer DDS",
+  "city": "Canonsburg",
+  "state": "PA",
+  "url": "https://margaretabeamerdds.com/",
+  "verdict": "REJECT - thin public corpus (HG 11, CoC 6); solo 30+ yrs",
+  "approx_score": 50
+ },
+ {
+  "name": "John L. Waldman DMD (Prosthodontist)",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "url": "https://pittsburghsmilemakeover.com/",
+  "verdict": "REJECT - not accepting new patients; thin corpus (HG 25)",
+  "approx_score": 50
+ },
+ {
+  "name": "Trahos Dental",
+  "city": "Fredericksburg",
+  "state": "VA",
+  "url": "https://myfredericksburgdentist.com/",
+  "verdict": "REJECT - mixed reputation (HG 3.9), WP (c)2020",
+  "approx_score": 50
+ },
+ {
+  "name": "Cherry Family Dental (Dennis Cherry DMD)",
+  "city": "Severna Park",
+  "state": "MD",
+  "url": "https://www.cherryfamilydental.com/",
+  "verdict": "REJECT - ~4.0 rating, complaints; ProSites",
+  "approx_score": 40
+ },
+ {
+  "name": "Costa Dentistry",
+  "city": "Great Falls",
+  "state": "VA",
+  "url": "https://costasmiles.com/",
+  "verdict": "REJECT - modern WP",
+  "approx_score": 30
+ },
+ {
+  "name": "Signature Smiles (Chesapeake)",
+  "city": "Chesapeake",
+  "state": "VA",
+  "url": "https://www.cosmeticdentistchesapeake.com/",
+  "verdict": "REJECT - DSO: 'A Division of Atlantic Dental Care, PLC'",
+  "approx_score": 0
+ },
+ {
+  "name": "Elevate Dental Studio",
+  "city": "Haymarket",
+  "state": "VA",
+  "url": "https://www.elevatedentalhaymarket.com/",
+  "verdict": "REJECT - modern site",
+  "approx_score": 30
+ },
+ {
+  "name": "Richmond Dentistry (Rossetti/Cosby/Kondorossy)",
+  "city": "Richmond",
+  "state": "VA",
+  "url": "https://www.richmond-dentistry.com/",
+  "verdict": "REJECT - modern WP",
+  "approx_score": 30
+ },
+ {
+  "name": "Winchester Dental Studio",
+  "city": "Winchester",
+  "state": "VA",
+  "url": "https://winchesterdentalstudio.com/",
+  "verdict": "REJECT - modern WP 6.7",
+  "approx_score": 30
+ },
+ {
+  "name": "Chestnut Hill Dental (Flourtown)",
+  "city": "Flourtown",
+  "state": "PA",
+  "url": "https://www.chestnuthilldental.dentist/",
+  "verdict": "UNVERIFIED ~45 - Sesame; not researched",
+  "approx_score": 45
+ },
+ {
+  "name": "Elite Dentistry of Monroeville (formerly Dr Larry Suher & Assoc)",
+  "city": "Monroeville",
+  "state": "PA",
+  "url": "https://elitedentistrymonroeville.com/",
+  "verdict": "BENCH-UNVERIFIED ~59 - Birdeye 1318 (4.6); vendor jarvis; (c) 2026; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 59
+ },
+ {
+  "name": "Dunlap Dental",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "url": "https://dunlapdental.com/",
+  "verdict": "BENCH-UNVERIFIED ~58 - Birdeye 1192 (4.9); vendor squarespace; (c) none; age unknown; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 58
+ },
+ {
+  "name": "Nittany Dental Associates",
+  "city": "State College",
+  "state": "PA",
+  "url": "https://nittanydental.com/",
+  "verdict": "BENCH-UNVERIFIED ~59 - Birdeye 1053 (5); vendor wix.com; (c) none; since/yrs: ['2004']; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 59
+ },
+ {
+  "name": "Dr. Luis Loza, DDS",
+  "city": "Leesburg",
+  "state": "VA",
+  "url": "https://leesburgdental.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 1043 (4.9); vendor jarvis; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Perlman Family Dentistry",
+  "city": "Hampton",
+  "state": "VA",
+  "url": "https://perlmandds.com/",
+  "verdict": "BENCH-UNVERIFIED ~59 - Birdeye 995 (4.9); vendor thryv; (c) none; since/yrs: ['20']; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 59
+ },
+ {
+  "name": "First Dental of West Chester",
+  "city": "West Chester",
+  "state": "PA",
+  "url": "https://firstdentalofwc.com/",
+  "verdict": "BENCH-UNVERIFIED ~59 - Birdeye 986 (4.9); vendor n/a; (c) 2015; since/yrs: ['70']; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 59
+ },
+ {
+  "name": "Easton Family Dental",
+  "city": "Easton",
+  "state": "MD",
+  "url": "https://eastonfamilydentist.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 973 (5); vendor squarespace; (c) none; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "McDonald Family Dentistry",
+  "city": "Roanoke",
+  "state": "VA",
+  "url": "https://mcdonaldsdds.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 952 (5); vendor greatdentalwebsites; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Reston Dental Care",
+  "city": "Reston",
+  "state": "VA",
+  "url": "https://restondental.com/",
+  "verdict": "BENCH-UNVERIFIED ~59 - Birdeye 944 (4.8); vendor dentalqore; (c) 2026; since/yrs: ['1995']; 5 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 59
+ },
+ {
+  "name": "Highlandtown Dental Group",
+  "city": "Baltimore",
+  "state": "MD",
+  "url": "https://highlandtowndentalgroup.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 942 (4.8); vendor dentalqore; (c) 2026; age unknown; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Tri-Hill Family Dentistry",
+  "city": "York",
+  "state": "PA",
+  "url": "https://trihillfamilydentistry.net/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 911 (4.9); vendor n/a; (c) 2011; age unknown; 7 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Media Family Dentistry | Dr. Hitesh Sachdeva",
+  "city": "Media",
+  "state": "PA",
+  "url": "https://mediafamilydentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 910 (4.9); vendor sesame; (c) none; age unknown; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Summit Dental: Peter Karian, DDS",
+  "city": "Middletown",
+  "state": "DE",
+  "url": "https://summitdentalmiddletown.com/",
+  "verdict": "BENCH-UNVERIFIED ~58 - Birdeye 880 (4.9); vendor greatdentalwebsites; (c) none; since/yrs: ['28']; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 58
+ },
+ {
+  "name": "Dynamic Family Dentristy: Dr. Farida Khattak DDS",
+  "city": "Falls Church",
+  "state": "VA",
+  "url": "https://dynamicfamilydentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 865 (4.9); vendor wix.com; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Partners in Dental Health Pc",
+  "city": "Virginia Beach",
+  "state": "VA",
+  "url": "https://partnersindentalhealth.com/",
+  "verdict": "BENCH-UNVERIFIED ~58 - Birdeye 844 (4.8); vendor progressive dental; (c) none; since/yrs: ['1999']; 20 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 58
+ },
+ {
+  "name": "Burke Dental Center",
+  "city": "Burke",
+  "state": "VA",
+  "url": "https://burkedentalcenter.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 830 (4.9); vendor greatdentalwebsites; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "TLC Dental",
+  "city": "Morgantown",
+  "state": "WV",
+  "url": "https://tlcdentists.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 786 (4.6); vendor weebly; (c) none; age unknown; 8 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Columbia Family Dentist",
+  "city": "Columbia",
+  "state": "MD",
+  "url": "https://columbiafamilydentist.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 779 (4.7); vendor dental revenue; (c) none; age unknown; 12 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Paoli Family Dentistry",
+  "city": "Paoli",
+  "state": "PA",
+  "url": "https://paolifamilydentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 766 (4.9); vendor dentalqore; (c) 2026; age unknown; 6 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Elrod & Dunham Dentistry",
+  "city": "Richmond",
+  "state": "VA",
+  "url": "https://elroddunhamdentistry.net/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 753 (4.9); vendor dentalqore; (c) 2026; age unknown; 19 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Robinson Township Smiles",
+  "city": "Coraopolis",
+  "state": "PA",
+  "url": "https://robinsontownshipsmiles.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 751 (4.9); vendor dentalmarketing; (c) none; age unknown; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "City Dental Arts",
+  "city": "Philadelphia",
+  "state": "PA",
+  "url": "https://citydentalart.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 710 (4.9); vendor dentalmarketing; (c) none; age unknown; 6 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Birkitt Dental",
+  "city": "Leesburg",
+  "state": "VA",
+  "url": "https://birkittdental.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 699 (5); vendor n/a; (c) 2015; since/yrs: ['60']; 6 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Monument Family Dentistry Richmond VA",
+  "city": "Richmond",
+  "state": "VA",
+  "url": "https://richmonddentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 697 (4.9); vendor squarespace,weebly; (c) 2025; since/yrs: ['30']; 6 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Waugh Chapel Dental",
+  "city": "Gambrills",
+  "state": "MD",
+  "url": "https://waughchapeldental.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 694 (4.8); vendor dentalqore; (c) 2026; age unknown; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "York Dental Health Associates",
+  "city": "York",
+  "state": "PA",
+  "url": "https://yorkdentalhealthassociates.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 688 (4.8); vendor duda; (c) none; since/yrs: ['60', '60']; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Stonewall Dental Associates of Manassas",
+  "city": "Manassas",
+  "state": "VA",
+  "url": "https://stonewalldental.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 682 (4.8); vendor weo media,weomedia; (c) 2011; age unknown; 8 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "McCracken Family Dentistry",
+  "city": "Camp Hill",
+  "state": "PA",
+  "url": "https://mccrackenfamilydentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 668 (4.9); vendor progressive dental; (c) 2026; since/yrs: ['1985']; 5 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "MD Smiles",
+  "city": "Ellicott City",
+  "state": "MD",
+  "url": "https://mdsmiles.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 656 (4.9); vendor dentalfone; (c) 2013; since/yrs: ['1995', '1995']; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Premier Comprehensive Dental",
+  "city": "Middletown",
+  "state": "DE",
+  "url": "https://premiercdental.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 653 (4.9); vendor milestone cms,televox; (c) none; age unknown; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Bartusiak Dental Care of Washington",
+  "city": "Washington",
+  "state": "PA",
+  "url": "https://drbarrybartusiak.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 635 (4.9); vendor dentalmarketing; (c) 2023; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Paramount Dental Care",
+  "city": "Takoma Park",
+  "state": "MD",
+  "url": "https://paramountdentalcaremd.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 617 (4.9); vendor patientpop; (c) 2026; age unknown; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Eastern Virginia Family & Cosmetic Dentistry",
+  "city": "Chesapeake",
+  "state": "VA",
+  "url": "https://evadental.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 610 (4.9); vendor squarespace,weebly; (c) 2026; since/yrs: ['40']; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Village Dentistry of Leesburg",
+  "city": "Leesburg",
+  "state": "VA",
+  "url": "https://dentistryofleesburg.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 609 (4.9); vendor jarvis; (c) 2026; age unknown; 8 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Colonial Family Dentistry",
+  "city": "Williamsburg",
+  "state": "VA",
+  "url": "https://colonialdds.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 602 (4.9); vendor officite; (c) 2026; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Dr. Heather Zak-Ramsay DMD",
+  "city": "Suffolk",
+  "state": "VA",
+  "url": "https://suffolkvadentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 584 (4.9); vendor n/a; (c) 2004; age unknown; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "North Roanoke Dental Associates",
+  "city": "Roanoke",
+  "state": "VA",
+  "url": "https://northroanokedental.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 575 (4.9); vendor squarespace; (c) none; age unknown; 6 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "MK Dentistry",
+  "city": "Gambrills",
+  "state": "MD",
+  "url": "https://mk-dentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 570 (5); vendor sesame; (c) 2026; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Oakland Aesthetic Dentistry",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "url": "https://oaklandaestheticdentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 568 (4.9); vendor duda,squarespace; (c) none; age unknown; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Hockessin Dental",
+  "city": "Hockessin",
+  "state": "DE",
+  "url": "https://hockessindental.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 562 (5); vendor godaddy; (c) none; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Horsham Dental Care",
+  "city": "Horsham",
+  "state": "PA",
+  "url": "https://horshamdentalcare.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 553 (4.9); vendor godaddy; (c) 2026; age unknown; 5 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Sauve Family Dentistry",
+  "city": "Camp Hill",
+  "state": "PA",
+  "url": "https://sauvefamilydentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~57 - Birdeye 547 (4.8); vendor progressive dental; (c) 2026; since/yrs: ['20', '20']; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 57
+ },
+ {
+  "name": "Easy Dental Care",
+  "city": "Gainesville",
+  "state": "VA",
+  "url": "https://easydentalva.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 542 (4.8); vendor doctor genius,doctorgenius; (c) 2014; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Steadman Family Dentistry",
+  "city": "Richmond",
+  "state": "VA",
+  "url": "https://grinfixer.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 534 (4.9); vendor dentalmarketing,progressive dental; (c) none; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Columbia Family Dental Care: Sulekha Agrawal, DMD",
+  "city": "Columbia",
+  "state": "MD",
+  "url": "https://columbiafamilydentalcare.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 526 (5); vendor dentalmarketing; (c) none; age unknown; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Supertooth at Bethesda",
+  "city": "Bethesda",
+  "state": "MD",
+  "url": "https://supertooth.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 525 (4.8); vendor patientpop; (c) none; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "First State Dental",
+  "city": "Wilmington",
+  "state": "DE",
+  "url": "https://firststatedental.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 520 (4.9); vendor n/a; (c) 2009; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Marc D. Verner DMD-Dental House of Pittsburgh",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "url": "https://marcverner.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 515 (4.7); vendor tnt dental,tntdental; (c) 2020; age unknown; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "My Ellicott City Dentist Llc",
+  "city": "Ellicott City",
+  "state": "MD",
+  "url": "https://smileellicottcity.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 506 (4.8); vendor tnt dental,tntdental; (c) 2021; age unknown; 6 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Loudoun Family and Cosmetic Dentistry",
+  "city": "Leesburg",
+  "state": "VA",
+  "url": "https://loudounfamilydentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 506 (4.9); vendor squarespace,weebly; (c) 2026; age unknown; 4 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Mauro Family Dentistry",
+  "city": "Paoli",
+  "state": "PA",
+  "url": "https://paolidentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~55 - Birdeye 504 (4.9); vendor godaddy; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 55
+ },
+ {
+  "name": "Awesome Smiles Dental Center",
+  "city": "Haymarket",
+  "state": "VA",
+  "url": "https://awesomesmilesva.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 490 (4.9); vendor dentalqore; (c) 2026; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Elevated Dentistry",
+  "city": "Charlottesville",
+  "state": "VA",
+  "url": "https://elevated-dentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 482 (5); vendor dentalqore; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Westtown Dental Care",
+  "city": "West Chester",
+  "state": "PA",
+  "url": "https://westtowndentalcare.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 477 (5); vendor dentalqore; (c) 2026; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Smile! Dental Center - Jarrett Foust, DDS",
+  "city": "Gibsonia",
+  "state": "PA",
+  "url": "https://smilepgh.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 466 (4.9); vendor dentalmarketing,progressive dental; (c) none; age unknown; 9 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Dr. Toothfairy",
+  "city": "Falls Church",
+  "state": "VA",
+  "url": "https://drtoothfairy.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 463 (5); vendor n/a; (c) 2015; since/yrs: ['23']; 15 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Dr Antonino Barbaro Family & Cosmetic Dentistry",
+  "city": "Gambrills",
+  "state": "MD",
+  "url": "https://drbarbaro.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 451 (4.9); vendor weo media,weomedia; (c) 2011; age unknown; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Ironbridge Family & Comos Dentistry",
+  "city": "Chesterfield",
+  "state": "VA",
+  "url": "https://drtomconner.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 447 (4.9); vendor n/a; (c) none; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Williamsburg Center for Dental Health: Stacey S. Hall, DDS",
+  "city": "Williamsburg",
+  "state": "VA",
+  "url": "https://williamsburgdentalhealth.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 437 (4.9); vendor dental revenue; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Vienna Cosmetic & Family Dentistry",
+  "city": "Vienna",
+  "state": "VA",
+  "url": "https://viennadentist.co/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 428 (5); vendor godaddy; (c) 2026; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Blue Heron Dental",
+  "city": "Annapolis",
+  "state": "MD",
+  "url": "https://blueherondental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 427 (5); vendor duda; (c) none; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Midlothian Dental Arts",
+  "city": "Midlothian",
+  "state": "VA",
+  "url": "https://midlothiandentalarts.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 425 (4.9); vendor duda; (c) 2026; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Fairfax Corner Dental",
+  "city": "Fairfax",
+  "state": "VA",
+  "url": "https://fairfaxcornerdental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 423 (4.9); vendor patientpop; (c) 2026; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Joobbani Dental Designs of Columbia",
+  "city": "Columbia",
+  "state": "MD",
+  "url": "https://dentistcolumbiamd.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 417 (4.9); vendor dentalqore; (c) 2026; age unknown; 5 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Wilson Martino Dental of Morgantown",
+  "city": "Morgantown",
+  "state": "WV",
+  "url": "https://wilsonmartinodental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 414 (4.6); vendor weebly; (c) none; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Schneider Family Dentistry",
+  "city": "Gaithersburg",
+  "state": "MD",
+  "url": "https://schneiderdentists.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 402 (4.9); vendor dentalqore; (c) none; since/yrs: ['1940']; 11 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Vincent J. Mannino, DMD",
+  "city": "Yardley",
+  "state": "PA",
+  "url": "https://manninodental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 397 (5); vendor n/a; (c) 2015; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Progressive Dental Arts",
+  "city": "Newark",
+  "state": "DE",
+  "url": "https://progressivedentalartsde.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 393 (4.5); vendor progressive dental; (c) none; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Sunrise Dental",
+  "city": "Reston",
+  "state": "VA",
+  "url": "https://restonsunrisedental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 391 (4.9); vendor patientpop; (c) 2021; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Swett Dentistry",
+  "city": "Charlottesville",
+  "state": "VA",
+  "url": "https://swettdentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 378 (4.9); vendor dentalmarketing; (c) 2026; since/yrs: ['1996', '2014']; 10 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Quality Dental of Bowie",
+  "city": "Bowie",
+  "state": "MD",
+  "url": "https://qualitydentalofbowie.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 361 (4.8); vendor godaddy,wix.com; (c) none; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Upper Gwynedd Dental Arts",
+  "city": "Lansdale",
+  "state": "PA",
+  "url": "https://ugdasmile.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 359 (5); vendor wix.com; (c) 2022; since/yrs: ['1940']; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Kidz Dental Land",
+  "city": "Germantown",
+  "state": "MD",
+  "url": "https://kidzdentalland.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 358 (4.7); vendor wix.com; (c) 2026; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Hancock Dental Center",
+  "city": "Martinsburg",
+  "state": "WV",
+  "url": "https://hancockdentalcenter.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 358 (4.9); vendor prosites; (c) 2019; age unknown; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Chadds Ford Dental Associates",
+  "city": "Chadds Ford",
+  "state": "PA",
+  "url": "https://chaddsforddental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 353 (4.8); vendor milestone cms,televox; (c) 2026; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Nova Smile Dental - Dr. Marjan Salari",
+  "city": "Annandale",
+  "state": "VA",
+  "url": "https://novasmiledental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 350 (4.9); vendor tnt dental,tntdental; (c) none; age unknown; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Good Choi's Dental Care, PC, Dr. Sungwon Choi, DMD",
+  "city": "Manassas",
+  "state": "VA",
+  "url": "https://goodchoisdentalcare.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 348 (5); vendor wix.com; (c) none; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Smile Designer of Leesburg",
+  "city": "Leesburg",
+  "state": "VA",
+  "url": "https://smiledesignerleesburg.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 347 (4.9); vendor einstein; (c) 2026; since/yrs: ['35', '35']; 13 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Cosmo Smiles Dental",
+  "city": "Arlington",
+  "state": "VA",
+  "url": "https://cosmosmilesdental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 342 (4.5); vendor jarvis; (c) 2024; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Dentistry by Design",
+  "city": "Charlottesville",
+  "state": "VA",
+  "url": "https://dentistrybydesigncville.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 342 (4.9); vendor godaddy; (c) 2024; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Dr. Brian Vanslooten",
+  "city": "Falls Church",
+  "state": "VA",
+  "url": "https://dentalhealthcenterofnorthernvirginia.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 337 (4.8); vendor sesame; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Haymarket Dental Complete Care",
+  "city": "Haymarket",
+  "state": "VA",
+  "url": "https://haymarketdentalcare.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 335 (4.5); vendor n/a; (c) 2020; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Cave Spring Dental Arts",
+  "city": "Roanoke",
+  "state": "VA",
+  "url": "https://cavespringdentalarts.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 328 (4.9); vendor prosites; (c) 2019; since/yrs: ['1975']; 3 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Ted Leslie, DDS",
+  "city": "Martinsburg",
+  "state": "WV",
+  "url": "https://tedlesliefamilydentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 322 (4.9); vendor sesame; (c) none; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "AB Reston Family Dental",
+  "city": "Reston",
+  "state": "VA",
+  "url": "https://restonfamilydental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 321 (4.9); vendor patientpop; (c) 2026; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Alexandria Dental Care Center | Dr. Krina Jasani",
+  "city": "Alexandria",
+  "state": "VA",
+  "url": "https://alexandriadental.us/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 320 (4.9); vendor n/a; (c) 2020; since/yrs: ['20']; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Pearl Family Dental",
+  "city": "Fredericksburg",
+  "state": "VA",
+  "url": "https://pearlfamilydental.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 318 (4.7); vendor wix.com; (c) none; since/yrs: ['20']; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Crosstown Dental Group Hershey",
+  "city": "Hershey",
+  "state": "PA",
+  "url": "https://crosstowndentalhershey.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 318 (4.8); vendor progressive dental; (c) 2026; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Meadow Ridge Dentistry (Formerly Doreen E. Gunder, DDS)",
+  "city": "Mechanicsburg",
+  "state": "PA",
+  "url": "https://meadowridgedentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 317 (4.8); vendor n/a; (c) 2015; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Dr. Edward Magida",
+  "city": "Newtown",
+  "state": "PA",
+  "url": "https://newtowndentalcare.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 312 (4.9); vendor dentalwebsite; (c) 2026; age unknown; 6 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Progressive Dental Arts Pike Creek",
+  "city": "Wilmington",
+  "state": "DE",
+  "url": "https://progressivedentalartspikecreek.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 312 (4.8); vendor progressive dental; (c) none; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Holly J. Branin, DMD",
+  "city": "York",
+  "state": "PA",
+  "url": "https://branindmd.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 308 (5); vendor godaddy; (c) 2015; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Tran Diane",
+  "city": "Falls Church",
+  "state": "VA",
+  "url": "https://novadentalstudio.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 307 (4.9); vendor n/a; (c) 2004; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "Frederick Center for Dentistry",
+  "city": "Frederick",
+  "state": "MD",
+  "url": "https://frederickcenterfordentistry.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 306 (4.8); vendor dental revenue; (c) none; since/yrs: ['40']; 5 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "MP Dental Associates",
+  "city": "Manassas",
+  "state": "VA",
+  "url": "https://manassasdentalarts.com/",
+  "verdict": "BENCH-UNVERIFIED ~56 - Birdeye 306 (4.8); vendor greatdentalwebsites; (c) none; since/yrs: ['40']; 0 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 56
+ },
+ {
+  "name": "Star Care Dental",
+  "city": "Glen Mills",
+  "state": "PA",
+  "url": "https://starcaredental.com/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 301 (4.9); vendor ekwa; (c) 2026; age unknown; 1 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ },
+ {
+  "name": "William F Swann",
+  "city": "Bowie",
+  "state": "MD",
+  "url": "https://gatewaydental.org/",
+  "verdict": "BENCH-UNVERIFIED ~54 - Birdeye 300 (4.8); vendor doctor genius,doctorgenius; (c) 2014; age unknown; 2 Dr. names on homepage; no est/independence/decision-maker check yet",
+  "approx_score": 54
+ }
+]

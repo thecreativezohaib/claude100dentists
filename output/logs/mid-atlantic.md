@@ -3334,3 +3334,49 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Signature Smiles Chesapeake | Chesapeake, VA | cosmeticdentistchesapeake.com | REJECT - DSO: Atlantic Dental Care division
 - Elevate Dental Studio | Haymarket, VA | haymarket.dental | REJECT modern
 - Richmond Dentistry (Rossetti/Cosby/Kondorossy) | Richmond, VA | richmond-dentistry.com | REJECT modern WP
+
+### Job B - wave-2 finalists (full profiles in output/work/mid-atlantic_wave2.json)
+- Main Line Dental Aesthetics (James A. Godorecci Jr., DMD) | Paoli, PA | https://www.paolidentist.com/ | VIABLE 73 - ProSites; 585 Birdeye reviews invisible on a ProSites template for a Main Line AACD/E4D owner-dentist
+- Greater Baltimore Prosthodontics, PA | Towson, MD | https://www.gbpdental.com/ | VIABLE 73 - Dentalfone; Six-doctor prosthodontic PA titled 'Welcome To Our Site' on Dentalfone with ~1,070 Birdeye reviews
+- Progressive Dental Studio & Implant Center (Drs. Kevin Metsger & Maropis) | Greensburg, PA | https://www.progressivedentalgbg.com/ | VIABLE 72 - ProSites; ~2,300 Birdeye reviews across two listings behind a ProSites 'Welcome to our Welcome page' shell
+- Fox Chapel Advanced Dental Care (Dr. J. Kevin Pawlowicz) | Pittsburgh (Fox Chapel), PA | https://www.foxchapeldentistry.com/ | VIABLE 72 - ProSites; Boutique Fox Chapel CEREC/CBCT practice on a ProSites shell with retired UA tag; 677 reviews
+- Baltimore Dental Arts (Drs. Kevin Murphy, Devon Conklin, Charles & Melody Ward) | Baltimore, MD | https://www.baltimoredentalarts.com/ | VIABLE 71 - TNT Dental; Prosthodontist/AAED-fellow 4-doctor merger practice on a keyword-stuffed TNT ©2021 site
+- Baccellieri Family Dentistry (Dr. Carl Baccellieri Jr.) | Kennett Square, PA | https://bfdentistry.com/ | VIABLE 70 - WEO Media; WEO Media 'Page Phrases' keyword footer and .asp URLs on a 29-year, 877-review, 3-doctor practice
+- Bruce E. Matthews, DDS, PA (Matthews family practice) | Wilmington, DE | https://www.drmatthewswilmington.com/ | VIABLE 70 - Great Dental Websites; Five-doctor 45-year family practice with 'Loading Testimonial...' placeholders on Great Dental Websites
+- Dental Arts of Delaware (Drs. Gregg Fink & Christopher Appleman) | Newark, DE | https://dentalartsofdelaware.com/ | VIABLE 69 - WordPress-generic; WP 5.7.19 (EOL) + NPI vendor-credit footer over 1,334 Birdeye reviews; verified independent (IDS of DE)
+- CMB Family Dentistry (Drs. David Brown & Josh Alter) | Broomall, PA | https://www.cmbdental.com/ | VIABLE 69 - TeleVox/Milestone; 40-year Main Line Today 'Best of' practice on TeleVox with COVID nav item, <center>/<table> layout
+- Lansdale Dental, P.C. (Dr. Gopimanohar N. Varma) | Lansdale, PA | https://www.lansdaledentalpc.com/ | VIABLE 68 - ProSites; Dead Google+ link, 37 <font> tags and COVID nav on a ProSites site with 571 reviews
+- Virginia Dentistry by Design (Dr. Sonia Dilolli) | Herndon, VA | https://www.virginiadentistrybydesign.com/ | VIABLE 67 - TNT Dental; Homepage still says 'office temporarily closed' (COVID-19); 2016 TNT footer; title 'Home'
+- DiCostanzo Dental (Drs. Gabriel & Megan DiCostanzo) | Coraopolis, PA | https://www.coraopolisdentist.com/ | VIABLE 66 - ProSites; New husband-wife owners inherited 1,305 reviews under the previous owner's name; ProSites + COVID nav
+### Job B - other screened (see output/work/mid-atlantic_wave2_candidates.json: 124 entries incl. ~100 Birdeye-ranked BENCH-UNVERIFIED names)
+- Method note: Birdeye city pages (reviews.birdeye.com/d/dental/<city>-<st>/, JSON-LD ItemList) crawled for 184 candidate cities (~18k listings); listings with >=200 reviews and >=4.5 matched to candidate domains via each Birdeye page's websiteUrl; ~390 homepages fingerprinted; ~25 verified by hand.
+- Mid State Dental (Friedman/Grater/Williams/Sandusky) | Harrisburg, PA | https://www.friedmangrater.com/ | BENCH ~65 - Televox/Milestone CMS 6.0, dead plus.google.com link; Birdeye 331 (4.9); 4 docs, 38th annual Free Dental Day; general-family mix
+- Dean Dental (Drs. Stacy & Jessica Dean) | Washington, PA | https://www.deandentalteam.com/ | BENCH ~66 borderline - TNT; Birdeye 770 (5.0); sister-owned 10 yrs; no (c) year, 10/36 imgs no alt; younger practice
+- Fredericksburg Dental Care (Drs. Fusaro, Johnson, Duong) | Fredericksburg, VA | https://www.fredericksburgdentalcare.com/ | BENCH ~66 - DIY Squarespace, UA-140230486-5; Birdeye 1,197 (4.8); 3 docs; est UNKNOWN; independence unconfirmed
+- Tomchik Family Dentistry (Jayme Tomchik DMD) | Virginia Beach, VA | https://www.tomchikdental.com/ | BENCH ~65 - ProSites; Birdeye 527 (4.9); solo, Pitt 1991
+- Charlottesville Dental Health Partners (Dr. Zachary Paukert) | Charlottesville, VA | https://www.charlottesvilledental.com/ | BENCH ~64 - DIY Squarespace, 30+ yrs claimed; Birdeye 3,102 (5.0) looks aggregated; site fairly clean; 4-day week
+- Pike Creek Dental | Wilmington, DE | https://pikecreekdental.com/ | BENCH ~64 - WP/Porto, (c) Copyright 2019 footer, header typo '14901 LIMESTONE ROAD'; Birdeye 1,765 (4.9); 45+ yrs; site not weak enough
+- Gwaltney Dental (Drs. J. Ryland, Steve, Whitney Gwaltney) | Suffolk, VA | https://www.gwaltneydental.net/ | BENCH ~62 - Dental Revenue WP theme (modern); since 1983; 3 family docs; Birdeye 607; intermittent 403 for non-www
+- Center One Dental (Dr. Raj Vekariya) | Canonsburg, PA | https://www.centeronedental.com/ | BENCH ~62 - TNT (c)2018, keyword title, 2020 COVID letter on homepage; Birdeye 128-149; single doc; est UNKNOWN
+- Newark Dental Associates | Newark, DE | https://newarkdental.com/ | BENCH ~60 - Elementor WP (c) 2020; Birdeye 65 (4.6); est 1962
+- Dental Health First (Drs. Vaughan & Yokum) | Washington, PA | https://www.dentalhealthfirst.com/ | BENCH ~60 - TNT, since 1979; review count UNKNOWN; small market
+- Yorkshire Dental (Dr. Bommu) | York, PA | https://www.yorkshiredentalpllc.com/ | BENCH ~58 - ProSites; Birdeye 550 (4.7); insurance-driven general practice, dentures, lower ticket
+- Aesthetic Dental Arts | York, PA | https://www.aestheticdentalarts.com/ | UNVERIFIED ~55 - TNT; not researched further
+- Delaney and Burke Dental Group | Lutherville, MD | https://delaneydental.com/ | BENCH ~58 - ProSites; Roland Park/Lutherville; no review data found
+- Kelliher Family Dentists | Springfield, VA | https://www.kelliherfamilydentists.com/ | BENCH ~58 - Wix (c)2020; est 1962; public review corpus thin (Yelp 1, FB 5)
+- Canton Dental Associates | Baltimore, MD | https://www.cantondentalassociates.com/ | BENCH ~58 - 3 female docs; Birdeye 8, Yelp 84; ownership UNKNOWN
+- Gregory Hillyard DMD / Dr. Alexandra Monroe | Media, PA | https://www.drgregoryhillyard.com/ | BENCH ~60 - Dental Revenue; practice since 1991; Birdeye 335
+- Feddock Family Dentistry (Todd J. Feddock DMD) | Lancaster, PA | https://www.toddjfeddock.com/ | BENCH ~60 - ProSites; Birdeye 438 (4.9); solo; est UNKNOWN
+- Margaret A. Beamer DDS | Canonsburg, PA | https://margaretabeamerdds.com/ | REJECT - thin public corpus (HG 11, CoC 6); solo 30+ yrs
+- John L. Waldman DMD (Prosthodontist) | Pittsburgh, PA | https://pittsburghsmilemakeover.com/ | REJECT - not accepting new patients; thin corpus (HG 25)
+- Trahos Dental | Fredericksburg, VA | https://myfredericksburgdentist.com/ | REJECT - mixed reputation (HG 3.9), WP (c)2020
+- Cherry Family Dental (Dennis Cherry DMD) | Severna Park, MD | https://www.cherryfamilydental.com/ | REJECT - ~4.0 rating, complaints; ProSites
+- Costa Dentistry | Great Falls, VA | https://costasmiles.com/ | REJECT - modern WP
+- Signature Smiles (Chesapeake) | Chesapeake, VA | https://www.cosmeticdentistchesapeake.com/ | REJECT - DSO: 'A Division of Atlantic Dental Care, PLC'
+- Elevate Dental Studio | Haymarket, VA | https://www.elevatedentalhaymarket.com/ | REJECT - modern site
+- Richmond Dentistry (Rossetti/Cosby/Kondorossy) | Richmond, VA | https://www.richmond-dentistry.com/ | REJECT - modern WP
+- Winchester Dental Studio | Winchester, VA | https://winchesterdentalstudio.com/ | REJECT - modern WP 6.7
+- Chestnut Hill Dental (Flourtown) | Flourtown, PA | https://www.chestnuthilldental.dentist/ | UNVERIFIED ~45 - Sesame; not researched
+- Elite Dentistry of Monroeville (formerly Dr Larry Suher & Assoc) | Monroeville, PA | https://elitedentistrymonroeville.com/ | BENCH-UNVERIFIED ~59 - Birdeye 1318 (4.6); vendor jarvis; (c) 2026; age unknown; 0 Dr. names on homepage; no est/independence/decision-maker
+- Dunlap Dental | Pittsburgh, PA | https://dunlapdental.com/ | BENCH-UNVERIFIED ~58 - Birdeye 1192 (4.9); vendor squarespace; (c) none; age unknown; 3 Dr. names on homepage; no est/independence/decision-
+- Nittany Dental Associates | State College, PA | https://nittanydental.com/ | BENCH-UNVERIFIED ~59 - Birdeye 1053 (5); vendor wix.com; (c) none; since/yrs: ['2004']; 4 Dr. names on homepage; no est/independence/decisio

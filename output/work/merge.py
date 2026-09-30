@@ -155,8 +155,9 @@ def cmd_check():
     print(f"exclusion domains={len(ex_domains)} names={len(ex_names)}; finalists loaded={len(items)} candidates={len(cands)}")
     for r in REGIONS:
         print(f"  {r}: {sum(1 for i in items if i['region']==r)} finalists, {sum(1 for c in cands if c['region']==r)} candidates")
+    cleared = ov.get("flag_cleared", {})
     for it, flags in screen(items, ex_domains, ex_names):
-        if flags:
+        if flags and it["name"] not in cleared and it["name"] not in ov.get("drop", {}):
             print(f"FLAG [{it['region']}] {it['name']} ({it.get('url')}): {flags}")
     drops = ov.get("drop", {})
     items = [i for i in items if i["name"] not in drops]
