@@ -140,7 +140,7 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 ## FINAL TOP 18
 1. Heights Family Dentistry (Carol L. Price DDS PC) — Houston (Heights), TX — http://www.heightsfamilydentistry.com/ — 70/100 — HIGH (medium confidence — tenure and reviews UNKNOWN)
 • Est/Doctors: UNKNOWN est. (site says 'experienced'; do not assume) | Dr. Carol L. Price, DDS, PC (VERIFIED solo owner) | Reviews: Google review count UNKNOWN (Yelp/Facebook/Healthgrades not retrievable; web-search quota exhausted) — VERIFY on call
-• Site (observed, raw HTML 2026-09-30): homepage <title> is EMPTY (VERIFIED); no meta description; loads 'js/jquery-migrate-1.2.1.js', 'js/camera.js' (2013-era slider stack) and a bootstrap 3 + Font Awesome 4.4 CDN; dead Google+ style markup/mixed http assets; homepage still carries a live Covid-19 screening questionnaire ('If you have a fever, sore throat… tested positive for Covid-19 in the last 14 days') plus a stray 'Weather Update' banner (VERIFIED). Privacy-banner script from thedoctorsinternet.net (legacy vendor).
+• Site (observed, raw HTML 2026-09-30): homepage <title> is EMPTY (VERIFIED); no meta description; loads 'js/jquery-migrate-1.2.1.js', 'js/camera.js' (2013-era slider stack) and a bootstrap 3 + Font Awesome 4.4 CDN; mixed http asset references; homepage still carries a live Covid-19 screening questionnaire ('If you have a fever, sore throat… tested positive for Covid-19 in the last 14 days') plus a stray 'Weather Update' banner (VERIFIED). Privacy-banner script from thedoctorsinternet.net (legacy vendor).
 • Social gap: UNKNOWN (not checked; Instagram/Facebook not retrievable) — INFERRED gap from the new-building announcement vs. a site that cannot even name itself in search.
 • Breakdown: FC14/20 BM10/15 WW14/15 Gap10/15 Dep7/10 Tr9/10 Cv3/5 Sp1/3 DM2/2 | Subs: Gap7 Dep7 Tr9 Tech9 (/10)
 • Independence: INFERRED — no About-page group language, footer entity 'Carol L. Price, DDS, PC', no DSO strings in HTML | Decision-maker: Dr. Carol L. Price (VERIFIED)
@@ -151,12 +151,12 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 
 2. OKC Dental Arts (Drs. Michael Fling & Cama Cord) — Oklahoma City (NW 63rd St), OK — http://okcdentalarts.com/ — 69/100 — MEDIUM-HIGH (medium confidence)
 • Est/Doctors: Dr. Michael Fling (40+ yrs in dentistry, began as lab technician — VERIFIED) + Dr. Cama Cord (OU College of Dentistry — VERIFIED); practice est. UNKNOWN | Reviews: Google review count UNKNOWN (Yelp/Facebook/Healthgrades not retrievable; web-search quota exhausted) — VERIFY on call
-• Site (observed): served on plain http://okcdentalarts.com (VERIFIED, curl 200 on http); page <h1> is 'Patient Reviews'; markup contains 'glyphicon' Bootstrap 3 (2011-2016 lib), <table width=…> layout blocks and a Google+ link; footer '© OKC Dental Arts. All rights reserved.' with 'Website Design & Marketing by Optima' and assets from optimasites.cloudfront (VERIFIED).
+• Site (observed): served on plain http://okcdentalarts.com (VERIFIED, curl 200 on http); page <h1> is 'Patient Reviews'; markup uses Bootstrap 3 'glyphicon' classes (2011-2016 lib); footer '© OKC Dental Arts. All rights reserved.' with 'Website Design & Marketing by Optima' and assets from optimasites.cloudfront (VERIFIED).
 • Social gap: UNKNOWN.
 • Breakdown: FC13/20 BM12/15 WW12/15 Gap10/15 Dep7/10 Tr8/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech8 (/10)
 • Independence: INFERRED — no DSO/group language; grep of HTML clean | Decision-maker: Dr. Fling / Dr. Cord (UNKNOWN which holds equity)
 • FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — NW OKC (73116, Nichols Hills-adjacent), implants/Botox/Invisalign/TMJ menu = mid tier | Digital spend: Optima marketing/hosting subscription (VERIFIED footer)
-• Hooks: (1) "A 40-year veteran and a new OU-trained partner — the site is still a 2013 Bootstrap-3 table layout with a Google+ link." (2) "Your H1 is 'Patient Reviews'."
+• Hooks: (1) "A 40-year veteran and an OU-trained associate/partner — the site is still an http-only Bootstrap-3-era page." (2) "Your H1 is 'Patient Reviews'."
 • Pitch/offer: Two-doctor credibility-forward redesign keeping existing booking; redirect Optima spend; $8–11k.
 • Sources: http://okcdentalarts.com/ (curl + WebFetch).
 
@@ -265,7 +265,7 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 
 13. John Groves DDS (South Tulsa Family Dentistry) — Tulsa (74137), OK — https://www.southtulsafamilydentistry.com/ — 59/100 — MEDIUM (medium confidence — tenure UNKNOWN)
 • Est/Doctors: UNKNOWN | Dr. John Groves | Reviews: Google review count UNKNOWN (Yelp/Facebook/Healthgrades not retrievable; web-search quota exhausted) — VERIFY on call
-• Site (observed): meta description 'Tulsa, Oklahoma Dentist, Dr. Douglas Hill is dedicated to cosmetic dentistry such as Exams, Teeth Whitening, Veneers and more.' (VERIFIED); 'Copyright � 2019 Prosites, Inc.'; served via http (curl to http URL resolved); 5 <img>.
+• Site (observed): meta description 'Tulsa, Oklahoma Dentist, Dr. Douglas Hill is dedicated to cosmetic dentistry such as Exams, Teeth Whitening, Veneers and more.' (VERIFIED); 'Copyright � 2019 Prosites, Inc.'; 5 <img> on the homepage.
 • Social gap: UNKNOWN. • Breakdown: FC9/20 BM9/15 WW12/15 Gap8/15 Dep6/10 Tr8/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap7 Dep6 Tr8 Tech8 (/10)
 • Independence: INFERRED | Decision-maker: Dr. Groves
 • FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — South Tulsa 74137 = mid-high market | Digital spend: ProSites (VERIFIED)
@@ -294,7 +294,7 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 
 16. Austin Primary Dental — Austin (West Gate Blvd), TX — https://austinprimarydental.com/ — 58/100 — MEDIUM (low confidence — est. 1987 is from a search summary, not the page)
 • Est/Doctors: 1987 (INFERRED, unverified on site) | Dr. Rajanna | Reviews: Google review count UNKNOWN (Yelp/Facebook/Healthgrades not retrievable; web-search quota exhausted) — VERIFY on call
-• Site (observed): schema JSON 'copyrightHolder: Doctor Genius … copyrightYear: 2018'; no meta description; Google+ markup; '<title> Austin Primary Dental Austin Texas – Get a healthy gorgeous smile…' (VERIFIED raw HTML).
+• Site (observed): schema JSON 'copyrightHolder: Doctor Genius … copyrightYear: 2018'; no meta description; '<title> Austin Primary Dental Austin Texas – Get a healthy gorgeous smile…' (VERIFIED raw HTML).
 • Social gap: UNKNOWN. • Breakdown: FC11/20 BM9/15 WW11/15 Gap8/15 Dep6/10 Tr7/10 Cv3/5 Sp2/3 DM1/2 | Subs: Gap7 Dep6 Tr7 Tech7 (/10)
 • Independence: INFERRED | Decision-maker: Dr. Rajanna
 • FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Austin 78745, dentures/full-mouth/implants menu = mid | Digital spend: Doctor Genius (VERIFIED)
@@ -318,6 +318,7 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 • FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Green Acres Rd Fayetteville, 4 docs = mid | Digital spend: Sesame 24-7
 • Hooks: (1) 43rd anniversary. • Pitch/offer: $8–10k.
 • Sources: https://www.fayfdc.com/ (curl + WebFetch).
+
 ## CANDIDATE TABLE
 - Wayne & Julie Scott DDS | Coppell, TX | wjscottdds.com | REJECT-ish — modern WP 7.1 (mts_schema/gala child), Cowboys/Stars team dentists since 1990; site current-ish ( | ~20
 - Mason Dental | Grapevine, TX | drmasondental.com | REJECT — Einstein-built BlackMarlin theme ©2026 "Propelled by" vendor, modern | ~20
@@ -432,4 +433,241 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Stonebriar Smile Design | Frisco, TX | stonebriarsmiledesign.com | REJECT — ©2026 modern | ~20
 - Alamo Springs Dental | San Antonio, TX | alamospringsdental.com | LOW — TNT ©2021, young practice | ~40
 - ARK Family Dentistry | Aledo, TX | arkfamilydentistry.com | LOW — TNT ©2016 small-town | ~40
-NOTE: WebSearch quota (200) and Firecrawl credits exhausted mid-run; discovery continued via TNT client-roster mining + directory pages. Google review counts unretrievable => all reviews tagged UNKNOWN.
+- Wayne & Julie Scott DDS | Coppell, TX | wjscottdds.com | REJECT-ish — modern WP 7.1 (mts_schema/gala child), Cowboys/Stars team dentists since 1990; site current-ish ( | ~20
+- Mason Dental | Grapevine, TX | drmasondental.com | REJECT — Einstein-built BlackMarlin theme ©2026 "Propelled by" vendor, modern | ~20 | ~20
+- Flower Mound Dental (Wyatt) | Flower Mound, TX | flowermounddental.com | REJECT — ©2026 Ekwa WP theme, current | ~20 | ~20
+- Rick Larson DDS | Coppell, TX | ricklarsondds.com | bot-walled (403 CF) — PENDING render check | ~35 | ~35
+- Coppell Smiles | Coppell, TX | coppellsmilesonline.com | bot-walled (403 CF) — PENDING | ~35 | ~35
+- West U Family Dental | Houston, TX | westufamilydental.com | PENDING — check (modern icons) | ~45 | ~45
+- Lovett Dental West U | Houston TX,,  | lovettdental.com | REJECT — DSO: Lovett | ~0 | ~0
+- Ahrens Family & Cosmetic Dentistry | Grapevine, TX | (url TBD) | PENDING | ~45 | ~45
+- Jason Daaboul DDS | Grapevine TX,,  | jasondds.net | PENDING (est 2006 - too young, low) | ~45 | ~45
+- Cosmetic Dental Associates (Dr John Moore Jr) | San Antonio, TX | 33smile.com | REJECT — multi-location (Alamo Ranch/Stone Oak/Med Center) group, Elementor modern site | ~20 | ~20
+- Atkins & Anderson DDS | Bryan/College Station, TX | atkinsandersondds.com | PENDING — bot challenge page ("One moment, please"); check render | ~45 | ~45
+- Matthews Dental Group | College Station, TX | matthewsdental.net | bot-walled 403; PENDING (25+ yrs Dr Matthews & Sally) | ~35 | ~35
+- Curtis Kaiser DDS | College Station, TX | drcurtiskaiser.com | REJECT — domain redirects to gambling spam (pg-demo.net) / hijacked; not a viable prospect site check (flag) | | ~20
+- Hooks Family Dentistry | College Station, TX | hooksdds.com | REJECT — ©2026 custom WP theme (Practice Cafe), modern | ~20 | ~20
+- Long Family & Cosmetic Dentistry | College Station, TX | longfamilydentistry.com | PENDING — Bootstrap 3 / old template, copyright_year dynamic; check | ~45 | ~45
+- Central Texas Dental Care | Hewitt/Waco, TX | hewittdentist.com | REJECT — Einstein-built ©2026, est 1983, modern | ~20 | ~20
+- Starr General Dentistry (Kent Starr, est 1974) | Waco, TX | starrgeneraldentistry.com | PENDING — Dentalfone + Breakdance builder, likely refreshed; check | ~45 | ~45
+- Chad Latino DDS | Waco, TX | wacofamilydentist.com | REJECT — Elementor modern | ~20 | ~20
+- Thornton Dental | Bryan, TX | thorntondentalbcs.com | REJECT — Elementor modern, young | ~20 | ~20
+- Tulsa Time Dental Design | Tulsa, OK | tulsatimedentaldesign.com | REJECT — Squarespace ©2026 modern-ish, 80 yrs combined | ~20 | ~20
+- Charles Calhoun DDS | Tulsa, OK | calhoundds.com | PENDING — fetch returned 202/empty; recheck | ~45 | ~45
+- Ben Gerkin DDS | Tulsa, OK | drgerkin.com | REJECT — WP charlie theme ©2026 DentalQore modern | ~20 | ~20
+- élan Tulsa Cosmetic Dentistry | Tulsa, OK | tulsadentalcare.com | REJECT — Elementor ©2026 modern | ~20 | ~20
+- Endicott Dental | Broken Arrow, OK | endicottdental.com | PENDING — check vendor/copyright | ~45 | ~45
+- Advances in Dentistry | OKC, OK | advancesindentistry.com | PENDING — 302 blank; recheck | ~45 | ~45
+- OKC Smiles (Moore/Norman) | OKC, OK | okcsmiles.com | REJECT — multi-office, WP goya ©2026 | ~20 | ~20
+- HARA Cosmetic Dentistry (Grace Jun) | OKC, OK | haracosmeticdentistry.com | REJECT — Elementor ©2026 modern | ~20 | ~20
+- Alamo Heights Implant Center | San Antonio, TX | alamoimplantcenter.com | REJECT — custom theme ©2026 modern | ~20 | ~20
+- Alamo Family & Cosmetic Dentistry (Dr Mooney) | San Antonio, TX | alamodentalsa.com | PENDING — TNT Dental, "&copy; 2020" | ~45 | ~45
+- Calhoun DDS | Tulsa, OK | calhoundds.com | PENDING — server 202 empty for curl; render check | ~45 | ~45
+- Advances in Dentistry | OKC, OK | advancesindentistry.com | PENDING — 302 loop for curl; render check | ~45 | ~45
+- Ahrens Family & Cosmetic Dentistry (Craig Ahrens, 30+ yrs) | Grapevine, TX | url? | PENDING — domain unknown, ahrensdentistry.com dead | ~45 | ~45
+- Grapevine Family Dentistry (Michael Solis) | Grapevine, TX | grapevinefamilydentistry.com | PENDING — small 24KB page, check vendor/© | ~45 | ~45
+- Prosper Family Dentistry | Prosper, TX | prosperfamilydentistry.com | PENDING — small 23KB page; check | ~45 | ~45
+- Ron S. White DDS (est 1999, w/ Kindra Dietrich) | Dripping Springs, TX | ronswhite.com | bot-walled 403 CF; PENDING render | ~35 | ~35
+- Austin Prosthodontics (Ernesto Carmona) | Austin, TX | austinprostheticdental.com | bot-walled 403; PENDING | ~35 | ~35
+- NWA Family Dental (Dr Kifer) | Fayetteville, AR | nwafamilydentist.com | PENDING — Great Dental Websites | ~45 | ~45
+- Kevin G. Jones DDS (Pankey; since 2001) | Little Rock, AR | jonesfamilydental.com | REJECT-ish — Dentalfone but X-theme/LayerSlider maintained ©2013-2026, 25y? no (2001) | ~20 | ~20
+- John C. Howell Jr DDS prosthodontist | North Little Rock, AR | ardentalimplants.com | bot-walled 403; PENDING | ~35 | ~35
+- Simon Family Dentistry | Baton Rouge, LA | simonfamilydentistryla.com | PENDING — dynamic-year ©; check vendor | ~45 | ~45
+- Premier Dental Care (Dr Robert J. ..., 30 yrs) | Baton Rouge, LA | smilebr.com | PENDING — Squarespace "©Copyright 2023" | ~45 | ~45
+- Levy & Vutera Family Dentistry | Baton Rouge, LA | levyvuteradental.com | PENDING — ©2026; check design | ~45 | ~45
+- Bruns Family Dental Center | Baton Rouge, LA | brunsfamilydentalcenter.com | REJECT — ©2026 modern-ish | ~20 | ~20
+- Baton Rouge Dentistry (Highland/Welch) | Baton Rouge, LA | batonrougedentistry.com | PENDING — 307 redirect interstitial | ~45 | ~45
+- Mark Ventress DDS (Cosmetic Dentistry of Baton Rouge) | Baton Rouge, LA | markventressdds.com | PENDING-STRONG — Sesame 24-7, 26KB thin page | ~53 | ~53
+- Pearl Dental Group | Baton Rouge, LA | pearldentalgroup.com | REJECT — multi-location group, dental-visions/Elementor modern | ~20 | ~20
+- Scott Hannaman & Edward Herbert DDS | Lake Charles, LA | smhdds.com | PENDING — Great Dental Websites; practice est 2011 (young) | ~45 | ~45
+- Michael B. Williamson DDS | Lake Charles, LA | lakecharlessmiles.com | PENDING-STRONG — ProSites "Copyright � 2019", http-only lookup ok | ~52 | ~52
+- Daniel M. Perry DDS | Lake Charles, LA | drperrydentistry.com | REJECT — Avada custom ©2025 | ~20 | ~20
+- Darren Chaumont DDS | Lake Charles, LA | lcdentalcare.com | PENDING-STRONG — ProSites "Copyright � 2019"; family/cosmetic/sedation | ~52 | ~52
+- Ted Bercier DDS | Lake Charles, LA | tedbercierdds.net | PENDING — Thryv site | ~45 | ~45
+- Renewed Family Dental | Lake Charles, LA | dentistlakecharlesla.com | REJECT — young/small | ~20 | ~20
+- Tharp, Klaus & Kelly | Flowood, MS | smilesinjackson.com | REJECT — dental-visions modern WP 7.0 | ~20 | ~20
+- Joe Burns DDS | Flowood/Madison MS,,  | joeburnsdds.com | EXCLUDED — prior round (Joe Burns DDS, Ridgeland) | ~0 | ~0
+- Achord Dentistry | Flowood, MS | achorddentistry.com | bot-walled; young practice, low priority | ~35 | ~35
+- Belle Meade Family Dental (Dr Jason Cox) | Flowood, MS | bellemeadefamilydental.com | PENDING — small 54KB legacy | ~45 | ~45
+- Windstone Dental (Stephen Joe, since 1983) | Southaven/Olive Branch MS,,  | windstonedental.com | REJECT-ish — modern WP theme, multiple loc | ~20 | ~20
+- Southaven Dental Care (C. Dean Umfress) | Southaven, MS | southavendentalcare.net | bot-walled 403; PENDING | ~35 | ~35
+- The Smile Center for Cosmetic Dentistry | Southaven/Olive Branch MS,,  | dentistsmilecenter.com | PENDING — Wix | ~45 | ~45
+- Goodman Road Dental | Olive Branch, MS | bestolivebranchdentist.com | PENDING — ©2024 | ~45 | ~45
+- Aspen Dental / Affordable Dentures Olive Branch | MS,,  | — | REJECT — DSO | ~0 | ~0
+- Arnold Dental (Fred Arnold, AACD Accredited Fellow) | Lexington, KY | cosmeticdentistryoflexington.com | REJECT-ish — custom "arnold" theme; ©2015-2026 IDW; check quality | ~20 | ~20
+- Hometown Family Dental (30+ yrs) | St. Matthews/Louisville, KY | hometownfamilydental502.com | bot-walled 403 CF; PENDING render | ~35 | ~35
+- Lavelle Family & Cosmetic Dentistry (est 1979) | Prospect/Louisville, KY | lavelledentistry.com | PENDING — curl 202 empty; render check | ~45 | ~45
+- Smiles of Louisville (40222) | Louisville, KY | smilesoflouisville.com | REJECT — Einstein-built "Propelled by" ©2026 modern | ~20 | ~20
+- Aiken and Wilson Dentistry | Louisville, KY | aikenwilsondentistry.com | EXCLUDED — prior round (also Elementor modern) | ~0 | ~0
+- Advanced Dental Center (Talis) | Louisville, KY | kyadc.com | REJECT — multi-location, likely group | ~20 | ~20
+- Kirchner Dental of St. Matthews | Louisville, KY | kdsmiles.com | REJECT — multi-loc brand, low priority | ~20 | ~20
+- Precision Dental (Bryan Packard) | Bowling Green, KY | precisiondentalbowlinggreen.com | REJECT — yds custom theme ©2026 | ~20 | ~20
+- Wright Dental Studio | Bowling Green, KY | wrightdentalstudio.com | REJECT — young solo, WP 6.4 dentist-wp theme; low reputation data | ~20 | ~20
+- Cox Family Dentistry | Bowling Green, KY | coxfamilydentistrybgky.com | REJECT — Divi ©2026 modern | ~20 | ~20
+- Bowling Green Family Dentistry | Bowling Green, KY | bowlinggreenfamilydental.com | REJECT — "Heartland" string in source; modern; DSO suspect | ~0 | ~0
+- Affordable Dentures & Implants Bowling Green | KY,,  | — | REJECT — DSO | ~0 | ~0
+- Roberts Family Dentistry | Wichita, KS | robertsfamilydentistry.com | EXCLUDED — prior round | ~0 | ~0
+- Robert H. Dakin Jr DDS (Comprehensive Family Dentistry) | Wichita, KS | dakindds.com | bot-walled 403; PENDING | ~35 | ~35
+- Detmer Family Dentistry | Maize, KS | detmerfamilydentistry.com | bot-walled 403; PENDING (3 Detmers, family) | ~35 | ~35
+- Dold Family Dental | Wichita, KS | doldfamilydental.com | PENDING — curl 202 empty; render | ~45 | ~45
+- Envy Dental | Wichita, KS | envydental.net | REJECT — Elementor ©2026 | ~20 | ~20
+- Midwest Dental Wichita | KS,,  | midwest-dental.com | REJECT — DSO (Smile Brands) | ~0 | ~0
+- Michael P. Rack DDS | Topeka, KS | mprackdds.com | PENDING — ©2026 small 60KB; check look | ~45 | ~45
+- Jowett & Lewis Family Dentistry | Topeka, KS | jlfamilydentistry.com | REJECT — Elementor modern | ~20 | ~20
+- Topeka Dentistry | Topeka, KS | thetopekadentistry.com | REJECT — Elementor modern | ~20 | ~20
+- Exo Dental | Topeka, KS | exodental.com | REJECT — multi-loc group | ~20 | ~20
+- Enclave Dental | Southlake, TX | enclavedental.com | PENDING — TNT-style keyword-spam title "Dentist Southlake | Dentist Near Me | Local Dentist | Dentist Office N | ~45
+- Dr. Biedermann (Keller family/laser) | Keller, TX | docbiedermann.com | bot-walled 403; PENDING | ~35 | ~35
+- Holt Dental Care | Southlake, TX | holtdentalcare.com | PENDING — custom holtdental theme ©2026, 43KB; check | ~45 | ~45
+- Southlake Dental Care & Wellness | Keller/Southlake, TX | southlakedentaltexas.com | PENDING — Sesame 24-7 | ~48 | ~48
+- Wright Smiles (since 1992) | Southlake, TX | wrightsmiles.com | REJECT — X-theme WP Rocket ©2026 modern, multi-doc | ~20 | ~20
+- Fuqua Advanced Dental | Southlake/Colleyville, TX | fuquaadvanceddental.com | REJECT — Einstein ©2026 modern | ~20 | ~20
+- 1st In Smiles (since 1988) | Plano, TX | 1stinsmiles.com | bot-walled 403; PENDING | ~35 | ~35
+- Uptown Cosmetic + Implant Dentistry (Velasco, prosth) | Houston, TX | uptowncosmeticimplantdentistry.com | REJECT — Elementor/Genesis custom ©2026 | ~20 | ~20
+- Sergio Ortegon DDS MS (prosth) | Bellaire/Houston, TX | implantshouston.dental | REJECT — DentalQore-type "charlie" theme ©2026 modern | ~20 | ~20
+- Bellaire Modern Dental | Houston, TX | bellairemoderndental.com | REJECT — Squarespace, name pattern "Modern Dental" (PDS suspect) | ~20 | ~20
+- Bellaire Dental Group | Bellaire TX,,  | bellairedentalgroup.com | EXCLUDED — prior round | ~0 | ~0
+- The Houston Dentists (Frazar) | Bellaire TX,,  | drfrazar.com | EXCLUDED — prior round | ~0 | ~0
+- Carrie Muzny DDS | The Woodlands, TX | carriemuznydds.com | REJECT — Beaver Builder ©2026, modern | ~20 | ~20
+- Woodsprings Dentistry | The Woodlands, TX | woodspringsdentistry.com | REJECT — Squarespace ©2025 multi-doc modern | ~20 | ~20
+- Woodlands Family Dental | The Woodlands, TX | woodlandsdental.com | PENDING — check | ~45 | ~45
+- Robert Dernick DDS (since 1979) | The Woodlands, TX | drdernickthewoodlandsdentist.com | PENDING — Jupiter/WPBakery theme, dentalmarketing.com trace, ©2026; medium gap | ~45 | ~45
+- Bailey Dental Group | Cypress/Woodlands, TX | thebaileydentalgroup.com | REJECT — multi-loc group, modern | ~20 | ~20
+- Montgomery Dental Center (since 1987) | Montgomery/Conroe, TX | montgomerydentalcenter.com | PENDING — TNT, "©2016"; small-town market (Lake Conroe); check income | ~50 | ~50
+- Plaisance & Bostick Family Dentistry (since 1980) | River Ridge/Harahan (New Orleans), LA | riverridgesmiles.com | PENDING — TNT; NOLA metro belongs to Southeast/other? in prior-round south-central; multi-doc | ~45 | ~45
+- Heart of Texas Smiles (Lassetter/Enneking) | Waco, TX | wacofamilydental.com | PENDING — TNT, multi-doc | ~45 | ~45
+- Dental Station Family Dentistry | Waco, TX | dentalstationwaco.com | PENDING — TNT; low priority | ~45 | ~45
+- Pasadena Family Dentistry (3 docs) | Pasadena, TX | pasadenafamilydentistry.com | PENDING — TNT; lower-income market | ~45 | ~45
+- Dallas Esthetics (Hildebrand) prosthodontics | Dallas (Preston Rd), TX | dallasesthetics.com | REJECT — ©2024 modern-ish site, title "Home" (weak title though); check later | ~20 | ~20
+- Carroll R. Butler DDS | Kerrville, TX | carrollbutlerdds.com | LOW — TNT; small market | ~40 | ~40
+- CityLine Dental Center | Richardson, TX | citylinedentalcenter.com | LOW — TNT; multi-doc, no © year | ~40 | ~40
+- Aegis Dental | Carrollton, TX | familydentistcarrollton.com | LOW — TNT ©2021, young | ~40 | ~40
+- Nelson Dental Care | Metairie, LA | nelsondentalcarela.com | LOW — TNT; no year | ~40 | ~40
+- Stonebriar Smile Design | Frisco, TX | stonebriarsmiledesign.com | REJECT — ©2026 modern | ~20 | ~20
+- Alamo Springs Dental | San Antonio, TX | alamospringsdental.com | LOW — TNT ©2021, young practice | ~40 | ~40
+- ARK Family Dentistry | Aledo, TX | arkfamilydentistry.com | LOW — TNT ©2016 small-town | ~40 | ~40
+- Wayne & Julie Scott DDS | Coppell, TX | wjscottdds.com | REJECT-ish — modern WP 7.1 (mts_schema/gala child), Cowboys/Stars team dentists since 1990; site current-ish ( | ~20
+- Mason Dental | Grapevine, TX | drmasondental.com | REJECT — Einstein-built BlackMarlin theme ©2026 "Propelled by" vendor, modern | ~20 | ~20 | ~20
+- Flower Mound Dental (Wyatt) | Flower Mound, TX | flowermounddental.com | REJECT — ©2026 Ekwa WP theme, current | ~20 | ~20 | ~20
+- Rick Larson DDS | Coppell, TX | ricklarsondds.com | bot-walled (403 CF) — PENDING render check | ~35 | ~35 | ~35
+- Coppell Smiles | Coppell, TX | coppellsmilesonline.com | bot-walled (403 CF) — PENDING | ~35 | ~35 | ~35
+- West U Family Dental | Houston, TX | westufamilydental.com | PENDING — check (modern icons) | ~45 | ~45 | ~45
+- Lovett Dental West U | Houston TX,,,  | lovettdental.com | REJECT — DSO: Lovett | ~0 | ~0 | ~0
+- Ahrens Family & Cosmetic Dentistry | Grapevine, TX | (url TBD) | PENDING | ~45 | ~45 | ~45
+- Jason Daaboul DDS | Grapevine TX,,,  | jasondds.net | PENDING (est 2006 - too young, low) | ~45 | ~45 | ~45
+- Cosmetic Dental Associates (Dr John Moore Jr) | San Antonio, TX | 33smile.com | REJECT — multi-location (Alamo Ranch/Stone Oak/Med Center) group, Elementor modern site | ~20 | ~20 | ~20
+- Atkins & Anderson DDS | Bryan/College Station, TX | atkinsandersondds.com | PENDING — bot challenge page ("One moment, please"); check render | ~45 | ~45 | ~45
+- Matthews Dental Group | College Station, TX | matthewsdental.net | bot-walled 403; PENDING (25+ yrs Dr Matthews & Sally) | ~35 | ~35 | ~35
+- Curtis Kaiser DDS | College Station, TX | drcurtiskaiser.com | REJECT — domain redirects to gambling spam (pg-demo.net) / hijacked; not a viable prospect site check (flag) | | ~20
+- Hooks Family Dentistry | College Station, TX | hooksdds.com | REJECT — ©2026 custom WP theme (Practice Cafe), modern | ~20 | ~20 | ~20
+- Long Family & Cosmetic Dentistry | College Station, TX | longfamilydentistry.com | PENDING — Bootstrap 3 / old template, copyright_year dynamic; check | ~45 | ~45 | ~45
+- Central Texas Dental Care | Hewitt/Waco, TX | hewittdentist.com | REJECT — Einstein-built ©2026, est 1983, modern | ~20 | ~20 | ~20
+- Starr General Dentistry (Kent Starr, est 1974) | Waco, TX | starrgeneraldentistry.com | PENDING — Dentalfone + Breakdance builder, likely refreshed; check | ~45 | ~45 | ~45
+- Chad Latino DDS | Waco, TX | wacofamilydentist.com | REJECT — Elementor modern | ~20 | ~20 | ~20
+- Thornton Dental | Bryan, TX | thorntondentalbcs.com | REJECT — Elementor modern, young | ~20 | ~20 | ~20
+- Tulsa Time Dental Design | Tulsa, OK | tulsatimedentaldesign.com | REJECT — Squarespace ©2026 modern-ish, 80 yrs combined | ~20 | ~20 | ~20
+- Charles Calhoun DDS | Tulsa, OK | calhoundds.com | PENDING — fetch returned 202/empty; recheck | ~45 | ~45 | ~45
+- Ben Gerkin DDS | Tulsa, OK | drgerkin.com | REJECT — WP charlie theme ©2026 DentalQore modern | ~20 | ~20 | ~20
+- élan Tulsa Cosmetic Dentistry | Tulsa, OK | tulsadentalcare.com | REJECT — Elementor ©2026 modern | ~20 | ~20 | ~20
+- Endicott Dental | Broken Arrow, OK | endicottdental.com | PENDING — check vendor/copyright | ~45 | ~45 | ~45
+- Advances in Dentistry | OKC, OK | advancesindentistry.com | PENDING — 302 blank; recheck | ~45 | ~45 | ~45
+- OKC Smiles (Moore/Norman) | OKC, OK | okcsmiles.com | REJECT — multi-office, WP goya ©2026 | ~20 | ~20 | ~20
+- HARA Cosmetic Dentistry (Grace Jun) | OKC, OK | haracosmeticdentistry.com | REJECT — Elementor ©2026 modern | ~20 | ~20 | ~20
+- Alamo Heights Implant Center | San Antonio, TX | alamoimplantcenter.com | REJECT — custom theme ©2026 modern | ~20 | ~20 | ~20
+- Alamo Family & Cosmetic Dentistry (Dr Mooney) | San Antonio, TX | alamodentalsa.com | PENDING — TNT Dental, "&copy; 2020" | ~45 | ~45 | ~45
+- Calhoun DDS | Tulsa, OK | calhoundds.com | PENDING — server 202 empty for curl; render check | ~45 | ~45 | ~45
+- Advances in Dentistry | OKC, OK | advancesindentistry.com | PENDING — 302 loop for curl; render check | ~45 | ~45 | ~45
+- Ahrens Family & Cosmetic Dentistry (Craig Ahrens, 30+ yrs) | Grapevine, TX | url? | PENDING — domain unknown, ahrensdentistry.com dead | ~45 | ~45 | ~45
+- Grapevine Family Dentistry (Michael Solis) | Grapevine, TX | grapevinefamilydentistry.com | PENDING — small 24KB page, check vendor/© | ~45 | ~45 | ~45
+- Prosper Family Dentistry | Prosper, TX | prosperfamilydentistry.com | PENDING — small 23KB page; check | ~45 | ~45 | ~45
+- Ron S. White DDS (est 1999, w/ Kindra Dietrich) | Dripping Springs, TX | ronswhite.com | bot-walled 403 CF; PENDING render | ~35 | ~35 | ~35
+- Austin Prosthodontics (Ernesto Carmona) | Austin, TX | austinprostheticdental.com | bot-walled 403; PENDING | ~35 | ~35 | ~35
+- NWA Family Dental (Dr Kifer) | Fayetteville, AR | nwafamilydentist.com | PENDING — Great Dental Websites | ~45 | ~45 | ~45
+- Kevin G. Jones DDS (Pankey; since 2001) | Little Rock, AR | jonesfamilydental.com | REJECT-ish — Dentalfone but X-theme/LayerSlider maintained ©2013-2026, 25y? no (2001) | ~20 | ~20 | ~20
+- John C. Howell Jr DDS prosthodontist | North Little Rock, AR | ardentalimplants.com | bot-walled 403; PENDING | ~35 | ~35 | ~35
+- Simon Family Dentistry | Baton Rouge, LA | simonfamilydentistryla.com | PENDING — dynamic-year ©; check vendor | ~45 | ~45 | ~45
+- Premier Dental Care (Dr Robert J. ..., 30 yrs) | Baton Rouge, LA | smilebr.com | PENDING — Squarespace "©Copyright 2023" | ~45 | ~45 | ~45
+- Levy & Vutera Family Dentistry | Baton Rouge, LA | levyvuteradental.com | PENDING — ©2026; check design | ~45 | ~45 | ~45
+- Bruns Family Dental Center | Baton Rouge, LA | brunsfamilydentalcenter.com | REJECT — ©2026 modern-ish | ~20 | ~20 | ~20
+- Baton Rouge Dentistry (Highland/Welch) | Baton Rouge, LA | batonrougedentistry.com | PENDING — 307 redirect interstitial | ~45 | ~45 | ~45
+- Mark Ventress DDS (Cosmetic Dentistry of Baton Rouge) | Baton Rouge, LA | markventressdds.com | PENDING-STRONG — Sesame 24-7, 26KB thin page | ~53 | ~53 | ~53
+- Pearl Dental Group | Baton Rouge, LA | pearldentalgroup.com | REJECT — multi-location group, dental-visions/Elementor modern | ~20 | ~20 | ~20
+- Scott Hannaman & Edward Herbert DDS | Lake Charles, LA | smhdds.com | PENDING — Great Dental Websites; practice est 2011 (young) | ~45 | ~45 | ~45
+- Michael B. Williamson DDS | Lake Charles, LA | lakecharlessmiles.com | PENDING-STRONG — ProSites "Copyright � 2019", http-only lookup ok | ~52 | ~52 | ~52
+- Daniel M. Perry DDS | Lake Charles, LA | drperrydentistry.com | REJECT — Avada custom ©2025 | ~20 | ~20 | ~20
+- Darren Chaumont DDS | Lake Charles, LA | lcdentalcare.com | PENDING-STRONG — ProSites "Copyright � 2019"; family/cosmetic/sedation | ~52 | ~52 | ~52
+- Ted Bercier DDS | Lake Charles, LA | tedbercierdds.net | PENDING — Thryv site | ~45 | ~45 | ~45
+- Renewed Family Dental | Lake Charles, LA | dentistlakecharlesla.com | REJECT — young/small | ~20 | ~20 | ~20
+- Tharp, Klaus & Kelly | Flowood, MS | smilesinjackson.com | REJECT — dental-visions modern WP 7.0 | ~20 | ~20 | ~20
+- Joe Burns DDS | Flowood/Madison MS,,,  | joeburnsdds.com | EXCLUDED — prior round (Joe Burns DDS, Ridgeland) | ~0 | ~0 | ~0
+- Achord Dentistry | Flowood, MS | achorddentistry.com | bot-walled; young practice, low priority | ~35 | ~35 | ~35
+- Belle Meade Family Dental (Dr Jason Cox) | Flowood, MS | bellemeadefamilydental.com | PENDING — small 54KB legacy | ~45 | ~45 | ~45
+- Windstone Dental (Stephen Joe, since 1983) | Southaven/Olive Branch MS,,,  | windstonedental.com | REJECT-ish — modern WP theme, multiple loc | ~20 | ~20 | ~20
+- Southaven Dental Care (C. Dean Umfress) | Southaven, MS | southavendentalcare.net | bot-walled 403; PENDING | ~35 | ~35 | ~35
+- The Smile Center for Cosmetic Dentistry | Southaven/Olive Branch MS,,,  | dentistsmilecenter.com | PENDING — Wix | ~45 | ~45 | ~45
+- Goodman Road Dental | Olive Branch, MS | bestolivebranchdentist.com | PENDING — ©2024 | ~45 | ~45 | ~45
+- Aspen Dental / Affordable Dentures Olive Branch | MS,,,  | — | REJECT — DSO | ~0 | ~0 | ~0
+- Arnold Dental (Fred Arnold, AACD Accredited Fellow) | Lexington, KY | cosmeticdentistryoflexington.com | REJECT-ish — custom "arnold" theme; ©2015-2026 IDW; check quality | ~20 | ~20 | ~20
+- Hometown Family Dental (30+ yrs) | St. Matthews/Louisville, KY | hometownfamilydental502.com | bot-walled 403 CF; PENDING render | ~35 | ~35 | ~35
+- Lavelle Family & Cosmetic Dentistry (est 1979) | Prospect/Louisville, KY | lavelledentistry.com | PENDING — curl 202 empty; render check | ~45 | ~45 | ~45
+- Smiles of Louisville (40222) | Louisville, KY | smilesoflouisville.com | REJECT — Einstein-built "Propelled by" ©2026 modern | ~20 | ~20 | ~20
+- Aiken and Wilson Dentistry | Louisville, KY | aikenwilsondentistry.com | EXCLUDED — prior round (also Elementor modern) | ~0 | ~0 | ~0
+- Advanced Dental Center (Talis) | Louisville, KY | kyadc.com | REJECT — multi-location, likely group | ~20 | ~20 | ~20
+- Kirchner Dental of St. Matthews | Louisville, KY | kdsmiles.com | REJECT — multi-loc brand, low priority | ~20 | ~20 | ~20
+- Precision Dental (Bryan Packard) | Bowling Green, KY | precisiondentalbowlinggreen.com | REJECT — yds custom theme ©2026 | ~20 | ~20 | ~20
+- Wright Dental Studio | Bowling Green, KY | wrightdentalstudio.com | REJECT — young solo, WP 6.4 dentist-wp theme; low reputation data | ~20 | ~20 | ~20
+- Cox Family Dentistry | Bowling Green, KY | coxfamilydentistrybgky.com | REJECT — Divi ©2026 modern | ~20 | ~20 | ~20
+- Bowling Green Family Dentistry | Bowling Green, KY | bowlinggreenfamilydental.com | REJECT — "Heartland" string in source; modern; DSO suspect | ~0 | ~0 | ~0
+- Affordable Dentures & Implants Bowling Green | KY,,,  | — | REJECT — DSO | ~0 | ~0 | ~0
+- Roberts Family Dentistry | Wichita, KS | robertsfamilydentistry.com | EXCLUDED — prior round | ~0 | ~0 | ~0
+- Robert H. Dakin Jr DDS (Comprehensive Family Dentistry) | Wichita, KS | dakindds.com | bot-walled 403; PENDING | ~35 | ~35 | ~35
+- Detmer Family Dentistry | Maize, KS | detmerfamilydentistry.com | bot-walled 403; PENDING (3 Detmers, family) | ~35 | ~35 | ~35
+- Dold Family Dental | Wichita, KS | doldfamilydental.com | PENDING — curl 202 empty; render | ~45 | ~45 | ~45
+- Envy Dental | Wichita, KS | envydental.net | REJECT — Elementor ©2026 | ~20 | ~20 | ~20
+- Midwest Dental Wichita | KS,,,  | midwest-dental.com | REJECT — DSO (Smile Brands) | ~0 | ~0 | ~0
+- Michael P. Rack DDS | Topeka, KS | mprackdds.com | PENDING — ©2026 small 60KB; check look | ~45 | ~45 | ~45
+- Jowett & Lewis Family Dentistry | Topeka, KS | jlfamilydentistry.com | REJECT — Elementor modern | ~20 | ~20 | ~20
+- Topeka Dentistry | Topeka, KS | thetopekadentistry.com | REJECT — Elementor modern | ~20 | ~20 | ~20
+- Exo Dental | Topeka, KS | exodental.com | REJECT — multi-loc group | ~20 | ~20 | ~20
+- Enclave Dental | Southlake, TX | enclavedental.com | PENDING — TNT-style keyword-spam title "Dentist Southlake | Dentist Near Me | Local Dentist | Dentist Office N | ~45
+- Dr. Biedermann (Keller family/laser) | Keller, TX | docbiedermann.com | bot-walled 403; PENDING | ~35 | ~35 | ~35
+- Holt Dental Care | Southlake, TX | holtdentalcare.com | PENDING — custom holtdental theme ©2026, 43KB; check | ~45 | ~45 | ~45
+- Southlake Dental Care & Wellness | Keller/Southlake, TX | southlakedentaltexas.com | PENDING — Sesame 24-7 | ~48 | ~48 | ~48
+- Wright Smiles (since 1992) | Southlake, TX | wrightsmiles.com | REJECT — X-theme WP Rocket ©2026 modern, multi-doc | ~20 | ~20 | ~20
+- Fuqua Advanced Dental | Southlake/Colleyville, TX | fuquaadvanceddental.com | REJECT — Einstein ©2026 modern | ~20 | ~20 | ~20
+- 1st In Smiles (since 1988) | Plano, TX | 1stinsmiles.com | bot-walled 403; PENDING | ~35 | ~35 | ~35
+- Uptown Cosmetic + Implant Dentistry (Velasco, prosth) | Houston, TX | uptowncosmeticimplantdentistry.com | REJECT — Elementor/Genesis custom ©2026 | ~20 | ~20 | ~20
+- Sergio Ortegon DDS MS (prosth) | Bellaire/Houston, TX | implantshouston.dental | REJECT — DentalQore-type "charlie" theme ©2026 modern | ~20 | ~20 | ~20
+- Bellaire Modern Dental | Houston, TX | bellairemoderndental.com | REJECT — Squarespace, name pattern "Modern Dental" (PDS suspect) | ~20 | ~20 | ~20
+- Bellaire Dental Group | Bellaire TX,,,  | bellairedentalgroup.com | EXCLUDED — prior round | ~0 | ~0 | ~0
+- The Houston Dentists (Frazar) | Bellaire TX,,,  | drfrazar.com | EXCLUDED — prior round | ~0 | ~0 | ~0
+- Carrie Muzny DDS | The Woodlands, TX | carriemuznydds.com | REJECT — Beaver Builder ©2026, modern | ~20 | ~20 | ~20
+- Woodsprings Dentistry | The Woodlands, TX | woodspringsdentistry.com | REJECT — Squarespace ©2025 multi-doc modern | ~20 | ~20 | ~20
+- Woodlands Family Dental | The Woodlands, TX | woodlandsdental.com | PENDING — check | ~45 | ~45 | ~45
+- Robert Dernick DDS (since 1979) | The Woodlands, TX | drdernickthewoodlandsdentist.com | PENDING — Jupiter/WPBakery theme, dentalmarketing.com trace, ©2026; medium gap | ~45 | ~45 | ~45
+- Bailey Dental Group | Cypress/Woodlands, TX | thebaileydentalgroup.com | REJECT — multi-loc group, modern | ~20 | ~20 | ~20
+- Montgomery Dental Center (since 1987) | Montgomery/Conroe, TX | montgomerydentalcenter.com | PENDING — TNT, "©2016"; small-town market (Lake Conroe); check income | ~50 | ~50 | ~50
+- Plaisance & Bostick Family Dentistry (since 1980) | River Ridge/Harahan (New Orleans), LA | riverridgesmiles.com | PENDING — TNT; NOLA metro belongs to Southeast/other? in prior-round south-central; multi-doc | ~45 | ~45 | ~45
+- Heart of Texas Smiles (Lassetter/Enneking) | Waco, TX | wacofamilydental.com | PENDING — TNT, multi-doc | ~45 | ~45 | ~45
+- Dental Station Family Dentistry | Waco, TX | dentalstationwaco.com | PENDING — TNT; low priority | ~45 | ~45 | ~45
+- Pasadena Family Dentistry (3 docs) | Pasadena, TX | pasadenafamilydentistry.com | PENDING — TNT; lower-income market | ~45 | ~45 | ~45
+- Dallas Esthetics (Hildebrand) prosthodontics | Dallas (Preston Rd), TX | dallasesthetics.com | REJECT — ©2024 modern-ish site, title "Home" (weak title though); check later | ~20 | ~20 | ~20
+- Carroll R. Butler DDS | Kerrville, TX | carrollbutlerdds.com | LOW — TNT; small market | ~40 | ~40 | ~40
+- CityLine Dental Center | Richardson, TX | citylinedentalcenter.com | LOW — TNT; multi-doc, no © year | ~40 | ~40 | ~40
+- Aegis Dental | Carrollton, TX | familydentistcarrollton.com | LOW — TNT ©2021, young | ~40 | ~40 | ~40
+- Nelson Dental Care | Metairie, LA | nelsondentalcarela.com | LOW — TNT; no year | ~40 | ~40 | ~40
+- Stonebriar Smile Design | Frisco, TX | stonebriarsmiledesign.com | REJECT — ©2026 modern | ~20 | ~20 | ~20
+- Alamo Springs Dental | San Antonio, TX | alamospringsdental.com | LOW — TNT ©2021, young practice | ~40 | ~40 | ~40
+- ARK Family Dentistry | Aledo, TX | arkfamilydentistry.com | LOW — TNT ©2016 small-town | ~40 | ~40 | ~40
+- Cosmetic Dentistry of San Antonio (Camacho, since 1980) | San Antonio, TX | cosmeticdentistryofsa.com | REJECT — modern site, 1,300+ reviews shown; no gap | ~20 | ~20 | ~20
+- Love Dentistry (Boynton-Love, since 1996) | Wichita, KS | lovedentistry.net | REJECT — ©2026 modern | ~20 | ~20 | ~20
+- Progressive Dental Care of Tulsa (Davies, since 1998) | Tulsa, OK | dentalcareoftulsa.com | REJECT — ©2026 modern | ~20 | ~20 | ~20
+- Highlands Family Dentistry (Luna, since 2003) | Dallas, TX | highlandsdentaldallas.com | REJECT-ish — Doctor Genius but ©2026 maintained; low priority | ~35 | ~20 | ~20
+- Smile Fort Worth (Wilkinson) | Fort Worth, TX | smilefortworth.com | REJECT — GoDaddy ©2022, young/multi-doc | ~25 | ~20 | ~20
+- Memorial Park Dental Spa / Kevin Nail DDS / Paul Lee DDS / Walden Dental / Austin Artistic Dental / Nikki Green DDS | Houston/Austin/FW, TX | various | REJECT — all ©2026 modern sites (fingerprinted) | ~20 | ~20 | ~20
+- Crescent Hill Dental Care / Natural Smiles | Louisville, KY | crescenthilldentalcare.com | REJECT — modern/young | ~20 | ~20 | ~20
+- Cosmetic Dentistry of San Antonio (Camacho) | San Antonio, TX | cosmeticdentistryofsa.com | REJECT — modern, 1,300+ reviews | ~20
+- Cosmetic Dentistry of San Antonio (Camacho) | San Antonio, TX | cosmeticdentistryofsa.com | REJECT — modern, 1,300+ reviews
+- Love Dentistry / Progressive Dental Care Tulsa / Highlands Family Dentistry / Smile Fort Worth / Crescent Hill | various | REJECT — modern or low priority
+
+NOTE: WebSearch quota (200) and Firecrawl credits exhausted mid-run; discovery continued via TNT client-roster mining + threebestrated/opencare directory pages. Google review counts unretrievable => all reviews tagged UNKNOWN.
