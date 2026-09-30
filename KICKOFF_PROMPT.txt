@@ -1,0 +1,13 @@
+READ CLAUDE.md, PLAYBOOK.md and EXCLUSIONS.md in this folder COMPLETELY before doing anything else.
+
+Then execute the "Dental Next 100" run exactly as PLAYBOOK.md specifies:
+
+1. Launch 6 parallel research subagents (one per region as defined in PLAYBOOK.md §3), each screening 60+ NEW independent dental practices in its round-3 territories, verifying websites by direct fetch + raw-HTML vendor fingerprinting, screening independence (DSO check), logging every screened candidate to ./output/logs/[region].md as it goes, and returning its TOP 18 in the exact compact profile schema from PLAYBOOK.md §5 plus a candidate table.
+
+2. Every subagent must treat EXCLUSIONS.md as a hard blocklist — any name or domain in it is off-limits and gets logged as "EXCLUDED — prior round".
+
+3. When all six return: dedupe against EXCLUSIONS.md and across regions, rank all ~108 by opportunity score (conversion likelihood as tiebreak), cut to exactly 100, keep the rest as bench, run the QC pass from PLAYBOOK.md §6 (liveness-check all 100 URLs; zero exclusion overlap; every profile complete), replacing any failures from the candidate tables.
+
+4. Write the outputs from PLAYBOOK.md §7: ./output/FINAL_TOP_100.md, ./output/top100.csv, ./output/EXCLUSIONS_UPDATED.md, and keep the six log files.
+
+If you hit a rate limit or the session is interrupted, resume by re-reading the log files — never re-screen a logged name. Work autonomously; make reasonable choices rather than pausing to ask; state assumptions in the final report. Give me a short summary at the end: top 10 by score, count per region, vendor-cluster breakdown, and any QC replacements made.
