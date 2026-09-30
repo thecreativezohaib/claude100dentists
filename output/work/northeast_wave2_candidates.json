@@ -1,0 +1,242 @@
+[
+ {
+  "name": "Aesthetic Dental Innovations (Dornbush)",
+  "city": "Marblehead",
+  "state": "MA",
+  "url": "https://drdornbush.com/",
+  "verdict": "JOB A DROP - site suspended (cgi-sys/suspendedpage.cgi, 'Account Suspended')",
+  "approx_score": null
+ },
+ {
+  "name": "Keith Asarkof DMD & Associates",
+  "city": "Lexington",
+  "state": "MA",
+  "url": "https://www.asarkof.com/",
+  "verdict": "CANDIDATE - PBHS Template2120 (via archive; Cloudflare-walled), 3 docs (Asarkof, Ma, Bucari), Birdeye 29 (4.5)+19; general/family, thin cosmetic positioning",
+  "approx_score": 63
+ },
+ {
+  "name": "Laurence Schwartz DDS",
+  "city": "Huntington",
+  "state": "NY",
+  "url": "https://www.huntingtonnysmiles.com/",
+  "verdict": "REJECT-LOW - Officite (c)2024 + accessibility widget, solo, Healthgrades 2 reviews",
+  "approx_score": 58
+ },
+ {
+  "name": "Welsh & King Prosthodontics (Samantha King DMD)",
+  "city": "Portsmouth",
+  "state": "NH",
+  "url": "https://www.welshandking.com/",
+  "verdict": "CANDIDATE-LOW - PBHS (archive 2025-10), now solo Dr. King (DMD 2002, prosth UCLA 2005), review count not found",
+  "approx_score": 60
+ },
+ {
+  "name": "Harte Dental (Kimberly Harte + 3)",
+  "city": "Milton",
+  "state": "MA",
+  "url": "https://www.hartedental.com/",
+  "verdict": "CANDIDATE - Great Dental Websites, since 1978, 4 docs, Birdeye 971 (4.9); site reads modern (WebFetch) with 'Loading Testimonial...' widget placeholders - low gap",
+  "approx_score": 62
+ },
+ {
+  "name": "Spindel General & Cosmetic Dentistry",
+  "city": "Manchester",
+  "state": "NH",
+  "url": "https://www.elizabethspindel.com/",
+  "verdict": "CANDIDATE - Great Dental Websites, mother-daughter, Birdeye 479 (4.9), 'Loading Testimonial...' placeholder; moderately modern; Manchester market",
+  "approx_score": 64
+ },
+ {
+  "name": "Kornhaber Dental Group",
+  "city": "Port Washington",
+  "state": "NY",
+  "url": "https://www.kornhaberdg.com/",
+  "verdict": "CANDIDATE - Dentalfone (c)2013-2026 LayerSlider, 2 docs, since 1983, Birdeye 816 (5.0); site refreshed/contemporary, low gap",
+  "approx_score": 60
+ },
+ {
+  "name": "Charm Smile Dental",
+  "city": "Concord",
+  "state": "NH",
+  "url": "https://www.charmsmiledental.com/",
+  "verdict": "CANDIDATE-LOW - TNT Dental, since 1981, Birdeye 539; insurance/affordable positioning (low FC)",
+  "approx_score": 60
+ },
+ {
+  "name": "Wellesley Smiles Dental Professionals",
+  "city": "Wellesley",
+  "state": "MA",
+  "url": "https://www.wellesleysmiles.com/",
+  "verdict": "CANDIDATE - ProSites, Birdeye 135 (5.0); est/owner not verified",
+  "approx_score": 62
+ },
+ {
+  "name": "Hometown Dental / Hometown Family Dentistry (Ritzcovan)",
+  "city": "Ridgefield",
+  "state": "CT",
+  "url": "https://www.htdental31.com/",
+  "verdict": "CANDIDATE-LOW - VivioSites '(c) 2019', Birdeye 259 (5.0), solo; est unknown",
+  "approx_score": 58
+ },
+ {
+  "name": "Evergreen Family Dental Care (Sandhu)",
+  "city": "Ridgefield",
+  "state": "CT",
+  "url": "https://www.evergreenfamilydentalcare.com/",
+  "verdict": "CANDIDATE-LOW - ProSites, Birdeye 229; est unknown, young-looking practice",
+  "approx_score": 55
+ },
+ {
+  "name": "Expert Dental",
+  "city": "Hamden",
+  "state": "CT",
+  "url": "https://expertdentalct.com/",
+  "verdict": "UNVERIFIED - www returns 'Error. Page cannot be displayed' / empty title; Birdeye 833 reviews; identity of doctors unknown",
+  "approx_score": null
+ },
+ {
+  "name": "The Dental Center of Westport (Kogan/Romano)",
+  "city": "Westport",
+  "state": "CT",
+  "url": "https://www.dentalcenterwestport.com/",
+  "verdict": "REJECT-LOW - TNT site, 2 docs, Birdeye <60 reviews",
+  "approx_score": 52
+ },
+ {
+  "name": "Darien Center for Comprehensive Dentistry (Pech/Rhein)",
+  "city": "Darien",
+  "state": "CT",
+  "url": "https://www.dariendds.com/",
+  "verdict": "CANDIDATE-LOW - Sesame 145KB, 30+ yrs, Birdeye count not matched",
+  "approx_score": 58
+ },
+ {
+  "name": "Esthetic Dentistry of Maine (Armstrong)",
+  "city": "Scarborough/South Portland",
+  "state": "ME",
+  "url": "https://www.edmmaine.com/",
+  "verdict": "REJECT - practice closed: 'Daniel J. Armstrong DMD is no longer providing Dental Services as of January 2020'",
+  "approx_score": 0
+ },
+ {
+  "name": "Center for Progressive Dentistry (Scardella)",
+  "city": "Duxbury",
+  "state": "MA",
+  "url": "https://www.centerforprogressivedentistry.com/",
+  "verdict": "CANDIDATE-LOW - Great Dental Websites, Birdeye 376; founder Santelli retired, ownership transition",
+  "approx_score": 56
+ },
+ {
+  "name": "Lit Dental Esthetics & Implant Center",
+  "city": "Wayland",
+  "state": "MA",
+  "url": "https://www.litdental.com/",
+  "verdict": "REJECT - Squarespace, Birdeye 562, young practice/modern",
+  "approx_score": 50
+ },
+ {
+  "name": "McGillicuddy Huyett Dental",
+  "city": "Needham",
+  "state": "MA",
+  "url": "https://www.mcgillicuddyhuyettdental.com/",
+  "verdict": "REJECT - Squarespace modern, Birdeye 268",
+  "approx_score": 50
+ },
+ {
+  "name": "Personal Care Dental of Westchester",
+  "city": "Scarsdale",
+  "state": "NY",
+  "url": "https://www.mypcdw.com/",
+  "verdict": "CANDIDATE-LOW - Sesame 22KB, Birdeye ~400; multi-office PLLC, independence unverified",
+  "approx_score": 58
+ },
+ {
+  "name": "Scarsdale Village Dental Arts (Vero/Bonda)",
+  "city": "Scarsdale",
+  "state": "NY",
+  "url": "https://www.svdentalarts.com/",
+  "verdict": "REJECT - Squarespace modern, Birdeye 346",
+  "approx_score": 50
+ },
+ {
+  "name": "Altman Dental (Frank Altman)",
+  "city": "Williamsville",
+  "state": "NY",
+  "url": "https://www.altmandental.com/",
+  "verdict": "CANDIDATE-LOW - YOOtheme (c)2022, Birdeye 359; moderate site",
+  "approx_score": 56
+ },
+ {
+  "name": "Princeton Prosthodontics (Cortese)",
+  "city": "Princeton",
+  "state": "NJ",
+  "url": "https://www.drcortese.com/",
+  "verdict": "UNVERIFIED - Cloudflare 521 (origin down), Birdeye 293",
+  "approx_score": null
+ },
+ {
+  "name": "Main Street Dental Arts (Rebecca Jackson)",
+  "city": "Chatham",
+  "state": "NJ",
+  "url": "https://www.mainstreetdentalartsnj.com/",
+  "verdict": "UNVERIFIED - bot verification wall; Birdeye 320; Avada (c)2021",
+  "approx_score": null
+ },
+ {
+  "name": "Lockworks Dental Group",
+  "city": "Branford",
+  "state": "CT",
+  "url": "https://www.lockworksdentalgroup.com/",
+  "verdict": "REJECT-LOW - Dentalfone (c)2013+, multi-location group, Birdeye 288",
+  "approx_score": 52
+ },
+ {
+  "name": "Maine Dentistry",
+  "city": "Portland",
+  "state": "ME",
+  "url": "https://www.mainedentistry.com/",
+  "verdict": "REJECT - Squarespace modern, Birdeye 960",
+  "approx_score": 48
+ },
+ {
+  "name": "Thrive Dental Studio",
+  "city": "Portland",
+  "state": "ME",
+  "url": "https://www.thrivedentalstudio.com/",
+  "verdict": "REJECT - modern",
+  "approx_score": 45
+ },
+ {
+  "name": "Wilton Dental Associates",
+  "city": "Wilton",
+  "state": "CT",
+  "url": "https://wiltondentalassoc.com/",
+  "verdict": "REJECT - WP charlie-child theme (c)2026 modern, Birdeye 276",
+  "approx_score": 48
+ },
+ {
+  "name": "Life Long Dental Care",
+  "city": "Ridgefield/Orange",
+  "state": "CT",
+  "url": "https://www.lifelongdentalcarect.com/",
+  "verdict": "REJECT - Drupal 10 modern, multi-location",
+  "approx_score": 45
+ },
+ {
+  "name": "Chatham Dental Studio",
+  "city": "Chatham",
+  "state": "NJ",
+  "url": "https://chathamdentalstudio.com/",
+  "verdict": "REJECT-LOW - WPBaker (c)2016, no reputation evidence",
+  "approx_score": 45
+ },
+ {
+  "name": "Gillis Dental (Richard C. Gillis)",
+  "city": "Needham",
+  "state": "MA",
+  "url": "https://www.gillisdental.com/",
+  "verdict": "REJECT-LOW - TNT (c)2021, <60 Birdeye reviews",
+  "approx_score": 50
+ }
+]
