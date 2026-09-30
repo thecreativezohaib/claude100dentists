@@ -206,3 +206,3088 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Pastucka Dental Associates | New Cumberland PA | pastuckadentalassociates.com | candidate-lite — 8.8KB
 - Cares For Smiles (Schmuckler) | Newtown Square PA | caresforsmiles.com | candidate-lite — Weebly, 25-40 yrs
 - Marketstreet Dental / Cheryl Miller DDS / Alan Yeung DDS | PA | various | candidate-lite — Thryv
+
+## FINAL TOP 18
+
+1. Goodman Dental Care — Annapolis, MD — https://www.goodmandentalcare.com/ — 77/100 — MEDIUM-HIGH (MEDIUM confidence: review corpus not measurable this run)
+• Est/Doctors: ~40 yrs, three-generation family practice (site: 'nearly 40 years'; testimonial family 'visiting Goodman Dental Care since 1985') [VERIFIED on site]; 3 dentists: A. Gary Goodman DDS, Jeremy Goodman DDS, Shoshana Garfield DDS; affiliations shown: Pankey Institute, Seattle Study Club, Spear, AAID, ADA [VERIFIED on site] | Reviews: Google count UNKNOWN (not retrievable this run; Google Maps listing exists). Site runs a 'Patient Reviews & Video Testimonials' page, a 'Top Dentists 2022' badge and a testimonial citing '26 years' with the practice [VERIFIED on site]
+• Site (observed): TNT Dental template. Footer verbatim: "©2019 Goodman Dental Care | Sitemap | Privacy Policy | Site designed and maintained by TNT Dental". Title tag verbatim: "Dentist in Annapolis, MD | Dentist Near Me | Cost of Dentistry in Annapolis | Dental Office Near Me | Goodman Dental Care" (keyword-stuffed). Retired Universal Analytics tag UA-22571916-1 still in source; 4 of 29 images have no alt text. [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Site links Facebook, Instagram, YouTube [VERIFIED]; posting activity UNKNOWN. Pankey/Spear-level case work is not surfaced on the homepage [INFERRED from page content].
+• Breakdown: FC15/20 BM13/15 WW12/15 Gap12/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap8 Dep8 Tr8 Tech9 (/10)
+• Independence: VERIFIED (site self-description: independent family practice across three generations; single office; no group/entity language in footer or booking links) | Decision-maker: Dr. A. Gary Goodman (senior/founder generation; ownership split INFERRED); sons/daughters-in-practice Dr. Jeremy Goodman
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Annapolis waterfront/Anne Arundel market, E4D same-day crowns, implants and implant dentures, veneers, sedation, Botox/fillers -> upper-mid tier | Digital spend: TNT Dental hosting/maintenance subscription; CareCredit financing; Google Maps profile
+• Hooks: 1) Footer still reads "©2019" and the title tag says "Dentist Near Me | Cost of Dentistry in Annapolis" on a 3-generation, Pankey/Spear-trained practice. 2) ~40-year / three-generation milestone is a natural moment for a redesign.
+• Pitch/offer: Premium homepage rebuild leading with the Pankey/Spear comprehensive-care story, smile gallery and generational brand; keep existing booking/financing links. $8-12k (3-doctor standard).
+• Sources: goodmandentalcare.com raw HTML + rendered fetch (2026-09-30); Google Maps place link on site
+
+2. Cosmetic & Implant Dentistry of Maryland (Dr. Jennifer Ouazana) — Pikesville, MD — https://www.cosmeticandimplantdentistryofmd.com/ — 76/100 — MEDIUM-HIGH (MEDIUM confidence: owner tenure and review count UNKNOWN)
+• Est/Doctors: Practice 'first established by our prior owner in 1965' [VERIFIED on site]; current owner-dentist Dr. Jennifer Ouazana (tenure UNKNOWN); prior owner appears to be Howard Rothschild DDS (second domain howardrothschilddds.com) [INFERRED]; 1 owner-dentist (Dr. Jennifer Ouazana DDS); AACD membership displayed [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); homepage only says 'Connect with us and leave a review!' (review corpus not surfaced) [VERIFIED]
+• Site (observed): ProSites template. Footer verbatim: "Dental Websites powered by ProSites"; source comment "Prosites Web Engine Technology Version 4.0 Copyright � 2019 Prosites, Inc." (mojibake); title " Dentist in Pikesville | Cosmetic & Implant Dentistry of Maryland "; jQuery 1.9.1; TWO live domains serve the identical page (cosmeticandimplantdentistryofmd.com and howardrothschilddds.com; the old-owner domain has a TLS name-mismatch and redirects only over http). [VERIFIED raw HTML + curl, 2026-09-30]
+• Social gap: Site links Facebook, YouTube, Twitter, Yelp [VERIFIED]; activity UNKNOWN. Site describes CEREC Primescan, 3D CBCT guided surgery, 'Teeth-in-a-Day', DURAthin veneers (capex signals) that the dated template undersells [VERIFIED on site].
+• Breakdown: FC15/20 BM11/15 WW13/15 Gap10/15 Dep9/10 Tr9/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap7 Dep9 Tr9 Tech9 (/10)
+• Independence: INFERRED (single-owner practice; entity name is generic; no group/'division of' language; no group booking domain) - verify on call | Decision-maker: Dr. Jennifer Ouazana DDS (owner-dentist)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Pikesville/NW Baltimore County affluent market; CEREC Primescan, CBCT, Teeth-in-a-Day, minimal-prep veneers, Botox -> upper-mid tier for a solo | Digital spend: ProSites subscription (two domains being paid/kept alive); Google Analytics UA tag in source
+• Hooks: 1) Two competing live domains (the previous owner's name still serves the identical site, with a broken certificate). 2) New-owner practice with CEREC Primescan/CBCT capex whose site still looks 'early 2010s'.
+• Pitch/offer: Owner-rebrand redesign: one domain, cosmetic/implant story, before-after gallery; keep existing scheduling. $6-9k (solo, high-ticket).
+• Sources: cosmeticandimplantdentistryofmd.com and howardrothschilddds.com raw HTML/curl; rendered fetch (2026-09-30)
+
+3. Devon Dental Associates (Drs. Steven Hart & Robert Rose) — Wayne (Devon/Berwyn), PA — http://www.devondental.com/ — 76/100 — MEDIUM-HIGH (MEDIUM confidence: review corpus UNKNOWN)
+• Est/Doctors: 'Since 1985' [VERIFIED on site]; 2 dentists: Dr. Steven Hart, Dr. Robert Rose ('dentists who practice together') [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); no reviews shown on homepage [VERIFIED]
+• Site (observed): Sesame 24-7 ('Website Powered by Sesame 24-7'). The site FORCES plain http: https://www.devondental.com/ answers 301 -> http://devondental.com/ -> http://www.devondental.com/ ('Not Secure'); no viewport meta tag (not mobile-optimized); page is 7.7 KB with legacy _gaq/UA-20458549-1 Analytics; stale banner "We have officially moved into our new office at 995 Old Eagle School Road, suite 305"; .php URLs (office-location.php). Title: "Dentist Wayne PA | Devon Dental Associates". [VERIFIED raw HTML + curl, 2026-09-30]
+• Social gap: Only a Facebook widget is present [VERIFIED]; no Instagram/YouTube. Gap in visible brand vs. a Main Line address.
+• Breakdown: FC14/20 BM12/15 WW14/15 Gap11/15 Dep8/10 Tr9/10 Cv4/5 Sp2/3 DM2/2 | Subs: Gap8 Dep8 Tr9 Tech9 (/10)
+• Independence: INFERRED (two-dentist partnership; no group language; footer only vendor credit) - verify on call | Decision-maker: Dr. Steven Hart / Dr. Robert Rose (owner split UNKNOWN)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Devon/Berwyn Main Line professional-office address (Old Eagle School Rd), new 'state of the art' facility -> upper-mid tier | Digital spend: Sesame 24-7 subscription; patient/doctor login portals; legacy Google Analytics
+• Hooks: 1) The homepage is served over http only ('Not Secure') and has no mobile viewport - a Main Line practice a patient reaches on a phone. 2) Still shows a 'we have officially moved' announcement.
+• Pitch/offer: Mobile-first, HTTPS premium rebuild for a 40-year Main Line practice; keep existing patient login links. $6-9k.
+• Sources: devondental.com raw HTML + curl redirect check (2026-09-30)
+
+4. Klein Family Dentistry — Harrisburg, PA — https://www.kleinfamilydentistry.com/ — 74/100 — MEDIUM-HIGH (MEDIUM confidence: review corpus UNKNOWN)
+• Est/Doctors: 'A Harrisburg staple to local families since 1979'; 'Locally-Owned & Operated' [VERIFIED on site]; Dr. Gary M. Klein DDS (owner, son of founder Dr. Joel S. Klein) + Dr. Miller (and associate reviewed as Dr. Franklin-Pitts); exact roster 2-3 [VERIFIED on site, count INFERRED] | Reviews: UNKNOWN (Google count not retrievable this run); homepage carousel 'Our Patient Reviews' with Yelp/Rate-a-Biz/Google Plus logos [VERIFIED]
+• Site (observed): TNT Dental. Footer verbatim: "Copyright © 2017 Klein Family Dental | Sitemap | Privacy Policy | Site designed and maintained by TNT Dental"; review strip uses a dead 'Google Plus' logo (assets/images/reviews-google.png, alt 'Google Plus logo'); title "Dentist Harrisburg | Klein Family Dentistry | Dental Implants"; UA-103004655-1 legacy tag. Site markets All-on-4, cone-beam scanning, 3D printing, soft-tissue laser that the template does not showcase. [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Facebook and Yelp links only [VERIFIED]; no Instagram.
+• Breakdown: FC12/20 BM13/15 WW12/15 Gap12/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap8 Dep8 Tr8 Tech9 (/10)
+• Independence: VERIFIED (site: 'Locally-Owned & Operated'; family succession Joel -> Gary Klein; single office) | Decision-maker: Dr. Gary M. Klein DDS (owner)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Harrisburg suburban market; All-on-4, implants (site claims 97% success), CBCT, 3D printing, laser, sleep apnea -> mid tier | Digital spend: TNT Dental subscription; CareCredit; Google Analytics
+• Hooks: 1) Review strip still uses a 'Google Plus' logo (Google+ shut down in 2019) and the footer is frozen at ©2017. 2) Generational handoff (Joel -> Gary Klein) + 45-year mark in 2024 already passed.
+• Pitch/offer: Implant/All-on-4 focused redesign with proper review surfacing; keep TNT-hosted forms until cut-over. $8-12k.
+• Sources: kleinfamilydentistry.com raw HTML + rendered fetch (2026-09-30)
+
+5. Wahl Family Dentistry — Wilmington, DE — https://www.wahlfamilydentistry.com/ — 74/100 — MEDIUM-HIGH (MEDIUM confidence: review corpus UNKNOWN)
+• Est/Doctors: Founded 1949 by Dr. Mervin H. Wahl; children and grandchildren now practice [VERIFIED on site]; 4 dentists: Michael Wahl DDS, Yaella Aronhime DMD, Suraj Patel DMD, Zachary Pettoruto DMD; Drs. Wahl and Aronhime named Top Dentists by Delaware Today [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); Delaware Today Top Dentist recognition (site claim) [VERIFIED on site]
+• Site (observed): TNT Dental. Footer verbatim: "© 2016 Wahl Family Dentistry | Sitemap | Site designed and maintained by TNT Dental"; legacy table/font markup; 24 of 26 images have no alt text; UA-38644436-1 retired Analytics tag; title "Dentist Wilmington | General Dentistry | Wahl Family Dentistry". [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Only a YouTube link found in source [VERIFIED]; no Facebook/Instagram links.
+• Breakdown: FC13/20 BM14/15 WW12/15 Gap11/15 Dep7/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap8 Dep7 Tr8 Tech9 (/10)
+• Independence: VERIFIED (site: family-operated across founder's children and grandchildren; single Concord Pike office) | Decision-maker: Dr. Michael Wahl DDS (family principal; ownership split INFERRED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — 2003 Concord Pike, Wilmington (Brandywine-adjacent), 4 dentists, cosmetic/restorative mix -> mid tier | Digital spend: TNT Dental subscription; CareCredit; Google Analytics
+• Hooks: 1) ©2016 footer on a practice founded 1949 (nearly a 75-year brand). 2) Two Delaware Today Top Dentists but no proof shown above the fold.
+• Pitch/offer: Heritage-brand redesign (1949 to third generation) with team + awards; $8-12k (4-doctor standard).
+• Sources: wahlfamilydentistry.com raw HTML + rendered fetch (2026-09-30)
+
+6. Perry Hall Smiles (Caroline F. Owens, DDS, PA) — Perry Hall (Baltimore), MD — http://www.perryhallsmiles.com/ — 73/100 — MEDIUM-HIGH (MEDIUM confidence: review corpus UNKNOWN; market mid-tier)
+• Est/Doctors: Dr. Roedel Jaeger began in Overlea and then Perry Hall 'almost 50 years ago'; 'four generations of patients' [VERIFIED on site]; Dr. Caroline Foster Owens DDS (owner carrying the office forward), Dr. Marina Burdusi (joined); Dr. Ronald Carter earlier partner [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); testimonials on site [VERIFIED]
+• Site (observed): ProSites. HTTPS is broken: curl -> "SSL: no alternative certificate subject name matches target host name 'www.perryhallsmiles.com'", so the site is only usable as http ('Not Secure'). Title tag has a ZIP in it: " Perry Hall Dentist | Caroline F. Owens, DDS | 21236 Dental Care ". Source comment "Copyright � 2019 Prosites, Inc." (mojibake); jQuery 1.9.1; UA-60422405-1 retired Analytics; only 4 images. [VERIFIED raw HTML + curl, 2026-09-30]
+• Social gap: No Facebook/Instagram/YouTube links found in source [VERIFIED]; social footprint UNKNOWN.
+• Breakdown: FC10/20 BM13/15 WW14/15 Gap10/15 Dep8/10 Tr9/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap8 Dep8 Tr9 Tech9 (/10)
+• Independence: INFERRED (successor-owner narrative Jaeger -> Carter -> Owens; PA professional-association entity; no group language) - verify on call | Decision-maker: Dr. Caroline F. Owens DDS (owner-dentist)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Perry Hall / NE Baltimore County suburban market; family & cosmetic mix -> lower-mid tier (site quality is the standout gap, not affluence) | Digital spend: ProSites subscription; legacy Google Analytics
+• Hooks: 1) The site has no valid HTTPS certificate for its own hostname - browsers warn every visitor. 2) Generational handoff story (Jaeger -> Owens) is unused on a ZIP-in-title ProSites page.
+• Pitch/offer: Fix-the-basics premium rebuild (secure, mobile, review-led) for a 50-year practice; $5-8k.
+• Sources: perryhallsmiles.com raw HTML + curl SSL test (2026-09-30)
+
+7. Wallingford Station Family Dental — Wallingford (Media), PA — https://www.wallingforddental.com/ — 73/100 — MEDIUM-HIGH (MEDIUM confidence: Google review corpus UNKNOWN)
+• Est/Doctors: Founded 1948; three generations [VERIFIED on site]; Stephen P. Howarth Sr. DMD ('voted top dentist in greater Philadelphia' 18 times per site), Stephen P. Howarth Jr. DMD, Daniella Rizzo DMD [VERIFIED on site] | Reviews: Public counts are small: Yelp 10 reviews, Healthgrades 2 reviews (Dr. Howarth) (search snippets, 2026-09-30); Google count UNKNOWN; site has /patient-reviews/ page [VERIFIED]
+• Site (observed): ProSites/PracticeMojo. Title tag verbatim: " Dentist in Wallingford & Media | Wallingford Station Family Dental "; source comment "Prosites Web Engine Technology Version 4.0 Copyright � 2019 Prosites, Inc." (mojibake); jQuery 1.9.1; 19 of 25 images have no alt text; table/font markup. [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Only Yelp link found; no Facebook/Instagram in source [VERIFIED]; social footprint UNKNOWN.
+• Breakdown: FC14/20 BM15/15 WW11/15 Gap10/15 Dep7/10 Tr8/10 Cv3/5 Sp3/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech9 (/10)
+• Independence: INFERRED (Howarth Sr./Jr. family practice since 1948; no group language) | Decision-maker: Dr. Stephen P. Howarth Sr. DMD (principal); Dr. Howarth Jr. (successor)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Wallingford/Swarthmore Delaware County affluent pocket, full-arch replacement and implants offered, 3 dentists -> mid-upper tier | Digital spend: ProSites subscription; patient-reviews page; Google Analytics 4
+• Hooks: 1) 18-time 'top dentist' claim sits on a ProSites page with a mojibake engine footer. 2) Sr. -> Jr. handoff is the obvious timing event.
+• Pitch/offer: Heritage + succession redesign (1948 -> Jr.); $8-12k.
+• Sources: wallingforddental.com raw HTML + rendered fetch; Healthgrades/Yelp search snippets (2026-09-30)
+
+8. Meetinghouse Dental Care (Hatboro Integrative Dentistry) — Hatboro, PA — https://www.meetinghousedental.com/ — 71/100 — MEDIUM (MEDIUM confidence: ownership after founder's retirement UNKNOWN)
+• Est/Doctors: Founder Dr. Lou Trovato (DDS, FAGD, FICOI; now retired) - founding year UNKNOWN; long-running biologic/whole-body practice [VERIFIED on site]; Dr. Wendy Beratan DMD, Dr. Matthew He DMD, Dr. David Klass DMD (all AIAOMT/SMART); Dr. Anthony Trovato PhD nutritionist [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); awards displayed: Philadelphia Magazine Top Dentists, Opencare Patients' Choice, others (site claims) [VERIFIED on site]
+• Site (observed): ProSites. Footer verbatim: "Site Developed by ProSites.com"; source comment "Copyright � 2019 Prosites, Inc." (mojibake); title " Hatboro Integrative Dentistry | Hatboro Whole-Body Dentistry | Meetinghouse Dental Care " (three brand names); UA-30546800-1 retired Analytics. Site lists CEREC, 3D cone beam, ozone therapy, PRF, ceramic implants but reads as a generic stock-photo template. [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Facebook and Instagram links present [VERIFIED]; activity UNKNOWN. Opencare profile present.
+• Breakdown: FC13/20 BM11/15 WW11/15 Gap11/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap8 Dep8 Tr8 Tech9 (/10)
+• Independence: INFERRED (self-described private-practice general dentists; no group language) - verify on call | Decision-maker: Dr. Wendy Beratan DMD (probable successor lead; owner UNKNOWN)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Hatboro/Montgomery County; cash-pay biologic dentistry (ceramic implants, ozone, PRF, amalgam-safe removal) -> mid-upper tier niche | Digital spend: ProSites subscription; Opencare listing
+• Hooks: 1) Founder retirement = brand reset moment for a three-name title tag. 2) Cash-pay biologic niche that the template presents like a generic office.
+• Pitch/offer: Niche-authority redesign (biologic/ceramic implant story); $8-12k.
+• Sources: meetinghousedental.com raw HTML + rendered fetch (2026-09-30)
+
+9. Gotwalt Dentistry — Lititz/Akron, PA — https://www.drgotwalt.com/ — 71/100 — MEDIUM-HIGH (MEDIUM confidence)
+• Est/Doctors: 'Over 30 years' (Dr. John Gotwalt); '35+ years combined experience' [VERIFIED on site]; 3 dentists: John T. Gotwalt DDS MAGD, Sara J. Gotwalt DMD FAGD, Stephanie Berg Stephens DMD FAGD [VERIFIED on site] | Reviews: Site claims '5-star rating backed by over 350 patient reviews' (source not named on page; treat as INFERRED Google) [VERIFIED as site text]
+• Site (observed): Dental Revenue template. Footer verbatim: "Copyright 2018, All Rights Reserved" + Dental Revenue credit; two conflicting title tags in source ("Lititz PA Dentist – Dr. John Gotwalt" and "Dentist in Lititz, PA | Gotwalt Dentistry"); 2014-era Font Awesome 4.2.0 via bootstrapcdn. [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Only a Facebook link found in source [VERIFIED]; site-level review claim 350+ is not tied to a widget.
+• Breakdown: FC11/20 BM13/15 WW11/15 Gap12/15 Dep8/10 Tr8/10 Cv4/5 Sp2/3 DM2/2 | Subs: Gap8 Dep8 Tr8 Tech8 (/10)
+• Independence: INFERRED (husband-and-wife/associate practice; no group language) | Decision-maker: Dr. John T. Gotwalt DDS (principal); Dr. Sara J. Gotwalt DMD
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Lititz/Lancaster County (Akron, PA office at 112 S 7th St), 3 FAGD/MAGD dentists, implants/veneers/Invisalign -> mid tier | Digital spend: Dental Revenue marketing/hosting; online reviews management
+• Hooks: 1) 350+ reviews claimed while the template footer is frozen at 2018. 2) Two competing title tags on the homepage.
+• Pitch/offer: Review-led premium redesign for a 30-year Lancaster County practice; $8-12k.
+• Sources: drgotwalt.com raw HTML + rendered fetch (2026-09-30)
+
+10. Annapolis Dental Associates — Annapolis, MD — https://www.annapolisdentalassociates.net/ — 70/100 — MEDIUM (MEDIUM confidence: independence MEDIUM; est year INFERRED from ©2004)
+• Est/Doctors: Site footer ©2004; patient testimonial 'over 20 years' [VERIFIED on site]; founding year INFERRED ~2004; 5 dentists: Drs. Waddell, Bjorklund, Warfield, Shanahan, Ahmed; ADA, AGD, ICOI and laser-dentistry memberships [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); 5 testimonials on homepage [VERIFIED]
+• Site (observed): Custom/legacy vendor. Footer verbatim: "© 2004 - 2026 American Dental Software All rights reserved • Site Designed, Maintained & Hosted by Siva Solutions Inc."; title tag verbatim: "Dentist Near Me | Dentist Office Near Me | Annapolis, MD"; table/font markup; 11 of 34 images have no alt text; mixed http assets. [VERIFIED raw HTML + rendered fetch, 2026-09-30]
+• Social gap: Facebook, Instagram, YouTube, Twitter links present [VERIFIED].
+• Breakdown: FC14/20 BM11/15 WW11/15 Gap10/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM1/2 | Subs: Gap7 Dep8 Tr8 Tech8 (/10)
+• Independence: MEDIUM confidence - verify on call (5-dentist group practice; no ownership statement; no DSO keywords found; ownership entity 'American Dental Software' in footer is a vendor string) | Decision-maker: Dr. Waddell (senior dentist named first; owner UNKNOWN)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Annapolis (Ridgely Ave medical corridor), 5 dentists, lasers, implants (ICOI), sedation -> upper-mid tier | Digital spend: Siva Solutions hosting/maintenance; social channels active links
+• Hooks: 1) Title tag is literally "Dentist Near Me | Dentist Office Near Me". 2) Footer credits 'American Dental Software' and Siva Solutions.
+• Pitch/offer: Multi-doctor flagship redesign; $10-14k.
+• Sources: annapolisdentalassociates.net raw HTML + rendered fetch (2026-09-30)
+
+11. Hagerstown Smiles Dental Care — Hagerstown, MD — https://www.hagerstownsmiles.com/ — 70/100 — MEDIUM-HIGH (MEDIUM confidence: market mid-tier)
+• Est/Doctors: Founded 1986 by J. Bruce Burley DDS FAGD (now retired, fills in) [VERIFIED on site]; Dr. J. Brandon Burley DDS, Dr. Brandy Behrens DDS, Dr. Kyle Briggs DDS (+ founder) [VERIFIED on site] | Reviews: Site link text: "Click here to read our 1000+ Google Reviews!" (site claim, Google) [VERIFIED as site text]
+• Site (observed): ProSites. Footer: "2026 Hagerstown Smiles Dental Care" + "Dental Website Design Powered by ProSites"; source comment "Copyright � 2019 Prosites, Inc." (mojibake); UA-72590405-1 retired Analytics; boilerplate meta description ('are a group of dentists dedicated to...'). [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Facebook and TikTok links present [VERIFIED].
+• Breakdown: FC9/20 BM12/15 WW11/15 Gap13/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap9 Dep8 Tr8 Tech9 (/10)
+• Independence: INFERRED (founder-family practice; no group language) | Decision-maker: Dr. J. Brandon Burley DDS (second-generation lead; owner status INFERRED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Hagerstown/Washington County mid-tier market, implants + sedation + cosmetic, 3 active dentists -> lower-mid tier | Digital spend: ProSites subscription; Google review link; patient payment portal
+• Hooks: 1) '1000+ Google Reviews' is a plain text link on a ProSites page. 2) Founder Bruce Burley retired; second-generation Burley now leads.
+• Pitch/offer: Review-corpus-led redesign; $6-9k.
+• Sources: hagerstownsmiles.com raw HTML + rendered fetch of home and /meet-the-doctors (2026-09-30)
+
+12. Katkow Dentistry — Columbia, MD — https://www.katkowdentistry.com/ — 69/100 — MEDIUM (MEDIUM confidence: site not obviously weak beyond template)
+• Est/Doctors: 'More than 50 years' (Drs. Eric & Larry Katkow); Eric retired 2020; Ed Gillis retiring end of 2026; Derrick Johnson newly joined [VERIFIED on site]; Dr. Larry Katkow DDS (owner), Dr. Ed Gillis (part-time, retiring), Dr. Derrick Johnson (new) [VERIFIED on site] | Reviews: Best Dental Practice from Columbia Magazine, Howard Magazine, Baltimore Magazine, Washingtonian, Washington Consumers Checkbook; Newsweek America's Best Dentists 2022 (Larry) [VERIFIED on site]; RateMDs 4.1/5 for Dr. Eric Katkow, Healthgrades 2 reviews (search snippets); Google count UNKNOWN
+• Site (observed): ProSites. Title verbatim: "Welcome | Columbia, Maryland | Katkow Dentistry LLC"; source comment "Prosites Web Engine Technology Version 4.0 Copyright � 2019 Prosites, Inc."; footer "Katkow Dentistry 2026 • Site Map • Accessibility Viewer"; rendered as a dated, text-heavy template. [VERIFIED raw HTML + rendered fetch, 2026-09-30]
+• Social gap: Only a Yelp link found in source [VERIFIED]; no Facebook/Instagram links; social footprint UNKNOWN.
+• Breakdown: FC13/20 BM14/15 WW9/15 Gap10/15 Dep7/10 Tr7/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap7 Dep7 Tr7 Tech9 (/10)
+• Independence: VERIFIED (site: independently owned family practice; Dr. Larry Katkow owns and operates) | Decision-maker: Dr. Larry Katkow DDS (owner)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Columbia / Howard County affluent market, 50-year brand with multiple 'Best' awards, general/cosmetic/implant -> upper-mid tier | Digital spend: ProSites subscription
+• Hooks: 1) Ed Gillis retiring at end of 2026 and a new associate joining - a rebrand moment. 2) Half-century practice with five 'Best' magazine awards on a bare template.
+• Pitch/offer: 50-year legacy + new-associate redesign; $8-12k.
+• Sources: katkowdentistry.com raw HTML + rendered fetch (2026-09-30); Healthgrades/RateMDs search snippets
+
+13. James A. Vito, DMD (Prosthodontics & Periodontics) — Wayne, PA — https://www.jamesvito.com/ — 68/100 — MEDIUM (MEDIUM confidence: solo with ~30-yr horizon)
+• Est/Doctors: 'Over 30 years of experience' [VERIFIED on site]; 1 dentist (Dr. James A. Vito DMD), advanced training in prosthodontics and periodontics; in-office ceramist [VERIFIED on site]; board certification UNKNOWN | Reviews: UNKNOWN (Google count not retrievable this run); testimonials on site [VERIFIED]
+• Site (observed): ProSites. Footer verbatim: "©2026 James A. Vito D.M.D - All Rights Reserved | Site Developed by ProSites.com"; source comment with mojibake "Copyright � 2019 Prosites, Inc."; jQuery 1.9.1; 11 of 17 images have no alt text; title " Dentist in Wayne & St. David's, PA | Prosthodontics ...". [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Facebook and Yelp links only [VERIFIED].
+• Breakdown: FC13/20 BM11/15 WW11/15 Gap9/15 Dep8/10 Tr8/10 Cv3/5 Sp3/3 DM2/2 | Subs: Gap7 Dep8 Tr8 Tech9 (/10)
+• Independence: INFERRED (solo owner; PA professional practice) | Decision-maker: Dr. James A. Vito DMD (owner)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Wayne / Main Line, implants + All-on-X + sedation + laser + in-house ceramist -> upper-mid tier for a solo | Digital spend: ProSites subscription
+• Hooks: 1) Advanced prosthodontic/perio work presented on a generic ProSites layout. 2) Retirement-horizon solo: pitch as legacy/transition-ready site.
+• Pitch/offer: Solo prosthodontic authority redesign; $6-9k.
+• Sources: jamesvito.com raw HTML + rendered fetch (2026-09-30)
+
+14. Advanced Dental Solutions of Pittsburgh — Pittsburgh (Upper St. Clair/Bethel Park), PA — https://www.pittsburghissmiling.com/ — 67/100 — MEDIUM (MEDIUM confidence: founding year and review corpus UNKNOWN)
+• Est/Doctors: UNKNOWN founding year; Dr. Rairigh graduated WVU dentistry 2004 (Dawson Academy trained) [VERIFIED on site]; 3 dentists: Dr. Dan Rairigh DDS (Midwest Implant Institute; Dawson), Dr. Josh Culver DDS, Dr. Dakota Goodrum [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); testimonials on site [VERIFIED]
+• Site (observed): TNT Dental. Title verbatim: "Dentist Pittsburgh, PA | Dentist Near Me | Local Dentist | Dentist Office Near Me | Cost of Dental Care | Advanced Dental Solutions of Pittsburgh"; footer "© Advanced Dental Solutions of Pittsburgh | Sitemap | Site designed and maintained by TNT Dental | Privacy Policy" (no year); jQuery 1.11.3. Site markets CEREC, All-on-4, sedation, full-mouth reconstruction. [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Facebook, YouTube, Yelp links [VERIFIED].
+• Breakdown: FC13/20 BM10/15 WW10/15 Gap9/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap7 Dep8 Tr8 Tech9 (/10)
+• Independence: INFERRED (owner-dentist bio, single office at 1395 McLaughlin Run Rd; generic brand name 'Advanced Dental Solutions' - MEDIUM-HIGH confidence, verify on call) | Decision-maker: Dr. Dan Rairigh DDS
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Upper St. Clair/South Hills affluent suburb, CEREC, CBCT-adjacent implant services, All-on-4, sedation, full-mouth -> mid-upper tier | Digital spend: TNT Dental subscription; MetLife/UPMC insurance landing pages
+• Hooks: 1) Six-segment keyword title including 'Cost of Dental Care'. 2) All-on-4/full-mouth capability is buried under insurance landing pages.
+• Pitch/offer: Implant/full-mouth-led redesign; $8-12k.
+• Sources: pittsburghissmiling.com raw HTML + rendered fetch (2026-09-30)
+
+15. Capitol Hill Dentistry — Washington, DC — https://thecapitolhilldentistry.com/ — 66/100 — MEDIUM (MEDIUM confidence: solo, review count UNKNOWN)
+• Est/Doctors: 'Serving the Capitol Hill neighborhood since 1978' [VERIFIED on site]; Dr. Babak Noohi DDS MS (owner) [VERIFIED on site]; team size UNKNOWN | Reviews: Washingtonian top dentist 2017, 2018 and 2023 (site claim) [VERIFIED on site]; Google count UNKNOWN; on-site testimonials and ZocDoc booking
+• Site (observed): Divi/WordPress. Footer verbatim: "CAPITOL HILL DENTISTRY COPYRIGHT © 2018 ALL RIGHTS RESERVED"; media uploads dating from 2015 (Divi child of a 2015-era build); ZocDoc booking embed retained. [VERIFIED raw HTML + rendered fetch, 2026-09-30]
+• Social gap: Facebook, YouTube, Twitter links [VERIFIED]; no Instagram.
+• Breakdown: FC13/20 BM12/15 WW11/15 Gap9/15 Dep7/10 Tr8/10 Cv3/5 Sp1/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech8 (/10)
+• Independence: INFERRED (solo owner-dentist; no group language) | Decision-maker: Dr. Babak Noohi DDS MS (owner)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Capitol Hill / SW DC professional address, general + prosthetic + implants; high-income DC market -> mid tier for a solo | Digital spend: ZocDoc (stay third-party), Google Analytics UA tag
+• Hooks: 1) Footer frozen at ©2018 while Washingtonian honored the practice in 2023. 2) Practice open since 1978 - 50th anniversary approaching in 2028.
+• Pitch/offer: Neighborhood-heritage redesign keeping ZocDoc; $5-8k.
+• Sources: thecapitolhilldentistry.com raw HTML + rendered fetch (2026-09-30)
+
+16. White Clay Dental Associates — Newark, DE — https://www.whiteclaydental.com/ — 66/100 — MEDIUM-HIGH (MEDIUM confidence: market mid-tier)
+• Est/Doctors: '50+ year tradition of serving Newark families' [VERIFIED on site]; Dr. Donald T. Bond, Dr. Timothy D. Ganfield [VERIFIED on site] | Reviews: 'Consistently Voted Best Dentist In Newark' (Delaware Today) (site claim); Google and Yelp links provided; testimonial 'over 30 years' [VERIFIED on site]; Google count UNKNOWN
+• Site (observed): TNT Dental. Footer verbatim: "Copyright © 2018 White Clay Dental Associates | Sitemap | Site designed and maintained by TNT Dental"; title verbatim: "Dentist Newark, DE | Dentist Near Me | Local Dentist | Dentist Office Near Me | Cost of Dental Care | White Clay Dental Associates"; table/font markup. [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Facebook and Yelp links [VERIFIED].
+• Breakdown: FC10/20 BM13/15 WW10/15 Gap9/15 Dep7/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech9 (/10)
+• Independence: VERIFIED (site: 'Independently Owned and Operated') | Decision-maker: Dr. Donald T. Bond / Dr. Timothy D. Ganfield (owner split UNKNOWN)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Newark DE (UD market), general/cosmetic/implant/ortho in-house -> mid tier | Digital spend: TNT Dental subscription; Google/Yelp links
+• Hooks: 1) Six-segment 'Near Me | Cost of Dental Care' title on a 50+ year independent practice. 2) ©2018 footer.
+• Pitch/offer: Standard redesign; $6-9k.
+• Sources: whiteclaydental.com raw HTML + rendered fetch (2026-09-30)
+
+17. Tummarello & Pandak Family Dentistry — Fairfax, VA — https://www.dentist-in-fairfax.com/ — 65/100 — MEDIUM (MEDIUM confidence)
+• Est/Doctors: Dr. Hilary Pandak 'served the community for over 35 years' [VERIFIED on site]; Dr. Jennifer Tummarello, Dr. Hilary Pandak + 1 more; memorial to Dr. Mark Tummarello on site [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); site loads a review widget ('This Patient's Experience Loading Testimonial...') and links Google reviews [VERIFIED]
+• Site (observed): Great Dental Websites (footer link greatdentalwebsites.com/?utm_campaign=Footer Link). Title verbatim: "New to Fairfax VA? Tummarello & Pandak Family Dentistry welcomes new patients! Call now!" (sentence-style, ~88 characters); dentist-in-fairfax.com domain. [VERIFIED raw HTML, 2026-09-30]
+• Social gap: No social links found in source [VERIFIED]; Podium chat present.
+• Breakdown: FC13/20 BM13/15 WW10/15 Gap8/15 Dep7/10 Tr7/10 Cv3/5 Sp3/3 DM1/2 | Subs: Gap7 Dep7 Tr7 Tech8 (/10)
+• Independence: INFERRED (founder-named practice; no group language) | Decision-maker: Dr. Hilary Pandak / Dr. Jennifer Tummarello (owner split UNKNOWN)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Fairfax City / Waples Mill Rd, NoVa income levels -> upper-mid tier; services mostly general | Digital spend: Great Dental Websites subscription; Podium
+• Hooks: 1) Sentence-style title tag on a 35-year practice. 2) Founder memorial on the site suggests a generational-transition moment.
+• Pitch/offer: Legacy + NoVa positioning redesign; $6-9k.
+• Sources: dentist-in-fairfax.com raw HTML + rendered fetch (2026-09-30)
+
+18. Serafin Family Dentistry — Carlisle, PA — https://www.serafinfamilydentistry.com/ — 62/100 — MEDIUM (LOW-MEDIUM confidence: est year, reviews, doctors' tenure UNKNOWN)
+• Est/Doctors: UNKNOWN [no founding year on site]; Dr. Robert Serafin, Dr. Tamara Shore (Serafin) [VERIFIED on site] | Reviews: UNKNOWN (Google count not retrievable this run); no counts on site
+• Site (observed): Progressive Dental template. Dead Google+ link in source (plus.google.com/107238089648275731748/about?hl=en); no copyright year in footer; footer verbatim "Dental Website Development By Progressive Dental"; YouTube icon links to a bare placeholder "http://"; title tag "Drs. Robert Serafin & Tamara Shore | Carlisle Dentist" (no service/keyword content). [VERIFIED raw HTML, 2026-09-30]
+• Social gap: Google+ and YouTube (placeholder href) only; no Facebook/Instagram [VERIFIED].
+• Breakdown: FC10/20 BM9/15 WW12/15 Gap9/15 Dep8/10 Tr8/10 Cv3/5 Sp1/3 DM2/2 | Subs: Gap7 Dep8 Tr8 Tech8 (/10)
+• Independence: INFERRED (husband-and-wife practice; no group language) | Decision-maker: Dr. Robert Serafin DDS
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Carlisle / Cumberland County, implants + full-mouth reconstruction + implant dentures -> mid tier | Digital spend: Progressive Dental site subscription
+• Hooks: 1) Google+ link (retired in 2019) and a placeholder YouTube href are still on the homepage. 2) No copyright year at all.
+• Pitch/offer: Implant/full-mouth-led redesign; $5-8k.
+• Sources: serafinfamilydentistry.com raw HTML + rendered fetch (2026-09-30)
+
+
+
+## CANDIDATE TABLE (every other screened name; approx score in brackets; full list also in output/work/mid-atlantic_candidates.json)
+
+- Alter, Joshua R, DMD | Broomall, PA | https://cmbdental.com | [64] BENCH — CMB Family Dentistry (Drs Brown & Alter), Broomall PA, 40+ yrs, Televox, table/font layout
+- Dental Health First | Washington, PA | https://dentalhealthfirst.com | [64] BENCH — Dental Health First (Drs Vaughan & Yokum), Washington PA, since 1979, TNT; small market
+- Friedman, Grater & Sisler Family Dentistry | Harrisburg, PA | https://friedmangrater.com | [64] BENCH — Mid State Dental (Drs Friedman/Grater/Williams/Sandusky), Harrisburg PA, Televox, dead plus.google.com link, title says "Drs. Friedman, Grater and Willi
+- Center One Dental | Canonsburg, PA | https://centeronedental.com | [63] BENCH — Center One Dental Canonsburg PA, TNT "Copyright © 2018", keyword-stuffed title
+- Mohanty Comprehensive Dentistry | Glen Allen, VA | https://drmohanty.com | [63] BENCH — see henricodental.com (same practice, old ProSites domain)
+- Trahos Phillips Dental | Fredericksburg, VA | https://myfredericksburgdentist.com | [63] BENCH — Trahos Dental, Fredericksburg VA, 2 Drs, "Copyright ©2020 ... Designed & Hosted by Simply Web Services", 20 mixed http links; patients since 1981
+- Canton Dental Associates | Baltimore, MD | https://cantondentalassociates.com | [62] BENCH — Canton Dental Associates Baltimore, 4 Drs, CEREC, ProSites; est/ownership UNKNOWN
+- Flenniken Family Dentistry | Carlisle, PA | https://flennikendental.com | [62] BENCH — Flenniken Family Dentistry Carlisle PA, 5 Drs, TNT ©2021, keyword-stuffed title; site rendered fairly clean
+- Newark Dental Associates | Newark, DE | https://newarkdental.com | [62] BENCH — Newark Dental Associates DE, 5 Drs incl periodontist, "over 60 years", Designed by O360 © 2020; independence MEDIUM
+- Reihner, John M, DDS | Washington, PA | https://deandentalteam.com | [62] BENCH — Dean Dental Washington PA, 2+ Drs, TNT
+- Dental Arts of Delaware | Newark, DE | https://dentalartsofdelaware.com | [60] MANUAL: CANDIDATE — WordPress 5.7.19 (unsupported), Avada, Slider Rev 6.4.6; verify
+- Family Dentistry PC | Springfield, VA | https://kelliherfamilydentists.com | [60] BENCH — Kelliher Family Dentists Springfield VA, est 1962, 2 Drs, Wix ©2020, Washingtonian-top-rated; limited high-ticket services
+- Frank J. Varanelli DDS | Winchester, VA | https://frankvaranellidds.com | [60] MANUAL: CANDIDATE — ProSites engine; verify est/reviews
+- Jeffrey J. Price DMD | Newtown Square, PA | https://newtownsquaredentist.com | [60] MANUAL: CANDIDATE — tiny 10KB legacy site; verify
+- Jia, Lena, DDS | Middletown, DE | https://dentalassociatesofdelaware.com | [60] BENCH — Dental Associates of Delaware, 6 offices/13+ dentists, since 1975, TNT, "3,000+ 5-star reviews"; independence UNKNOWN (network language) — too large/DSO
+- John L. Waldman DMD Prosthodontist | Pittsburgh (Squirrel Hill), PA | https://pittsburghsmilemakeover.com | [60] MANUAL: CANDIDATE — Bootstrap3-era site, prosthodontist; verify
+- Main Line Dental Aesthetics (James Godorecci DMD) | Paoli, PA | https://paolidentist.com | [60] MANUAL: CANDIDATE — ProSites, title "Dentist in Paoli, PA | Main Line Dental Aesthetics"
+- Margaret A. Beamer DDS | Canonsburg, PA | https://margaretabeamerdds.com | [60] MANUAL: CANDIDATE — 30+ yrs, Pittsburgh Magazine Top Dentist 2007-2024, footer "©2019" frozen; solo; verify
+- My Frederick Dentist | Frederick, MD | https://myfrederickdentist.com | [60] MANUAL: CANDIDATE — TNT Dental, title "Dentist Frederick, MD | Dentist Near Me | Local Dentist | ... | Cost of Dental Care | My Frederick Dentist"; verify docs/
+- Newtown Square Family Dentistry (Dr. Najibe Dow) | Newtown Square, PA | https://newtownsqfamilydentistry.com | [60] MANUAL: CANDIDATE — Drupal 7 (EOL); verify
+- Pike Creek Dental | Wilmington, DE | https://pikecreekdental.com | [60] BENCH — Pike Creek Dental Wilmington DE, "over 45 years", Copyright 2019, 42/52 images no alt
+- Smile Garden Dental Center (Dr. Erlinda Jameson) | Roland Park/Towson, MD | https://smilegardendentalcenter.com | [60] MANUAL: CANDIDATE — tiny 7.9KB legacy page; verify
+- Terrace Dental Group | Frederick, MD | https://terracedentalgroup.net | [60] BENCH — Terrace Dental Group Frederick MD, 6 Drs, Sesame 24-7
+- W F Queen | Martinsburg, WV | https://queendentalcarecenter.com | [60] BENCH — Queen Dental Care Center Martinsburg WV, since 1977, © Copyright 2019, no meta description, Elegant Themes
+- Dougherty DDS | Falls Church, VA | https://fallschurchdentist.com | [58] BENCH — Dougherty DDS Falls Church VA, since 1964, Bootstrap-3 era, Optima vendor; site less weak than assumed
+- Eller & Opimo DDS | Huntington, WV | https://ellerandopimo.com | [58] BENCH — Eller & Opimo, Huntington WV, 3 Drs, small legacy site
+- Ford, Eric D, DDS | Huntington, WV | https://ericdforddds.com | [58] BENCH — Eric D. Ford DDS Huntington WV, WEO Media, 2+ Drs
+- James J Gentile PC | Media, PA | https://jjgdds.com | [58] candidate — James J. Gentile PC prosthodontist Media PA, tiny 4KB legacy site; est/reviews unverified
+- Dr. Erik Mertens | Canonsburg, PA | https://mertensdental.com | [57] BENCH — Mertens Dental Associates McMurray PA, ProSites
+- Jeffrey P Verner | Pittsburgh, PA | https://drjeffverner.com | [57] BENCH — Jeffery Verner DMD Upper St. Clair PA, ProSites, 26 yrs
+- Aronimink Dental Health | Newtown Square, PA | https://aroniminkdentalhealth.com | [56] candidate — Frank Lavalla DMD Newtown Square PA, 9KB legacy site, 27+ yrs
+- Dzuban Dental Associates | Pittsburgh, PA | https://dzubandentalpa.com | [56] BENCH — Dzuban Dental Associates Pittsburgh, ProSites
+- Stoner, Daniel M, DMD | Oakmont, PA | https://oakmontdental.net | [56] BENCH — Oakmont Dental Associates PA, since 1924, 4 Drs, Dental Web Services, 25KB
+- Walter, Donald E, DDS | Wheeling, WV | https://wheelingfamilydental.com | [56] BENCH — Wheeling Family Dental WV, ProSites, solo
+- Adam Dai DMD | Havertown, PA | https://adamdaidental.com | [55] MANUAL: candidate-lite — Great Dental Websites, ~40 yrs
+- All Smiles Family Dentistry | Lansdale, PA | https://allsmileslansdale.com | [55] MANUAL: candidate-lite — ProSites
+- Bluestone Dental | Reading, PA | https://bluestonedental.com | [55] MANUAL: candidate-lite — Thryv, since 1985
+- ByDesign Dental (Mogyoros) | King of Prussia, PA | https://bydesigndental.com | [55] MANUAL: candidate-lite — 6.7KB implant center
+- Cares For Smiles (Schmuckler) | Newtown Square, PA | https://caresforsmiles.com | [55] MANUAL: candidate-lite — Weebly, 25-40 yrs
+- Cramer Dental | Blue Bell, PA | https://smilesbycramer.com | [55] MANUAL: candidate-lite — 39KB, since 1984
+- Dentistry of Bucks County (Jeffrey Brenner) | Newtown, PA | https://dentistryofbuckscounty.com | [55] MANUAL: candidate-lite — 39KB, 40 yrs
+- Fetterolf Dental Medicine | Harrisburg, PA | https://fetterolfdentalmedicine.com | [55] MANUAL: candidate-lite — Sesame, 3 Drs
+- Kovaleski Dental | Camp Hill, PA | https://kovaleskidentalsuite.com | [55] MANUAL: candidate-lite — 12KB
+- Lansdale Dental PC (Varma) | Lansdale, PA | https://lansdaledentalpc.com | [55] MANUAL: candidate-lite — ProSites
+- Leslie J. Green DMD | King of Prussia, PA | https://drlesgreen.com | [55] MANUAL: candidate-lite — Milestone/TeleVox, ~30 yrs
+- Marketstreet Dental / Cheryl Miller DDS / Alan Yeung DDS | PA, PA | https://various | [55] MANUAL: candidate-lite — Thryv
+- Michael DDS Linnan PA | Towson, MD | https://gbpdental.com | [55] BENCH — Greater Baltimore Prosthodontics, Towson MD, prosthodontist group (6 dentists), DentalFone site fairly current
+- Michael S. Mullaney DMD | Media, PA | https://drmullaney.net | [55] MANUAL: candidate-lite — Officite 23KB
+- Moffett Dental Center (William Moffett DDS) | Harrisburg, PA | https://moffettdental.com | [55] MANUAL: candidate-lite — Milestone/TeleVox solo
+- Muhlenberg Dental Associates | Reading, PA | https://muhlenbergdental.com | [55] MANUAL: candidate-lite — Doctor Genius
+- Nagy & Majestro General Dentistry | Charleston, WV | https://nagyandmajestro.com | [55] BENCH — Nagy & Majestro Charleston WV, GrowthPlug, 2 offices
+- Nyce Tolley & Lorenzo | Lansdale, PA | https://nycetolleylorenzo.com | [55] MANUAL: candidate-lite — Milestone/TeleVox 27KB
+- Pastucka Dental Associates | New Cumberland, PA | https://pastuckadentalassociates.com | [55] MANUAL: candidate-lite — 8.8KB
+- SV Dental (Theresa Smith DDS) | Paoli, PA | https://svdental.com | [55] MANUAL: candidate-lite — Sesame 21KB
+- York Smile Care | York, PA | https://yorksmilecare.com | [55] MANUAL: candidate-lite — TNT, ~25 yrs
+- Marus, Drew M, DDS | Yardley, PA | https://drmarus.com | [54] candidate — Robert Marus DDS Yardley PA, 7KB legacy cosmetic site
+- Horton Jr, J L, DDS | Martinsburg, WV | https://hortonfamilydentistry.com | [52] BENCH — Horton Martinsburg WV, ProSites http
+- Lindsay V Knight DMD & Associates | Doylestown, PA | https://drknightdental.com | [52] candidate-lite — Lindsay Knight DMD Doylestown, 8.8KB site
+- Graff & Heier | Malvern, PA | https://drsgraffandheier.com | [50] candidate-lite — Graff & Heier Malvern PA, medicine-website.com vendor, http-only
+- 110 Regent Court College Professional P | State College, PA | https://drbarryholden.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- A Touch of Green | Carlisle, PA | https://californiadentalgrant.org | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Abel, Jarred, DDS | Chevy Chase, MD | https://chevychaseofs.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Advanced Dentistry | Wheeling, WV | https://advanceddentistrywv.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Advanced Root Canal Specialists | Columbia, MD | https://advancedrootcanal.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Agate Dental | Mechanicsburg, PA | https://agatedental.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Alan S. Yeung, DDS | Paoli, PA | https://dralanyeung.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Albert Family Dentistry | Charlottesville, VA | https://albertfamilydentistry.com | [45] SCREENED — weak-site signal(s): TNT; (c)2017?; tiny legacy page 23KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Alencar Family Dentistry | Chesapeake, VA | https://alencarfamilydentistry.com | [45] SCREENED — weak-site signal(s): GrowthPlug; (c)2018? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Alexandria Center for Esthetic Dentistry | Alexandria, VA | https://oldtowndentist.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Alison M Scavuzzo DMD | Freedom, PA | https://alisonscavuzzodmd.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Always Genial Dental Care P.C | Langhorne, PA | https://alwaysgenialdental.com | [45] SCREENED — weak-site signal(s): Weebly; (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Amazing Smiles By Design | Bensalem, PA | https://zdental.net | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Ambiance Dental Spa | Bowie, MD | https://ambiancedentspa.com | [45] SCREENED — weak-site signal(s): TNT; tiny legacy page 38KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- American Family Dental Care | Reading, PA | https://myfamilydentalcare.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title; tiny legacy page 30KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Amos Family Dentistry | Winchester, VA | https://drbobbyamos.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Amos, Roxzanne, DMD | Virginia Beach, VA | https://brightlifedentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Anthony R Costa DMD | Bryn Mawr, PA | https://dranthonycosta.com | [45] SCREENED — weak-site signal(s): Milestone; Televox; tiny legacy page 39KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Arlington Advanced Dental Care,Dr.Hossein Ahmadian,DDS | Arlington, VA | https://aadentalcareva.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Arlington Dental Associates | Falls Church, VA | https://arlingtondentalassociates.com | [45] SCREENED — weak-site signal(s): Sesame; http-only; tiny legacy page 12KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Arlington Dentistry By Design | Arlington, VA | https://arlingtonsmiledesign.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Arlington Smile Center: Lupita M. Roca DDS | Arlington, VA | https://arlingtonsmilecenter.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Artisan Smiles Dental Studio | Hampton, VA | https://artisansmilesva.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Ashbrook Center for Dentistry | Leesburg, VA | https://ashbrookdentistry.com | [45] MANUAL: pending — ProSites engine
+- Aspen Hill Implant & Family Dentistry PC | Rockville, MD | https://drziaahmed.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Awesome Smiles Dental Center | Haymarket, VA | https://awesomesmilesva.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Azadi Dental | Morgantown, WV | https://azadidentalwv.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Azul Family Dentistry | Charlottesville, VA | https://azulfamilydentistry.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Baccellieri Family Dentistry | Kennett Square, PA | https://bfdentistry.com | [45] SCREENED — weak-site signal(s): WEO; tiny legacy page 35KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bachstein Dental Esthetics | Newtown Square, PA | https://bachsteindental.com | [45] MANUAL: pending — Accessibility-plugin vendor site (GDW-like)
+- Bahar, Arezoo A, DDS | Annapolis, MD | https://apadentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bajwa, Simi, DDS | Reston, VA | https://restonfamilydental.com | [45] SCREENED — weak-site signal(s): PatientPop — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Baliga, Narayani K, DMD | Germantown, MD | https://kidzdentalland.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Barbaro Professional Building | Gambrills, MD | https://drbarbaro.com | [45] SCREENED — weak-site signal(s): WEO — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Basner & Nash Dental Associates | Media, PA | https://ganalawfirm.com | [45] SCREENED — weak-site signal(s): Einstein — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Battlefield Family Dentistry | Chesapeake, VA | https://battlefielddds.com | [45] MANUAL: pending — small 29KB site
+- Bel Air Dental Care | Fallston, MD | https://belairdental.com | [45] MANUAL: pending (202 empty on curl)
+- Bell, Gregory S, DDS | Lancaster, PA | https://conestogaoms.com | [45] SCREENED — weak-site signal(s): TNT; keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Belle Haven Dental Center | Alexandria, VA | https://bellehavendentalcenter.com | [45] SCREENED — weak-site signal(s): PracticeCafe — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bennett Butler Fuller & Associates | Williamsburg, VA | https://williamsburgdentalgroup.com | [45] SCREENED — weak-site signal(s): ProSites; Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bernardo Jack DDS | Charleston, WV | https://bernardodentistrywv.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bethesda Dental Associates | Bethesda, MD | https://bethesdadentalassociates.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bianchi, Michael A, DDS | King Of Prussia, PA | https://paoms.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bianco Michael Dmd | Pittsburgh, PA | https://drmichaelbianco.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Blackwater Dental | Lynchburg, VA | https://blackwater-dental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Blaney Lachine & Boxx Family Dentistry | Williamsburg, VA | https://vapeninsuladentalcare.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Blasek Family Dentistry | Ambler, PA | https://blasekfamilydentistry.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bloom Family Dentistry | Charleston, WV | https://bloomfamilydentistry.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bogavelli, Nandhini, DMD | Mechanicsburg, PA | https://pristinesmilesfamilydentistry.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Boulevard Smiles | Oakmont, PA | https://boulevardsmiles.com | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 38KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bowser Dentistry | York, PA | https://bowserdentistry.com | [45] MANUAL: pending recheck (302 loop)
+- Bowser, Daniel J, DMD | Lancaster, PA | https://lancasterdentalarts.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bradford III, H Brad, DDS | Fishersville, VA | https://dentafish.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Brenner Charles P | Salisbury, MD | https://dentistryforyoungpeople.com | [45] SCREENED — weak-site signal(s): Squarespace; tiny legacy page 3KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Brice, Darla M, DDS | Wilmington, DE | https://beaneassociates.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bright Light Dentistry | Woodbridge, VA | https://brightlightdentistry.com | [45] SCREENED — weak-site signal(s): Einstein — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Brock, John E, DDS | Charleston, WV | https://mtstateoms.com | [45] SCREENED — weak-site signal(s): WEO — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Brookwood Dental Care | Carlisle, PA | https://brookwooddentalcare.net | [45] SCREENED — weak-site signal(s): keyword-stuffed title; tiny legacy page 34KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Brownstown Family Dentistry | Ephrata, PA | https://brownstownfamilydentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bruce E Matthews DDS PA | Wilmington, DE | https://drmatthewswilmington.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Brungo Family Dentistry | State College, PA | https://brungofamilydentistry.com | [45] SCREENED — weak-site signal(s): Wix; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Brusca Jr, Anthony M, DMD | Murrysville, PA | https://drtonybruscajr.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bryan Suydam DMD | Sewickley, PA | https://bryansuydamdmd.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bucci Mark D | Newport News, VA | https://tidewaterprostho.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Burke Dental | Burke, VA | https://burkedental.com | [45] SCREENED — weak-site signal(s): Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Burke Dental Center | Burke, VA | https://burkedentalcenter.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Byrd Dental | Hagerstown, MD | https://byrddental.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title; tiny legacy page 32KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Cai Dentistry | Vienna, VA | https://caidentistry.com | [45] SCREENED — weak-site signal(s): PatientPop — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Callery Dental Care | Mechanicsburg, PA | https://callerydentalcare.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Calm Family Dental | Middletown, DE | https://calmfamilydentalde.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Camps, Robert D, DDS | Silver Spring, MD | https://funsmiles.com | [45] SCREENED — weak-site signal(s): Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Cares For Smiles Dentistry | Newtown Square, PA | https://caresforsmilesdentistry.com | [45] SCREENED — weak-site signal(s): Weebly; tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Caring Dental Arts | Newport News, VA | https://caringdentalarts.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Carol F. Morgan, DDS | Virginia Beach, VA | https://hrccd.com | [45] SCREENED — weak-site signal(s): TNT; tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Centre For Cosmetic Dentistry | Chadds Ford, PA | https://centerforcosmeticdentistry.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Chadds Ford Dental Associates | Chadds Ford, PA | https://chaddsforddental.com | [45] SCREENED — weak-site signal(s): Milestone; Televox — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Charlottesville Dental Health Partners | Charlottesville, VA | https://charlottesvilledental.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Charm City Smiles | Lutherville, MD | https://charmcitysmilesmd.com | [45] MANUAL: pending — 25KB small template site
+- Chesapeake Bay Dentistry | Annapolis, MD | https://chesapeakebaydentistry.com | [45] MANUAL: pending — Great Dental Websites
+- Chesapeake Family & Implant Dentistry | Chesapeake, VA | https://chesapeakefamilydentistry.com | [45] MANUAL: pending
+- Chesterfield Dentist | Chester, VA | https://thechesterfielddentist.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Chesterfield Dentistry | Chesterfield, VA | https://chesterfielddentistry.com | [45] SCREENED — weak-site signal(s): PatientPop — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Chevy Chase Dental Care | Chevy Chase, MD | https://supertooth.com | [45] SCREENED — weak-site signal(s): PatientPop — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- City Dental Arts | Philadelphia, PA | https://citydentalart.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Cohan, Barry L, DDS | Baltimore, MD | https://super-smiles.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Coleman, Marilyn, DDS | Waldorf, MD | https://stcharlesfamilydental.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Colonial Family Dentistry | Williamsburg, VA | https://colonialdds.com | [45] SCREENED — weak-site signal(s): Officite — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Columbia Implant-Cosmetic | Ellicott City, MD | https://mdsmiles.com | [45] SCREENED — weak-site signal(s): Dentalfone; Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Companion Dental Care | Staunton, VA | https://companiondentalcare.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Contemporary Dentistry Of Manassas | Manassas, VA | https://contemporarydentistryofvirginia.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Cooper, Karen Y, DDS | Washington, DC | https://drkarencooper.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Cosmetic Smiles | Ashburn, VA | https://cosmeticsmiles.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Courthouse Art of Dentistry | Arlington, VA | https://courthousedentistry.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Crownline Dental | King Of Prussia, PA | https://crownlinedental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Cutler, Richard H, DMD | Fort Washington, PA | https://fwppc.org | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Cynthia A Mumma DDS | Wilmington, DE | https://dentalhealthde.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- D'arro, Carmelina, DDS | Wilmington, DE | https://hjmc.org | [45] SCREENED — weak-site signal(s): Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- D. Bartholomew G. Kreiner D.D.S. | Bel Air, MD | https://bartkreinerdds.com | [45] SCREENED — weak-site signal(s): Ekwa — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Daniel R. Melnick, DDS | Laurel, MD | https://laureldentists.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Daru, Antara D, DDS | North Chesterfield, VA | https://smbadentistrypllc.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- David B Pemberton DDS PC | Richmond, VA | https://pembertondental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- David J Belack DMD | Pittsburgh, PA | https://belackdental.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- David Richards, D.M.D., LTD | Lititz, PA | https://lititzdental.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Day & Night Dental | Paoli, PA | https://dndentalcare.com | [45] SCREENED — weak-site signal(s): Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- De Crescenzo, Dante J, DMD | Narberth, PA | https://narberthdental.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Deborah Mcclintock DDS | Martinsburg, WV | https://martinsburgwvdental.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Delaware Maryland Dental of Salisbury | Salisbury, MD | https://demddental.com | [45] SCREENED — weak-site signal(s): GoDaddy; http-only — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Delaware Smile Center | Middletown, DE | https://desmilecenter.com | [45] SCREENED — weak-site signal(s): Squarespace; Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Demichele, Joshua L, DDS | Roanoke, VA | https://cavespringdentalarts.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dental Health Center of Nova | Falls Church, VA | https://dentalhealthcenterofnorthernvirginia.com | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 30KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dental Heatlh Of Silver Spring | Mechanicsburg, PA | https://dentalhealthofsilverspring.com | [45] SCREENED — weak-site signal(s): Wix; (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dental House of Pittsburgh | Pittsburgh, PA | https://marcverner.com | [45] SCREENED — weak-site signal(s): TNT; (c)2020?; tiny legacy page 33KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dentistry By Design: Ed A. Akeel, DDS | Charlottesville, VA | https://dentistrybydesigncville.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dentistry in Middletown | Middletown, DE | https://dentistryinmiddletown.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dentistry in the Pines | Berlin, MD | https://drrunkle.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dentistry of Alexandria - Tony Truvan DDS | Alexandria, VA | https://dentistryofalexandria.com | [45] SCREENED — weak-site signal(s): Wix; (c)2016? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dentists of Bristow | Bristow, VA | https://dentistsofbristow.com | [45] MANUAL: pending — "Dentists of ..." brand pattern (PDS?) — likely REJECT
+- Dentists on the Square (Joseph Roberts) | Philadelphia, PA | https://dentistsonthesquare.com | [45] MANUAL: pending — 126KB, laser/implants
+- Diaz, Jennifer H, DDS | Fairfax, VA | https://rbhdentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dicostanzo DMD P | Coraopolis, PA | https://coraopolisdentist.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Ditty, Douglas L, DDS | Dover, DE | https://firststateoms.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dolley Madison Dentistry | Mclean, VA | https://dolleymadisondentistry.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dover Family & Cosmetic Dntsty | Dover, DE | https://allsmilesdelaware.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Down Town Family Dentistry of Leesburg | Leesburg, VA | https://leesburgdowntowndental.com | [45] SCREENED — weak-site signal(s): TNT; keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dr Juanita Rhodes, DDS, PC | Washington, DC | https://drjrhodes.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dr's Neighbors & Herod | Midlothian, VA | https://midlodental.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dr. Avi Gibberman | Glen Allen, VA | https://dravigibberman.com | [45] MANUAL: pending — ProSites engine
+- Dunlap Dental | Gibsonia, PA | https://dunlapdental.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dynamic Dental Wellness | Ashburn, VA | https://dynamicdentalwellness.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dynamic Family Dentistry | Falls Church, VA | https://dynamicfamilydentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Eastern Virginia Family & Cosmetic Dentistry | Chesapeake, VA | https://evadental.com | [45] MANUAL: pending — multi-loc?
+- Easton Family Dental | Easton, MD | https://eastonfamilydentist.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Easy Dental Care | Gainesville, VA | https://easydentalva.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Eckman, P R, DDS | Kennett Square, PA | https://eckmandds.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Elevated Dentistry of Charlottesville | Charlottesville, VA | https://elevated-dentistry.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Elrod & Dunham Dentistry | Richmond, VA | https://elroddunhamdentistry.net | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Emphrata Family Dentistry | Ephrata, PA | https://ephratafamilydentistry.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Enriquez Veronica | Chantilly, VA | https://enriquezdental.com | [45] SCREENED — weak-site signal(s): Wix; (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Epstein Ross DDS | Newport News, VA | https://thecaringdentist.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Eskow, Caroline C, DDS | Fairfax, VA | https://dreskow.com | [45] SCREENED — weak-site signal(s): GoDaddy; (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Essence Dental Care | Washington, DC | https://essencedentalcare.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Esthetique Dentistry Frederick | Frederick, MD | https://esthetiquedentistryfrederick.com | [45] MANUAL: pending — WP 6.8.10, ©2024
+- Exton Dental Care | West Chester, PA | https://extondentalcare.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Exton Dental Health Group | Exton, PA | https://extondental.com | [45] SCREENED — weak-site signal(s): Einstein — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- F Ott Gerard DMD PA & Masenior, Jeremy, DDS | Berlin, MD | https://berlindentistry.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Fair Lakes Dental | Fairfax, VA | https://fairlakesdentist.com | [45] SCREENED — weak-site signal(s): Wix; (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Fairfax Corner Dental | Fairfax, VA | https://fairfaxcornerdental.com | [45] SCREENED — weak-site signal(s): PatientPop — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Fairfax Dental Center | Fairfax, VA | https://fairfaxdentalcenter.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Fairfax, Cerina W, DDS | Fairfax, VA | https://drfairfax.com | [45] SCREENED — weak-site signal(s): GrowthPlug — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Falls Church Comprehensive Dentistry - Dr. Bahar Rowhani and Dr. Ronald Hauptman | Falls Church, VA | https://fallschurchcomprehensivedentistry.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Family & Cosmetic Dentistry | Fairfax, VA | https://drmurrayfairfaxva.com | [45] SCREENED — weak-site signal(s): TNT; (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Family Dental Associates | Dover, DE | https://familydentaldover.com | [45] SCREENED — weak-site signal(s): Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Family Dental Network | Washington, DC | https://familydentalcenterdc.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Family Dentistry of Ephrata | Ephrata, PA | https://familydentistryephrata.com | [45] MANUAL: pending — legacy static .html URLs
+- Feddock Family Dentistry | Lancaster, PA | https://toddjfeddock.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Fenwick Dental | Ocean City, MD | https://fenwickdental.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Finch Linda Greenly Dentist | State College, PA | https://statecollegedental.com | [45] SCREENED — weak-site signal(s): ProSites; Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Flikeid, Robert C, DDS | Warrenton, VA | https://warrentonfamilydentistry.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Fox Chapel Dentistry / Advanced Dental Care | Fox Chapel, PA | https://foxchapeldentistry.com | [45] MANUAL: pending — ProSites engine (McNeil Dental is excluded—separate?)
+- Franklin Dental | Herndon, VA | https://franklindentaldds.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Frazier, Roderick L, DDS | Carlisle, PA | https://sadlerhealth.org | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- G J Palmieri DDS & Associates LLC | Columbia, PA | https://lancasterpadentist.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gainesville Dental Associates | Gainesville, VA | https://gainesvilledentalassociates.com | [45] MANUAL: pending — theme "loudondental", Bootstrap 3 glyphicons
+- Gallen, Connie G, DMD | Reading, PA | https://nefamilydentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gardner, Natalie, DDS | Fort Washington, PA | https://tiny-smiles.com | [45] SCREENED — weak-site signal(s): TNT; tiny legacy page 17KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gardner, Steven E, DDS | Harrisonburg, VA | https://bluestonehillsdentistry.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gateway Dental | Bowie, MD | https://gatewaydental.org | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gateway Dental | Ashburn, VA | https://gatewaydental4u.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Ghafari, Chitra T, DDS | Gaithersburg, MD | https://cgdentist.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gibbons, Lori V, DDS | Baltimore, MD | https://towsondentists.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Glenmoore Dental Care | Glenmoore, PA | https://glenmooredentalcare.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Good Choi's Dental Care | Manassas, VA | https://goodchoisdentalcare.com | [45] SCREENED — weak-site signal(s): Wix; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gordon Center for General and Advanced Dentistry | Gaithersburg, MD | https://gordondentalcare.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Granato, Jerome, DDS | Manassas, VA | https://stonewalldental.com | [45] SCREENED — weak-site signal(s): WEO — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Greenbrier Dental Center | Chesapeake, VA | https://greenbrierdental.com | [45] MANUAL: pending — since 1985, Duda
+- Grey, D R, DDS | Penn Hills, PA | https://pittsburghdental.net | [45] SCREENED — weak-site signal(s): GoDaddy; (c)2018? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Groy, David S, DDS | Leesburg, VA | https://groyfamilydentistry.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hadithi, Deena, DMD | Springfield, VA | https://primegdo.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hampton Dental | Allison Park, PA | https://smilehampton.com | [45] SCREENED — weak-site signal(s): GoDaddy; (c)2018? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Harris Dental Arts | Kennett Square, PA | https://headachereliefpa.com | [45] SCREENED — weak-site signal(s): GoDaddy; (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Harris Family Dentistry | Parkersburg, WV | https://harrisfamilydental.com | [45] SCREENED — weak-site signal(s): PracticeCafe; (c)2014?; tiny legacy page 17KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Harris, Jonathan C, DDS | Parkersburg, WV | https://dentistparkersburgwv.com | [45] SCREENED — weak-site signal(s): PracticeCafe; (c)2014?; tiny legacy page 17KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Harry S Gildenhorn DDS, PA | Rockville, MD | https://harrygildenhorn.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Harshaw, David W, DMD | Bryn Mawr, PA | https://pdmainline.com | [45] SCREENED — weak-site signal(s): Milestone; Televox; tiny legacy page 34KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hatboro Dental Center | Hatboro, PA | https://hatborodental.com | [45] SCREENED — weak-site signal(s): Wix; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hauptman, Ronald, DDS | Falls Church, VA | https://docrondds.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hawkins, Lori A, DDS | Belpre, OH | https://smilesontheboulevard.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Haymarket Family & Cosmetic | Haymarket, VA | https://myhaymarketsmiledr.com | [45] MANUAL: pending recheck
+- Healthy Smiles Dentistry | Fairfax, VA | https://healthysmilesdentistryva.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hedayati, Kouros, DDS | Fairfax, VA | https://breezedentalfairfax.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hemedan, Nada, DMD | Fairfax, VA | https://successdentalgroup.com | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 22KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Herring, Carolyn C, DDS | Fishersville, VA | https://carolyncherringdmd.com | [45] SCREENED — weak-site signal(s): PBHS — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hiener, Matthew D, DDS | Parkersburg, WV | https://dentistmariettaoh.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Highlandtown Dental Group | Baltimore, MD | https://highlandtowndentalgroup.com | [45] SCREENED — weak-site signal(s): DentalQore; Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hockessin Dental | Hockessin, DE | https://hockessindental.com | [45] SCREENED — weak-site signal(s): GoDaddy; http-only — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Holly Branin | York, PA | https://branindmd.com | [45] SCREENED — weak-site signal(s): GoDaddy; (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Horsham Dental Care | Horsham, PA | https://horshamdentalcare.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Howard & Howard Dental | Charleston, WV | https://howardandhowarddental.com | [45] MANUAL: pending — Divi, footer "© 2020 Internet Marketing and SEO by"
+- Howell Dentistry (R. L. Howell DDS) | Suffolk, VA | https://rlhdds.com | [45] MANUAL: pending — since 1959, Enfold theme
+- Hummelstown Dentistry | Hummelstown, PA | https://hummelstowndentistry.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- J Burke William | Washington, DC | https://wjbtooth.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- J Tananis Richard DDS | Lewes, DE | https://laureldental.net | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- J. Dewey Willis Iii. D.D.S. & Associates | Chesapeake, VA | https://deweywillisdds.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Jason D Brandt, DDS | Woodbridge, VA | https://mydentistwoodbridge.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Jefferson Family Dentistry | Newport News, VA | https://jeffersonfamilydentistryva.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Jerry Caravas DDS | Virginia Beach, VA | https://caravasdds.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Jillian D Reynolds DDS | Virginia Beach, VA | https://lwssfamilydentistry.com | [45] SCREENED — weak-site signal(s): Einstein; tiny legacy page 25KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- John Chung Family Dentistry | Newport News, VA | https://chungfamilydentistry.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- John F Conaghan, DDS, PC | Bethesda, MD | https://bethesdamddentist.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- John F Fisch DDS | York, PA | https://johnfischdds.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- John F. Robison, DMD | State College, PA | https://robisonfamilydentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- John Wasniewski III, DMD | Newark, DE | https://drwasniewski.com | [45] SCREENED — weak-site signal(s): Weebly; (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Johnson, Jamie R, DDS | Fredericksburg, VA | https://fredericksburgdentalcare.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Joobbani Dental Designs | Columbia, MD | https://dentistcolumbiamd.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Joseph M Bourdon Family Dentistry | Carlisle, PA | https://josephbourdondds.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Joshua Hancock | Martinsburg, WV | https://hancockdentalcenter.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Jung, Min O, DDS | Springfield, VA | https://springdentalcareva.com | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 29KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Just For Your Smile: Vienna | Vienna, VA | https://justforyoursmile.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Karen M. Shulman DMD | Gibsonia, PA | https://mydentistpittsburgh.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Karian, Peter W, DDS | Middletown, DE | https://summitdentalmiddletown.com | [45] SCREENED — weak-site signal(s): GDW; tiny legacy page 39KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Karpa Dental Brokerage | Potomac, MD | https://karpadentalbrokerage.com | [45] SCREENED — weak-site signal(s): PBHS — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Karvounis, Mary, DDS | Gambrills, MD | https://mk-dentistry.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Katherine McGrath DDS PC | Fairfax, VA | https://fairfaxcosmeticdentistry.com | [45] SCREENED — weak-site signal(s): GoDaddy; (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kaufman, Barton J, DMD | Lancaster, PA | https://mhkfamilydentist.com | [45] SCREENED — weak-site signal(s): Wix; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kaur Hemani | Frederick, MD | https://esthetiquedentistry.com | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 32KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kazmierczak Family Dentistry | Doylestown, PA | https://britesmiles4u.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kelley, Natalie, DDS | Laurel, MD | https://charmingsmilesdentist.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kenneth Rasmussen DMD PC | Charlottesville, VA | https://charlottesvilledentalmedicine.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Khurana, Natasha, DDS | Gainesville, VA | https://sportyoursmile.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- King Dental | Silver Spring, MD | https://kingdentalllc.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kingsway Prison & Family | Harrisonburg, VA | https://kingswayoutreach.org | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kirk II, Nathan, DDS | Huntington, WV | https://wildaboutsmiles.com | [45] SCREENED — weak-site signal(s): GrowthPlug — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kirksey, Charles D, DDS | Fairfax, VA | https://fairfaxdental.com | [45] SCREENED — weak-site signal(s): Einstein — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Knizner Family Dental | Canonsburg, PA | https://kniznerfamilydental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Koerner, Michael G, DDS | Warrenton, VA | https://warrentonfamilydentistry.net | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kovac, Sharon, DDS | Chadds Ford, PA | https://chaddsforddentistry.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kramer James K | Selbyville, DE | https://drjameskramer.com | [45] SCREENED — weak-site signal(s): Sesame; http-only — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kramer Shirley & Ditty | Harrisburg, PA | https://itsallaboutyoursmile.com | [45] SCREENED — weak-site signal(s): Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Krandell, Brian P, DDS | Germantown, MD | https://krandelldentistry.com | [45] SCREENED — weak-site signal(s): Milestone; Televox — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Krishnamoorthy, Savitha, DMD | Chantilly, VA | https://toothfairydentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- LAT Dentistry | Roanoke, VA | https://latdentistry.com | [45] SCREENED — weak-site signal(s): Squarespace; (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Landy Michael G DDS | Washington, DC | https://drmlandy.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Lansdowne Smile Design | Leesburg, VA | https://yestosmile.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Laser Dental Arts | Warrenton, VA | https://laserdentalarts.com | [45] SCREENED — weak-site signal(s): Wix; (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Lawrence Muller DDS | Woodbridge, VA | https://dentistryatlakeridge.com | [45] SCREENED — weak-site signal(s): Milestone; Televox; tiny legacy page 33KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Le, Bao-Tran, DDS | Leesburg, VA | https://allsmilesleesburg.com | [45] SCREENED — weak-site signal(s): TNT; keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Leesburg Family and Cosmetic Dentistry | Leesburg, VA | https://smilesinleesburg.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Leesburg Spa Dentistry | Ashburn, VA | https://leesburgspadentistry.com | [45] SCREENED — weak-site signal(s): PatientPop — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Leonard I Nunnally DDS PC | Glen Allen, VA | https://nunnallydds.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Leslie, Theodore P, DDS | Martinsburg, WV | https://tedlesliefamilydentistry.com | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 19KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Levy and Bruno Family Dentistry | Lansdale, PA | https://levybrunodental.weebly.com | [45] SCREENED — weak-site signal(s): Weebly; tiny legacy page 32KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Lewes Dental | Lewes, DE | https://lewesdental.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Loudoun Family & Cosmetic Dentistry | Leesburg, VA | https://loudounfamilydentistry.com | [45] SCREENED — weak-site signal(s): Squarespace; Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- M Shah DMD & Associates | Paoli, PA | https://mshahdmd.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- MP Dental Associates | Manassas, VA | https://manassasdentalarts.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Maedot Semo, DMD | Chadds Ford, PA | https://garnetvalleydentist.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Magguilli, Aldino P, DDS | Chevy Chase, MD | https://forbestimpressions.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mahn, Douglas, DDS | Manassas, VA | https://douglashmahndds.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Manassas Modern Dentistry | Manassas, VA | https://manassas-moderndentistry.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mannino Dental | Yardley, PA | https://manninodental.com | [45] SCREENED — weak-site signal(s): Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Marcin, Jacqueline, DMD | York, PA | https://marketstreetdentalpc.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Markov, Peter, DMD | Arlington, VA | https://smilewithvk.com | [45] SCREENED — weak-site signal(s): Wix; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Marshall, Mark Anthony, DMD | Sewickley, PA | https://sewickleydmd.com | [45] SCREENED — weak-site signal(s): Wix; (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Masc Dental Studio | Washington, DC | https://mascdentalstudio.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Matthews Dental Associates | Hockessin, DE | https://drmatthews.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mauro Family Dentistry | Paoli, PA | https://paolidentistry.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Maybee David A DDS | Charlottesville, VA | https://crozetdentistry.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mayes, John O, DDS | Hershey, PA | https://johnmayesdmd.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mayo Family Dentristry | Leesburg, VA | https://mayofamilydentistry.com | [45] SCREENED — weak-site signal(s): TNT; (c)2015?; tiny legacy page 15KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- McDonald Family Dentistry | Roanoke, VA | https://mcdonaldsdds.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- McLean Dental Center | Mclean, VA | https://mcleandentalcenter.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- McLean Healthy Smiles | Mclean, VA | https://mcleanhealthysmiles.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- McLean Smart Dental | Mc Lean, VA | https://smartdentalva.com | [45] SCREENED — weak-site signal(s): Wix; (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Meals Family Dentistry | Martinsburg, WV | https://mealsdentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Meals Family Dentistry | Martinsburg, WV | https://mealsfamilydentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mechanicsburg Dental Associates | Mechanicsburg, PA | https://mechanicsburgdentalassociates.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Media Dental (mediadentistry.com) | Media, PA | https://mediadentistry.com | [45] MANUAL: pending — homepage title generic "Welcome | Dentist in Media, PA"
+- Media Family Dentistry | Media, PA | https://mediafamilydentistry.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Melini, Jeffrey, DDS | Glen Mills, PA | https://pdagm.com | [45] SCREENED — weak-site signal(s): Milestone; keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Merrikh, Haleh, DDS | Arlington, VA | https://ballstondental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Michael K. Bassiri DDS - Gainesville | Gainesville, VA | https://gainesville.mkbassiridds.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Miles of Smiles Cosmetic & Family Dentistry | Bowie, MD | https://bowiemd.dentist | [45] SCREENED — weak-site signal(s): Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Miller Cheryl DDS | West Reading, PA | https://cherylmillerdds.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Miller Paul | Glen Burnie, MD | https://glenburnie.dentist | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Miloser, Stephen, DDS | Pittsburgh, PA | https://miloserdentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mock David DMD | Springdale, PA | https://drmock.net | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Monument Family Dentistry | Richmond, VA | https://richmonddentistry.com | [45] SCREENED — weak-site signal(s): Squarespace; Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Moon Diamond Dental | Coraopolis, PA | https://moondiamonddental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Murrysville Dental Center | Murrysville, PA | https://murrysville-dental.com | [45] MANUAL: pending
+- My Ellicott City Dentist | Ellicott City, MD | https://smileellicottcity.com | [45] SCREENED — weak-site signal(s): TNT; (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- NOVA Dental Anesthesia - Winchester | Winchester, VA | https://ndaofwinchester.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nairn Gregory DMD | Washington, PA | https://mytoothdr.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nastea Cristina | Springfield, VA | https://prodds.com | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 22KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Naylors Court Dental Partners Pikesville | Pikesville, MD | https://naylorscourtdental.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Neal Dental Care | Bristow, VA | https://nealdentalcare.com | [45] MANUAL: pending — Doctor Genius vendor
+- Neosmile Dental Care | Ambler, PA | https://springhousedentist.com | [45] SCREENED — weak-site signal(s): TNT; keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nerone, Robert A, DDS | Bethel Park, PA | https://fergusondmd.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Neslund Thomas P | Carlisle, PA | https://thomasneslunddmd.com | [45] SCREENED — weak-site signal(s): TNT; (c)2019?; tiny legacy page 39KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- New Life Dental | Germantown, MD | https://yourgermantowndentist.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nguyen, Khanh V, DDS | Leesburg, VA | https://smiledesignerleesburg.com | [45] SCREENED — weak-site signal(s): Einstein — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nguyen, Monique, DDS | Alexandria, VA | https://drmoniquenguyendds.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nicholas F DiBenedetto, DDS | Easton, MD | https://dentisteaston.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nokesville Family Dentistry | Nokesville, VA | https://nokesvilledentistry.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- North Point Dental Associates Inc | Baltimore, MD | https://dundalkdentist.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nova Dental Partners | Alexandria, VA | https://novadentalpartners.com | [45] SCREENED — weak-site signal(s): PatientPop — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nova Smile Dental | Annandale, VA | https://novasmiledental.com | [45] SCREENED — weak-site signal(s): TNT; keyword-stuffed title; tiny legacy page 36KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Oak Tree Dental | Ashburn, VA | https://oaktreedentalashburn.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Oak Tree Dental | Mc Lean, VA | https://oaktreefamilydental.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Old Town Dentistry | Alexandria, VA | https://oldtowndentistry.com | [45] SCREENED — weak-site signal(s): GrowthPlug — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Oldham Aesthetic & General Dentistry | Lynchburg, VA | https://lynchburgsmiles.com | [45] SCREENED — weak-site signal(s): Squarespace; (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- PICCHIONI CHARLES A | Bryn Mawr, PA | https://drcharlespicchioni.com | [45] SCREENED — weak-site signal(s): Milestone; Televox — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Palmer, Mark A, DDS | Pittsburgh, PA | https://palmerfamilydentistrypittsburgh.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Palmer, Sarah E, DDS | Charleston, WV | https://falbomondaydds.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Paoli Family Dentistry | Paoli, PA | https://paolifamilydentistry.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Paramount Dental Care: Chinatu Ego-Osuala, DDS | Takoma Park, MD | https://paramountdentalcaremd.com | [45] SCREENED — weak-site signal(s): PatientPop — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Partners In Dental Health, LLC | Virginia Beach, VA | https://partnersindentalhealth.com | [45] SCREENED — weak-site signal(s): (c)2017?; keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Patthoff General Dentistry | Martinsburg, WV | https://patthoffdental.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Patuxent River Dental Care | Laurel, MD | https://patuxentriverdentalcare.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Paul J Kinsey, DDS | Severna Park, MD | https://drpaulkinsey.com | [45] SCREENED — weak-site signal(s): Dentalfone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Paul R. Miller, DDS | Glen Burnie, MD | https://glenburniesedationdentist.com | [45] SCREENED — weak-site signal(s): GoDaddy; http-only — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pearl Family Dental | Fredericksburg, VA | https://pearlfamilydental.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Peartree Dental Care | Ellicott City, MD | https://peartreedentalcare.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pedrick, Lisa M, DMD | Exton, PA | https://drpedrick.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Peery Family Dentistry | Lynchburg, VA | https://peeryfamilydentistry.com | [45] SCREENED — weak-site signal(s): TNT; (c)2019?; tiny legacy page 26KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pelkofski Joseph J | Leesburg, VA | https://aaoms.org | [45] SCREENED — weak-site signal(s): Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pell, Jared J, DDS | Winchester, VA | https://winchestersmiles.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Penn's Commons Dental Group | Wyomissing/Reading, PA | https://pennscommonsdental.com | [45] MANUAL: pending — Dentalfone + WP layerslider ©2013-2026
+- Peper, Denis A, DDS | Alexandria, VA | https://alexoldtowndental.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Perlman Family Dentistry - Steven L Perlman DDS | Hampton, VA | https://perlmandds.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Philly Smiles | Philadelphia (Rittenhouse), PA | https://phillysmiles.com | [45] MANUAL: pending — 30+ yrs, 80KB site
+- Pinebrook Dentistry | Chantilly, VA | https://pinebrookdentistry.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pineview Dental | Columbia, MD | https://pineviewdental.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pittsburgh Dental Spa | Pittsburgh, PA | https://pghdentalspa.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Poplar Family Dentistry | Camp Hill, PA | https://poplarfamilydentistry.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Premier Comprehensive Dental | Middletown, DE | https://premiercdental.com | [45] SCREENED — weak-site signal(s): Milestone; Televox — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Price Timothy L DDS LLC | Hershey, PA | https://pricedentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Progressive Dental Solutions | McMurray, PA | https://progressivedentalsolutions.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Progressive Dental Studio | Greensburg, PA | https://metsgerdental.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pruden Family Dentistry | Suffolk, VA | https://prudenfamilydentistry.net | [45] MANUAL: pending — small 29KB site
+- Quality Dental | Bowie, MD | https://qualitydentalofbowie.com | [45] SCREENED — weak-site signal(s): GoDaddy; Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Quitmeyer, Aaron E, DDS | Harrisonburg, VA | https://shenandoahofs.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Radiance Dental | West Chester, PA | https://radiancedentalpa.com | [45] SCREENED — weak-site signal(s): WEO — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Radiant Smiles-Arlington Family Dentist | Arlington, VA | https://radiantsmilesofarlington.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Raja, Kamran N, DMD | Chantilly, VA | https://southridingos.com | [45] SCREENED — weak-site signal(s): (c)2019?; keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rashedi, Sara, DDS | Media, PA | https://oaksdentalspecialists.com | [45] SCREENED — weak-site signal(s): Weebly; (c)2013?; tiny legacy page 35KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rauf, Hamrahi, DDS | Springfield, VA | https://smilebrookfield.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Reading Family Dental Center LLC | Reading, PA | https://readingfamilydentalcenter.net | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Red Lion Dental | York, PA | https://redliondental.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Reihner Dental | Wheeling, WV | https://reihnerdental.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Renee Stewart DDS | Pittsburgh 15220 (Green Tree), PA | https://southhillsdentist.com | [45] MANUAL: pending — 34KB small site
+- Reston Dental Care | Reston, VA | https://restondental.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Revive Dental Arts | Burke, VA | https://revivedentalartsburke.com | [45] MANUAL: pending — 25KB old-looking site
+- Reynolds, Cheryl C, DDS | Owings Mills, MD | https://baltimoresmiles.com | [45] SCREENED — weak-site signal(s): Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rhodes, Brett, DDS | Roanoke, VA | https://northroanokedental.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Richmond City Dentistry | Richmond, VA | https://drbabik.com | [45] SCREENED — weak-site signal(s): Thryv — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Richmond VA Dental Arts | Richmond, VA | https://richmondvadentalarts.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Ritz, Joseph P, DDS | Wayne, PA | https://ritzsmilesofwayne.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rivanna Dental Care | Charlottesville, VA | https://rivannadentalcare.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- River Stone Dental Center | Germantown, MD | https://riverstonedentalcenter.com | [45] SCREENED — weak-site signal(s): PracticeCafe — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Riverwind Dental | Henrico (Richmond), VA | https://riverwinddental.com | [45] MANUAL: pending — WEO Media (.asp p/ URLs); check est/reviews
+- Robinson Township Smiles | Coraopolis, PA | https://robinsontownshipsmiles.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rocco & Buffett Family Dentistry | Lansdale, PA | https://roccoandbuffettfamilydentistry.com | [45] SCREENED — weak-site signal(s): Thryv; (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rockingham General Dentistry | Harrisonburg, VA | https://rockinghamgeneraldentistry.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rockingham Prosthodontics -Brent Rigby DDS, MS | Harrisonburg, VA | https://irockpros.com | [45] SCREENED — weak-site signal(s): PracticeCafe — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rocktown Family Dental Care | Harrisonburg, VA | https://rocktowndental.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rogge B James | Dover, DE | https://walkersquaredental.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rohini Bhatia DMD | West Chester, PA | https://katariaprosthodontics.com | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rolling Valley Dental | Burke, VA | https://rollingvalleydental.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Ronan Freyne DMD | Chevy Chase, MD | https://docronan.com | [45] SCREENED — weak-site signal(s): TNT; keyword-stuffed title; tiny legacy page 33KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rowland Family Dentistry | Baltimore, MD | https://dentistperryhall.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Salisbury Dental Center - James M Nance DDS | Salisbury, MD | https://salisburydentalcenter.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Salzberg, Trang, DDS | Vienna, VA | https://pic-nova.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sam English & Associates | Williamsburg, VA | https://samenglishdds.com | [45] SCREENED — weak-site signal(s): Einstein; (c)2004?; tiny legacy page 6KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Samson Dental Associates | Annapolis, MD | https://annapolisfamilydental.com | [45] SCREENED — weak-site signal(s): Wix; (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sandhu, Raj, DDS | Germantown, MD | https://drrajsandhu.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Scenery Park Dental Associates | State College, PA | https://sceneryparkdental.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Schimmel, David A, DMD | State College, PA | https://smilesbyschimmel.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Schneider Family Dentistry | Gaithersburg, MD | https://schneiderdentists.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Seifi, Maryam, DDS | Rockville, MD | https://starbritedentalrockville.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Seneca Dental Care | Germantown, MD | https://senecadentalsmiles.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Senior Houts, Jenna A, DMD | State College, PA | https://nittanydental.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Shiloh Family Dentistry | York, PA | https://shilohfamilydentistry.net | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Shine Family Dentistry | Bowie, MD | https://ellicottcityfamilydentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Shock, Patrick J, DMD | Coatesville, PA | https://chestercountydentalarts.com | [45] SCREENED — weak-site signal(s): TNT; keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Simpson Dental | Charleston, WV | https://wvsmiles.com | [45] MANUAL: pending — Astra/Elementor; since 1948
+- Smile Center | Washington, DC | https://smilecenterdentalgroup.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile Daily Dentistry | Chantilly, VA | https://smiledailydentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile Dental Center | Gibsonia, PA | https://smilepgh.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile Design Centre | Hagerstown, MD | https://smiledesigncentre.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile Design Studio of Montgomery Village | Gaithersburg, MD | https://griswolddentistry.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile Designer | Arlington, VA | https://smiledesignerdds.com | [45] SCREENED — weak-site signal(s): Einstein — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile Plus Dentistry | Camp Hill, PA | https://smileplusdentistry.net | [45] MANUAL: pending recheck (302 loop)
+- Smile Rite II | Carlisle, PA | https://smilerite2carlisle.com | [45] SCREENED — weak-site signal(s): Wix; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile at Ashburn Dental | Ashburn, VA | https://smileatashburndental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile to Smile Family Dental | Dover, DE | https://smiletosmiledentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smiles Elevated Chevy Chase | Chevy Chase, MD | https://smileselevated.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smiles of Loudoun Dentistry | Leesburg, VA | https://smilesofloudoun.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smiles on Marshall | Marshall, VA | https://smilesonmarshall.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Snee Dental Associates | Washington, PA | https://sneedentalassociates.com | [45] MANUAL: pending — Thryv
+- Snow, W N, DDS | Richmond, VA | https://brsdentistry.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Snowden Family Dental Care | Columbia, MD | https://snowdendentalcare.com | [45] SCREENED — weak-site signal(s): Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Songbird Dental | Catonsville, MD | https://songbirddentalmd.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sorriso Dental | Morgantown, WV | https://sorrisodental.com | [45] SCREENED — weak-site signal(s): DentalMktg; Ekwa — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- South Riding Cosmetic & Family Dentistry | Chantilly, VA | https://southridingdds.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- South Vue Dentistry | Upper St Clair, PA | https://southvuedentistry.com | [45] MANUAL: pending (202)
+- Spivak, Bruce H, DMD | Carlisle, PA | https://spivakdental.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Springer Family Dentistry | Ephrata, PA | https://springerdental.com | [45] MANUAL: pending — Sesame
+- Stacie L Dietz DDS PC | Harrisonburg, VA | https://staciedietzdds.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Steadman Family Dentistry | Richmond, VA | https://grinfixer.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Stein, Barry R, DMD | State College, PA | https://tricountyoms.com | [45] SCREENED — weak-site signal(s): Wix; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Stephen J Chermol DDS | West Chester, PA | https://stephenchermoldmd.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Stock, Megan M, DMD | Wexford, PA | https://stockfamilydentistry.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Stream Valley Dental | Derwood, MD | https://derwooddentist.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Stringham Dental | Fairfax, VA | https://stringhamdental.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sulekha Agrawal DMD | Columbia, MD | https://columbiafamilydentalcare.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sullivan, Patrick, DMD | Gibsonia, PA | https://patricksullivandmd.com | [45] SCREENED — weak-site signal(s): Wix; (c)2018? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sun Dental PC | King Of Prussia, PA | https://sundentalkop.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sunrise Dental | Reston, VA | https://restonsunrisedental.com | [45] SCREENED — weak-site signal(s): PatientPop; (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sunshine Dentists | Burke, VA | https://sunshinedentists.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sutt, Erik L, DMD | Harrisonburg, VA | https://brownandsuttdentistry.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Swett David & Rebecca DDS PC | Charlottesville, VA | https://swettdentistry.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sycamore Street Dental | Newtown, PA | https://sycamorestreetdental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- TLC Dental | Morgantown, WV | https://tlcdentists.com | [45] SCREENED — weak-site signal(s): Weebly; tiny legacy page 37KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Taylor, Jessica J, DDS | Parkersburg, WV | https://florencedentalgroup.net | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- The Foleck Center | Suffolk/Norfolk, VA | https://thefoleckcenter.com | [45] MANUAL: pending — salient theme; multi-loc, check DSO
+- The Smilist Dental - Wayne | Wayne, PA | https://waynedentalcare.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Theis, Jonathan W, DDS | Havertown, PA | https://legendarysmiles.com | [45] SCREENED — weak-site signal(s): Milestone — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Thomas Thomas & Holwick | Chesapeake, VA | https://greatbridgedental.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Thomas-Glavin, Hope D, DDS | Wilmington, DE | https://weatherhilldental.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Tomchik Family Dentistry | Virginia Beach, VA | https://tomchikdental.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Tooth Clues P | Leesburg, VA | https://toothclues.com | [45] SCREENED — weak-site signal(s): TNT — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Total Health Dentistry State College | State College, PA | https://totalhealthdentist.net | [45] SCREENED — weak-site signal(s): Sesame; tiny legacy page 27KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Townsend Family-Cosmetic Dentistry | Townsend, DE | https://townsenddentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Truono Sr, Daniel D, DDS | Wilmington, DE | https://dentalassociatespa.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Tysons Dentistry | Vienna, VA | https://tysonsdentistry.com | [45] SCREENED — weak-site signal(s): GDW — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Upper Gwynedd Dental Arts | Lansdale, PA | https://ugdasmile.com | [45] SCREENED — weak-site signal(s): Wix; (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Upper Moreland Dentistry | Hatboro, PA | https://doyoon-kim-xeoh.squarespace.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- VB Family & Cosmetic Dentistry | Virginia Beach, VA | https://vbcosmeticdentist.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Valdes Torres, Yenisey, DMD | Saint Michaels, MD | https://choptankhealth.org | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Valleybrook Dental | McMurray, PA | https://valleybrookdental.com | [45] MANUAL: pending — ProSites engine
+- VanSmileDesign | Vienna, VA | https://vansmiledesign.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Vargas, Joseph, DDS | Crofton, MD | https://croftonfamilydentistry.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Vaughan, David N, DDS | Washington, PA | https://romanvaughan.com | [45] SCREENED — weak-site signal(s): TNT; tiny legacy page 33KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Vibrant Smile Dentistry | Norfolk, VA | https://vibrantsmiledentistry.com | [45] MANUAL: pending
+- Vienna Cosmestic & Family | Vienna, VA | https://viennadentist.co | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Vienna Dental Care | Vienna, VA | https://tysonscornerdentalcare.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Vienna Implant & Family Dentistry | Vienna, VA | https://viennadentalexperts.com | [45] SCREENED — weak-site signal(s): keyword-stuffed title — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Villa Dental | Bethesda, MD | https://villadental.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Vive Dental Day Spa | Chevy Chase, MD | https://vivedentaldayspa.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Wade P Dressler DDS | Easton, MD | https://dentalchoiceeaston.com | [45] SCREENED — weak-site signal(s): Sesame — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Waroich, MJ, DDS | Washington, DC | https://mjwaroichdds.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Washington Dental | Washington, PA | https://washdental.com | [45] SCREENED — weak-site signal(s): GoDaddy; (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Waugh Chapel Dental | Gambrills, MD | https://waughchapeldental.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- West Springfield Dental Arts | Springfield, VA | https://wsdentalarts.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Westover Dentistry | Arlington, VA | https://westoversmiles.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Westtown Dental Care | West Chester, PA | https://westtowndentalcare.com | [45] SCREENED — weak-site signal(s): DentalQore — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- White, Robert J, DDS | Remington, VA | https://remingtonfamilydentistryva.com | [45] SCREENED — weak-site signal(s): Weebly; tiny legacy page 32KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Wilson Martino Dental Assoc | Morgantown, WV | https://wilsonmartinodental.com | [45] SCREENED — weak-site signal(s): Weebly — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Wolcott, Alan R, DDS | Silver Spring, MD | https://dentalhealthinfo.com | [45] SCREENED — weak-site signal(s): GoDaddy — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Wolfinger, Glenn J, DDS | Fort Washington, PA | https://pidentalcenter.com | [45] SCREENED — weak-site signal(s): Einstein; Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Woo Wang Dental - Gaithersburg | Gaithersburg, MD | https://woowangdental.com | [45] SCREENED — weak-site signal(s): DentalMktg — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Wynnewood Smiles | Wynnewood, PA | https://wynnewoodsmiles.com | [45] SCREENED — weak-site signal(s): Squarespace — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Yahn, Stefanie A, DDS | Wheeling, WV | https://yahndental.com | [45] SCREENED — weak-site signal(s): Wix — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Yap-Encomienda, Lani R, DDS | Catonsville, MD | https://drbaronas.com | [45] SCREENED — weak-site signal(s): ProSites; (c)2019?; http-only — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Yoon, Susanna, DDS | Rockville, MD | https://whiteflintfamilydental.com | [45] SCREENED — weak-site signal(s): DoctorGenius — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Yorktowne Dental Family Practice | York, PA | https://yorktownedental.com | [45] MANUAL: pending — since 1979, check
+- A Dentistry Place PC | Pittsburgh, PA | https://unitedconcordia.com | [40] SCREENED — weak-site signal(s): (c)2019?; tiny legacy page 7KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- AZ Oms Specialty Dental Services | Chesterfield, VA | https://dentistsok.com | [40] SCREENED — weak-site signal(s): tiny legacy page 10KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Abingdon Box Hill Family Dentistry | Bel Air, MD | https://abhfamilydentistry.com | [40] SCREENED — weak-site signal(s): (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Access Dental Center | West Chester, PA | https://accessdentalcenter.net | [40] SCREENED — weak-site signal(s): tiny legacy page 3KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Achikeh, Kingsley U, DDS | Silver Spring, MD | https://cityplacedental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 31KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Affalter Richard M | Monroeville, PA | https://monroevillefamilydentist.com | [40] SCREENED — weak-site signal(s): tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Affordable Dental Solutions | Reading, PA | https://affordabledentalsolutions.com | [40] SCREENED — weak-site signal(s): tiny legacy page 32KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Agrawal, Rutika D, DDS | Malvern, PA | https://smileexchange.com | [40] SCREENED — weak-site signal(s): tiny legacy page 25KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Alexandria Dental Care Center | Alexandria, VA | https://alexandriadental.us | [40] SCREENED — weak-site signal(s): (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Alexandria Smiles Dentistry | Alexandria, VA | https://alexandriasmilesdentistry.com | [40] SCREENED — weak-site signal(s): tiny legacy page 17KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- All About Smiles | Wilmington, DE | https://allaboutsmilesde.com | [40] SCREENED — weak-site signal(s): (c)2017? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- All Family Dental | Berlin, MD | https://schiffdental.com | [40] SCREENED — weak-site signal(s): (c)2017?; tiny legacy page 15KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Atiyeh, Lindsey E, DDS | Suffolk, VA | https://herifordsmiles.com | [40] SCREENED — weak-site signal(s): http-only — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Awofolu Omoteniola | Baltimore, MD | https://baltimoredentaloffice.com | [40] SCREENED — weak-site signal(s): tiny legacy page 8KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Azalea Family Dentistry | Norfolk, VA | https://acfd.com | [40] SCREENED — weak-site signal(s): (c)2021?; tiny legacy page 5KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bakos, Lester H, DDS | Morgantown, WV | https://directory.hsc.wvu.edu | [40] SCREENED — weak-site signal(s): tiny legacy page 32KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Berman, Richard H, DMD | Devon, PA | https://dentalartandscience.com | [40] SCREENED — weak-site signal(s): (c)2001?; tiny legacy page 13KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Berson Dental Health Care | Bryn Mawr, PA | https://bersondental.com | [40] SCREENED — weak-site signal(s): WordPress 5.7.19 — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bethany Dental Associates | Bethany Beach, DE | https://patientconnect365.com | [40] SCREENED — weak-site signal(s): tiny legacy page 29KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Big Smile Dental | Fredericksburg, VA | https://app.nexhealth.com | [40] SCREENED — weak-site signal(s): tiny legacy page 6KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Blue Bell Dental Associates | Blue Bell, PA | https://bluebelldental.com | [40] SCREENED — weak-site signal(s): (c)2016? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bob, Gregory R, DDS | Waldorf, MD | https://fusiondentalgroup.com | [40] SCREENED — weak-site signal(s): tiny legacy page 14KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bridgeport Dental Care | King Of Prussia, PA | https://yourdmd.com | [40] SCREENED — weak-site signal(s): (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bright Smiles Cosmetic & Implant Dentistry | Virginia Beach, VA | https://brightsmilesvabeach.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Brookline Dental Associates | Havertown, PA | https://brooklinedentalpa.com | [40] SCREENED — weak-site signal(s): tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bydalek Michael L | Horsham, PA | https://dentist409.com | [40] SCREENED — weak-site signal(s): tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Bylis Paul DDS | Glen Burnie, MD | https://bylisdental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 23KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- C & K Dental | State College, PA | https://centralpadentist.com | [40] SCREENED — weak-site signal(s): tiny legacy page 26KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Canter, John W F DDS | Harrisonburg, VA | https://wellness.com | [40] SCREENED — weak-site signal(s): tiny legacy page 36KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Carino Family Dentistry at Lake Manassas | Gainesville, VA | https://smilesbycarino.com | [40] SCREENED — weak-site signal(s): tiny legacy page 7KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Centerville Family Dental | Lancaster, PA | https://cenfamdental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 36KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Chenet Cosmetic Family Dentistry | Moon Township, PA | https://sadcpgh.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Chestnut Hills Dental | Pittsburgh, PA | https://chestnuthillsdental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Christopher J Doerrer, DDS, PA | Bowie, MD | https://drsmilebrite.com | [40] SCREENED — weak-site signal(s): tiny legacy page 5KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Clayton C Gary Dr 327 W 21st St Norfolk | Norfolk, VA | https://cgaryclaytondds.com | [40] SCREENED — weak-site signal(s): tiny legacy page 28KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Colonial Dental Group | Harrisburg, PA | https://local.demandforce.com | [40] SCREENED — weak-site signal(s): tiny legacy page 8KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Complete Dental Care | Bethel Park, PA | https://completedentalcaresmile.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Cook Family Dentistry | Middletown, DE | https://cookdentistry.com | [40] SCREENED — weak-site signal(s): Joomla! - Open Source Content Management; tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified;
+- Cornerstone Dental Health | Lemoyne, PA | https://ccdentalhealth.com | [40] SCREENED — weak-site signal(s): tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Creekside Dental | Newark, DE | https://creeksidedentalde.com | [40] SCREENED — weak-site signal(s): tiny legacy page 35KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- D C  Dental Service LLC | Washington, DC | https://dcdentalservice.com | [40] SCREENED — weak-site signal(s): (c)2009? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Danelle C. Fournier D.M.D. | Plymouth Meeting, PA | https://plymouthvalleysmile.com | [40] SCREENED — weak-site signal(s): tiny legacy page 30KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Danick, Warren, DDS | Potomac, MD | https://danickspecialties.com | [40] SCREENED — weak-site signal(s): tiny legacy page 5KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Daniel J Harmon | Hatboro, PA | https://dharmondds.com | [40] SCREENED — weak-site signal(s): (c)2016?; WordPress 5.4.23; tiny legacy page 23KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- David J Schlactus, DMD | Rockville, MD | https://drschlactus.com | [40] SCREENED — weak-site signal(s): tiny legacy page 29KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dellose & Hahn Dentistry - J Micheal Fay DDS | Wilmington, DE | https://pikecreeksmiles.com | [40] SCREENED — weak-site signal(s): tiny legacy page 5KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dennis Burkett DDS | Carlisle, PA | https://howardburkettdpm.com | [40] SCREENED — weak-site signal(s): (c)2019?; WordPress 5.8.17 — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dental Excellence of Blue Bell | Blue Bell, PA | https://dentalexcellenceofbluebell.com | [40] unverified — CF challenge
+- Depaoli, Tera L, DMD | Gibsonia, PA | https://depaoli-dentistry.com | [40] SCREENED — weak-site signal(s): (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Doylestown Family Dentistry | Doylestown, PA | https://familydentistdoylestown.com | [40] SCREENED — weak-site signal(s): tiny legacy page 28KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dr Chris Kim, DMD | Catonsville, MD | https://drkimdental.com | [40] SCREENED — weak-site signal(s): (c)2017?; tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dr Lam Office | Laurel, MD | https://laurelfamilydentist.com | [40] SCREENED — weak-site signal(s): tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dr. Christopher Barth DMD | Chevy Chase, MD | https://implantsdc.com | [40] SCREENED — weak-site signal(s): (c)2020?; tiny legacy page 38KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Dr. Rina Walter, DDS | Bel Air, MD | https://clearlydental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 23KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- E Z Dental | Ellicott City, MD | https://shidental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 17KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Eagles, Paola A, DDS | North Chesterfield, VA | https://totalsmilesrichmond.com | [40] SCREENED — weak-site signal(s): tiny legacy page 33KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Elegant Smiles | Havertown, PA | https://brilliantsmilesdentalgroup.com | [40] SCREENED — weak-site signal(s): tiny legacy page 11KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Foster, Herbert B, DDS | Chevy Chase, MD | https://fosterdds.net | [40] SCREENED — weak-site signal(s): (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Francis J Lammer DMD | Narberth, PA | https://lammerdmd.com | [40] SCREENED — weak-site signal(s): tiny legacy page 16KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Franck, II C, DDS | Kennett Square, PA | https://franckdental.com | [40] SCREENED — weak-site signal(s): (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gallant Fox Dental | Bowie, MD | https://gallantfoxdental.net | [40] SCREENED — weak-site signal(s): tiny legacy page 31KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gioffre, D Micheal, Jr DDS | Wilmington, DE | https://firststatedental.com | [40] SCREENED — weak-site signal(s): (c)2021?; tiny legacy page 35KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Global Dental Care | Silver Spring, MD | https://global-dental-care.com | [40] SCREENED — weak-site signal(s): (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Gold Care Dental | Richmond, VA | https://dentalfirstrichmond.com | [40] SCREENED — weak-site signal(s): tiny legacy page 7KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Green Meadows Dental Care | Virginia Beach, VA | https://greenmeadowsdds.com | [40] SCREENED — weak-site signal(s): tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- H & M Cosmetic Dentistry | Gaithersburg, MD | https://hmcosmeticdentistry.com | [40] SCREENED — weak-site signal(s): http-only; tiny legacy page 27KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hakim, Farhad, DDS | Herndon, VA | https://herndondentalcenter.com | [40] SCREENED — weak-site signal(s): (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hanna Harry G DDS | Canonsburg, PA | https://drhanna.com | [40] SCREENED — weak-site signal(s): tiny legacy page 26KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Haymarket Dental Complete Care | Haymarket, VA | https://haymarketdentalcare.com | [40] SCREENED — weak-site signal(s): (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Hill, Jessica L, DDS | Alexandria, VA | https://alexandriafamilydental.com | [40] SCREENED — weak-site signal(s): WordPress 4.9.26 — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Ideal Dental | North Chesterfield, VA | https://theidealdentalcare.com | [40] SCREENED — weak-site signal(s): tiny legacy page 19KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Image Dental | Havertown, PA | https://imagedentalpc.com | [40] SCREENED — weak-site signal(s): (c)2022?; tiny legacy page 6KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- James A. Dr. DDS | Germantown, MD | https://drvettegermantown.com | [40] SCREENED — weak-site signal(s): tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Jarwa, Samer G, DDS | Chantilly, VA | https://dentistchantillyva.com | [40] SCREENED — weak-site signal(s): (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Jonathan Kohler | Pittsburgh, PA | https://pghsmile.com | [40] SCREENED — weak-site signal(s): tiny legacy page 9KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Jordan, Michael Z, DDS | Germantown, MD | https://dentistingermantown.com | [40] SCREENED — weak-site signal(s): tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Joseph, Daniel I, DDS | Wheeling, WV | https://drdanjoseph.com | [40] SCREENED — weak-site signal(s): tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kanaka Sriram DDS PC | Vienna, VA | https://maplesmiles.com | [40] SCREENED — weak-site signal(s): tiny legacy page 3KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kenneth R Giberson DDS | Fairfax, VA | https://rsanyc.net | [40] SCREENED — weak-site signal(s): tiny legacy page 2KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kingstowne Family & Cosmetic Dentistry | Alexandria, VA | https://kingstownedentistry.com | [40] SCREENED — weak-site signal(s): (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kitahara, David J, DDS | Laurel, MD | https://laurellakesdentist.com | [40] SCREENED — weak-site signal(s): tiny legacy page 6KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kong, Tepy V, DDS | Falls Church, VA | https://sevencornersdentalcare.com | [40] SCREENED — weak-site signal(s): tiny legacy page 9KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Kori Family Dentistry | Woodbridge, VA | https://koridentistry.com | [40] SCREENED — weak-site signal(s): tiny legacy page 17KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Laurel Pines Dental Group | Laurel, MD | https://laurelpinesdental.com | [40] SCREENED — weak-site signal(s): Drupal 7 (http://drupal.org) — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Letâ??s Smile Cosmetic Dentistry of Fairfax | Fairfax, VA | https://letssmilecosmetic.com | [40] SCREENED — weak-site signal(s): tiny legacy page 12KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Levine-Vaughan Dental Associates | Wilmington, DE | https://levinevaughandental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 6KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Livaditis Francine Artist | Alexandria, VA | https://livaditisarts.com | [40] SCREENED — weak-site signal(s): (c)2016?; tiny legacy page 11KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Ludka, Gary P, DDS | Bowie, MD | https://bowiedentist.com | [40] SCREENED — weak-site signal(s): (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- MTG Dental | Charleston, WV | https://mtgdentalwv.com | [40] SCREENED — weak-site signal(s): (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mac Garrison DDS, MAGD | Harrisonburg, VA | https://macgarrisondentistry.com | [40] SCREENED — weak-site signal(s): (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Madurantakam, Parthasarat, DDS | Glen Allen, VA | https://dhakar.com | [40] SCREENED — weak-site signal(s): (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Makarita, H R, DDS | Oakton, VA | https://fixasmile.com | [40] SCREENED — weak-site signal(s): (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Manalo Family Dentistry | Bethel Park, PA | https://mcmurray-manalodental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 22KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Marzban, Robert B, DDS | Mc Lean, VA | https://lmsmiles.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mason Dental | Charleston, WV | https://masondental.com | [40] SCREENED — weak-site signal(s): (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mayer Smile Be Bright | Arlington, VA | https://mayersmilebebright.com | [40] SCREENED — weak-site signal(s): tiny legacy page 29KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Media Smiles | Media, PA | https://mediasmiles.com | [40] SCREENED — weak-site signal(s): tiny legacy page 3KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Merguerian, Dawn, DDS | Baltimore, MD | https://baltimorewaterfrontdental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 39KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Meridian Dental Specialists | Morgantown, WV | https://meridiandentalspecialists.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Meyer, Stephen L, DDS | Ellicott City, MD | https://meyerandersondental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mike Yeo DDS | Chantilly, VA | https://yeodds.com | [40] SCREENED — weak-site signal(s): tiny legacy page 28KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Miller, David L, DDS | Hampton, VA | https://drdavidlmillerdds.com | [40] SCREENED — weak-site signal(s): tiny legacy page 5KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Mimosa Family Dentistry PC | Palmyra, PA | https://mimosafamilydentistrypc.us | [40] SCREENED — weak-site signal(s): (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Multi Dent Center Inc | Annapolis, MD | https://multidentcenter.com | [40] SCREENED — weak-site signal(s): tiny legacy page 10KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nelson Dental Practice | Manassas, VA | https://nelsondentalpractice.com | [40] SCREENED — weak-site signal(s): (c)2020?; tiny legacy page 11KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Newell, John H, DDS | Murrysville, PA | https://drjohnnewell.com | [40] SCREENED — weak-site signal(s): tiny legacy page 23KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nguyen, Christine H, DDS | Chantilly, VA | https://familydentistryofva.com | [40] SCREENED — weak-site signal(s): tiny legacy page 32KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Nhu, Tuan M, DDS | Germantown, MD | https://germantowndentalvillage.com | [40] SCREENED — weak-site signal(s): tiny legacy page 22KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- North Potomac Smiles | Rockville, MD | https://northpotomacsmiles.com | [40] SCREENED — weak-site signal(s): Joomla! - Open Source Content Management; tiny legacy page 23KB — established-practice evidence (est/reviews/docs) NOT verified;
+- North Rockville Dental | Rockville, MD | https://northrockvilledental.com | [40] SCREENED — weak-site signal(s): (c)2020? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Paesani, Michael J, DMD | Falls Church, VA | https://novadentalstudio.com | [40] SCREENED — weak-site signal(s): tiny legacy page 14KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Para, Raymond L, DDS | Hockessin, DE | https://stonemilldental.com | [40] SCREENED — weak-site signal(s): (c)2016?; tiny legacy page 22KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Peter P Patellis | Kennett Square, PA | https://kennettsmiles.com | [40] SCREENED — weak-site signal(s): (c)2021? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pham, Tuan, DMD | Vienna, VA | https://phambigamaloney.com | [40] SCREENED — weak-site signal(s): tiny legacy page 3KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pinnacle Family Dental | Ellicott City, MD | https://pinnaclefamilydental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 28KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Pruden Family Dentistry | Suffolk, VA | https://prudenfamilydentistry.net?fbclid=iwzxh0bgnhzw0cmtaaynjpzbexuhnzsjbkwfhhvek4qvjrtxnydgmgyxbwx2lkediymjazote3odgymda4otiaar6svg0esfemweubrbhmow5svxq05xdz_hy6o_u0baw8bhwcrcmr8cabsfnymg_aem_sutrgugiag5gwqspp4sxqq | [40] SCREENED — weak-site signal(s): tiny legacy page 29KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- R David Pagan PC | Fredericksburg, VA | https://rdavidpagan.com | [40] SCREENED — weak-site signal(s): tiny legacy page 14KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Riley & Riley DDS Ltd | Lynchburg, VA | https://rileydentalassociates.com | [40] SCREENED — weak-site signal(s): tiny legacy page 24KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Rivervue Dental, LLC | Oakmont, PA | https://rivervuedentaloakmont.com | [40] SCREENED — weak-site signal(s): tiny legacy page 20KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- SCH Healthy Smiles Dental | Martinsburg, WV | https://svms.net | [40] SCREENED — weak-site signal(s): tiny legacy page 18KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Seaside Smiles | Salisbury, MD | https://seasidesmilesmd.com | [40] SCREENED — weak-site signal(s): tiny legacy page 19KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Severns, Christopher, DMD | Mcmurray, PA | https://severnsdentistry.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Shenandoah Smiles - Purnima J Shahani DDS, MS | Harrisonburg, VA | https://shenandoahsmiles.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Signature Smiles | North Chesterfield, VA | https://signaturesmilesva.com | [40] SCREENED — weak-site signal(s): Drupal 7 (http://drupal.org); tiny legacy page 36KB — established-practice evidence (est/reviews/docs) NOT verified; not profile
+- Simply Beautiful Smiles of Doylestown | Doylestown, PA | https://sbsmiles.com | [40] SCREENED — weak-site signal(s): tiny legacy page 27KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile Designs of Lititz | Lititz, PA | https://smiledesignsoflititz.com | [40] SCREENED — weak-site signal(s): tiny legacy page 21KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smile Solutions of Baltimore | Baltimore, MD | https://smilesolutionsofbaltimore.com | [40] SCREENED — weak-site signal(s): tiny legacy page 37KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- SmileZone Family & Cosmetic Dentistry | Reston, VA | https://restonsmilezone.com | [40] SCREENED — weak-site signal(s): (c)2017? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smiles By Shannon Dental | Harrisburg, PA | https://smilesbyshannondental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 38KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smiles at Sunrise | Le Kieu M DDS | Reston, VA | https://smilesatsunrise.com | [40] SCREENED — weak-site signal(s): tiny legacy page 15KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Smith Eric E | Newport News, VA | https://oysterpointdentistry.com | [40] SCREENED — weak-site signal(s): tiny legacy page 28KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Soe Mon, D.D.S | Baltimore, MD | https://mdmercy.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Son, Jeanette Y, DMD | Wilmington, DE | https://drjeanetteson.com | [40] SCREENED — weak-site signal(s): WordPress 5.5.15 — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- South Capitol Smile Center LC | Washington, DC | https://southcapitolsmilecenter.com | [40] SCREENED — weak-site signal(s): (c)2015? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Spark Dental | Hagerstown, MD | https://sparkdentalmd.com | [40] SCREENED — weak-site signal(s): tiny legacy page 39KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Standard Dental LLC | Potomac, MD | https://standarddental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 28KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Stewart, Preston S, DDS | Lynchburg, VA | https://smilelynchburg.com | [40] SCREENED — weak-site signal(s): (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Sudley Manor Dental Care | Manassas, VA | https://sudleymanordentalcare.com | [40] SCREENED — weak-site signal(s): WordPress 4.8.2 — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- TLC Modern Dentistry | Silver Spring, MD | https://smilereminder.com | [40] SCREENED — weak-site signal(s): tiny legacy page 13KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Taylor, James A, DDS | Suffolk, VA | https://dralantaylor.com | [40] SCREENED — weak-site signal(s): tiny legacy page 27KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- The Art of Dentistry by Dr. Stephen J. Gershberg | Bryn Mawr, PA | https://drgershberg.com | [40] SCREENED — weak-site signal(s): tiny legacy page 27KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Todays Dental Associates | Catonsville, MD | https://todays-dental.com | [40] SCREENED — weak-site signal(s): (c)2018?; tiny legacy page 19KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Toothsome Dental | Waldorf, MD | https://toothsomedental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 30KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Tranquility Dental Center | Fredericksburg, VA | https://ident.ws | [40] SCREENED — weak-site signal(s): http-only — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Venturena, Victor J, DMD | Wilmington, DE | https://beautifulsmilesofde.com | [40] SCREENED — weak-site signal(s): (c)2019? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Vinnikov, Inna, DMD | Langhorne, PA | https://innadmd.com | [40] SCREENED — weak-site signal(s): tiny legacy page 31KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Vinnikov, Inna, DMD | Doylestown, PA | https://ardentsmile.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Voss Jr, Carl H, DMD | West Chester, PA | https://firstdentalofwc.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Wade Family Dentistry | Hagerstown, MD | https://wadefamilydentistry.com | [40] SCREENED — weak-site signal(s): tiny legacy page 15KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Wakim Elizabeth L Dds | Washington, PA | https://elizabethlwakimdds.com | [40] SCREENED — weak-site signal(s): tiny legacy page 27KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Waterman, Jennifer, DDS | Virginia Beach, VA | https://watermandentistry.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Watkins, David W, DMD | Cranberry Township, PA | https://gorefreshdental.com | [40] SCREENED — weak-site signal(s): (c)2022? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- White, Jay K, DDS | Alexandria, VA | https://jaykwhitedds.com | [40] SCREENED — weak-site signal(s): tiny legacy page 33KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Williams, Colin E, DDS | Harrisburg, PA | https://hamiltonhealthcenter.com | [40] SCREENED — weak-site signal(s): (c)2018? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Wilson, William O, DDS | Fairfax, VA | https://novaprosthodontics.com | [40] SCREENED — weak-site signal(s): (c)2018? — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Woodbridge Dental Center | Woodbridge, VA | https://wdcsmiles.com | [40] SCREENED — weak-site signal(s): tiny legacy page 19KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Woodside Dental | Columbia, MD | https://woodsidedentalmd.com | [40] SCREENED — weak-site signal(s): tiny legacy page 26KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Your Family Dentist | Falls Church, VA | https://yourfamilydentistva.com | [40] SCREENED — weak-site signal(s): tiny legacy page 29KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Zeffert, Patricia B, DDS | Towson, MD | https://towsontowndental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 34KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Zhu, Danielle, DDS | Bel Air, MD | https://your-smile.com | [40] SCREENED — weak-site signal(s): WordPress 5.8.11 — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- Zuri Dental | Rockville, MD | https://zuri-dental.com | [40] SCREENED — weak-site signal(s): tiny legacy page 25KB — established-practice evidence (est/reviews/docs) NOT verified; not profiled
+- 1447 Dental (York) | York, PA | https://1447dental.com | [35] MANUAL: bot-walled; pending
+- Aalemansour, Siamak, DDS | Bowie, MD | https://omnidentalgroup.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Adrian J Donaghue DMD | Media, PA | https://enduringsmilesdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Alexander Daniel, DDS | Baltimore, MD | https://profiles.hopkinsmedicine.org | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Ali Soulati, DDS | Easton, MD | https://alisoulatidds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- All Smiles Dental | Ambler, PA | https://allsmilesdentalambler.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- All Smiles Dental of Falls Church | Falls Church, VA | https://allsmilesnova.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- All Smiles Harrisonburg | Harrisonburg, VA | https://allsmilesharrisonburg.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Allegiance Dental Associates | Bel Air, MD | https://belair.dental | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Alleyne, Dorothy, DDS | Potomac, MD | https://radsmile.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Allison, Owen W, DDS | Columbia, PA | https://susquehannadentalarts.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Allure Dental - Iman Ayoubi, DDS | Herndon, VA | https://alluredentalservices.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Allyn G Perkins DMD | Carlisle, PA | https://carlisledentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Amazing Smile Dental Care of Warrenton | Warrenton, VA | https://warrentonamazingsmile.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Andrew Hoffman, DMD | Exton, PA | https://andrewhoffmandmd.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Andrew Thompson, DDS | Vienna, VA | https://drthompsondds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Andrey V Doroshenko, DDS | Owings Mills, MD | https://cosmeticdentistbaltimore.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Anoushfar, Sherry, DDS | Vienna, VA | https://vasmilemakers.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Antonio R. Charneco D.M.D. | Warrendale, PA | https://charnecodmd.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Ardzinski, Michelle K, DMD | Newtown, PA | https://dentistsofnewtown.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Arundel/AF Dental (afdoc.com) | Columbia, MD | https://afdoc.com | [35] MANUAL: bot-walled; pending
+- Bachtell & Porac | Hagerstown, MD | https://porac-bachtelldental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bank, Larry H, DDS | Baltimore, MD | https://larry-bank-h-dds-md-1.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Barry L. Bupp, DMD | Greensburg, PA | https://independence.health | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Basile, John, DDS | Houston, PA | https://john-basile-dds-ta.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bauer III, Richard E, DMD | Wexford, PA | https://ofspittsburgh.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Benjamin T Watson DDS, PLC | Newport News, VA | https://dr-watson.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bensalem Adult Dentistry | Bensalem, PA | https://bensalemadultdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bensalem Bucks Dental | Bensalem, PA | https://bensalembucksdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bensalem Family Dentistry | Bensalem, PA | https://bensalemfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Berks Dental Arts | Wyomissing, PA | https://berksdentalarts.com | [35] MANUAL: bot-walled; pending
+- Bernard Dental | Crofton, MD | https://bernarddental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bethesda Smiles | Bethesda, MD | https://divinesmilesdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Blassic, Kim W, DDS | Glen Allen, VA | https://westenddentalrva.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Blossom Smile Dental | Woodbridge, VA | https://blossomsmile.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bluebell Family Dental | Manassas, VA | https://bluebellfamilydental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Boone, Melanie, DDS | Richmond, VA | https://melanieboonedds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Brandt, M Todd, DDS | Fishersville, VA | https://blueridgeoms.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bruno, Jill, DMD | Chevy Chase, MD | https://brunosmiles.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bryn Mawr Dental Health Group | Bryn Mawr, PA | https://brynmawrdentalhealthgroupinc.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Buckley, Michael J, DDS | Murrysville, PA | https://westmorelandoms.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Bunnag Comprehensive Dentistry | Bethesda, MD | https://drbunnag.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Burdick, Mathew, DMD | Annapolis, MD | https://annapolis.tricare.mil | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Burns Christopher Dr | Dover, DE | https://delmarvaprosthodontics.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Buxmont Prosthodontics & Restorative Dentistry | Lansdale, PA | https://buxmontprosth.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Campus Hills Dentistry | Bel Air, MD | https://campushillsdentistry.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Carr, Suk-Young, DDS | Dover, DE | https://aloeandcarr.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Carsto, Kenneth C, DMD | Lansdale, PA | https://brookwooddental.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Cattafesta, Michael G, DDS | Herndon, VA | https://cattafestafamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Cawley, Steven D, DDS | Mount Joy, PA | https://mountjoydentalassociates.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Center for Restorative, Cosmetic & Implant Dentistry | Chesapeake, VA | https://crcid.com | [35] MANUAL: bot-walled; 3 locs — pending
+- Charleston WV Cosmetic Dentist | S Charleston, WV | https://charlestonwvcosmeticdentist.com | [35] MANUAL: bot-walled; pending
+- Cherrydale Dental | Mechanicsville, VA | https://cherrydaledentalrva.com | [35] MANUAL: bot-walled; low
+- Chesapeake Comprehensive Dentistry, PA | Salisbury, MD | https://chesapeakecomprehensivedentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Clopp Dentistry | Cranberry Twp, PA | https://drmichaelclopp.com | [35] MANUAL: bot-walled; est 2002; low priority
+- Collectivecare Dental | Newtown, PA | https://collectivecaredental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Colonial Dental Family Care | York, PA | https://colonialdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Columbia Family Dentist | Columbia, MD | https://columbiafamilydentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Community Dental Program | Salisbury, MD | https://bayshoreservices.org | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Craig Lahar DMD | Mechanicsburg, PA | https://lahardmd.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- D Smiles Family Dentistry | Gainesville, VA | https://dsmilesfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- DC Dental Care (Culda, prosthodontist) | Fredericksburg, VA | https://dcdentalcare.us | [35] MANUAL: bot-walled; pending
+- DC Smile Center | DC, DC | https://dcsmilecenter.com | [35] MANUAL: bot-walled; low priority
+- Daniel J. Fay DMD PA | Dover, DE | https://drdanielfay.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Daniel and Ellen Kelly, DMD | Charlottesville, VA | https://cvillekellydentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Davia, Allen J, DDS | Richmond, VA | https://daviasmiles.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- David Mergerian DDS PA | Bel Air, MD | https://drmergerian.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Delk, Campbell S, DDS | Glen Allen, VA | https://delkfamilydds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dental Arts on the Square | Newtown Square, PA | https://appt.thenewtownsquaredentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dental Center of Merrifie | Falls Church, VA | https://dentalcenterofmerrifield.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dental Design Studio Inc. | Hagerstown, MD | https://dentaldesignstudio.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dental Dreams | Baltimore, MD | https://dentaldreams.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dental First PLC | Richmond, VA | https://dentalfirstplc.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dental Health Services Wyomissing | Wyomissing, PA | https://dhswyomissing.com | [35] MANUAL: bot-walled; pending
+- Dentistry at Walker Square | Dover, DE | https://angieslist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dentistry by April Detar | State College, PA | https://dentistrybyaprildetar.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Desai Paulomi R DDS | Columbia, MD | https://smile2sparkle.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Devito Carolyn DDS | Morgantown, WV | https://drcarolyndevito.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dodek (Samuel Dodek III DDS) | Columbia, MD | https://drdodek.com | [35] MANUAL: bot-walled; pending
+- Dominic J. Raymond, DDS | Morgantown, WV | https://drdraymond.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dominion Hills Family Dentistry - Jigmey L. Dorjee, DDS | Arlington, VA | https://dominionhillsdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dornin Timothy M DMD PC | Coraopolis, PA | https://dornindentalcenter.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dougherty Dental Solutions | Wilmington, DE | https://doughertydentalsolutions.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dr. Ann N. Hebda - Complete Health Dentistry | Ashburn, VA | https://drannhebda.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dr. Douglas Filidore | Glen Mills, PA | https://concordvilledental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dr. Faith Trent | Midlothian, VA | https://midlothianfamilydentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dr. Kira Toulson Dental Care of Baltimore | Owings Mills, MD | https://drkiratoulson.com | [35] MANUAL: bot-walled; low priority
+- Dr. Nicholas J. Molinaro, DDS | Catonsville, MD | https://molinarodentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dr. Peter Hanna | Alexandria, VA | https://phannadds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dr. Ricardo C. Kimbers | Baltimore, MD | https://drkimbers.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dr. Ruby Mirza | Berlin, MD | https://drrubymirza.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dr. Younkins & Associates | State College, PA | https://dryounkins.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Dtown Dental | Doylestown, PA | https://dtowndentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Duarte, Christina M, DDS | Crofton, MD | https://christinaduartedds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Duggan, Nancy J, DDS | Bowie, MD | https://nancyduggandds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- East Chocolate Dental | Hershey, PA | https://eastchocolatedental.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Eckman Family Dentistry | Kennett Square, PA | https://eckmanfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Edward Chermol DDS | Newtown Square, PA | https://chermoldentistry.com | [35] MANUAL: bot-walled; est 1990 (father 1961); pending
+- Elevated Dental Care of Fredericksburg | Fredericksburg, VA | https://elevateddentalfredericksburg.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Englehart, David R, DDS | State College, PA | https://englehartdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Eric J. Cohen, D.D.S. | Baltimore, MD | https://ericjcohendds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Essey, R Shawn, DMD | Pittsburgh, PA | https://foxchapelsmiles.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Exton Family Dentistry | Exton, PA | https://extonfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Faircloth, W Jackson, DDS | Charlottesville, VA | https://cvofs.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Family Dentistry | Rockville, MD | https://augustinepaikdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Family Dentistry: Indra Sidhu, DDS & Associates | Glen Burnie, MD | https://etooth.info | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Family Friendly Dental | Newtown Square/Springfield, PA | https://familyfriendlydental.com | [35] MANUAL: bot-walled; owner bought 2005; low priority
+- Felton, J F, DDS | Catonsville, MD | https://drfredfeltondds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Fetter, Kenneth A, DMD | Wayne, PA | https://waynefamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Fraites, Stephen J, DDS | Charlottesville, VA | https://fraitesdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Franklin Park Dental | Sewickley, PA | https://franklinparkdental.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Frederick Cosmetic & Family (Fohl) | Frederick, MD | https://frederickcosmeticdds.com | [35] MANUAL: bot-walled; pending
+- Frederick Dental Group | Frederick, MD | https://frederickdentalgroup.net | [35] MANUAL: bot-walled; low priority
+- Fredericksburg Dental Associates | Fredericksburg, VA | https://fdadental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Freedman & Hipolito | Catonsville, MD | https://toprankdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Friedlander, Mark S, DDS | Charlottesville, VA | https://manta.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Gainesville Family Dentistry (Goswami) | Gainesville, VA | https://gvillefamilydentistry.com | [35] MANUAL: bot-walled; pending
+- Gallegos, Jose E, DDS | Midlothian, VA | https://woodlakedentalcenter.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- General & Cosmetic Dentistry Ardmore | Ardmore, PA | https://chiladental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Genetti Prosthodontics | Lancaster, PA | https://yourclassicsmile.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Gentle Touch Family Cosmetic Dentistry | Fredericksburg, VA | https://gollapallidental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Germantown Dental Group | Germantown, MD | https://germantowndentalgroup.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Giarraputo, Philip, DDS | Bryn Mawr, PA | https://harcum.edu | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Gibberman Dental | Alexandria, VA | https://gibbermandental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Gillen, Tom, DMD | Greensburg, PA | https://gillen-tom-dmd.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Glen R. Barlow, DDS Inc. | Newtown, PA | https://glenbarlowdds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Goldman, Leonard J, DDS | Silver Spring, MD | https://goldman-leonard-pa.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Gordner Prosthodontics | Camp Hill, PA | https://gordnerprosthodontics.com | [35] MANUAL: bot-walled; pending (prosthodontist = ICP)
+- Grace TMJ & Urgent Dental Care Inc | Arlington, VA | https://gracetmj.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Gray, Allen & Associates, DDS, PA | Salisbury, MD | https://grayallenandassociates.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Great Smiles Dental | Wexford, PA | https://dentistinwexford.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Green Street Dentistry & Medical Aesthetics | Middletown, DE | https://greenstreetdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Greene, Maiya N, DMD | Ellicott City, MD | https://shinychompers.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Guard Your Smile | Annapolis, MD | https://guardyoursmile.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Gumbs Anna A DDS | Silver Spring, MD | https://gumsdentalcare.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Gwaltney, Whitney B, DDS | Suffolk, VA | https://gwaltneydental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Hampton Family Dentistry | Hampton, VA | https://myhamptondentists.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Hanah Pham DDS | Reston, VA | https://restonsunrisedentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Haselman & Hunt, DDS,PC | North Chesterfield, VA | https://hhfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Heritage Dental | Fredericksburg, VA | https://heritagedentalva.com | [35] MANUAL: bot-walled; pending
+- Heritage Hunt Dental | Gainesville, VA | https://heritagehuntdental.com | [35] MANUAL: bot-walled; pending
+- Higgins, Christine A, DMD | Hershey, PA | https://dentalassociatesofhershey.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Ho, Trung D, MD | Herndon, VA | https://novadentalpractice.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Hoover, Amanda, DDS | Midlothian, VA | https://pearlywhitesdentalstudio.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Horodowicz, Jerry J, DDS | Baltimore, MD | https://manorcare.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Horvath Family Dentistry | Pittsburgh, PA | https://horvathfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Howard County Smiles Family Dentistry | Ellicott City, MD | https://ellicottcitymddentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Huddle David F | Fredericksburg, VA | https://davidhuddledds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Ingber Dental | Washington, DC | https://ingberdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Integrated Dental Care | Exton, PA | https://idcexton.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Iris L Shields, DDS | Bel Air, MD | https://irislshieldsdds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Jeffrey Eby DMD Inc | Akron, PA | https://ebydental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Jewett Dentistry - Charles P. Jewett DDS | North Chesterfield, VA | https://jewettdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- John Patrick Burgess | Charleston, WV | https://burgessdentalwv.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Jordan Family Dentistry | Bel Air, MD | https://jordanfamdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Kelly S Kennan, DDS, PC | Salisbury, MD | https://kennandental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Kenneth M Sofranko DDS | Coraopolis, PA | https://sofranko-kenneth-m-dmd.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Kevin S. Midkiff, D.D.S. Family & Cosmetic Dentistry | Lynchburg, VA | https://kevinmidkiffdds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Kienle, Mark P, DDS | Fort Washington, PA | https://omscenters.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Kirby Scott, MD | Hagerstown, MD | https://centralentconsultants.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Konikoff Family Dentistry - Granby | Norfolk, VA | https://konikoffdds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Kotary Detar & Assoc Dental Care | State College, PA | https://kdadentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Kristine Houck Morris, DDS | Easton, MD | https://khmorrisdds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Kurt C Rolf DDS | Mc Lean, VA | https://mcleandentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- LRH Dentistry | Harrisburg, PA | https://lrhdentistry.com | [35] MANUAL: bot-walled; pending
+- Lana Soules DDS Inc | Herndon, VA | https://lanasoulesdds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Larose Paul DDS | Washington, DC | https://dcsmilesforyou.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Leardi Family Dentistry | Kennett Square, PA | https://leardidental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Leigh Family and Cosmetic Dentistry | Annapolis, MD | https://leighfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Leiss, Jeffrey B, DDS | Exton, PA | https://leisshendrix.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Levine, Paul E, DDS | Mc Lean, VA | https://levinefamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Lindquist, Clarence C, DDS | Chevy Chase, MD | https://omsusa.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Lloyd, Colleen, DDS | Washington, DC | https://colleen-dentistry.keeq.io | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Louis, John V, DDS | Easton, MD | https://cfsd-md.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Lowry, Jerald K, DMD | Greensburg, PA | https://jerald-k-lowry-dmd.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Luzzo, Joseph, DMD | Newtown, PA | https://buckscountyrct.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- MINT dentistry | Manassas, VA | Manassas, VA | https://manassas.mintdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- MSD, Aziz A, DMD | Harrisburg, PA | https://drmajid.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Main Line Center for Dental Excellence | Narberth, PA | https://mainlinedentalhealth.com | [35] MANUAL: bot-walled; NOTE Main Line Dental Health & Wellness is excluded (Bryn Mawr) — likely same/sister -> EXCLUDED risk
+- Major League Smiles: Justin Maxwell, D.D.S. | Ellicott City, MD | https://majorleaguesmiles.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Mandel, David L, DDS | Wheeling, WV | https://drdavidmandel.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Maple Knholl Dental | West Chester, PA | https://mapleknolldental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Mapledale Dentistry | Woodbridge, VA | https://mapledaledentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Maria Capacio | Havertown, PA | https://havertownfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Marks, Jason, DMD | Mechanicsburg, PA | https://smilesontrindle.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Martin III, William F, DDS | Towson, MD | https://wfmdds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Maryland Sedation Dentistry & Surgical Center | Frederick, MD | https://mdsedation.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Mathias & Magaro | Camp Hill, PA | https://mathiasandmagaro.com | [35] MANUAL: bot-walled; pending
+- McMillan Sedation Dentistry | Burke, VA | https://mcmillansedationdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Media Brite Smile | Media, PA | https://mediabritesmile.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Mehr Tucker DDS | Rockville, MD | https://sfaa.dentist | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Mendelson, Herbert M, DDS | Owings Mills, MD | https://mendelsondentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Menendez, Leonardo F, DDS | Bowie, MD | https://marylandoms.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Mercer Sydell Dental - Dover | Dover, DE | https://mercersydelldental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Middletown Family Dentistry | Middletown, DE | https://middletownfamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Moon Family & Cosmetic Dental | Coraopolis, PA | https://mooncosmeticdentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Nancy Y. Schumann DDS | Williamsburg, VA | https://dentistwilliamsburg.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Nastaran Ejtemai, DDS | Falls Church, VA | https://drejtemai.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Nawabi, Sheri, DDS | Washington, DC | https://friendshipsmiles.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Neighbor Dental | Laurel, MD | https://helloneighbordental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Neshaminy Valley Dentistry | Bensalem, PA | https://neshaminyvalleydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Nguyen, Diem T, DDS | Chantilly, VA | https://chantillydentalcenter.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Niemann, Ralph, DDS | Waldorf, MD | https://rwniemann.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- North Bethesda Dental Care | Rockville, MD | https://northbethesdasmile.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Nova Family Dentistry | Fairfax, VA | https://novadentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Oakmont Family Dentists | Oakmont, PA | https://oakmontfamilydentists.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Occoquan Smiles | Woodbridge, VA | https://occoquansmiles.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Padmaja Yalamanchili DDS PC | Fairfax, VA | https://fairfaxfamilydentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Park, Kenneth H, DMD | Manassas, VA | https://walkintheparkdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Parks Cynthia D | Morgantown, WV | https://totsandteensdentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Patrick, Shaun D, MD | Pittsburgh, PA | https://dattilohalloms.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Patterson Village Dentistry | Richmond, VA | https://pattersonvillagedentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Paulina F. Zunino, Dmd | Sewickley, PA | https://sewickleysmiles.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Pearl Dentistry | Salisbury, MD | https://pearldentistrysalisbury.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- PearlFection Dentistry | Frederick, MD | https://pearlfectiondentistry.com | [35] MANUAL: bot-walled; since 1977; pending
+- Pearlfection Dentistry - Urbana Maryland | Frederick, MD | https://pearlfectionurbana.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Penn Dental | Reading, PA | https://penn-dental.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Perfect Smiles of Bensalem | Bensalem, PA | https://perfectsmiles.net | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Perfect Smiles of Doylestown | Doylestown, PA | https://perfectsmilesofdoylestown.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Perry Hall Dental | Baltimore, MD | https://perryhalldental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Peter Flaherty DMD PC | Devon, PA | https://mainlinesmile.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Pham, Anh T, DDS | Gainesville, VA | https://gainesvillesundaydental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Pia Dental (Judy Penski) | DC, DC | https://piadental.com | [35] MANUAL: bot-walled; pending
+- Providence Dental Associates of Media | Media, PA | https://providencedentalassociates.com | [35] MANUAL: bot-walled (CF 403); pending
+- Purring, Kimberly M, DDS | Gaithersburg, MD | https://kellydds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Raffensperger, Sarah K, DDS | Lancaster, PA | https://selhs.org | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- ReStore Dental | Norfolk, VA | https://restoredentalhr.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Rene M  Polis DMD | Newtown Square, PA | https://renepolisdmd.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Reno, Michael C, DDS | Ellicott City, MD | https://renodentalcare.org | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Resek, Todd S, DMD | Oakmont, PA | https://oakmontadvanceddentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Reston Family & Cosmetic Dentistry | Reston, VA | https://myrestondentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Reznik Dental | Bel Air, MD | https://reznikdental.com | [35] MANUAL: bot-walled; pending
+- Richard A Parker DDS PLC | Charlottesville, VA | https://parkerddscville.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- River Run Dental TEST | richmond, VA | https://riverrundentalspa.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Robert Middleton | Wexford, PA | https://middletondental.org | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Rockville Dental Center | Rockville, MD | https://rockvilledentalcenter.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Rogers, Lloyd M, DDS | Gainesville, VA | https://heathcotedentalva.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Root Canal Specialists | Newport News, VA | https://rootcanalsva.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Ruggieri Jr, Michael J, DDS | Drexel Hill, PA | https://mruggieridmd.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Ruland Family Dentistry | Annapolis, MD | https://rulandfamilydentistry.com | [35] MANUAL: bot-walled; low priority
+- Russell Park Smiles | Gaithersburg, MD | https://russellparksmiles.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Rutledge Dental Associates Inc | Middletown, DE | https://rutledgedental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Salem Fields Family Dental | Fredericksburg, VA | https://salemfieldsdental.com | [35] MANUAL: bot-walled; low priority
+- Samuel Aronhime DMD | Marshall, VA | https://smiledoc.org | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Sean M Simon DMD | Pittsburgh, PA | https://simon-sean-m-dmd.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Seitz, Todd E, DMD | York, PA | https://raglandseitzoms.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Shadyside Dentists (Hawranko) | Pittsburgh, PA | https://shadysidedentists.com | [35] MANUAL: bot-walled; pending
+- Shannon, Jennifer L, DMD | Harrisburg, PA | https://locustlanedentalgroup.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Signature Smiles Dentistry | Falls Church, VA | https://signaturesmilescare.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Smile Arts Dentistry of Potomac | Potomac, MD | https://dentistpotomac.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Smile Arts General Cosmetic Dentistry | Potomac, MD | https://greenbeltdentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Smile Dental Care | Germantown, MD | https://smiledentalcare.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Smile Dental Care | Ellicott City, MD | https://smiledentalcare1.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Smile Dental Center | Gaithersburg, MD | https://smile-dental-center.jany.io | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Smile Design Associates, PC | Exton, PA | https://smiledesignassoc.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Smile Forever Dentistry | Owings Mills, MD | https://smileforeverdentistry.com | [35] MANUAL: bot-walled; multi-specialty; low
+- Smile Savers of Laurel | Laurel, MD | https://smilesaversoflaurel.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Smile Shop Newtown | Newtown, PA | https://smileshopnewtown.com | [35] MANUAL: bot-walled; 35 yrs; pending
+- Smiles of Delaware (Newark) | Newark, DE | https://smilesofdelaware.com | [35] MANUAL: bot-walled; pending
+- Smiles of West Chester | West Chester, PA | https://smileswestchester.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Sofia Smiles Dental | Burke, VA | https://sofiasmilesdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Soft Touch Dental Care | Ellicott City, MD | https://ellicottcitydentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Southpoint Quality Dental | Fredericksburg, VA | https://qualitydentalva.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Stallings Dental Care | Manassas, VA | https://stallingsdentalcare.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Stanley T Dorrow DDS | Pikesville, MD | https://drdorrow.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Stephen C. St. Louis DDS, FAGD | Fairfax, VA | https://drstlouis.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Stephen Hittle DDS | Severna Park, MD | https://hittle-stephen-e-dds.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Stover Pamela K | Charlottesville, VA | https://cvillefamilydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Tankersley K L DDS MD | Newport News, VA | https://hamptonroadsoms.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- The Brace Place - Easton | Easton, MD | https://drcrousesbraceplace.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Thomas, Marvette, DDS | Woodbridge, VA | https://thedentalspaofvirginia.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Timko, Alan M, DMD | Pittsburgh, PA | https://drtimko.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Timothy Golian DDS | Fairfax, VA | https://timothygoliandds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Tore D. Steinberg DDS, PC | Charlottesville, VA | https://cvilledds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Trusmiles Dental PLC | Chantilly, VA | https://trusmilesdental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Uptown Dental (Chory/Racic) | Mt. Lebanon, PA | https://uptown.dental | [35] MANUAL: bot-walled; pending
+- Valentine, Ellen M, DDS | Wheeling, WV | https://keepsmilingdds.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Vincent Longo, DMD | Wilmington, DE | https://vincentlongodmd.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Voiner, Jonathan L, DMD | Paoli, PA | https://mloms.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- W. Paul Eichman, DMD | Hershey, PA | https://hersheydentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Walter D. Felton, DDS | Chester, VA | https://feltondentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Warren and Reese Family Dentistry | Mechanicsburg, PA | https://warrenreesedentistry.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Warrenton Dental Care | Warrenton, VA | https://warrentondentalcare.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- West Shore Family Dentistry | Camp Hill, PA | https://westshorefamilydentist.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Westwood Dental | Vienna, VA | https://westwood-dental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Williamsburg Center for Dental Health, P.L.C | Williamsburg, VA | https://williamsburgdentalhealth.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Wood, Bryan D, DDS | Alexandria, VA | https://gentlegiantdentalcare.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Woodside, Jason S, DDS | Warrenton, VA | https://woodside-jason-s-dds.hub.biz | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Worman's Mill Dental Group | Frederick, MD | https://wormansmilldentalgroup.com | [35] MANUAL: bot-walled; low priority
+- Wyngate Dental of Bethesda | Bethesda, MD | https://wyngatedental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Yardley Family Dental | Yardley, PA | https://yardleyfamilydental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Zen Family Dental | Fairfax, VA | https://zenfamilydental.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- Zhu, Tingting, DMD | Fairfax, VA | https://fairfaxtoothdoc.com | [35] UNVERIFIED — bot-walled (Cloudflare 403); not screened for weak-site signals
+- 703 Dental | Woodbridge, VA | https://703dental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- 757 Endodontics: Dodson, Ligon & Royzenblat | Chesapeake, VA | https://757endo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- A Pollard James DDS | Lynchburg, VA | https://implantsofva.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- A-Plus Dental Care PC | Exton, PA | https://aplusdentalservices.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- AB Orthodontics Inc | Oakmont, PA | https://aborthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Aaron Moore DDS | Parkersburg, WV | https://mooresmileswv.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Abbey Horwitz DDS | Virginia Beach, VA | https://abbeyhorwitzdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Abdulrahman, Reem, DMD | Newtown Square, PA | https://infinitydentalspecialists.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Abiodun Adesanya, D.D.S., P.C. | Bowie, MD | https://mybowiedentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- About Smiles Dentistry- Annapolis | Annapolis, MD | https://aboutsmilesdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Abrams Center For Cosmetic | Frazer, PA | https://demandforce.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Abtahi, Amitice, DDS | Gambrills, MD | https://neibauerdentalcrofton.com | [0] REJECT — DSO signal (heartland)
+- Acadia Dental | Hagerstown, MD | https://acadiadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Access Dental | Dover, DE | https://accessdentalllc.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Acharya Periodontics & Dental Implants | Roanoke, VA | https://acharyaperiodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Acora Dental | Waldorf, MD | https://acoradentalmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Adair, Amy H, DMD | Burke, VA | https://adair-pedo.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Adam D Schwartz DDS PC | Washington, DC | https://brandywinedentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Adam J Frieder DDS | Frederick, MD | https://friederdental.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Adams, Maxwell C, DDS | Lancaster, PA | https://campusoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Adams, Paul, DMD | Doylestown, PA | https://adamsortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Adey Family Dentistry | Kennett Square, PA | https://adeyfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Admire Dental Care | Woodbridge, VA | https://admcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Advance Dental Care Center | Arlington, VA | https://arlingtondentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Advance Dental Clinic | Catonsville, MD | https://advancedentalclinicmd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Advance Tech Orthodontic | Middletown, DE | https://advancetechortholab.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Advanced Dental Artistry | Wilmington, DE | https://kennethjyostdmd.com?y_source=1_mjazmje5mdcyms01ntmtbg9jyxrpb24ud2vic2l0zq%3d%3d | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Advanced Dental Artistry: Kenneth J. Yost, DMD, PA | Wilmington, DE | https://kennethjyostdmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Advanced Dental Concepts (Sander White DDS) | Broomall, PA | https://drwhitesmile.com | [0] MANUAL: REJECT — custom WP modern, 50+ yrs but effective site
+- Advanced Dental Design | Bensalem, PA | https://allonfourimplants.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Advanced Dental Solutions | Bryn Mawr, PA | https://familydentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Advanced Dental Specialties | Coraopolis, PA | https://adsperioimplants.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Advanced Dentistry of Centre County | State College, PA | https://advanceddentistrycc.com | [0] REJECT — DSO signal (dental365)
+- Advanced Dentistry of Richmond | Richmond, VA | https://advanceddentistryofrichmond.com | [0] MANUAL: REJECT — Elementor ©2026 modern
+- Advanced Endodontics & Surgical Solutions | Woodbridge, VA | https://advanceddentalsolutionsva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Advanced Sedation Dentistry | Chesapeake, VA | https://advancedsedationdds.com | [0] REJECT — DSO signal (gentle dental)
+- Advantage Dental Care | Springfield, VA | https://advantagedentalcareva.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Adventure Dental and Vision | Baltimore, MD | https://mydentalvisioncare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Aero Dental | West Chester, PA | https://aero-dental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Aesthetic Dentistry | Ambler, PA | https://mapleglendentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Aesthetic Family Dental & Implant Center | Gaithersburg, MD | https://aestheticfamilydentalimplantcenter.com | [0] REJECT — DSO signal (gentle dental)
+- Aesthetic Family Dentistry of Bel Air | Bel Air, MD | https://harforddentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Aesthetic and General Dentistry by Dr. Maria Conde Cavalier | Greensburg, PA | https://cavalierdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Affordable Dental Care & Orthodontics | Pittsburgh, PA | https://theaffordabledentalcare.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Affordable Dental Solutions | West Chester, PA | https://west-chester.affordabledentalsolutions.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Agape Dental Studio | Arlington, VA | https://agapedentalstudio.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Agapis, George, DDS | York, PA | https://greateryorkfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Akeso Surgery - Columbia | Columbia, MD | https://akesosurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Alan Bagden M. DMD | Springfield, VA | https://specialistsinortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Alan J. Dr. | Staunton, VA | https://dralanwhite.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Alan M Smolen DDS PC | Yardley, PA | https://alansmolendds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Albanese Oral & Maxillofacial Surgery | Kennett Square, PA | https://albaneseoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Albert J Schmitt DMD | Kennett Square, PA | https://doctorschmitt.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Albert M. Boyce, D.D.S. | Falls Church, VA | https://dentalcarefallschurch.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Albright & Thiry Orthodontics | Manheim, PA | https://lancastersmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Alex W. Skaff DDS | Charleston, WV | https://skaffandpaternodental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Alex, Sherly J, DDS | Wayne, PA | https://mainlinedental.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Alexander H. Balian D.D.S. | Fredericksburg, VA | https://baliandds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Alexandria Children's Dentistry | Alexandria, VA | https://lovekidsteeth.com | [0] REJECT — DSO signal (gentle dental)
+- Alexandria Oral Surgery | Alexandria, VA | https://alexandriaoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Alexas Family Dentistry | Washington, PA | https://alexasfamilydds.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Alfano, Kimberly R, DMD | Camp Hill, PA | https://verberdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Alger, Catharine M, DDS | West Chester, PA | https://extondentalimplants.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- All About Smiles | Washington, PA | https://allaboutsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- All Family Dentistry of South Hills P | Pittsburgh, PA | https://allfamilydentistrysh.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Allan S Zeno DDS | Norfolk, VA | https://techempower.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Allegany Dental Care | Hagerstown, MD | https://alleganydentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Allegheny Oral and Maxillofacial Surgery | Pittsburgh, PA | https://aomfs.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Allegiance Dental Associates | Bel Air, MD | https://owingsmillsdental.com | [0] REJECT — DSO signal (dental care alliance)
+- Allen McGill, DDS | Newport News, VA | https://allenmcgilldds.com | [0] REJECT — DSO signal (a division of)
+- Allendale Dental | King Of Prussia, PA | https://allendaledental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Alli M Guleria DMD | Reston, VA | https://drguleria.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Allick, H David, DDS | Rockville, MD | https://whiteflintdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Allied Orthodontics | Doylestown, PA | https://confettisunshineblog.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Alluring Smiles | Gaithersburg, MD | https://alluringsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Alvin Miranda DDS | Bel Air, MD | https://mirandafamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Amazing Smiles: Dentistry for Kids | Glen Burnie, MD | https://amazingsmilesdds.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Ambler Dental Care | Ambler, PA | https://amblerdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- American Academy-Cosmetic | Waldorf, MD | https://smileimages.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- American Back Centers | Wexford, PA | https://americanbackcenters.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- American Dental Solutions of Kenhorst | Reading, PA | https://americandentalsolutions.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- American Family Dental Care | Falls Church, VA | https://adc1smiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Amin, Aesha, DMD | Hershey, PA | https://hersheydentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Amini-Nejad, Ellahe, DMD | Ellicott City, MD | https://dramini.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Amoah Dental | Hampton, VA | https://amoahdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Amos Dental | Washington, PA | https://amosdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Amy Everett DDS & Associates | Morgantown, WV | https://amyeverettdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Amy Shoumer | Bryn Mawr, PA | https://dramyshoumer.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Anchor Point Dental Care | Newport News, VA | https://anchorpointdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Anderson, Eliana L, DDS | Falls Church, VA | https://renovasmiles.com | [0] REJECT — DSO signal (gentle dental)
+- Anderson, Ralph H B, DDS | Richmond, VA | https://aplusaortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Andrea W. Kelly, DDS | Huntington, WV | https://valleyhealth.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Andrew  Gilfillan | Williamsburg, VA | https://dentistofwilliamsburg.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Andrew Fingeret DMD | Newtown, PA | https://fingeretdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Andrew M Halbert | Bryn Mawr, PA | https://andrewhalbertdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Andrew S. Malinowski DDS, PA | Lewes, DE | https://lewesperiodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Angel Smiles Pediatric Dentistry | Newtown Square, PA | https://aspdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Angelopulos Dental | Harrisonburg, VA | https://angedental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Angus, Frank L, DDS | Richmond, VA | https://vasleeptmj.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Anita L. Bell DDS PC | Stuarts Draft, VA | https://anitabelldds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Anna C Giacalone DMD Magd | Chadds Ford, PA | https://giacalonedmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Annapolis Dental Care | Annapolis, MD | https://annapolisdentalcare.com | [0] MANUAL: REJECT — 'awi' theme modern
+- Annapolis Dental Center | Annapolis, MD | https://annapolisdentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Annapolis Pediatric Dentistry | Annapolis, MD | https://annapolispediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Annapolis Smiles | Arnold, MD | https://annapolisdentistdds.com | [0] MANUAL: REJECT — modern
+- Anne Adams DDS | Hershey, PA | https://anneadamsdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Anne Newman DDS PC | Roanoke, VA | https://annenewmandds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Anthony B Sims DDS | Ellicott City, MD | https://absimsdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Anthony C. Manilla, DO | Hagerstown, MD | https://cventdocs.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Anthony, Wayne L, DDS | Lancaster, PA | https://weibelorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Antonucci, Mark A, DMD | Verona, PA | https://kaurdentalpgh.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Anupindi, Ananth, DDS | Chesapeake, VA | https://lwsschesapeake.com | [0] REJECT — DSO signal (heartland)
+- Anzilotti, Clifford L, DDS | Middletown, DE | https://anzilottiortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Apex Dental Center | Newark, DE | https://apexdentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Apple Blossom Dentistry | Winchester, VA | https://appleblossomdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Apple Tree Dentistry PLLC | Midlothian, VA | https://appletreedent.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Arch Dental Implants & Oral Surgery | Blue Bell, PA | https://archoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Archuleta, Fernando M, DDS | Laurel, MD | https://schembari.net | [0] REJECT — DSO signal (heartland)
+- Ardmore Family & Cosmetic Dentistry | Ardmore, PA | https://ardmorefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ari, Lee M, DDS | Catonsville, MD | https://baltimoreperio.com | [0] REJECT — DSO signal (gentle dental)
+- Aria Dental of Annapolis | Annapolis, MD | https://ariadentalofannapolis.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Arlington Dental Aesthetics | Arlington, VA | https://arlingtondentalaesthetics.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Arlington Dental Excellence | Arlington, VA | https://arlingtondentistva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Arlington Dental Implant & Oral Surgery Center | Arlington, VA | https://arlingtonoms.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Arlington Dental Studio | Arlington, VA | https://arlingtondentalstudio.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Arnold W Thomas DMD | Coraopolis, PA | https://thomasdentalgroup.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Aronson, John, DMD | Pittsburgh, PA | https://alfaindentistry.com | [0] REJECT — DSO signal (heartland)
+- Array Dental Group | Ellicott City, MD | https://arrdent.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Artisan Dental of Chevy Chase | Chevy Chase, MD | https://artisandentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Artisan Smiles | York, PA | https://artisansmilespa.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Artistic Family Dentistry of Silver Spring | Silver Spring, MD | https://artisticfamilydentistryofsilverspring.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Artzer Mark | Newport News, VA | https://markartzerdds.com | [0] REJECT — DSO signal (heartland)
+- Ashburn General Dentistry | Ashburn, VA | https://ashburngeneraldentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ashton, Gary J, DDS | Leesburg, VA | https://leesburgfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Aspen Dental Wyomissing | Wyomissing, PA | https://aspendental.com | [0] MANUAL: REJECT — DSO Aspen
+- Associated Dental Care | Virginia Beach, VA | https://associateddentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Asuncion, Frederick, DDS | Frederick, MD | https://asunciondentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Atlantic Dental Cosmetic and Family Dentistry | Ocean City, MD | https://atlanticdental.com | [0] REJECT — DSO signal (atlanticdental)
+- Atlantic Family Dentistry | Virginia Beach, VA | https://atlanticfd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Atlas Walk Dental & Orthodontics | Gainesville, VA | https://atlaswalkdental.com | [0] REJECT — DSO signal (dental care alliance)
+- Auditor General | Reading, PA | https://paauditor.gov | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Aulakh Dental P | Burke, VA | https://friendlysmilesdc.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Auslander Dental | Bowie, MD | https://bruceauslanderdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Avenue Smiles Philly | Philadelphia, PA | https://avenuesmilesphilly.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Azimaie Dental Group | Gaithersburg, MD | https://gaithersburgdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Baker Orthodontics | Mclean, VA | https://baker-ortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Baker, Morgan K, DMD | Frederick, MD | https://monocacyhealthpartners.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bala Oral Health Center | Bala Cynwyd, PA | https://balaoralhealthcenter.com | [0] MANUAL: REJECT — Thryv; small
+- Baldassano Family & Cosmetic Dentistry | Blue Bell, PA | https://drbaldassano.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ballenger Creek Dental Associates | Frederick, MD | https://ballengercreekdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ballston Dental Center | Arlington, VA | https://ballstondentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Baltimore Dental | Pikesville, MD | https://baltimoredentalllc.com | [0] REJECT — DSO signal (gentle dental)
+- Baltimore Washington Endodontics | Ellicott City, MD | https://baltimorewashingtonendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bamonte Jr, John A, DMD | Wexford, PA | https://bamonteoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Banaji Family & Aesthetic Dentistry | Falls Church, VA | https://temburnidds.com | [0] REJECT — DSO signal (heartland)
+- Barber G Vance | Greensburg, PA | https://drvancebarber.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Barberio Frank DMD PC | Charlottesville, VA | https://drbarberio.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Barnette, Eleanor K, DDS | Wheeling, WV | https://mobiledentists.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Barracks Road Dental Care | Charlottesville, VA | https://barracksroaddentalcare.com | [0] REJECT — DSO signal (heartland)
+- Barrer, James G, DDS | Reading, PA | https://barrerandwhite.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Barroner, Meghan D, DMD | Upper Saint Clair, PA | https://elevatedoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Barry D Lyon DDS | Glen Burnie, MD | https://drblyon.com | [0] REJECT — DSO signal (dental care alliance)
+- Barry H. Hendler, DDS, MD | Radnor, PA | https://pennmedicine.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bartling, Daniel, DDS | Fishersville, VA | https://cardinalspecialists.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Barton D Weis DDS | Charlottesville, VA | https://soderquist.org | [0] REJECT — unreachable / dead / hijacked / parked (400)
+- Bartusiak, Barry F, DMD | Washington, PA | https://drbarrybartusiak.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bash Dental | Doylestown, PA | https://bashdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Batrouni, Ziad, DDS | Annapolis, MD | https://mosa4os.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Baveja, Julie L, DDS | Chantilly, VA | https://childrensdentalcarevirginia.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bawa, Anoop S, DMD | Manassas, VA | https://bawadentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Baxter, George I, DDS | Washington, DC | https://drbaxterdmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Baycove Family Cosmetic | Severna Park, MD | https://baycovedental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Bayside Family Dentistry | Severna Park, MD | https://baysidedentistry13.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Be More Dental | Baltimore, MD | https://bemoredental.com | [0] MANUAL: REJECT — modern
+- Beautiful Healthy Smiles | Wexford, PA | https://prybyldds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Beavers, Myrna, DDS | Roanoke, VA | https://roanokeoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bel Air Family Dentistry | Bel Air, MD | https://belairdentist.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Bellisario, Jeffrey, DDS | Ardmore, PA | https://drbellisario.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bender Dental Group | Mountville, PA | https://benderdentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Benjamin Tolley Dds | Winchester, VA | https://tolleydental.com | [0] REJECT — DSO signal (gentle dental)
+- Benkovich III, John A, DDS | Chester, MD | https://drbenkovich.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Bennetts Creek Family Dental: Dr. Bertha Hillian | Suffolk, VA | https://northsuffolkdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Berardinelli, Nelson V, DMD | Murrysville, PA | https://nbdmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Berg Lawrence & Weng DDS | Bowie, MD | https://thepediatricdentalspecialists.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Berg, Richard, DDS | Lititz, PA | https://drberg.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Berkow, Jerry A, DDS | Annapolis, MD | https://westannapolisfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Berlin Animal Hospital | Berlin, MD | https://berlinanimalhospital.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Berman, Scott C, DDS | Falls Church, VA | https://bermanandlee.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Best Smiles | Richmond, VA | https://bestsmilesdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bethea, Kimani, DDS | Owings Mills, MD | https://towsondentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bethesda Center for Family and Cosmetic Dentistry | Bethesda, MD | https://greenbaumdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bethesda Chevy Chase Advanced Dentistry | Chevy Chase, MD | https://bethesdachevychasedentistry.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Bethesda Chevy Chase Oral Surgery | Chevy Chase, MD | https://bccoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bethesda Dental Care | Bethesda, MD | https://bethesdadentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bethesda Dental Health | Bethesda, MD | https://bethesdadentalhealth.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bethesda Dental Specialists | Bethesda, MD | https://bethesdadentalspecialists.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bethesda Dental Specialties | Bethesda, MD | https://bethesdadentalspecialties.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bethesda Family Dentistry | Bethesda, MD | https://bethesdafamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Better Smiles Family Dental | Frederick, MD | https://bettersmilesmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Beyond Dental | Alexandria, VA | https://beyondentalgroup.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Bill A Choby DMD PC | Greensburg, PA | https://drbillchoby.com | [0] REJECT — unreachable / dead / hijacked / parked (522)
+- Binstock, Alan, DDS | Severna Park, MD | https://drbinstock.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Biosafe Dentistry | Exton, PA | https://biosafedentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Birkitt, Cary T, DDS | Leesburg, VA | https://birkittdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Birsch, Randolph E, DMD | Harrisonburg, VA | https://hburgchc.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bivin, Phillips, DDS | Bel Air, MD | https://lifetimedentalcare.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Blackwood Orthodontics | Potomac, MD | https://blackwoodorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Blashford Dentistry | Carlisle, PA | https://blashforddentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Block Carl M DDS PC | Midlothian, VA | https://midloperioimplants.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bloom Dental of Arlington | Arlington, VA | https://bloomdentalofarlington.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bloomindental. | Ashburn, VA | https://dentistinashburn.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Blue Bell Endodontics & Dental | Blue Bell, PA | https://bluebellendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Blue Bell Orthodontics | Blue Bell, PA | https://bluebellortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Blue Bird Dentistry of Fredericksburg | Fredericksburg, VA | https://bluebirddentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Blue Heron Dental | Annapolis, MD | https://blueherondental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Blue Mountain Dental Care | Winchester, VA | https://bluemountaindentalcare.com | [0] REJECT — DSO signal (heartland)
+- Blue Ridge Endodontics | Roanoke, VA | https://blueridgeendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Blue Ridge Family Dentistry | Charlottesville, VA | https://blueridgefamilydentistry.com | [0] REJECT — DSO signal (heartland)
+- Blue Ridge Oral & Facial Surgery | Lynchburg, VA | https://blueridgeofs.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Blue Ridge Smiles & John T Gibson DDS | Martinsburg, WV | https://blueridgesmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Blumenthal, Edan, DMD | Media, PA | https://dentalsolutionscreatingsmiles.com | [0] REJECT — DSO signal (dental care alliance)
+- Bogacki, Katherine R, DDS | Springfield, VA | https://bogackidental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bolduc Dental | Vienna, VA | https://bolducdental.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Bonidy Thomas A DDS PC | Allison Park, PA | https://bonidydental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Bonner P Todd | Severna Park, MD | https://allsmilesorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bonnie M Hiers DDS Family and Cosmetic Dentistry | Ellicott City, MD | https://hiersdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Bookman, Paul K, DMD | Bryn Mawr, PA | https://brynmawrdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Bootway Dental | West Chester, PA | https://advancedsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Boraey, Ahmed M, DMD | Waldorf, MD | https://neibauerdentalwaldorf.com | [0] REJECT — DSO signal (heartland)
+- Bortell, Elizabeth B, DDS | Richmond, VA | https://chfrichmond.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Boston Street Dentistry | Baltimore, MD | https://eugenemccollum.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Boucher, Normand S, DDS | Wayne, PA | https://boucherorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bowie Orthodontics | Bowie, MD | https://bowiebraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bowling & Dunn Family Dentistry | Parkersburg, WV | https://bowlingdunnfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Braddock Dental | Alexandria, VA | https://braddockdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bradley-Boehme, Susan M, DDS | Washington, PA | https://centervilleclinics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Brandywine Dental Services Group | Delaware County, PA | https://brandywinedentalservices.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Brannon Larry S DMD Magd PC | Charlottesville, VA | https://drbrannon.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Brearkwater Dental | Lewes, DE | https://breakwaterde.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Brendan Mulligan DMD | Kennett Square, PA | https://bfmdental.wix.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Brian T DR DDS | Staunton, VA | https://cavityfreekid.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Brian, Joseph L, DDS | Mechanicsburg, PA | https://straightsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Brianer, Mark, DDS | Towson, MD | https://domainvip.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Briarwood Dental Center | Martinsburg, WV | https://briarwooddentalcenter.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Brice D Arndt DDS | Camp Hill, PA | https://camphilldentist.com | [0] REJECT — DSO signal (heartland)
+- Bright Choice Dental | Havertown, PA | https://dralanmarkowitz.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Bright Smiles Kids Dentistry | Devon, PA | https://brightsmileskidsdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bright Starr Pediatric Dentistry | Bowie, MD | https://brightstarrpediatricdental.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Briglia Dental Group | West Chester, PA | https://brigliadentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- BriteStars Pediatric Dentistry & Orthodontics at Dale City | Woodbridge, VA | https://britestars.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Britto's Children's Dentistry | Woodbridge, VA | https://drbritto.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Broadlands Animal Hospital | Broadlands, VA | https://broadlandsfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Broadway Oral & Maxillofacial | Bel Air, MD | https://broadwayoms.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Broskey, Donald E, DMD | Easton, MD | https://donaldebroskey.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Brown Oral Maxillofacial Surgery | Chesterfield, VA | https://dentalsurgeryvirginia.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Brown and Baran Family Dentistry | Bethany Beach, DE | https://brownbarandentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bruce Parker DMD | Pittsburgh, PA | https://bruceparkerdmd.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Brunnett Dentistry | Towson, MD | https://brunnettdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bryan R Cecchi DMD | Media, PA | https://mediadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bryn Mawr Peridontal Associates LTD | Bryn Mawr, PA | https://brynmawrperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bryn Mawr Peridontics & Implantology | Bryn Mawr, PA | https://myperiobrynmawr.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Bucks County Dental Design (Spadafora) | Richboro, PA | https://buckscountydentaldesign.com | [0] MANUAL: REJECT — Elementor modern
+- Bucks County Smiles | Yardley, PA | https://buckscountysmiles.com | [0] MANUAL: REJECT — Elementor 'dental-visions' modern
+- Bukzin, Jay M, DDS | Gainesville, VA | https://meyerclinic.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Burke Family Orthodontics, P | Burke, VA | https://burkefamilyortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Burkitt, Benjamin, DMD | Roanoke, VA | https://wecaredentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Burton, Edwin B, DDS | Haverford, PA | https://davidreillydmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Burwood Plaza Dental Associates | Glen Burnie, MD | https://ulerydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Bush, Nakia S, DDS | Waldorf, MD | https://crownandglorydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Butler Dental Associates | Coraopolis, PA | https://butlerdentalassociates.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- CBI Dental Prosthetics | Fredericksburg, VA | https://cbidp.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- CK Family Dental | Silver Spring, MD | https://ckfamilydent.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Calomeris Peter L | Potomac, MD | https://potomacdentalcosmetics.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Campos, Gloria, DDS | Fairfax, VA | https://prosperitydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Canby Frederick L Ms Dds | Leesburg, VA | https://loudounendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Cantor, Richard J, DDS | Carlisle, PA | https://teamcantor.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Capital Dentistry | Montgomery Village, MD | https://capitaldentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Capital Esthetics & Family Dentistry of Vienna: Dr. Diane Pham, DMD | Vienna, VA | https://capitalesthetics.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Capitol Dental Care | Harrisburg, PA | https://capitoldentalcare.net | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Capitol Endodontics | Charleston, WV | https://endowv.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Capitol Hill Dental Associates | Washington, DC | https://capitolhilldental.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Cari, Michael, DDS | Kennett Square, PA | https://cariorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Caring Dental Herndon | Herndon, VA | https://caringdentalva.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Carl Medgaus DMD | Pittsburgh, PA | https://medgausdentalgroup.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Carlisle Dental Studio | Carlisle, PA | https://carlisledentalstudio.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Carlisle Pike Family Dentistry | Mechanicsburg, PA | https://carlislepikefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Carr, Douglas G, DDS | Houston, PA | https://primoinc.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Carri, Debra L, DMD | Kennett Square, PA | https://chestercoendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Carter, Jessica, DDS | Chantilly, VA | https://bestsmiledoctor.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Casey Family & Cosmetic Dentistry | Oakton, VA | https://caseyfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Casey Williams Dental | Boiling Springs, PA | https://boilingspringsfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Casey, Joseph, DDS | Haverford, PA | https://gentledental-pa.com | [0] REJECT — DSO signal (dental care alliance,gentle dental)
+- Casey, Nancy, DDS | Warminster, PA | https://checkoffandcaseyorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Casimir Elsie DMD | Ambler, PA | https://casimirdentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Caton Dental Assoc | Baltimore, MD | https://catondental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Catonsville Endodontics | Catonsville, MD | https://catonendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Catonsville Family Dentistry | Catonsville, MD | https://cfdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Catonsvillve Comprehensive Dentists | Catonsville, MD | https://catonsvilledentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Cavallari, Kenneth J, DDS | Virginia Beach, VA | https://drcavallari.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cavity Busters Dental Clinic | Newtown Square, PA | https://cavitybusters.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Cedar Creek Dental | Winchester, VA | https://wincdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cedar Lakes Dental Care | Chesapeake, VA | https://cedarlakesdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Center City Philly Dentist | Philadelphia, PA | https://centercityphillydentist.com | [0] MANUAL: low priority
+- Center Street Family Dentistry | Camp Hill, PA | https://centerstreetfamilydentistry.com | [0] REJECT — DSO signal (heartland)
+- Center for Dental Anesthesia | Alexandria, VA | https://snoozedentistry.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Center for Dental Excellence | York, PA | https://cdepa.com | [0] MANUAL: REJECT — modern Elementor ©2026
+- Center for Exceptional Dentistry | Pittsburgh, PA | https://pittsburghaestheticsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Center for TMJ & Sleep Disorders | Reading, PA | https://tmjsleepcenter.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Central Bucks Dental Medicine | Doylestown, PA | https://cbdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cha, Peter W, DDS | Frederick, MD | https://familysmilecenter.biz | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Chad Kasperowski DMD | Fairfax, VA | https://doctor-k.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Champions for Oral Health | Fairfax, VA | https://championsfororalhealth.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Chang, Carolyn S, DMD | Glen Burnie, MD | https://mainstreetsmiles.com | [0] REJECT — DSO signal (dental care alliance)
+- Chapel Street Dentistry | Newark, DE | https://chapelstreetdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Charles D. Calhoon, DDS | Wilmington, DE | https://charlesdcalhoondds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Charles Street Dental | Baltimore, MD | https://facebook.com | [0] REJECT — unreachable / dead / hijacked / parked (400)
+- Charlottesville Oral Surgery & Dental Implant Center | Charlottesville, VA | https://cvilleoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Chau, Tom Q, DDS | Reston, VA | https://hwnova.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Chenette, Ronald, DDS | Baltimore, MD | https://dental.umaryland.edu | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cherry Way Dental | Bridgeville, PA | https://cherrywaydental.com | [0] REJECT — DSO signal (heartland)
+- Chesapeake Bay Dental | Norfolk, VA | https://chesapeakebaysmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Chesapeake Dental | Grasonville, MD | https://chesapeakedental.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Chester County Dentistry For Children | Kennett Square, PA | https://cckidsdmd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Chester County Oral Surgery & Dental Implants | West Chester, PA | https://oralsurgerychestercounty.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Chestnut Hills Dental Cranberry Commons | Cranberry Township, PA | https://chdcranberrycommons.com | [0] REJECT — DSO signal (heartland)
+- Chestnut Hills Dental Monroeville | Monroeville, PA | https://chdmonroeville.com | [0] REJECT — DSO signal (heartland)
+- Chestnut Hills Dental Murrysville | Murrysville, PA | https://chdmurrysville.com | [0] REJECT — DSO signal (heartland)
+- Chestnut Hills Dental Pittsburgh Sq. Hill | Pittsburgh, PA | https://chdpittsburghsqhill.com | [0] REJECT — DSO signal (heartland)
+- Chevy Chase Dental Inc | Chevy Chase, MD | https://chevychasedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Chikes Benjamin F D, Dds, PC | Lancaster, PA | https://chikesorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Childerendental Health of Lynchburg | Lynchburg, VA | https://cdhlynchburg.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Children's Dental Centre of York | York, PA | https://childrensdentalcentre.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Children's Dental Health of Wilmington | Wilmington, DE | https://childrensdentalhealth.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Children's Dental Surgery of Lancaster | Lancaster, PA | https://childrenssurgicalcenter.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Chillemi Dental Care | Lansdale, PA | https://lansdaledentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Chips Dental Associates LLC | Gibsonia, PA | https://chipsdentalllc.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Chris J. Giuliani DDS, | Morgantown, WV | https://drgiuliani.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Christian A Silvaggio Ltd | Lancaster, PA | https://gotoapro.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Christian Paul R DMD | Middletown, DE | https://paulchristiandmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Christiana Dental Center | Newark, DE | https://christianadentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Christiana Pleasant Dental | Newark, DE | https://christianapleasantdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Christie, Kimberly F, DDS | Wallingford, PA | https://forwoodortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Christman, Joshua A, DDS | Lancaster, PA | https://christmanperiodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Christopher D Maurer DDS | Paoli, PA | https://maurerdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Christopher Sinha, MD, FACS | Silver Spring, MD | https://mocent.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Churchville Family Dentistry | Bel Air, MD | https://churchvillefamilydentistry.com | [0] REJECT — DSO signal (heartland)
+- Clarendon Dental Arts | Arlington, VA | https://clarendondentalarts.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Clarity Dental | Vienna, VA | https://claritydentaldmv.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Clark, Maxine V, DDS | Ellicott City, MD | https://bracesbydrclark.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Clinton W Runco | Pittsburgh, PA | https://dentalremedy.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Coastal Kids Pediatric Dentistry | Rehoboth Beach, DE | https://coastalkidspedo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Coastal Oral-Maxillofacial Surgery & Implants | Williamsburg, VA | https://coastaloralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Coastal Smile Design | Chesapeake, VA | https://coastalsmiledesign.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cocchiola, Joy M, DMD | Norfolk, VA | https://konikoffdental.com | [0] REJECT — DSO signal (dental care alliance)
+- Cochran Family Dental | Leesburg, VA | https://theleesburgvadentist.com | [0] MANUAL: REJECT — Astra modern
+- Cohen, Neil H, DDS | Chevy Chase, MD | https://ncohen.com | [0] REJECT — unreachable / dead / hijacked / parked (500)
+- Colesville Dentistry | Silver Spring, MD | https://colesvilledentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Comfort Dental Associates PC | Burke, VA | https://burkecomfortdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Comfy Dental | Takoma Park, MD | https://comfydental.org | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Commonwealth Dental Clinic | Roanoke, VA | https://commonwealthdentalclinic.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Commonwealth Dentistry | Suffolk/Central, VA | https://commonwealth-dentistry.com | [0] MANUAL: REJECT — Divi modern, multi-loc
+- Commonwealth Endodontics | Midlothian, VA | https://commonwealthendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Compass Dental | Wyomissing, PA | https://compassdentalpa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Complete Dental of York | York, PA | https://completedentalofyork.com | [0] REJECT — DSO signal (heartland)
+- Conley Jr, Stafford G, DDS | Bowie, MD | https://staffordconleydds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Connections Dental, PC | Oakmont, PA | https://connectionsdentalpgh.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Conquest Oral & Maxillofacial Surgery | Coraopolis, PA | https://conquestoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Contemporary Health Career | Exton, PA | https://chcicareer.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Cooper, Jeffrey M, DMD | Rehoboth Beach, DE | https://enhanceddentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Core Pediatric Dentistry PC | Pittsburgh, PA | https://corepediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Corey L Smith DDS | Berlin, MD | https://lfgrafix.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Cornerstone Dental | Yardley, PA | https://cornerstonedentalpa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Corrado Louis J DDS, Giarrusso Elaine DMD, FAGD | Pittsburgh, PA | https://drcorrado.com | [0] REJECT — DSO signal (gentle dental)
+- Cosmetic & Family Dentistry | Glen Allen, VA | https://drdamirchi.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cosmetic Dental Associates of Burke | Burke/Springfield, VA | https://cosmeticdentistburke.com | [0] MANUAL: REJECT — modern
+- Cosmetic Dental Center of Baltimore | Baltimore, MD | https://ddsbaltimore.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cosmo Smiles Dental | Arlington, VA | https://cosmosmilesdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cotca, Claudia, DDS | Chevy Chase, MD | https://dclaserdentist.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Cox Family Dentistry & Ortho | Fredericksburg, VA | https://coxfamilydentists.com | [0] MANUAL: REJECT — theme smile-brands-d1 (Smile Brands DSO)
+- Cox, Thomas L, DDS | Virginia Beach, VA | https://coxpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Crafton, B C, DDS | Columbia, MD | https://craftondental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cramer, Rick, DDS | Hershey, PA | https://cramerortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Cranberry Dental Arts | Cranberry Twp, PA | https://cranberrydentalarts.com | [0] MANUAL: REJECT — modern
+- Cranberry Dental Studio | Cranberry Twp, PA | https://cranberrydentalstudio.com | [0] MANUAL: REJECT — Avada WP7 modern; 20 yrs
+- Craniofacial Pain & Dental Sleep Center of Virgi | Warrenton, VA | https://vasleepandtmd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Creative Dental Care | Blue Bell, PA | https://creativedentalpa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Criscitiello, Kevin, DDS | Richmond, VA | https://kacdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Crofton Dental Suite | Crofton, MD | https://croftondentalsuite.com | [0] REJECT — DSO signal (heartland)
+- Crooked Oak Dental Associates | Lancaster, PA | https://crookedoakdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Crosstown Dental Group Hershey | Hershey, PA | https://crosstowndentalhershey.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Crutchfield II, William E, DDS | Chantilly, VA | https://orthobycrutchfield.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Crystal Clear Orthodontics & Pediatric Dentistry | Wilmington, DE | https://crystalclearorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Cummings, William N, DDS | Avondale, PA | https://avondalefamilyandcosmeticdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Currie, William R, DDS | Camp Hill, PA | https://woodandmyers.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Curry, Lisa J, DMD | Williamsburg, VA | https://williamsburgdmd.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Cusp Dental Boutique | Virginia Beach, VA | https://cuspdentalboutique.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cusumano & Stuver Dentistry of Arlington | Arlington, VA | https://cusumanoandstuver.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cville Dentist | Charlottesville, VA | https://cvilledentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Cyterski, Leonard M, DDS | Allison Park, PA | https://cyterskiorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- D Omar Watson DDS MD | Midlothian, VA | https://oralfacialsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- D3 Dental. | Ambler, PA | https://d3dental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- DC Dental Group | Washington, DC | https://dc-dentalgroup.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- DC Dental Spa | Washington, DC | https://dcdentalspa.com | [0] REJECT — DSO signal (gentle dental)
+- DDS Environmental | Virginia Beach, VA | https://ddsenvironmental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- DH Dental & Prosthodontics | Reston, VA | https://dhdentalprosthodontics.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- DMW Family Dentistry, Wielechowski David D MD | Gibsonia, PA | https://dmwcosmeticdentistgibsonia.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- DNDentist | Bowie, MD | https://dndentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- DR Charles Llewellyn | Virginia Beach, VA | https://llewellyndentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- DR Gerald T Loyacona DMD | Murrysville, PA | https://loyaconaortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- DR James W Tinnemeyer DMD | Pittsburgh, PA | https://drjamestinnemeyerdmd.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- DR Michael B Pavel DMD | Bryn Mawr, PA | https://brynmawrdentalassociates.com | [0] REJECT — DSO signal (dental care alliance)
+- Dahar Orthodontics | Greensburg, PA | https://daharorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dahlkemper, Patrick E, DMD | Pittsburgh, PA | https://endopittsburgh.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dahne, Marlene Z, DDS | Catonsville, MD | https://dentalcarecentre.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dale City Smiles | Woodbridge, VA | https://dalecitysmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Damoon Dental Lab | Herndon, VA | https://damoondentallab.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Daniels, Vincent J, DMD | Wilmington, DE | https://bluediamonddental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- David E. Mastrota DMD | Wilmington, DE | https://greatwhitesdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- David Metroka, DDS | Hatboro, PA | https://hatboropediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- David P Giovannitti DMD | Pittsburgh, PA | https://pittsburgheastdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- David W. Cochran D.M.D. | Conshohocken, PA | https://cochrandentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- David Z. Liao, MD | Rockville, MD | https://ent-md.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Davidson, Jeremy B, DDS | Virginia Beach, VA | https://davidsonorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Davillier Orthodontics | Suffolk, VA | https://davillierorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Davis III, George E, DDS | Midlothian, VA | https://richmondorthodontist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Davis, Julia S, DDS | Midlothian, VA | https://davisdentalgroup.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Day, Roy E, DDS | Morgantown, WV | https://dentist4kids.org | [0] REJECT — specialty/pediatric/referral or non-practice site
+- DeMaria Family Orthodontics and Dentistry | Greensburg, PA | https://creatingstellarsmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- DeMizio Dental Center | Germantown, MD | https://demiziodental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dean, Curtis G, DDS | Harrisonburg, VA | https://deanfamilydds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dean-Duru, Lynda Ngozi, DDS | Ashburn, VA | https://kidzsmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dearment, Damon W, DDS | Winchester, VA | https://shenandoahortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Deem, Thomas E, DDS | Blue Bell, PA | https://broadaxedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Deidra Bird Kokel DDS | Leesburg, VA | https://leesburgdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Delaware Oral & Maxillofacial Surgery | Newark, DE | https://delawareomfs.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Delaware Orthodontics | Middletown, DE | https://delawareorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Delgado & Stanek | Columbia, MD | https://delgadoandstanek.com | [0] REJECT — unreachable / dead / hijacked / parked (444)
+- Delmarva Sedation Dentistry | Ocean City, MD | https://delmarvasedationdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Deloache, Y E, DDS | West Chester, PA | https://drdeloache.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Denise, Vivian H, DDS | Ellicott City, MD | https://halliburtonfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dennis Suzanne M DDS MS PC | Charlottesville, VA | https://smilecville.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- DentaCrafters P | Falls Church, VA | https://dentacrafters.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Arts of Great Valley | Malvern, PA | https://dentalartsofgv.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Associates of Northern Virginia in Fair Oaks | Fairfax, VA | https://dentalassociatesnova.com | [0] REJECT — DSO signal (dental care alliance)
+- Dental Bright Chantilly PLLC | Chantilly, VA | https://dentalbrightvirginia.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Care Associates - Greensburg | Greensburg, PA | https://dentalcareassoc.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Care Burke (Bernard Lynch) | Burke, VA | https://dentalcareburke.com | [0] MANUAL: REJECT — MB2 string in HTML (DSO MB2)
+- Dental Care at Compass Creek | Leesburg, VA | https://dentalcareatcompasscreek.com | [0] REJECT — DSO signal (heartland)
+- Dental Care at Cosby Village | Chesterfield, VA | https://dentalcareatcosbyvillage.com | [0] REJECT — DSO signal (heartland)
+- Dental Care of Columbia | Columbia, MD | https://dentalcareofcolumbia.com | [0] REJECT — DSO signal (heartland)
+- Dental Care of Concordville | Glen Mills, PA | https://dentalcareofconcordville.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dental Care of Hampton | Hampton, VA | https://dentalcareofhampton.com | [0] REJECT — DSO signal (heartland)
+- Dental Care of Harrisburg | Harrisburg, PA | https://dentalcareofharrisburg.com | [0] REJECT — DSO signal (heartland)
+- Dental Care of Laurel Lakes | Laurel, MD | https://dentalcareoflaurellake.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Care of Waldorf | Waldorf, MD | https://dentalcareofwaldorf.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Center | Glen Burnie, MD | https://baltimorecosmeticimplantdentist.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dental Choice | Easton, MD | https://dentalchoice.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Dentures & Implants | Mechanicsburg, PA | https://dentistsofmechanicsburg.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dental Designs of Glen Burnie | Glen Burnie, MD | https://dentaldesignsofglenburnie.com | [0] REJECT — DSO signal (heartland)
+- Dental Dreams | Baltimore, MD | https://dentaldreams.org | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Dental Excellence Integrative Center | Alexandria, VA | https://dentalexcellenceva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Excellence of Towson Drs. Ousborne & Esterson D.D.S., Pa. | Towson, MD | https://dentalexcellencetowson.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Galleria of Beautiful Smiles | Silver Spring, MD | https://dentalgalleria.samsbiz.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dental Group at Reston Station | Reston, VA | https://restondentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental Health Associates | Paoli, PA | https://healthbeginswithasmile.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dental Health Associates | Verona, VA | https://mydentalhealthassociates.com | [0] REJECT — DSO signal (dental care alliance)
+- Dental Health Care Associates Exton | Exton, PA | https://dhcaexton.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dental Land Pediatrics | Bowie, MD | https://dentallandpediatrics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dental One Associates of Columbia | Columbia, MD | https://dentalone-md.com | [0] REJECT — DSO signal (dental care alliance)
+- Dental Power | Bryn Mawr, PA | https://dentalpower.com | [0] REJECT — DSO signal (aspendental,sagedental)
+- Dental Wellness Phoenixville | ,  | https://padentalwellness.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental York | York, PA | https://dentalyork.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dental365 - Camp Hill | Camp Hill, PA | https://godental365.com | [0] REJECT — DSO signal (dental365,gentle dental)
+- DentalWorks Cranberry Township | Cranberry Township, PA | https://dentalworks.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentalle Inc | Doylestown, PA | https://optindentaladvantage.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentazure | Arlington, VA | https://dentazure.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Dentcare Now | Fairfax, VA | https://dentcarenow.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentica Inc | Canonsburg, PA | https://denticasmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentist Chesapeake - Smiles of Chesapeake | Chesapeake, VA | https://smilesofchesapeake.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentist Germantown-Germantown Pediatric Dental Center | Germantown, MD | https://germantownbigsmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dentist Vienna - Tysons West Orthodontics & Children's Dentistry | Vienna, VA | https://tysonswestortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dentist Virginia Beach - Smiles of Virginia Beach | Virginia Beach, VA | https://smilesofvabeach.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentist in Bowie | Bowie, MD | https://dentistinbowie.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentist of Paoli | Paoli, PA | https://dentistofpaoli.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dentistry 4 Kids | Bensalem, PA | https://dentistry4kidspa.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dentistry At Suburban Square: Michael I. Wollock, DMD | Ardmore, PA | https://dentistryatsuburbansquare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentistry For Children of Northern Virginia | Herndon, VA | https://dentistry4childrenva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dentistry For Children of Northern Virginia Fairfax | Fairfax, VA | https://childrensdentistryoffairfax.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dentistry For Life | Philadelphia, PA | https://dentistryforlife.net | [0] MANUAL: REJECT — Elementor modern
+- Dentistry at Hagerstown | Hagerstown, MD | https://dentistryathagerstown.com | [0] REJECT — DSO signal (heartland)
+- Dentistry for Children Maryland – Potomac | Potomac, MD | https://dentistry4childrenmd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dentistry of Bethesda | Bethesda, MD | https://dentistryofbethesda.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentistry of Hockessin | Hockessin, DE | https://dentistryofhockessin.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dentists of Centreville | Centreville, VA | https://dentistsofcentreville.com | [0] MANUAL: REJECT — "Dentists of ..." brand + fortuna theme = PDS pattern
+- Depalma, Michael J, DDS | Berlin, MD | https://depalmadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Derakhshan, Mitra, DDS | Ellicott City, MD | https://oxorthodontix.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Derek P Greico PC | Murrysville, PA | https://griecodentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Desai Dental Care | Ellicott City, MD | https://desaidentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Devasia, Jeena E, DDS | Mclean, VA | https://mclean-dentist.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Devey, Jason P, DMD | Camp Hill, PA | https://centralpennendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Devon Orthodontist | Devon, PA | https://devonortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dhillon Dental | Fairfax, VA | https://dhillondentalva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Diamond Braces Orthodontist | Blue Bell, PA | https://diamondbraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dickson, Jeffrey L, DMD | Winchester, VA | https://implantdocs.us | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Diflorio Brenn, Therese M, DDS | Doylestown, PA | https://doylestownoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Diiane Karnavas Dmrd | Oakmont, PA | https://gentlebraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dillon Family Dentistry | Bryn Mawr, PA | https://brynmawrdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Diperna, James, DDS | Pittsburgh, PA | https://integratedperioimplants.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Ditty-Ahl, Jamie, DDS | Dover, DE | https://aoortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dively, Katherine L, DDS | Palmyra, PA | https://crosstowndentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dockside Dental | Chesapeake City, MD | https://docksidedentalcc.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dodson Jr, William S, DMD | Newport News, VA | https://756endo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Doleva, Robert E, DDS | Reading, PA | https://fantasticsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dominion Endodontics | Arlington, VA | https://dominionendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dorothy E Eger, DDS MS | Waldorf, MD | https://fdwaldorfortho.com | [0] REJECT — DSO signal (heartland)
+- Dorsch, Steve S, DDS | Leesburg, VA | https://loudounoms.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dorsey Family Dental | Ellicott City, MD | https://dorseyfamilydentalmd.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Dosen, Goran, DDS | Alexandria, VA | https://gorandosendds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Doswell Orthodontics | Richmond, VA | https://doswellortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dotter Steven R DMD Magd | Lancaster, PA | https://dotterdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dover Dental Arts PA | Dover, DE | https://doverdentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dover Family and Cosmetic Dentistry | Dover, DE | https://doverdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Downtown Dental | Charlottesville, VA | https://cvilledowntowndental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Doyle, Gerald V, DDS | Radnor, PA | https://louis.tigris.org | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Doylestown Dental Cosmetic Center, PC | Doylestown, PA | https://doylestowndentalwork.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Doylestown Family Dentistry | Doylestown, PA | https://doylestownfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Agnes Bolus- Alignay DDS | Silver Spring, MD | https://alignaydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Bigelow | Staunton, VA | https://bigelowstauntonoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dr Byers Dds- Laser Dental Arts | Warrenton, VA | https://paulgbyersdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Douglas D Wright DDS | Staunton, VA | https://stauntonsmiles.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Erica Lewis Mead | Easton, MD | https://eastonkidsdentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dr Jana Boyd, DDS | Suffolk, VA | https://janaboyddds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Jarrett | Charleston, WV | https://engagechurchduluth.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dr Larry Suher & Associates | Monroeville, PA | https://suherdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Pishdad Potomac Dental Group | Potomac, MD | https://potomacdentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Richard Y Lee DDS | Washington, DC | https://foursquare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Stone Office | Wayne, PA | https://drstonedentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr Toothfairy | Falls Church, VA | https://drtoothfairy.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr's Weidman & Hazey III | Morgantown, WV | https://mountaineerorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dr. Alan Helig DDS | Washington, DC | https://citysearch.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Alex Cheng, MD | Woodbridge, VA | https://potomacearnosethroat.com | [0] REJECT — DSO signal (a division of)
+- Dr. Andres Maeso, DDS | Newport News, VA | https://drandresmaesova.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dr. Bradley R Anderson, DDS | Glen Allen, VA | https://dentistinshortpump.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Dr. Bredologos & Dr. Mendrinos Family & Cosmetic Dentistry | Virginia Beach, VA | https://anicesmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. C Advanced Dental Care | Richmond, VA | https://drcrichmonddentistry.com | [0] MANUAL: REJECT — modern pro theme
+- Dr. C Keith Hieronimus DDS Inc | Wheeling, WV | https://drhieronimusdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dr. D's Smiles, Daczkowski Orthodontics | Manassas, VA | https://daczkowskiortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dr. Del Kovacevic Cosmetic Family and Implant Dentistry | Greensburg, PA | https://delkovacevicdmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Dennis L. Co, DDS | Oakmont, PA | https://oakmontfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dr. Elijah Ed, DMD | Monroeville, PA | https://412dental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Ericka Klein, D.M.D., P.C. | Devon, PA | https://drerickaklein.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Garcia General & Cosmetic Dentistry | Baltimore, MD | https://drgarciadds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Gary R. Kramer & Dr. Sara Bunin Pediatric Dentistry and Orthodontics | Burke, VA | https://kbpediatricsmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dr. Gregory Hillyard & Monroe | Media, PA | https://drgregoryhillyard.com | [0] MANUAL: REJECT — modern WP codebase-2 theme (fp)
+- Dr. Gregory S. Peterson DMD & Associates | Pittsburgh, PA | https://gregorypetersondental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Jeffrey A Harris | Warrenton, VA | https://harrissmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Joseph Laponzina, DDS | Bel Air, MD | https://drjoesortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dr. Kathleen Mullaney, DDS | Alexandria, VA | https://kathleenmullaneydds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Kaz Family & Cosmetic Dentistry | Hockessin, DE | https://drkaz.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Kwatra & Associates | Woodbridge, VA | https://novadentalteam.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Mark C. Gladnick, DDS | Wilmington, DE | https://dedental.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Dr. Michael Hsu, DDS | Columbia, MD | https://columbia-smiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Nahlah Implants & Prosthodontics Specialists | Alexandria, VA | https://drnahlah.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Dr. Richard S. Vacca, D.D.S | Midlothian, VA | https://foryoursmile.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dr. Stephen Asam/ Chesapeake Dentist 23322/ Atlantic Dental Care | Chesapeake, VA | https://creatingawesomesmiles.com | [0] REJECT — DSO signal (a division of,atlanticdental)
+- Dr. Steven R. Zukerberg, DDS | Baltimore, MD | https://drzuke.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Drane IV, Hayward B, DMD | Media, PA | https://forwoodchristieortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dream Smiles Pediatric Dentistry of Gaithersburg | Gaithersburg, MD | https://pediatricdentistrygaithersburg.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Drexel Hill Smiles | Drexel Hill, PA | https://drexelhillsmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Drs Maugeri & Beale | Chesapeake, VA | https://coastalvaomfs.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Drs Woodside & Sentz; Cosmetic, Implant & General Dentistry | Warrenton, VA | https://woodside-sentz.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Drs. Delgado & Kuzmik P.C. Alexandria | Alexandria, VA | https://alexandria.dkoms.com | [0] REJECT — DSO signal (dental care alliance)
+- Duchatellier-Cange, Ruth K, DDS | Herndon, VA | https://sparkledentalva.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Duckworth, John E, DMD | Severna Park, MD | https://chesapeakeperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Dulles Life Smiles | Ashburn, VA | https://dulleslifesmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Dunn, Wayne P, DDS | Parkersburg, WV | https://waynedunnassociates.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Dynamic Dental Care | Silver Spring, MD | https://dynamicdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- East Main Dental | Mechanicsburg, PA | https://eastmaindentalpa.com | [0] REJECT — DSO signal (heartland)
+- Eastern Shore Smile Solutions | Easton, MD | https://easternshoresmilesolutions.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Eastern Virginia Orthodontics | Chesapeake, VA | https://easternvirginiaorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Eastpoint Pediatric Dental Associates | Baltimore, MD | https://eastpointpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Eckels, J S, DDS | Parkersburg, WV | https://eckelsortho.com | [0] REJECT — DSO signal (dental care alliance)
+- Eckley Family and Cosmetic Dentistry | Wilmington, DE | https://eckleyfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ed Haas DMD | Columbia, PA | https://dredwardmhaas.placeweb.site | [0] REJECT — unreachable / dead / hijacked / parked (445)
+- Edgewater Dental Arts | Edgewater, MD | https://edgewaterdentalarts.com | [0] MANUAL: REJECT — modern-ish custom ©2026
+- Edgewood Dental | Yardley, PA | https://edgewooddental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Edward S. Cheppa, DMD | Pittsburgh, PA | https://edwardscheppa.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Edward Yalisove, MD | Wilmington, DE | https://gorgeoussmilesofdelaware.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Ehreth, John S, DDS | Warrenton, VA | https://novaendodocs.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Elamin, Alaa, DDS | Williamsburg, VA | https://dentalcareoflightfoot.com | [0] REJECT — DSO signal (heartland)
+- Eleisha J. Nickoles, DDS | Wheeling, WV | https://mywheelingdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Elite Dental of Towson: Dr. Joel Danziger, DDS | Towson, MD | https://elitedentaloftowson.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Elite Dentistry of Monroeville | Monroeville, PA | https://elitedentistrymonroeville.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Elite Pediatric Dentistry-Fairfax | Fairfax, VA | https://elitepediatricdentistrynova.com | [0] REJECT — DSO signal (gentle dental)
+- Elite Prosthetic Dentistry (Gerald Marlin) | Cleveland Park, DC | https://eliteprostheticdentistry.com | [0] MANUAL: REJECT — modern ©2026 (also 40+ yrs)
+- Elizabeth B Spannhake DDS PA | Towson, MD | https://smile-experts.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Ellicott City Smile Care | Ellicott City, MD | https://dentistellicottcity.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Elm Grove Dental | Wheeling, WV | https://elmgrovewvdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Embrace Family Smiles of Burke | Burke, VA | https://embracefamilysmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Emergency Dental Care USA | Arlington, VA | https://emergencydental.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Emil W Tetzner DDS | Dover, DE | https://doverperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Emmert Dental Associates | Pittsburgh, PA | https://emmertdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Endodontic Associates of Maryland | Hagerstown, MD | https://savingmytooth.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Englander, Joshua D, DDS | Bel Air, MD | https://belair-dentist.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Eric Armakan | Potomac, MD | https://dentistry4childrenpotomac.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Eric J Smith DDS | Lynchburg, VA | https://timberlakefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Eric Y Lee DDS PC | Winchester, VA | https://affordabledentures.com | [0] REJECT — DSO signal (brand domain)
+- Errera, Joseph, DDS | Warrenton, VA | https://griffinorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Esh, Kelly, DDS | Lancaster, PA | https://georgelisorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Eugenia Prokopets, DDS, MSD | Chevy Chase, MD | https://prokopetsperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Eunson Family & Cosmetic Dentistry | Chadds Ford, PA | https://eunsondental.com | [0] REJECT — DSO signal (gentle dental)
+- Evans Dental Care | Williamsburg, VA | https://evansdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Evenly Orthodontics | Columbia, MD | https://evenly.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Evensky Periodontics-Dental | Wayne, PA | https://evenskyperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Everett Schneider, Dds, PLLC | Washington, DC | https://eschneiderdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Excel Dental | Pittsburgh, PA | https://exceldentalpc.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Excel Dental Care - Ellicott City, MD | Ellicott City, MD | https://exceldentalellicottcity.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Exceptional Smiles Family Dentistry | Harrisonburg, VA | https://exceptionalsmiles.dental | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Excite Dental of Laurel | Laurel, MD | https://dentistinlaurel.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Faifax Advanced Dentistry | Fairfax, VA | https://markchoedds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Fair Lakes Dental Service | Fairfax, VA | https://wayfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Fair Lakes Family and Cosmetic Dentistry, PC | Fairfax, VA | https://fairlakesdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Fairway Village Dental Care | Waldorf, MD | https://fairwayvillagedentalcare.com | [0] REJECT — DSO signal (heartland)
+- Falls Church Dental Center - Dr. Mansour Mortazie | Falls Church, VA | https://fallschurchdentalcenter.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Falls Church Pediatric Dental Center | Falls Church, VA | https://fallschurchkids.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Falls Church Periodontics & Dental Implants | Falls Church, VA | https://periodontistoffice.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Fallsgrove Park Dental: Ella DerMinassian, DDS | Rockville, MD | https://fallsgroveparkdental.com | [0] REJECT — DSO signal (gentle dental)
+- Falsetti, Diane M, DMD | Pittsburgh, PA | https://drdianefalsetti.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Family & Cosmetic Dentistry | Ellicott City, MD | https://ellicottcitydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Family Dental | Herndon, VA | https://dentistkwon.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Family Dental Care & Cosmetics | Glen Burnie, MD | https://smilelovers.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Family Dental of Bel Air | Bel Air, MD | https://familydentalofbelair.com | [0] REJECT — DSO signal (heartland)
+- Family Dentistry | North Chesterfield, VA | https://dmulligandds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Family Dentistry & Implant Center | Ashburn, VA | https://simplysmilesdds.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Family First Smiles | Leesburg, VA | https://familyfirstsmiles.com | [0] MANUAL: REJECT — Medicaid-focused, modern
+- Family Laser Dentistry | Severna Park, MD | https://cranska.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Family Tree Dental-Rosemar RD | Parkersburg, WV | https://familytreedentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Far Soltanian Family Dentistry | Glen Allen, VA | https://rvafamilydental.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Farr, Claire D, DDS | Roanoke, VA | https://smilesofroanoke.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Faulk, Brenda J, DDS | Pikesville, MD | https://dentalplans.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Faust, Sean, DDS | Havertown, PA | https://faustorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Federal Hill Smiles | Baltimore, MD | https://federalhillsmiles.com | [0] MANUAL: REJECT — SEO agency site modern
+- Feldman James K DDS | Washington, DC | https://jamesfeldman-dds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Feldman Specialists in Orthodontics | Falls Church, VA | https://dentistsfallschurchva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Feldman, Sachs & Fitzgerald, DDS, PA | Towson, MD | https://mdimplantdentists.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Felicity Dental Frederick | Frederick, MD | https://felicitydental.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Ferguson III, William R, DDS | Bethel Park, PA | https://rickdukovich.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Field, Robert J, DDS | Hampton, VA | https://feilddentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Fields, Adam, DDS | State College, PA | https://stateendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Fields, Charles R, DMD | Reston, VA | https://dr-fields.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Filippone, Louis C, DDS | Gainesville, VA | https://nvaortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- First Choice Dental | Woodbridge, VA | https://firstchoicedentalva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- First Class Smiles Bethesda | Bethesda, MD | https://firstclassmilesbethesda.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- First Impression Dental | Ashburn, VA | https://ashburndentaloffice.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Fiss, Fred, DDS | Wilmington, DE | https://beachbraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Flagship Oral, Facial, and Dental Implant Surgery | Langhorne, PA | https://flagshipsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Foote Orthodontics | Wayne, PA | https://footeorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Forbes, D'vano J, DDS | Hagerstown, MD | https://omaxdocs.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Foretich, Eric, DDS | Mclean, VA | https://mcleanoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Forrest Orthodontics | Sewickley, PA | https://drforrestorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Fotoohi, Kambiz, DDS | Chevy Chase, MD | https://drkazfotoohi.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Foulk Road Dental Associates | Wilmington, DE | https://thedentalgroupofdelaware.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Fountain Head Dentistry | Hagerstown, MD | https://hagerstownmd.dentist | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Fox Family Dentistry | Burke, VA | https://foxfamilydentistryva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Francis Dentistry | Hampton, VA | https://francisdentistry.com | [0] REJECT — DSO signal (a division of)
+- Francis, G S, DDS | Camp Hill, PA | https://sparkorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Frank Parreira DDS | Annapolis, MD | https://chesapeakeendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Frazer Dental Care | Malvern, PA | https://frazerdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Frazier Rita | Norfolk, VA | https://drritafrazier.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Fred A. Bubernak, DDS | Woodbridge, VA | https://bubernakdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Fredd, Stuart M, DDS | Horsham, PA | https://implantoralsurgeons.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Frederick Center for Dentistry | Frederick, MD | https://frederickcenterfordentistry.com | [0] MANUAL: REJECT — codebase-2 modern
+- Frederick Periodontal Associates | Frederick, MD | https://frederickperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Fredericksburg Dental Center | Fredericksburg, VA | https://freddentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Fredericksburg Smile Center | Fredericksburg, VA | https://smilefredericksburg.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Freedom Family Dentistry | Fredericksburg, VA | https://freedomfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- French, Rebecca J, DMD | Camp Hill, PA | https://camphillfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Friedman & Friedman & Assoc | Pikesville, MD | https://drsff.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Friendly City Dental | Harrisonburg, VA | https://friendlycitydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Friends & Family Dentistry | Ashburn, VA | https://friendsandfamilydentistry.com | [0] MANUAL: unreachable; low
+- Front Row Pediatric Dentistry | Ellicott City, MD | https://frontrowpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Frye Dental | Morgantown, WV | https://fryedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Frye, Charles J, DMD | Allison Park, PA | https://pittsburgh-cosmetic-dentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Fun Park Pediatric Dentistry | Suffolk, VA | https://pediatricdentistsuffolk.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Funsho A Akinluyi, DDS | Chantilly, VA | https://neibauerdentalsouthriding.com | [0] REJECT — DSO signal (heartland)
+- Furlan, Christopher, DDS | Havertown, PA | https://havertowndentistry.com | [0] REJECT — DSO signal (gentle dental)
+- Fusion Dental - Reston | Reston, VA | https://fdreston.com | [0] REJECT — DSO signal (heartland)
+- Fusion Dental - Waldorf | Waldorf, MD | https://fdwaldorf.com | [0] REJECT — DSO signal (heartland)
+- Futato, Timothy D, DDS | Hershey, PA | https://endodonticsassociates.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- GPC Oral Surgery and Dental Implant Center | Coraopolis, PA | https://gpcsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Gabella, Marc G, DDS | Crofton, MD | https://bowiecroftonendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Gainesville Smiles Dental Care | Gainesville, VA | https://gainesvillesmilesdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Gaithersburg Complete Dental Care | Gaithersburg, MD | https://gaithersburgcompletedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gaithersburg Sedation Dentistry | Gaithersburg, MD | https://fatemifamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Garbin, Matthew, DMD | Kennett Square, PA | https://dhcakennettsquare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Garland K. Davis, DDS | Laurel, MD | https://garlanddavisdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Garrido, Jill, DDS | Wilmington, DE | https://brandywinepediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Garris, Sarah B, DDS | Warrenton, VA | https://warrentondentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Gary S Nelson DMD | Leesburg, VA | https://leesburgfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (500)
+- Gasparik, Wyatt R, DMD | Gibsonia, PA | https://chipsdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gateway Smiles - Location | Fredericksburg, VA | https://gatewaysmilesva.com | [0] REJECT — DSO signal (gentle dental)
+- Genesis Oral Surgery and Implantology | Columbia, MD | https://genesisoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Gentle Care Cosmetic Dental | Gaithersburg, MD | https://gaithersburgcosmeticdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gentle Dental | Berlin, MD | https://allgentledental.com | [0] REJECT — DSO signal (brand domain)
+- Gentle Dental Care Relaxation | Silver Spring, MD | https://visitdrfoxsmiles.com | [0] REJECT — DSO signal (gentle dental)
+- Gentle Dental Pikesville | Pikesville, MD | https://gentledentalbaltimore.com | [0] REJECT — DSO signal (brand domain)
+- Gentle Dental of Blue Bell | Blue Bell, PA | https://bluebelldentistry.com | [0] REJECT — DSO signal (dental care alliance,gentle dental)
+- Gentle Family Dentistry | Chesapeake, VA | https://grubegentlefamilydentistry.com | [0] REJECT — DSO signal (a division of)
+- Gentle Touch Dental PC | Falls Church, VA | https://dentistrygentletouch.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Gentle Touch Smiles for Kids | Wilmington, DE | https://gentletouchsmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Gentlecare Family Dentistry, P.C. | Chesapeake, VA | https://drseando.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- George Segel DR DMD | Newtown, PA | https://drgeorgesegel.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- George T. Derenzo, DDS | Wilmington, DE | https://drgeorgederenzo.net | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- George, Matthew S, DDS | Berlin, MD | https://worcesterhealth.org | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Georgetown Cosmetic Dentistry | DC, DC | https://georgetowndentistry.com | [0] MANUAL: REJECT — modern WP
+- Gerald A Clark DDS | Charleston, WV | https://drgclark.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gerard, Scott E, DDS | Chesterfield, VA | https://ssendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Gerlein, Eduardo, DDS | Chevy Chase, MD | https://gerleinorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Germantown Smiles PC Sibel | Germantown, MD | https://smilegermantown.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Giannini, Eugene T, DDS | Washington, DC | https://smiledc.com | [0] REJECT — DSO signal (gentle dental)
+- Gibsonia Dental Care | Gibsonia, PA | https://gibsoniadentalcare.com | [0] REJECT — DSO signal (heartland)
+- Gilbart Dental Care | Hagerstown, MD | https://gilbartdental.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Gill, Sean A, DMD | Export, PA | https://abrahamandgillsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gjebre Keith DMD | Greensburg, PA | https://kidsdent.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Gladnick Dann J DMD | Wilmington, DE | https://healthgrades.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gladnick, Elizabeth, DDS | Rockville, MD | https://fwatsondds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Glen Allen Dental Arts | Glen Allen, VA | https://glenallendentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Glen Burnie Dental Care | Glen Burnie, MD | https://glenburniedentalcare.com | [0] REJECT — DSO signal (heartland)
+- Glen Burnie Family Dentistry-Jacques P. Exposito DDS | Glen Burnie, MD | https://glenburniedentist.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Glen Mills Dental | Glen Mills, PA | https://glenmillsdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Glossner Family Dentistry | Camp Hill, PA | https://glossnerdental.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Glow Orthodontics-South Riding | Chantilly, VA | https://glowortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Go Smiles Dentistry- Herndon | Herndon, VA | https://gosmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gochenour, Lori L, DDS | Martinsburg, WV | https://martinsburgendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Godwin, Stephen L, DDS | Bel Air, MD | https://belairortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Golden Mile Dental Center | Pittsburgh, PA | https://goldenmiledental.net | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Goldstein, Ira H, DDS | Williamsburg, VA | https://morrisondentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Good Neighbor Dental At Willow | Hampton, VA | https://goodneighbordental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Good, Ronald S, DDS | Pittsburgh, PA | https://goodorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Goodove Oral Surgery & Dental Implants | Virginia Beach, VA | https://myoralsurgeon.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Gordon, Colleen M, DDS | Ambler, PA | https://orthodontistambler.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Goyal Dentistry | Virginia Beach, VA | https://goyaldentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Graceful Smiles Dentistry | Springfield, VA | https://gracefulsmiles.dentist | [0] REJECT — DSO signal (gentle dental)
+- Grady, John M, DMD | Wexford, PA | https://gkgortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Graff Family Dentistry | Malvern, PA | https://graffdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Graves, Stuart L, DDS | Burke, VA | https://novaoms.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Greater Maryland Oral Surgery & Dental Implants | Gaithersburg, MD | https://gmoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Greater Pittsburgh Dental Group | Moon Township, PA | https://greaterpittsburghdentalgroup.com | [0] REJECT — DSO signal (heartland)
+- Greeley Orthodontics | Kennett Square, PA | https://greeleyortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Greenan, Roanne, DDS | Chevy Chase, MD | https://armanidentures.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Greenberg, Joseph R, DDS | Villanova, PA | https://createbeautifulsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Greensburg Dental Care | Greensburg, PA | https://greensburgdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Greenwald, Ronald B, DDS | Catonsville, MD | https://baltimoreorthodonticgroup.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Greenway Family Dentistry | Glen Burnie, MD | https://greenwayfamilydentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Greenway Smiles PLLC | Ashburn, VA | https://greenwaysmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gregory J Toone DDS Family & Cosmetic Dentistry | Lynchburg, VA | https://toonedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gregory Jr, Victor L, DMD | Wilmington, DE | https://victorgregorydmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Gregory S Russell, DMD, PA | Berlin, MD | https://gsrussellendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Grewal, Anudeep K, DMD | Havertown, PA | https://brightchoicedentalpa.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Griffin Jr, Alfred C, DDS | Warrenton, VA | https://geortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Grimm & Sawyer Family Dental Practice | Annapolis, MD | https://annapoliscompdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Groisser, Gordon S, DDS | Gaithersburg, MD | https://drgbraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Grosser, Donald B, DDS | Chadds Ford, PA | https://smilesinspringfield.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Grove Avenue Family and Cosmetic Dentistry | Richmond, VA | https://grovesmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Grove Avenue Smiles, Inc | Richmond, VA | https://groveavenuesmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Grove Dental Group â?? On the Avenue | Wyomissing, PA | https://grove.dental | [0] REJECT — DSO signal (dental365)
+- Growing Smiles of Northern Virginia | Falls Church, VA | https://fallschurchpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Growing Smiles-Diana M | Bel Air, MD | https://growingsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gruberg, Joseph M, DMD | Springfield, VA | https://ryantaylordmd.com | [0] REJECT — DSO signal (gentle dental)
+- Guard D W | Annapolis, MD | https://courtcareers.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Gum Springs Dental Care | Chantilly, VA | https://gumspringsdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Gurski & D'agostino Family Dentistry | Reading, PA | https://berksfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Guthrie Dental | Manheim, PA | https://guthriedentalpa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Gwaltney Dental | Suffolk, VA | https://gwaltneydental.net | [0] MANUAL: REJECT — codebase-2 modern
+- H. Charles Jelinek, Jr., DDS | Fairfax, VA | https://northernvirginiadental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- HJ Kim, DDS, PA | Ellicott City, MD | https://smartdentalmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hal M. Lippard, DDS | Charlottesville, VA | https://drlippard.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hamilton Family Dentistry of Erin Wolfson, DDS | Baltimore, MD | https://hamiltondentistrymd.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Han, John, DDS | Springfield, VA | https://mypdcdentists.com | [0] REJECT — DSO signal (dental care alliance)
+- Haney, Harold J, DMD | State College, PA | https://omfsi.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hani Al-Saleh DMD | Martinsburg, WV | https://alsalehdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hansen, Greg C, DDS | Middletown, DE | https://delawaresmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Happy Smiles, LLC | Richmond, VA | https://happysmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Hardeep K Darar, DDS - Inactive | Ashburn, VA | https://fdashburn.com | [0] REJECT — DSO signal (heartland)
+- Hardesty Dental Associates | Parkersburg, WV | https://hardestydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Harkins James D DMD | Pittsburgh, PA | https://harkinsortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Harlene Sandler DDS | Rockville, MD | https://rockvilleoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Harley, Meghan | Hatboro, PA | https://endodonticslimitedpc.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Harmony Dental Center of Leesburg | Leesburg, VA | https://harmonydentalleesburg.com | [0] REJECT — DSO signal (gentle dental)
+- Harold Slutsky, DMD, PC | Bensalem, PA | https://philadelphiabraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Harrell, Gibson G, DDS | Chesapeake, VA | https://dretheridge.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Harrisburg Families United | Harrisburg, PA | https://harrisburgfamilydentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Harrisonburg Dental Associates | Harrisonburg, VA | https://bestdentistharrisonburg.com | [0] REJECT — unreachable / dead / hijacked / parked (307)
+- Harrisonburg Family Dentistry | Harrisonburg, VA | https://harrisonburgdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Harrisonburg SmileMakers | Harrisonburg, VA | https://harrisonburgsmilemakers.com | [0] REJECT — DSO signal (heartland)
+- Harry S Bhandal, DDS | Arlington, VA | https://dentalcareatcrystalpark.com | [0] REJECT — DSO signal (heartland)
+- Hart, Faryl K DDS | Richmond, VA | https://loveyoursmilebyhart.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hartman Dental & Associates | Lansdale, PA | https://tandartspraktijkhartman.nl | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hartman, Gary A, DDS | Virginia Beach, VA | https://hartmanperiodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Hartman, Melanie W, DMD | Burke, VA | https://northernvirginiasmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hartman, Patricia D, DDS | Martinsburg, WV | https://hartmandentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Hartman, Vanessa Z, DDS | Newport News, VA | https://hartmandentistry.com | [0] REJECT — DSO signal (gentle dental)
+- Hashem Sedaghatpour DMD PC | Burke, VA | https://burkecosmeticdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hassler Family Dentistry | Wyomissing, PA | https://hasslerdentistry.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hatam-Ebrahimi, Pouya, DMD | Blue Bell, PA | https://bluebellperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Hatboro Horsham Family Dental | Hatboro, PA | https://hatborohorshamfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hatcher Orthodontists | Virginia Beach, VA | https://smile-365.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Havertown Dental Associates | Havertown, PA | https://havertowndental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Havertown Dentistry | Havertown, PA | https://havertownsmiledoc.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hawkins, Edward A, DDS | Morgantown, WV | https://morgantowndental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hay, David C, DMD | Pittsburgh, PA | https://pittsburghperiodontists.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Healthy Smiles Dental | Lancaster, PA | https://healthysmilesdentalpa.com | [0] REJECT — DSO signal (gentle dental)
+- Healthy Smiles Dental | Falls Church, VA | https://myfallschurchdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Healthy Smiles Dental Group | Fairfax, VA | https://healthysmilesva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Healthy Smiles Dentist | Baltimore, MD | https://ezsmilemd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Healthy Smiles of Delaware PA | Wilmington, DE | https://healthysmilesofdelaware.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Heaps, Vincent H, DDS | Columbia, PA | https://vincenthheapsdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Helms, Gabrielle, DDS | Martinsburg, WV | https://shencommhealth.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Helping Hands Veterinary Surgery and Dentistry of Virginia | Richmond, VA | https://helpinghandsvetva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Hempfield Family Dental Care | Lancaster, PA | https://hempfielddentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hendrix Orthodontics - Unionville | Kennett Square, PA | https://superiorsmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Henny, Paul A, DDS | Roanoke, VA | https://paulhennydds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Heresi Dental Care | Fredericksburg, VA | https://heresidentalcare.com | [0] REJECT — DSO signal (gentle dental)
+- Herndon Dental Design | Herndon, VA | https://myherndondentist.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Herring, Kent, DMD | Hampton, VA | https://forestreamdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hershey Dental Group | Hershey, PA | https://hersheydentalgroup.com | [0] REJECT — DSO signal (heartland)
+- Hershey Oral Surgery Associates Ltd | Hershey, PA | https://omfacialsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Hickory Park Dentistry | Glen Allen, VA | https://dentistsglenallen.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hidden Creek Dental Care | Harrisonburg, VA | https://hiddencreekdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Higginbottom Orthodontics | Easton, MD | https://higginbottomorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Higgins, Robert M, DMD | Camp Hill, PA | https://kravitzinc.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hill, Cynda DDS | Easton, MD | https://dentistryforchildrenmd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Hillandale Dental Partners | Silver Spring, MD | https://smilelofthillandale.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hilleary Family Dentistry | Morgantown, WV | https://morgantownwvdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hilton, Edward J, DDS | Harrisburg, PA | https://hdortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Himmelberger, Linda K, DMD | Devon, PA | https://devondentalservices.com | [0] REJECT — unreachable / dead / hijacked / parked (526)
+- Hirsch, D S, DDS | Baltimore, MD | https://lochridgedentalcare.com | [0] REJECT — DSO signal (heartland)
+- Hoffmaster Dental | York, PA | https://hoffmasterdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hoffrichter Mark S | Frederick, MD | https://hoffrichterdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hoke, Andrea, DDS | Huntington, WV | https://dentists4theherd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hollenbeck Hanne V DMD | Murrysville, PA | https://hollenbeckdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hollymead Dental Arts | Charlottesville, VA | https://hollymeaddentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Holmes & Palmer Orthodontics - Charleston | Charleston, WV | https://drshaneholmes.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Holston, Alvan M, DDS | Easton, MD | https://eastonmarylanddental.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Hometown Dental Care P | Leesburg, VA | https://hometown.dental | [0] REJECT — unreachable / dead / hijacked / parked (429)
+- Honig Gordon C DMD | Newark, DE | https://honigorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Hooshangi Mitra | Vienna, VA | https://greatsmiles4ever.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Horton, Thomas, DDS | Bethesda, MD | https://hortonorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Hour Dental | Baltimore, MD | https://hourdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Huang, Po N, DMD | Coraopolis, PA | https://pittsburghperioimplants.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Huffman, Stephen, DDS | Belpre, OH | https://belpredentalstudio.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hunsinger Jr, Richard, DDS | Bethesda, MD | https://richardhunsingerdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Hunter, Kenneth R, DDS | Annapolis, MD | https://annapolisendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Hunting Hills Family Dentistry | Roanoke, VA | https://huntinghillsdentistry.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Hutchins, Gregory M, DDS | Norfolk, VA | https://pamelamorgan.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Hwang, Gyu, DDS | Gaithersburg, MD | https://muddybranchdentalgroupmd.com | [0] REJECT — DSO signal (heartland)
+- I Smile Dental Care | Herndon, VA | https://centrevilledentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- INNOVATION DENTAL CENTER, LLC | Baltimore, MD | https://innovationdentalbaltimore.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ianessa Pediatric Dentistry | Coraopolis, PA | https://iannessapediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Icon Dental Brands | Suffolk, VA | https://icondentalbrands.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Icon Smile Studios | Chesapeake, VA | https://iconsmilestudios.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ike Lans, DDS and Associates | Ashburn, VA | https://lansfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Imafidon Jr, Timothy, DDS | Richmond, VA | https://drbyrddds.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Ingrao Dental Associates | Crofton, MD | https://ingraodental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Inner Harbor Dental Associates | Baltimore, MD | https://innerharbordental.com | [0] REJECT — DSO signal (heartland)
+- Innovative Endodontics: Sewickley PA | Sewickley, PA | https://pghendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Inspired Smiles | Richmond, VA | https://inspiredsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Institute of Facial and Oral Surgery | Leesburg, VA | https://facial-oralsurgeryva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Integrative Dentistry | Pikesville, MD | https://drmichaelbaylin.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Irby, David, DDS | Roanoke, VA | https://myroanokedentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Irvin Schindler DDS | Columbia, MD | https://ischindlerdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Isaacs, Robert D, DDS | Pikesville, MD | https://bracesmd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Iuliano Joseph J Dmd | Newtown, PA | https://driuliano.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Ivy Family Dentistry-Dentist Ivy Charlottesville | Charlottesville, VA | https://ivydentist.com | [0] REJECT — DSO signal (gentle dental)
+- JF Foretich Jr DDS PC | Newport News, VA | https://foretichdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Jack M Allara II PC | Roanoke, VA | https://allaradds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Jalali, Golnaz, DDS | Mc Lean, VA | https://mcleanpediatricdentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- James Baker DDs | Wilmington, DE | https://drbakerfamilydentist.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- James D Reynolds DDS Ltd | Roanoke, VA | https://jamesreynoldsdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- James E Abildness DDS | Hershey, PA | https://hersheycosmeticdentist.com | [0] REJECT — DSO signal (heartland)
+- James J. Lee, MD | Ashburn, VA | https://entasva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- James P Henon, DDS | Vienna, VA | https://viennadentalcentreva.com | [0] REJECT — DSO signal (heartland)
+- James R Werkmeister DMD MS | Wexford, PA | https://werkmeisterperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Jan E. Milner, D.D.S Cosmetic & General Dentistry | Chesapeake, VA | https://janemilnerdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Jason Denise Dental | Annapolis, MD | https://annapolisdds.com | [0] REJECT — unreachable / dead / hijacked / parked (307)
+- Jay H Samuels DDS | Rockville, MD | https://drjsamuels.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Jeffrey Booth DDS | Hampton, VA | https://jeffreyboothdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Jeffrey Klioze, DDS, Ltd | Burke, VA | https://kliozedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Jeffrey Rubino, DDS | Hagerstown, MD | https://dentisthagerstown.com | [0] REJECT — unreachable / dead / hijacked / parked (525)
+- Jennifer A. Yue, DDS | Paoli, PA | https://drjensfriendlydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (307)
+- Jennifer Goodrich, MD | Rockville, MD | https://metroentfacialplastics.com | [0] REJECT — DSO signal (a division of)
+- Jesse & Frichtel Dental Labs | Pittsburgh, PA | https://jf.dental | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Jina DDS Naghdi MS | Herndon, VA | https://bestvirginiabraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Jlee Dental | Fort Washington, PA | https://jleedental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Jnt Dental | Richmond, VA | https://jntdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Jocelyn L Anderton | State College, PA | https://andertondentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Joe Stofko, DMD Orthodontist | Gibsonia, PA | https://the-orthodontist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- John B Fontana III | Dover, DE | https://fontanaperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- John C Cranham, DDS - Inactive | Chesapeake, VA | https://chesapeakecompletedentistry.com | [0] REJECT — DSO signal (heartland)
+- John Carder | State College, PA | https://johncarderdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- John Chick, D.M.D. | Chevy Chase, MD | https://johnchick.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- John H Speegle DDS FAGD | Williamsburg, VA | https://lifetimefamilydentalva.com | [0] REJECT — DSO signal (heartland)
+- John S. Lyon DDS | Charlottesville, VA | https://charlottesvilledentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- John W. Harre, DDS, PC | Warrenton, VA | https://warrenton.dentist | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- John Z Falenski PC | York, PA | https://dentistinyorkpa.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- John, Gregory W, DDS | Charlottesville, VA | https://pantops.org | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Johnson Dental Care | Landisville, PA | https://landisvilledentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Johnson Orthodontics | Rehoboth Beach, DE | https://rehobothorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Johnson Pediatric Dentistry | Bowie, MD | https://johnsonpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Johnson, David L, DDS | Annapolis, MD | https://annapolisfamilydds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Johnson, Lina A, DDS | Burke, VA | https://elhadyortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Johnson, Thomas B, DDS | Warrenton, VA | https://fauquierfreeclinic.org | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Johnston Becke, Erika, DMD | Blue Bell, PA | https://dentalartsofbluebell.com | [0] REJECT — DSO signal (gentle dental)
+- Jolly Smiles - Dr. Jeena Jolly | Middletown, DE | https://jollysmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (429)
+- Jonathan L Harris DDS | Ellicott City, MD | https://harrisdentalgroup.com | [0] REJECT — DSO signal (gentle dental)
+- Joon Kim DDS | Germantown, MD | https://senecavalleydental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Joseph D Madison DMD | Reston, VA | https://drmadison.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Joseph M. Boesch, DDS | Rockville, MD | https://drjmboesch.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Joseph Oh DDS | Mc Lean, VA | https://leeohdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Judd Dentistry | Columbia, MD | https://judddentistry.com | [0] MANUAL: REJECT — Elementor/Astra ©2026 modern-ish, keyword-spam title though; low priority
+- Just Smiles Family Dentistry | Wheeling, WV | https://justsmiles.dental | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- K. Patel Reena PA | Newark, DE | https://reenapateldmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- KDC Dentistry | Hatboro, PA | https://kdcdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (307)
+- Kadan Orthodontics | Devon, PA | https://kadanorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kahan, J S, DDS | Chevy Chase, MD | https://cccid.net | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Kalochie, Jennifer J, DMD | Yardley, PA | https://kalochiesmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kalra, Lovika, DDS | Havertown, PA | https://eaglecrestkids.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Karen C. Conlin D.D.S. | Wilmington, DE | https://dentistinwilmingtonde.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Karski & Spokane Orthodontics | Ambridge, PA | https://spokaneortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Katsur Dental | Greensburg, PA | https://katsurdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kavandi, Sharon, DDS | Laurel, MD | https://smileteeth.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kazuko Nishisaki,DDS | Narberth, PA | https://essexdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kearns & Ashby DDS PC | Mechanicsburg, PA | https://kidsdentaloffice.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Keith M Goldstein, DDS | Norfolk, VA | https://lwsswardscorner.com | [0] REJECT — DSO signal (heartland)
+- Keith S. O'Brien, DMD | Fishersville, VA | https://fishersvillefamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Keith Silverstein Oral & Maxillofacial Surgery | Paoli, PA | https://silversteinoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kelly Hollis, DDS PC | York, PA | https://hollisdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Kelly, Joseph C, DDS | Wilmington, DE | https://graylyndental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kelly, Joseph M, DDS | West Chester, PA | https://ebdent.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kemmerton Family Dentistry | Bowie, MD | https://kemmertonfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Ken Copeland Family Dentistry | Harrisonburg, VA | https://kencopelandfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (307)
+- Kennedy Dental Office | Charleston, WV | https://kennedydentalwv.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kenneth Woo, DDS and Associates | Gaithersburg, MD | https://mybestdentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (525)
+- Kennett Square Periodontics | Kennett Square, PA | https://kennettperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kesecker, Jeffery B, DDS | Harrisonburg, VA | https://legacysurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kevin Bass DMD Cosmetic and Family Dentistry | Lansdale, PA | https://kevinbassdmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kewitt, Gregory F, DMD | State College, PA | https://centreoms.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Key West Crossing Dental Associates | Rockville, MD | https://keywestcrossingdental.com | [0] REJECT — DSO signal (heartland)
+- Khisti Dental Center | Glen Allen, VA | https://levitindentalcenter.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Khushbinder K Sidhu, DDS | Warrenton, VA | https://familydentalcareofwarrenton.com | [0] REJECT — DSO signal (heartland)
+- Kid's Grins | Havertown, PA | https://kidsgrinspa.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kids Dental Clinic | Germantown, MD | https://kidsdentalclinic.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kids First Dental | Roanoke, VA | https://kidsfirstdentalroanoke.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kids Smiles | Plymouth Meeting, PA | https://kidssmiles.org | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kidz Dental | Woodbridge, VA | https://kidsandfamilydentalva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kiessling  John H | Harrisburg, PA | https://kiesslingfamilydental.com | [0] REJECT — DSO signal (gentle dental)
+- Killian David B DMD | Carlisle, PA | https://killiandmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Kim, Andrew M, DDS | Fort Washington, PA | https://northpennendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kim, Jennifer, DMD | Fairfax, VA | https://penderdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kim, Sang Y, DDS | Mclean, VA | https://drkimoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kind & Gentle Dental Care | Silver Spring, MD | https://kindandgentledental.com | [0] REJECT — DSO signal (brand domain)
+- King Centre Dental | Alexandria, VA | https://kingcentredental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- King of Prussia Periodontics & Implants P | King Of Prussia, PA | https://kopperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- King, Robert D, DDS | Winchester, VA | https://drkingdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Kings Park Dental Center | Burke, VA | https://burkefamilydentistry.com | [0] MANUAL: REJECT — templated modern ©2026
+- Kingston, Mark, DDS | Morgantown, WV | https://wvumedicine.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kingsview Dental Care | Germantown, MD | https://kingsviewdental.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Kirkwood Dental Associates - Wilmington | Wilmington, DE | https://kirkwooddental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kirsch Ann Marie DDS | Wexford, PA | https://mazurandkirschdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (500)
+- Kishore Thammineni Dental | Ashburn, VA | https://dentistsinwinchester.com | [0] REJECT — DSO signal (heartland)
+- Kiss Dental Care | Millsboro, DE | https://kissdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kittrell Family Dentistry | Richmond, VA | https://johnkittrelldds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Kitts, Connie S, DDS | Richmond, VA | https://drkitfinley-parker.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Klamut, Kenneth | Harrisonburg, VA | https://harrisonburgos.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Klar, Lawrence, DDS | Chesapeake, VA | https://kvobraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Klima Rodney J Pc Dds | Burke, VA | https://klimaortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Knepper, Erin, DMD | Moon Township, PA | https://knepperdental.wordpress.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Knight, Ernest L, DDS | Suffolk, VA | https://wtfreeclinic.org | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Knoll, Kim E, DDS | Washington, DC | https://carmiandknoll.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Koneru, Jyothi, DDS | Chantilly, VA | https://chantillydentistrybydesign.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Konikoff Dental Associates Shore Drive | Virginia Beach, VA | https://konikoffsmile.com | [0] REJECT — DSO signal (dental care alliance)
+- Kool Smiles | Washington, DC | https://mykoolsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kool Smiles | Baltimore, MD | https://porterdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kosa, Fadi N, DMD | Newark, DE | https://christianaoms.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Koup, Richard F, DDS | Paoli, PA | https://koupfamilydental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Koussis, Anastassios, DDS | Media, PA | https://rosetreedental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Krah Family Dentistry | McMurray, PA | https://krahfamilydentistry.com | [0] MANUAL: REJECT — Elementor headstart-ez modern
+- Krause Smiles | Salisbury, MD | https://krausesmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kray Orthodontics | Harrisonburg, VA | https://giardinaorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Kray, Frances M, DDS | Harrisonburg, VA | https://krayorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Krieger, Ellen V, DDS | Mclean, VA | https://ellenkriegerdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Krochtengel, Alan L, DDS | Bensalem, PA | https://richorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Krupp Center | Towson, MD | https://kruppcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kubiczek, Iwona E DDS | Bel Air, MD | https://drkubiczek.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Kuzmik, Michael D, DDS | Vienna, VA | https://dkoms.com | [0] REJECT — DSO signal (dental care alliance)
+- L. Greenbaum, Bernard DDS | Bethesda, MD | https://sleepapneabethesda.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- LP Dental | Falls Church, VA | https://lpdentalva.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- LWSS Family Dentistry | Suffolk, VA | https://lwsssuffolk.com | [0] MANUAL: REJECT — multi-loc/modern
+- LWSS Family Dentistry - Virginia Beach - First Colonial Rd. | Virginia Beach, VA | https://lwssfirstcolonial.com | [0] REJECT — DSO signal (heartland)
+- LWSS Family Dentistry - Virginia Beach - Red Mill | Virginia Beach, VA | https://lwssredmill.com | [0] REJECT — DSO signal (heartland)
+- Lake Ridge Dental Associates | Woodbridge, VA | https://lakeridgevadentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lake Ridge Dental Care | Woodbridge, VA | https://lakeridgedentalcareva.com | [0] REJECT — DSO signal (heartland)
+- Lakeside Dental | Gaithersburg, MD | https://lakesidesmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lakeside Smiles Columbia | Columbia, MD | https://lakesidesmilescolumbia.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lana Kim Perio Care | Newtown Square, PA | https://lanakim.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lancaster County Dental | Lancaster, PA | https://lancastercountydental.com | [0] REJECT — DSO signal (dental365,gentle dental)
+- Lancaster Pediatric Dental Associates, PC | Lancaster, PA | https://lancasterpediatricdentalassociates.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lanco Family Dental | Lancaster, PA | https://lancofamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lanctot, Sloan G, DDS | Springfield, VA | https://novaendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Landmark Smiles | Glen Burnie, MD | https://landmarksmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Landstown Dental Care | Virginia Beach, VA | https://landstowndentalcare.com | [0] REJECT — DSO signal (heartland)
+- Langguth, Julie, DMD | Annapolis, MD | https://annapolisorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lanning, Kelly R, DMD | Doylestown, PA | https://lanningendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lansdale Dental Arts | Lansdale, PA | https://lansdaledentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lansdowne Dental Arts | Leesburg, VA | https://lansdownedentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lansdowne Family & Cosmetic | Leesburg, VA | https://lansdownesmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lansdowne Oral Surgery & Chantilly Oral Surgery | Chantilly, VA | https://myoralsurgeons.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lanz Pediatric Dentistry | Canonsburg, PA | https://lanzpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Larry Greenbaum, D.D.S. | Chevy Chase, MD | https://larrygreenbaumdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Larson Orthodontics | Alexandria, VA | https://smilesbylarson.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lasky, Andrew M, DDS | Washington, DC | https://downtowndctopdentist.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Laura Ki DDS | Chantilly, VA | https://drlauraki.com | [0] MANUAL: REJECT — domain hijacked (slot spam title)
+- Laurel Bowie Implant & Cosmetic Dentistry | Laurel, MD | https://laurelcosmeticdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Laurel Dental Associates | Laurel, MD | https://laureldentalassociates.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Laurel Endodontics PC | Laurel, MD | https://laurelendo.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Laurel Smile Design, Dr Amna Choudhary DDS | Laurel, MD | https://laurelsmiledesign.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Laurelview Dentistry | Greensburg, PA | https://laurelviewdentistry.com | [0] REJECT — DSO signal (heartland)
+- Laurene A Grabill DMD | West Chester, PA | https://grabillfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Lavalla, Francis N, DDS | Newtown Square, PA | https://franklavalladmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Lawrence R Siegel DDS | Yardley, PA | https://siegelorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Le Jeune, Barry, Barry, DDS | Hampton, VA | https://lejeunedentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Le, Trung, DDS | Fairfax, VA | https://fairfaxvirginiadentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lee, Chong, DDS | Arlington, VA | https://lodds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lee, David S, DDS | Ashburn, VA | https://ronaldraydds.com | [0] REJECT — DSO signal (a division of)
+- Leesburg Dental (Loza) | Leesburg, VA | https://leesburgdental.com | [0] MANUAL: REJECT — Divi modern
+- Legendary Smiles PC | Havertown, PA | https://legendarydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Leibowitz Lawrence C | Virginia Beach, VA | https://drleibowitz.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Leikin, Edward B, DDS | Catonsville, MD | https://catonsvilledentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Leinbach, Thomas E, DDS | Charlottesville, VA | https://uvahealth.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Leiss Orthodontics - Exton | Exton, PA | https://drjeffreyleiss.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lenker & Lenker | Paoli, PA | https://lenkerdental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Lentz, Brad A, DMD | Lynchburg, VA | https://lynchburgdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lenzsullivan Dentistry | Vienna, VA | https://lenzsullivan.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Lessans, Erin, DDS | Pikesville, MD | https://dentalcarebaltimore.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Let's Smile Dental - Reston | Reston, VA | https://letssmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Levin Group | Owings Mills, MD | https://levingroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Levin, Mark S, DDS | Virginia Beach, VA | https://wemakesmilesva.com | [0] REJECT — DSO signal (gentle dental)
+- Levine, Bari, DMD | Yardley, PA | https://growingsmilespa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Levit, Tamara DDS | Rockville, MD | https://tlevitdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Levitt Terry | Bensalem, PA | https://levittorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lewin, Rachel L, DDS | Maple Glen, PA | https://beyonddentistrymapleglen.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Lewis Mead & Houck | Easton, MD | https://elocallink.tv | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Li, Kehan, DMD | Dover, DE | https://americandentalsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Liang Orthodontics | Washington, DC | https://liangorthodc.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Liang, Donald V, DDS | Potomac, MD | https://liangorthopotomac.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Libby III, Lewis S, DDS | Towson, MD | https://oslerdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Liberia Dental Care | Manassas, VA | https://liberiadental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- LifeTime Smiles | Haymarket, VA | https://mylifetimesmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lifetime Dental of Hatboro | Hatboro, PA | https://lifetimedentalusa.com | [0] REJECT — unreachable / dead / hijacked / parked (526)
+- Light Family Dental: Woodbridge | Woodbridge, VA | https://lightdental.com | [0] REJECT — unreachable / dead / hijacked / parked (522)
+- Limestone Dental Associates | Wilmington, DE | https://limestonedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lin, Florence F, DDS | Chester, MD | https://easternshoredentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lin, Lulu J, DDS | Ashburn, VA | https://ashburndivinedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lincoln D Spears DDS | Charleston, WV | https://oakwoodfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Link, Michael J, DDS | Newport News, VA | https://linkjacobslink.com | [0] REJECT — DSO signal (a division of)
+- Lionville Dental Associates | Exton, PA | https://lionvilledentalassociates.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Lionville Family Dentistry | Exton, PA | https://lionvillefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lipp, C Timothy, DMD | Pittsburgh, PA | https://lippdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lititz Oral Surgery | Lititz, PA | https://jawdoctor.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Lititz Orthodontics | Lancaster, PA | https://lititzortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Little Bear Pediatric Dentistry | Malvern, PA | https://littlebearpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Little Creek Family Dental | Norfolk, VA | https://littlecreekfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Liu, Donald, DMD | Newark, DE | https://omegakennettendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Livewell Dentistry PLLC | Wexford, PA | https://livewelldentistry.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Loa Orthodontics | Lititz, PA | https://loasmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Loeffler-Pitt Dental Associates | Lancaster, PA | https://loefflerpitt.com | [0] REJECT — unreachable / dead / hijacked / parked (522)
+- Logmanni, Mandana G, DDS | Gaithersburg, MD | https://gaithersburgdental.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- London Bridge Smiles | Virginia Beach, VA | https://londonbridgesmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lorena M. Surber DDS, PLLC | Charleston, WV | https://surbersmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Loudoun Dental Smiles | Leesburg, VA | https://loudoundentalsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Loudoun Smile Center | Ashburn, VA | https://loudounsmilecenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Louie, Phillip, DMD | Dover, DE | https://louiepediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Love Your New Smile: Dr Peter Diacoloukas | Towson, MD | https://loveyournewsmile.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Lucas, Peter H, DDS | Baltimore, MD | https://towsonendoassociates.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Luis Loza Dentistry & Orthodontics | Manassas, VA | https://luislozadentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Luiza Kreuzer DDS, PC | Midlothian, VA | https://kreuzerdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lumiere Dental P | Fairfax, VA | https://ldfairfax.com | [0] REJECT — DSO signal (gentle dental)
+- Luminous Smile | Severna Park, MD | https://luminoussmiledds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Lutherville Dental | Timonium, MD | https://luthervilledental.com | [0] MANUAL: REJECT — modern
+- Lynn Catherine DDS | Newport News, VA | https://catherinelynndentist.com | [0] REJECT — DSO signal (gentle dental)
+- Lynnhaven Dental P | Virginia Beach, VA | https://lynnhavendentalgroup.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- M Dubin Gerry DMD | Gaithersburg, MD | https://shadygrovedentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- MA's Family & Cosmetic Dentistry | Alexandria, VA | https://masfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- MB Dentist | Penn Valley, PA | https://mindybenjaminidmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- MM Dentistry | Burke, VA | https://mmdentistry.com | [0] MANUAL: low priority — 72KB modern-ish
+- Macilwaine, Richard, DDS | Glen Allen, VA | https://familydentistryofshortpump.com | [0] REJECT — DSO signal (heartland)
+- Magic Smile Dental | Bethel Park, PA | https://magicsmiledentalpa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Magida, Edward A, DDS | Newtown, PA | https://newtowndentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mahlon Padley DDS | Salisbury, MD | https://smilesalisbury.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Mahmoudi, Tina, DDS | Catonsville, MD | https://orthodonticassoc.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Main Line Dental Club | Paoli, PA | https://mainlinedentalclub.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Main Line Family Dentistry | Bryn Mawr, PA | https://mainlinefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Main Street Dental | Newark, DE | https://mainstreetdentalnewark.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Majid, Yasmin B, DDS | Silver Spring, MD | https://smilesforhumanityspa.com | [0] REJECT — unreachable / dead / hijacked / parked (302)
+- Makowske, Raymond, DDS | Salisbury, MD | https://delmarvadentalservices.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Manassas Dental Care | Manassas, VA | https://manassasdentalcareva.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Manassas Smiles | Manassas, VA | https://manassassmilesva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mandana Zolghdar PC | Alexandria, VA | https://zolghadrfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Manna, Louis M, DDS | Exton, PA | https://drlouismmanna.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Mansfield, Raymond, DDS | Germantown, MD | https://germantowndentalcare.com | [0] REJECT — DSO signal (heartland)
+- Manson Barry DDS | Severna Park, MD | https://drbarrymanson.com | [0] REJECT — DSO signal (heartland)
+- Mao, Richard, DDS | Towson, MD | https://drmao.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mao, Richard, DDS | Bel Air, MD | https://periomao.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Maple Glen Dental Associates | Horsham, PA | https://mapleglendental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Marc G. Dubin, MD | Towson, MD | https://baltimoresinusspecialists.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Margaret Culotta-Norton, DDS, PC | Washington, DC | https://drculottanorton.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Margot T Kusienski, D.M.D. | Lititz, PA | https://lititzendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Marianna Detwiler | Harrisburg, PA | https://eastshoredental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mariano, Damian, DDS | State College, PA | https://schuchertortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Mark A. Dettelbach, MD | Chevy Chase, MD | https://e-n-t.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mark C. Choe, DDS | Fairfax, VA | https://markchoedds.com?srccode=yelp_track | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Mark E Deblois | Richmond, VA | https://orthovirginia.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Mark S. Saber, DMD | Coraopolis, PA | https://saberdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Markovitz, Stanley J, DDS | Baltimore, MD | https://drmarkovitz.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Markowitz, David, DDS | Narberth, PA | https://lowermerionortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Marmo, Michael S, DMD | Newtown, PA | https://newtownendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Marshall Health | Huntington, WV | https://marshallhealth.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Marshall, Robyn, DDS | Norfolk, VA | https://oberrydentistry.com | [0] REJECT — DSO signal (a division of,atlanticdental)
+- Martin Family Orthodontics | West Reading, PA | https://martinfamilyortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Martin, John T, DDS | Hampton, VA | https://va.gov | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Martin, Robert S, DDS | Gambrills, MD | https://cforthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Martinez, Gerardo, DMD | Dover, DE | https://westdoverdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mary E. Gregory DDS Family Dentistry | Arlington, VA | https://drmarygregory.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mary Sidawi D.M.D. Family Dentsitry | Ardmore, PA | https://ardmoredental.com | [0] REJECT — unreachable / dead / hijacked / parked (504)
+- Maryland Center for Periodontics and Dental Implants | Pikesville, MD | https://mdperioimplantcenter.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Maryland Dental Center | Silver Spring, MD | https://marylanddentalcenter.com | [0] MANUAL: REJECT — multi-loc/modern
+- Maryland Holistic Dentistry Annapolis | Annapolis, MD | https://marylandholisticdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Maryland Smile Center | Columbia, MD | https://drparkmdsmilecenter.com | [0] REJECT — DSO signal (gentle dental)
+- Maryland-Virginia Orthodontic Specialists | Laurel, MD | https://specialistsinorthomd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Maslo, Anthony D, DMD | Pittsburgh, PA | https://innnovativedentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Mason Erika DDS | Midlothian, VA | https://sleepbetterva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Matias Dental Group | Washington, DC | https://potomacdentalcenter.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Matthew D. Freedman, DMD & Associates | Lancaster, PA | https://lancasterdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Matthew H Caspersen DDS | Fredericksburg, VA | https://drcaspersen.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Matthew Heine DDS | Newtown, PA | https://heinefamilydental.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Matthews, Amanda B, DMD | Wilmington, DE | https://newconceptdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Matthews, Bruce, DDS | Greensburg, PA | https://matthewsorthodontics.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Maverick Dental Laboratories | Monroeville, PA | https://maverickdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mavromatis Dental | Virginia Beach, VA | https://mavdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mazin Alayssami, DMD & Associates | Herndon, VA | https://brightnow.com | [0] REJECT — DSO signal (bright now,smilebrands)
+- Mazza, David, DDS | Bethesda, MD | https://mazzadental.info | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- McAllister, Brian, DDS | Middletown, DE | https://bmcallisterdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- McCloy Family Dentistry | Greensburg, PA | https://mccloyfamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- McComb & Stewart Dentistry PC | Richmond, VA | https://rvasmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- McCorkle, Allen D, DDS | Winchester, VA | https://1healthysmile.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- McCracken Family Dentistry | Camp Hill, PA | https://mccrackenfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- McDonogh Dental | Owings Mills, MD | https://mcdonoghdental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- McGann & Scott | Glen Mills, PA | https://appt.brandywinesmilecenter.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- McInnes Palmer Orthodontics | Towson, MD | https://baltimoreortho.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- McIver, Phillip, DDS | Columbia, MD | https://clearchoice.com | [0] REJECT — DSO signal (aspendental)
+- McKearney, Robert A, DDS | Harrisonburg, VA | https://valleyendo.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- McKee, Benjamin, DDS | Wayne, PA | https://drbenmckee.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- McLean Family Dentistry | Mclean, VA | https://mcleanfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- McMurray Family Dental (Spatz) | McMurray, PA | https://mcmurrayfamilydental.com | [0] MANUAL: REJECT — modern pro theme
+- McNinch III, Eugene R, DDS | Stevensville, MD | https://kentislanddentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- McQuiston Dental | Alexandria, VA | https://drmcquiston.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mclean Aura Dentistry | Mclean, VA | https://auradentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Meadow Dental Center | Washington, PA | https://meadowdentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Meadow Ridge Dentistry | Mechanicsburg, PA | https://meadowridgedentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mechanicsburg Family Dentistry | Mechanicsburg, PA | https://mechanicsburgfamilydentistry.com | [0] REJECT — DSO signal (heartland)
+- Media Dental Associates | Media, PA | https://media.dental | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Mellett John R DMD | Pittsburgh, PA | https://etags.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mercer Dental Assoc Pa | Dover, DE | https://mercerdental.net | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Meredith L Stabley, DMD, PC | Lancaster, PA | https://stableydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Merrifield Oral Surgery | Falls Church, VA | https://merrifieldoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Merrifield Orthodontics | Falls Church, VA | https://merrifieldorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Merrifield Smiles | Falls Church, VA | https://merrifieldsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Metro Dental Health | Fairfax, VA | https://metrodentalhealth.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Metropolitan Family Dental | Rockville, MD | https://mfddentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Meyers, Harry P, DDS | Mechanicsburg, PA | https://centralpa-cpoms.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Michael A Marcou, DDS | Norfolk, VA | https://lwssnorfolk.com | [0] REJECT — DSO signal (heartland)
+- Michael A. White, DDS | Lutherville Timonium, MD | https://michaelwhitedds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Michael D Pfab DDS | Chesterfield, VA | https://chesterfieldvadentist.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Michael H Lasher DDS | Waldorf, MD | https://waldorfsmiles.com | [0] REJECT — DSO signal (dental care alliance)
+- Michael J Grubler DDS PLLC | Wheeling, WV | https://familydentalcarewv.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Michael J Tupta, DDS Inc | Charleston, WV | https://mydentistincharleston.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Michael P Folck, DDS | Virginia Beach, VA | https://absolutedentalcareva.com | [0] REJECT — DSO signal (heartland)
+- Michelle D Borrus P C | Germantown, MD | https://borrusfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mid-Maryland Oral & Maxillofacial Surgery PA | Frederick, MD | https://midmaryland.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Middletown Dental Care | Middletown, DE | https://middletowndentalsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Middletown Endodontics | Middletown, DE | https://middletownendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Midgette Family Dentistry | Chesapeake, VA | https://midgettefamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Midlothian Dental Arts | Midlothian, VA | https://midlothiandentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Midlothian Dental Center | Midlothian, VA | https://midlothiandentalcenter.com | [0] MANUAL: REJECT — footer "a division of" (DSO)
+- Midlothian Dental Center at Alverser Plaza | Midlothian, VA | https://location.midlothiandentalcenter.com | [0] REJECT — DSO signal (a division of)
+- Mighty Bites Pediatric Dentistry | Newtown Square, PA | https://mightybitespediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Milan Bhagat, DMD, P | Chester, VA | https://southsidedentalassociates.com | [0] REJECT — unreachable / dead / hijacked / parked (522)
+- Miles of Smiles Implant Dentistry | Silver Spring, MD | https://milesofsmilesdental.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mill Dam Dental Care | Virginia Beach, VA | https://milldamdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Miller Orthodontics | Warrenton, VA | https://mineraorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Miller, James A, DMD | Moon Township, PA | https://drjamesamiller.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Miller, Karina A, DDS | Roanoke, VA | https://carilionclinic.org | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Miller, Veronica | Vienna, VA | https://downtownviennadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Millison, Stephen M, DDS | Pikesville, MD | https://atecorp.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Minera, Soledad N, DDS | Warrenton, VA | https://miller-ortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Mistr, W T, DDS | Winchester, VA | https://winchesterdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Modaresi, Mina, DDS | Chantilly, VA | https://myareadentist.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Modern Arch | Reading, PA | https://modernarches.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Modern Dentistry Richmond | Chesterfield, VA | https://moderndentistryrichmond.com | [0] MANUAL: REJECT — "Modern Dentistry" PDS pattern
+- Mofakhami, Niloofar, DDS | Oakton, VA | https://oaktonsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mogrovejo Faja, Angel F, DDS | Lynchburg, VA | https://periodontalhealthassociates.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Mohan, Jatinder, DDS | Salisbury, MD | https://peninsuladentalcenter.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Molokwu, Ruth N, DDS | Manassas, VA | https://reflectiondentalmanassas.com | [0] REJECT — DSO signal (heartland)
+- Monarch Dentistry | Vienna, VA | https://monarchsmiles.com | [0] REJECT — DSO signal (brand domain)
+- Moncevicz William D | Wilmington, DE | https://excellentsmilepower.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Monica J Contract DMD PC | Williamsburg, VA | https://williamsburgsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Monocacy River Dental Care | Frederick, MD | https://monocacyriverdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Monument Endodontics & Periodontics - CLOSED | Gaithersburg, MD | https://monumentendoperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Mor Smiles | Lititz, PA | https://morsmiles.com | [0] MANUAL: REJECT — Elementor modern
+- Mora Family Dentistry Inc | Malvern, PA | https://moradental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Morch, Michael, DDS | Woodbridge, VA | https://dentistinwoodbridgevirginia.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Morgan & Haupt Dentistry | Virginia Beach, VA | https://morganhauptdentistry.com | [0] REJECT — DSO signal (atlanticdental)
+- Morrell, Russell D, DMD | North Chesterfield, VA | https://just4kidsdentistryva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Morris Jonathan DDS | Chevy Chase, MD | https://drmorrissmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Morris, Marci, DDS | North Chesterfield, VA | https://jrfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mosaic Smiles | Fairfax, VA | https://mosaicsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Motamedi, Saeid, DDS | Manassas, VA | https://luvthatsmile.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Motos, Vanessa D, DMD | Newport News, VA | https://dodsonendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Mountain Family Dental | State College, PA | https://mountainfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mt. Vernon Center for Dentistry | Alexandria, VA | https://cosmeticdentistalexandria.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mualla, Ali M, DDS | Leesburg, VA | https://leesburgfamily.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mugford, David, DDS | Crofton, MD | https://mugfordcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mullen | Harrisburg, PA | https://us.mullenlowe.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Murphy, James P, DMD | Lititz, PA | https://lancasteronline.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Murray, Patrick A, DDS | Rockville, MD | https://shadygrovedentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Murry and Kuhn Dentistry - Midlothian | Midlothian, VA | https://murrykuhndentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Mutzig, Kathryn S, DMD | Towson, MD | https://towsonimplantsperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- My Braces Doctor | Alexandria, VA | https://mybracesdoctoralexandria.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- My Braces Doctor | Fredericksburg, VA | https://mybracesdoctorfredericksburg.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- My Braces Doctor | Manassas, VA | https://mybracesdoctormanassas.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- My Fairfax Dental (Hang Le) | Fairfax, VA | https://myfairfaxdental.com | [0] MANUAL: REJECT — 15 yrs, WPBakery; not established enough
+- My Hagerstown Dentist & Dentures | Hagerstown, MD | https://hagerstowndentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- My Orthodontist-Platinum / Dr Sally Gupton | Fort Washington, PA | https://fortwashingtonorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Myron H Sachs DDS | Towson, MD | https://sachsdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- N Shroff Amisha DDS | Bethesda, MD | https://bethesdadentaloffice.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- N Watts Jasper DDS | Hampton, VA | https://wattsdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- NOVA Dental Anesthesia - Burke | Burke, VA | https://novadentalanesthesia.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- NOVA Perio Specialists-Periodontics and Dental Implants | Gainesville, VA | https://perioperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- NaLa Smiles | Alexandria, VA | https://nalasmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nansemond Suffolk Dentistry | Suffolk, VA | https://nansemondsuffolkdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Nasif, Yaser O, DDS | North Chesterfield, VA | https://idealdentalcare.com | [0] REJECT — DSO signal (sagedental)
+- Naturadent PC | Fairfax, VA | https://naturadent.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nave, Jared I, DDS | Easton, MD | https://jarednavedentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (521)
+- Neibauer Dental Care | Bowie, MD | https://neibauerdentalbowie.com | [0] REJECT — DSO signal (heartland)
+- Neibauer Dental Care | Fredericksburg, VA | https://neibauerdentalcentralpark.com | [0] REJECT — DSO signal (heartland)
+- Neibauer Dental Care | Woodbridge, VA | https://neibauerdentaldalecity.com | [0] REJECT — DSO signal (heartland)
+- Neibauer Dental Care | Fredericksburg, VA | https://neibauerdentalfalmouth.com | [0] REJECT — DSO signal (heartland)
+- Neibauer Dental Care | Fredericksburg, VA | https://neibauerdentalharrisoncrossing.com | [0] REJECT — DSO signal (heartland)
+- Neibauer Dental Care | Manassas, VA | https://neibauerdentalmanassas.com | [0] REJECT — DSO signal (heartland)
+- Neibauer Dental Care | Woodbridge, VA | https://neibauerdentalwoodbridge.com | [0] REJECT — DSO signal (heartland)
+- Neibauer Dental Care - Gambrills | Gambrills, MD | https://neibauerdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Nelson Family Dentistry | Wheeling, WV | https://nelsonfamilydentistrypllc.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nelson Richard C DDS PC | West Chester, PA | https://richardcnelsondds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Nesbit Center of Dental Excellence | Waldorf, MD | https://waldorfdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Neumann & Bohrer Family Dentistry, PC | Winchester, VA | https://neumannfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- New Garden Family Dentistry | Landenberg, PA | https://newgardenfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- New Horizons Dental Center | Herndon, VA | https://nhdcsmiles.com | [0] REJECT — DSO signal (heartland)
+- New Image Dental | Towson, MD | https://towsondental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- New Look Dental Care | Gaithersburg, MD | https://newlookdentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- New Town Dental Arts | Williamsburg, VA | https://newtowndentalarts.net | [0] REJECT — DSO signal (heartland)
+- New Valley Dental | Canonsburg, PA | https://newvalleydental.com | [0] REJECT — DSO signal (heartland)
+- Newman, Melanie F, DDS | Hagerstown, MD | https://drspearlmanandseidman.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Newtown Orthodontics | Newtown, PA | https://homefordentalcare.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Ng Yu Hung DDS | State College, PA | https://ngdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Ngo, Howard T, DDS | Fairfax, VA | https://smiles4fairfax.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nguyen, Kristina T, DDS | Mc Lean, VA | https://ktndds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nguyen, Quynh Chi, DDS | Chantilly, VA | https://paradisesmilesofchantilly.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nguyen, Tu-Quynh B, DDS | Vienna, VA | https://viennaendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Nic Orthodontics | Lititz, PA | https://nicorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Nicole J. Ruszkay, MD | Hershey, PA | https://pennstatehealth.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nicole M Armour, DMD | Newtown, PA | https://armourdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Niel, Jean-Luc G, DMD | Ellicott City, MD | https://howardcountyoms.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Niemoeller Stephen A DMD PA | Newark, DE | https://nemodentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nik Family & Cosmetic Dentistry | Chantilly, VA | https://nikdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Noorani Orthodontics | Bel Air, MD | https://greatsmileforyou.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Noorbakhsh, Babak D, DDS | Parkersburg, WV | https://omsawv.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Norfolk Dental Care | Norfolk, VA | https://norfolkdentalcare.com | [0] REJECT — DSO signal (heartland)
+- North Penn Dental Arts | Lansdale, PA | https://northpenndentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Northeast Roanoke Dentistry | Roanoke, VA | https://neroanokedentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Northern VA Dental Center | Chantilly, VA | https://chantillyfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Northern Virginia Oral Surgery Centers - Alexandria | Alexandria, VA | https://thenvc.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Nourmand, Payan, DDS | Bel Air, MD | https://hartford-dental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nova Dental | Owings Mills, MD | https://drnovadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nova Premier Dental | Falls Church, VA | https://novapremierdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Noza Dental | Warminster, PA | https://warminsterfamilydental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Nu Smiles | Takoma Park, MD | https://nusmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Nuclear Smiles | Columbia, MD | https://nuclearsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nusquare Dental | Newtown Square, PA | https://nusquaredental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Nvo-Reston | Reston, VA | https://nvorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- O Fishell John Jr DMD | Canonsburg, PA | https://clubsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- O'Donnell, David W, DDS | Lynchburg, VA | https://odonnelldentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Oakcrest Esthetic Dentistry | Lititz, PA | https://hicksfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Oakcrest Esthetic Dentistry | Lititz, PA | https://oakcrestsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Oakland Aesthetic Dentistry | Pittsburgh, PA | https://oaklandaestheticdentistry.com | [0] MANUAL: REJECT — Duda/Squarespace generic; check indep later (low)
+- Oakton Dental Center | Oakton, VA | https://oaktondentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Oakton Family Dentistry | Oakton, VA | https://oaktonfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Oasis Dental | Bel Air, MD | https://oasisdentalmd.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Oasis Dental Clinic | Germantown, MD | https://oasisdentalclinic.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Obaid, Michel, DDS | Reading, PA | https://penndentalmedicine.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Oc Dental Care By Dhaliwal PC | Ocean City, MD | https://ocdentalmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Oh, Eunseok, DDS | Vienna, VA | https://drkimbraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Oh, Seokhwan, DDS | Germantown, MD | https://germantowndental.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Old Town Smiles | Alexandria, VA | https://oldtownsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Oley, George A, DDS | North Chesterfield, VA | https://drsoleyandquilezdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Oliveira, Tatiana R, DDS | Winchester, VA | https://shenandoahendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Ollio Samuel A DDS | Yardley, PA | https://dentistinyardley.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Omar, Anisa Dr DDS PC | Chantilly, VA | https://omarorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Omni Dental McMurray | Mcmurray, PA | https://omnidentalpgh.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Omni Smiles Pediatric Dentistry | Laurel, MD | https://omnismilesdmv.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Ong, Ying-Lee, DMD | Lititz, PA | https://hartzpt.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Oral  & Maxillofacial Surgery Innovations LLC | Harrisburg, PA | https://omsillp.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Oral Surgery Specialists | Annapolis, MD | https://annapolisoss.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Oral and Maxillofacial Associa | Kennett Square, PA | https://oral-and-maxillofacial-surgery-associates-of-pa-1.hub.biz | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Orellana, Patricia, DDS | Chantilly, VA | https://vaendogroup.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Orraca-Tetteh, Dede Wiba, DDS | Owings Mills, MD | https://lakesidevillagedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Orthodontics on the Line | Wayne, PA | https://orthodonticsontheline.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Otto, Pamela F, DDS | Catonsville, MD | https://angeldentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Owings Mills Dentistry | Owings Mills, MD | https://gomustangsports.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- P & R | Waldorf, MD | https://petersonandreddy.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- P. Shawn Stopperich, DMD | Mcmurray, PA | https://stopperichoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pal, Sandhya A, DDS | Reston, VA | https://palfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Palmer Family Dentistry | Pittsburgh, PA | https://dentistrypalmer.net | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Palumbo, Anthony J, DMD | Vienna, VA | https://viennaperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Panas, Dennis J, DDS | Camp Hill, PA | https://spdental.wordpress.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pandey, Swati, DDS | Stuarts Draft, VA | https://stuartsdraftdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Panos, Iris A, DMD | Winchester, VA | https://hansonperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Park, Daniel I, DMD | Crofton, MD | https://danielparkdmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Park, Stephen Y, DDS | Silver Spring, MD | https://parkdentaloffice.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Parkersburg Endodontics | Parkersburg, WV | https://parkersburgendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Parkway Pediatric Dentistry | Roanoke, VA | https://parkwaypd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Parrott Orthodontics | Staunton, VA | https://parrottorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Patel, Amita, DDS | Havertown, PA | https://childrens-dentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Patel, Neepa, DDS | Chesapeake, VA | https://woodardorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Patel, Neha J, DDS | Harrisburg, PA | https://periodontalassociates.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Patel, Raj, DMD | Yardley, PA | https://seaofsmilespa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Patrick, Michael B, DDS | Severna Park, MD | https://wardbyrne.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Patuxent Place Family Dentistry | Laurel, MD | https://smilesoflaurel.com | [0] REJECT — DSO signal (aspendental)
+- Paul B. Gabriel DMD | Wexford, PA | https://drpaulgabriel.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Paul DMD Carpinello MSD | Newtown Square, PA | https://theplacetobrace.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Paul S Yi Dds Pa | Catonsville, MD | https://drpaulyi.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Paul S. Rosen D.M.D., M.S., P.C. | Yardley, PA | https://psrperioimplant.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Paul T Deasey DDS | Severna Park, MD | https://thetoothplace.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Paul T Olenyn, DDS, Ltd | Burke, VA | https://smilesbydrolenyn.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Paulin, Paulette P, DDS | Pittsburgh, PA | https://dentalartsofpittsburgh.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Paulin, Timothy B, DMD | Lancaster, PA | https://fpedental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Paxtang Family Dentistry | Harrisburg, PA | https://jillcarredmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pearl Dentistry of Bethel Park | Bethel Park, PA | https://dentistbethelpark.com | [0] MANUAL: REJECT — "Pearl Dentistry" brand (multi-loc), modern pro theme ©2026
+- Pearl Dentistry of Moon | Coraopolis, PA | https://pearldentistryofmoon.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pedar  B Didriksen DDS PC | Berlin, MD | https://didriksendental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pediatric Dental Associates of Ambler | Ambler, PA | https://pediatricdentalassociates.com | [0] REJECT — DSO signal (gentle dental)
+- Pediatric Dental Care | Springfield, VA | https://kidsfirstdentalcare.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pediatric Dental Specialists of Williamsburg | Williamsburg, VA | https://williamsburgpediatricdentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pediatric Dentist Pittsburgh | Pittsburgh, PA | https://pittsburghpediatricdentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pediatric Dentistry | Richmond, VA | https://richmonddentistryforchildren.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pediatric Dentistry | Staunton, VA | https://kidsdentist.com | [0] REJECT — DSO signal (gentle dental)
+- Pediatric Dentistry South | Pittsburgh, PA | https://pediatricdentalsouth.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pediatric Dentistry of Newtown Square | Newtown Square, PA | https://delcokidsdentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Penn Avenue Dental | Reading, PA | https://pennavenuedental.wixsite.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Penn Dental Family Practice at Bryn Mawr | Bryn Mawr, PA | https://mypenndentist.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Penn Premier Dental | Exton, PA | https://pennpremierdental.com | [0] REJECT — DSO signal (heartland)
+- Peony Dental Family Dentist | Manassas, VA | https://peonydental.com | [0] REJECT — DSO signal (gentle dental)
+- Pereda, Jeniffer | Wynnewood, PA | https://drsolow.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Perkins, Thomas P, DMD | Wexford, PA | https://perkinsdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Perschon, Rebecca A, DMD | Newtown Square, PA | https://thenewtownsquaredentist.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Pesis, Steven S, DDS | Bryn Mawr, PA | https://rittenhousedentists.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Peter, Elam J, DDS | Owings Mills, MD | https://implantandperiomd.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Phamily Orthodontics - Wayne | Wayne, PA | https://phamilyorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Phass, Dean J, DDS | Falls Church, VA | https://phassfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Philadelphia Dentistry (phillydentistry.com) | Philadelphia, PA | https://phillydentistry.com | [0] MANUAL: REJECT — modern WP blankslate 2024 redesign
+- Phillips, Walter L, DDS | Lynchburg, VA | https://bradycristdentists.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Pichardo, Michael R, DDS | Gainesville, VA | https://solisendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pickel, James E, DDS | King Of Prussia, PA | https://kingofprussiadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Piedmont Periodontics, PC | Manassas, VA | https://piedmontperiova.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pikarski, Jeanette D, DDS | Lititz, PA | https://sunshinekidsdental.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pike & Valega, DDS | Rockville, MD | https://pikeandvalega-dds.com | [0] REJECT — DSO signal (gentle dental)
+- Pike Family Dentistry | Media, PA | https://pikefamilydentistry.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pikesville Family Dentistry | Pikesville, MD | https://pikesvillefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pine Dentistry & Braces | Takoma Park, MD | https://pinedentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pine Dentistry & Braces | Falls Church, VA | https://myks.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pinelli, Steven J, DDS | Monroeville, PA | https://romeorbelladmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pittsburgh Dental Sleep Medicine | Mcmurray, PA | https://pittsburghdentalsleepmedicine.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pittsburgh Oral Surgery, P.C. | Pittsburgh, PA | https://pittsburghoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Platinum Dental Group | Germantown, MD | https://platinumdentalgp.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Plaza Drive Dentistry | Winchester, VA | https://plazadrivedentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (439)
+- Pleasant Valley Smile Studio | Winchester, VA | https://pleasantvalleysmilestudio.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Plover Pediatric Dentistry | Potomac, MD | https://ploverpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Poleck, Aaron B, DMD | Newark, DE | https://christianafamilydentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pollack Robin | Gaithersburg, MD | https://drrattner.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pollick, Ashley, DMD | Cranberry Township, PA | https://dfkonline.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pollock, Richard M, DDS | Arlington, VA | https://va-rootcanal.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Poplar Tree Dental Care | Fairfax, VA | https://poplartreedentalcare.com | [0] REJECT — DSO signal (heartland)
+- Popli, Kris K, DDS | Vienna, VA | https://tysonslaserdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Port Warwick Dental Arts | Newport News, VA | https://pwdentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Porter Dental & Braces | Baltimore, MD | https://koolsmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Posh Smiles | Ashburn, VA | https://poshsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Potomac Dental Centre | Hagerstown, MD | https://potomacdentalcentre.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Potomac Dentistry | Potomac, MD | https://drtamami.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Potomac Family Dental | Woodbridge, VA | https://potomacfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Potomac Station Dental Care | Leesburg, VA | https://potomacstationdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Pratt, Marielena A, DDS | Glen Allen, VA | https://domortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Precious Smiles Children & Family Dentistry | Camp Hill, PA | https://precioussmilespa.com | [0] REJECT — DSO signal (gentle dental)
+- Precision Endodontics | Pittsburgh, PA | https://psgdental.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Precision Orthodontics & Pediatric Dentistry | Reston, VA | https://orthodonticprecision.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Preferred Dental | Ellicott City, MD | https://topellicottcitydentists.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Premier Dental of Edgmont Square | Newtown Square, PA | https://dentistnewtownsquare.com | [0] REJECT — DSO signal (dental care alliance,gentle dental)
+- Premier Oral Facial & Implant Surgery | Ashburn, VA | https://premieroralimplantsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Premium Family Dental | Alexandria, VA | https://premiumfamilydental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Price, McKinley L, DDS | Newport News, VA | https://dentalcareoysterpoint.com | [0] REJECT — DSO signal (heartland)
+- Progressive Dental Arts | Wilmington, DE | https://progressivedentalartsde.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Progressive Dental Arts | Wilmington, DE | https://progressivedentalartspikecreek.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Progressive Dental Arts Christiana | Newark, DE | https://progressivedentalartschristiana.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Progressive Dental Concepts | Camp Hill, PA | https://progressivedentalconcepts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Prompt Dentistry | Reston, VA | https://promptdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Pure Dental | Woodbridge, VA | https://puredentalva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Puri, Surbhi, DDS | Lynchburg, VA | https://lynchburgendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Pyun, Lisa Y, DDS | Ellicott City, MD | https://mentonfamilydental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Quarterfield Station | Glen Burnie, MD | https://thegrillatquarterfieldstation.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Quay W Parrott III DDS MS | Staunton, VA | https://parrottortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Queen, Jay B, DDS | Herndon, VA | https://eldendental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Quest Dental | Baltimore, MD | https://dentistry-baltimore.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Quimby, Margie DDS | Easton, MD | https://drquimbydds.com | [0] REJECT — unreachable / dead / hijacked / parked (522)
+- Quince Orchard Dental Care | Gaithersburg, MD | https://quinceorcharddentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Quincy Street Dental: Megan R. Borak DDS | Arlington, VA | https://quincystreetdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Quinn Pediatric Dentistry | Dover, DE | https://quinnchildrensdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Qureshi, Farhan, DDS | Alexandria, VA | https://dentistsinalexandria.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- R & W Dental Associates | Reading, PA | https://randwdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- RM Scarazzo, DMD, PC | Doylestown, PA | https://drscarazzo.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- RS Orthodontics | Martinsburg, WV | https://rsorthodontist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- RVA Children's Dentistry | Glen Allen, VA | https://rvachildrensdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Radiant Dental Care | Chevy Chase, MD | https://radiant-dental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Radnor Dental | Radnor, PA | https://radnordental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Radnor, Leonard L, DMD | Canonsburg, PA | https://radnordentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Radomile Cosmetic & Family | Drexel Hill, PA | https://radomilefamilydental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Rafetto & Campbell: Oral & Facial Surgery of Delaware | Wilmington, DE | https://ofsdelaware.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Railroad Dental Associates | Manassas Park, VA | https://railroaddentalassociates.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ralph L Anderson, DDS, Ltd | Richmond, VA | https://aplusortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Randolph Kim DDS, Cosmetic & Family Dentistry | Potomac, MD | https://randolphkimdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rapoza Family Dentistry | Plymouth Meeting, PA | https://kevincrews.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rava, Joseph S, DDS | Malvern, PA | https://extondentalmedicine.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Red Rose Dental Laboratories | Lititz, PA | https://redroselab.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Red Rose Family Dental | Lancaster, PA | https://redrosefamilydental.com | [0] REJECT — DSO signal (heartland)
+- Reedy Christian M. DDS | Mechanicsburg, PA | https://reedygentledentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Reflection Dental | Alexandria, VA | https://reflectiondentalwestend.com | [0] REJECT — DSO signal (heartland)
+- Rehoboth Beach | Rehoboth Beach, DE | https://beach-fun.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rehoboth Beach Dental | Rehoboth Beach, DE | https://rehobothbeachdental.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Reinecker, Randal C, DDS | Reading, PA | https://reineckerdentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Reitz John V DDS FSGD | Reading, PA | https://reitzdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Renew 32 Cosmetic & Family Dentistry | Bethesda, MD | https://renew32.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Reston Center For Dentistry | Reston, VA | https://ismileva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Reston Endodontics | Reston, VA | https://restonrootcanal.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Reston Family Smiles | Reston, VA | https://restonfamilysmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Reston Heights Dental | Reston, VA | https://restonheightsdentists.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Revere Dental Associates | Reading, PA | https://reveredentalassociates.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Revive Dental & Implant Center (Boustany prosth.) | Charleston, WV | https://revivedentalimplantcenters.com | [0] MANUAL: REJECT — codebase-2 modern
+- Reynolds Gavin E DDS | Bealeton, VA | https://bealetondentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Richard B Garden DDS | Severna Park, MD | https://drrichardgarden.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Richard E Kramer | Hagerstown, MD | https://oralfacialsurgery.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Richard M Crout DDS | Charleston, WV | https://braceplace.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Richardson, Michael L, DDS | Charleston, WV | https://bridgeroad.org | [0] REJECT — unreachable / dead / hijacked / parked (522)
+- Richee Berry | Bowie, MD | https://berrychildrendental.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Richmond Oral & Cosmetic Surgeons | Midlothian, VA | https://rocs.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Richmond Pediatric Dentistry & Orthodontics | Midlothian, VA | https://rpdo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rick Rios DDS | Ashburn, VA | https://riosdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Ridgefield Village Dental Care | Woodbridge, VA | https://ridgefieldvillagedentalcare.com | [0] REJECT — DSO signal (heartland)
+- Ridgetop Dental-Reston | Reston, VA | https://rdimplants.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Rief, Joanne B, DDS | Owings Mills, MD | https://crossroadsdentalarts.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Rigberg, Andy W, DMD | Hatboro, PA | https://paendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Riggs Jr, Gary A, DDS | Hampton, VA | https://riggsortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rinaldi Dental Arts | Chevy Chase, MD | https://rinaldidentalarts.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Rittenhouse Dental Group | Philadelphia, PA | https://rittenhousedentist.com | [0] MANUAL: REJECT — Astra modern
+- Rittenhouse Smiles | Philadelphia, PA | https://rittenhousesmiles.com | [0] MANUAL: REJECT — Salient WPBakery modern
+- Ritter, James P, DDS | Virginia Beach, VA | https://jamesritterdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Rituals Dental Wellness & Aesthetics | Blue Bell, PA | https://ritualsdentalwellness.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Riverfront Family Dental | Annapolis, MD | https://riverfrontfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Riverfront Family Dental (Chambers) | Annapolis, MD | https://chambersfamilydentistry.com | [0] MANUAL: REJECT — modern template
+- Riverside Dental | Arlington, VA | https://riversidedentalva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Roanoke Dental Center - Electric Rd | Roanoke, VA | https://roanokedentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Robbins, James L, DMD | Media, PA | https://mediaoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Robert A Sorenson DDS | Chester, VA | https://dentistrichmond.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Robert A. Morabito, DDS | Falls Church, VA | https://morabitodds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Robert B Hackman DMD | State College, PA | https://roandental.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Robert B. Gentry DDS | Fredericksburg, VA | https://fredericksburgvadentures.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Robert L. Dyer, DMD | Mcmurray, PA | https://docdyer.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Robert M Collins DDS PA | Wilmington, DE | https://delawarechildrensdentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Robert Mortimer Inc | Murrysville, PA | https://mortimergreatsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Robert R Coope DDS PA Cosmetic & Comprehensive Dentistry | Dover, DE | https://carefirstdentalteam.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Robert W. Webster D.D.S. | Dover, DE | https://webstercosmeticdentistry.com | [0] REJECT — DSO signal (dental care alliance)
+- Robert Wilson, D.D.S. | Gaithersburg, MD | https://robertwilsondds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Robertson Dental | Silver Spring, MD | https://robertsondental.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Robertson Douglas N DDS ' MS | Wheeling, WV | https://ohiovalleyendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Robertson, Steven, DDS | Burke, VA | https://fairfaxoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Robious Crossing Pediatric Dentistry | Midlothian, VA | https://kidsdentists.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Roccia, Wayne, DDS | Cranberry Township, PA | https://northpittsburghoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rocheleau, Michael D, DMD | Bryn Mawr, PA | https://mainlinedmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rochelle E Hackley, DDS & Dental Spa | Rockville, MD | https://hackleydds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rock Kids Dental | Crofton, MD | https://rockkidsdental.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rockacy, Jeffrey W, DMD | Warrendale, PA | https://wexfordoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rodney L Powers DDS | Parkersburg, WV | https://rodneypowersdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Rodriguez, Andrea B, DDS | Reston, VA | https://rtcdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rogan C Schneider, DDS, MPH | Rockville, MD | https://innovativedentistryofrockville.com | [0] REJECT — DSO signal (heartland)
+- Rolling Ridge Dental Care | State College, PA | https://rollingridgedentalcare.com | [0] REJECT — DSO signal (heartland)
+- Ronald F Moser DDS, PA | Bowie, MD | https://ronmoserdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Rosales, Kelsey L, DMD | Lansdale, PA | https://nasefamilydental.com | [0] REJECT — DSO signal (gentle dental)
+- Rose, Patricia L, DDS | King Of Prussia, PA | https://roseandhollanderdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Rosemont Dental Center | Frederick, MD | https://rosemontdentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rosenbaum, Michael S, DMD | Ambler, PA | https://teethforkids.com | [0] REJECT — DSO signal (gentle dental)
+- Rosenberg Orthodontics | Burke, VA | https://rosenbergorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rosenthal-Frai, Kara G, DMD | Ardmore, PA | https://ardmoreendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rosewood Dental | Germantown, MD | https://rosewooddentalmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ross, Kim M, DMD | Annapolis, MD | https://drkimrossdmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Rother Dental | Mechanicsburg, PA | https://rotherdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rowe, Samuel F, DDS | Fishersville, VA | https://samuelrowedental.wordpress.com | [0] REJECT — unreachable / dead / hijacked / parked (410)
+- Rudin, Adam S | Ambler, PA | https://mapleglenmoderndentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Rugby Dental Arts | Charlottesville, VA | https://rugbydentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Russell Branch Dental & Orthodontics | Leesburg, VA | https://russellbranchdental.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Russo Endodontics | Burke, VA | https://russoendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rutledge  James L | Virginia Beach, VA | https://jimrutledgedds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ryan Buehner | Hummelstown, PA | https://hersheydental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Ryan, B, DMD | Plymouth Meeting, PA | https://beckerorthopa.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Rye, D Gordon, DDS | Fairfax, VA | https://ryesmilesforlife.com | [0] REJECT — DSO signal (dental care alliance)
+- SKS Dental | Arlington, VA | https://sksdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- SONRIA DENTAL ART | Silver Spring, MD | https://sonriadentalart.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Saad, Ahmed K, DDS | Vienna, VA | https://pacedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Saintil, Israel, DDS | Bowie, MD | https://smilespediatricdentalcare.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sam B Khoury DDS MS-Dental Implant & Perio Surgeons | Newtown, PA | https://drsamkhoury.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Samuel Hahn, MD, FACS | Baltimore, MD | https://earnosethroatdrs.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sanders Orthodontics | Morgantown, WV | https://sandersortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sanginiti, Christopher, DDS | Glen Burnie, MD | https://glenparkdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Santee, Edward W, DDS | Norfolk, VA | https://chkd.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Santry, Donald E, DDS | Harrisburg, PA | https://milleroral.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Santry, Donald E, DMD | Chadds Ford, PA | https://advancedfamilysmilecare.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Sarubin Family Dental | Pikesville, MD | https://smilebaltimore.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sauve Family Dentistry | Camp Hill, PA | https://sauvefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sawsan Abousy Dental Care | Vienna, VA | https://cosmeticdentistvienna.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Schembari, Vincent A, DDS | Laurel, MD | https://oldetownlaureldental.com | [0] REJECT — DSO signal (heartland)
+- Schmidt, John M, DMD | Lancaster, PA | https://jmschmidtdmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Schratz Orthodontics | Canonsburg, PA | https://schratzorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Schroer Michael | Williamsburg, VA | https://williamsburgperiodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Schwartz & Hyatt | Owings Mills, MD | https://mdcenteroms.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Scott Family Dental (Robert H. Scott, D.M.D. and Jacqueline Scott, D.M.D.) | Pittsburgh, PA | https://scottfamilydental.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Scott Orthodontics-Jon L Scott DDS | Hampton, VA | https://scottorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Scott, Chad, DDS | Wexford, PA | https://paragondentalpgh.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Seitchik, Steven W, DDS | Bryn Mawr, PA | https://dental.upenn.edu | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Sellers John G Jr Dds | Fairfax, VA | https://fairfaxdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sepic Orthodontics - Peters Township | Mcmurray, PA | https://smilesbysepic.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Serene Smiles of Fredericksburg | Fredericksburg, VA | https://myserenesmiles.com | [0] REJECT — DSO signal (gentle dental)
+- Serino, John W, DDS | Easton, MD | https://serinoortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Servicios Dentales Hispanos | Silver Spring, MD | https://serviciosdentaleshispanos.info | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Seto, Hideki | Manassas, VA | https://dentistreeva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Severn River Dental Health Center | Severna Park, MD | https://severnriverdental.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Severna Park Dental Care | Severna Park, MD | https://severnaparkdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Shady Brook Family Dental | Yardley, PA | https://shadybrookfamilydental.com | [0] REJECT — DSO signal (heartland)
+- Shady Grove Dental Group | Gaithersburg, MD | https://shadygrovedentalgroup.com | [0] REJECT — DSO signal (heartland)
+- Shady Grove Pediatric Dentistry: Dr Bana Ball | Rockville, MD | https://shadygrovepediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Shah, Mariyam, DDS | North Chesterfield, VA | https://mysagedental.com | [0] REJECT — DSO signal (sagedental)
+- Shami, Imad E, DMD | Stevensville, MD | https://thompsoncreekdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Shanley, Brianne N, DMD | Lititz, PA | https://sunshinedental.com | [0] REJECT — DSO signal (gentle dental)
+- Shannon M. Martin, DDS | Newport News, VA | https://shannonmartindds.com | [0] REJECT — unreachable / dead / hijacked / parked (302)
+- Shears, Chance, DDS | Parkersburg, WV | https://denture-dentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sheehan Orthodontics | Germantown, MD | https://sheehanorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sheila L. Brush, DDS | Dentist in Germantown, Maryland | Germantown, MD | https://weloveyoursmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sherry Kazerooni, DDS, LVIF | Mc Lean, VA | https://smiletolove.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Shield Dental Care | Burke, VA | https://shielddentalcare.com | [0] MANUAL: REJECT — modern ©2026
+- Shillinger, Anne M, DDS | Staunton, VA | https://wsh.dbhds.virginia.gov | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Shin, Richard C | Potomac, MD | https://shinorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Shore Family Dentistry | Easton, MD | https://shorefamilydentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Shuck, Michael, DDS | Williamsburg, VA | https://quarterpathdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sicher, Christopher, DMD | Hershey, PA | https://hersheydentist.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Sidekick Smiles Pediatric Dentistry | King Of Prussia, PA | https://sidekicksmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sidney E Cradduck DDS | Hagerstown, MD | https://miniimplantsolutions.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Siegel, Steven M, DMD | Glen Burnie, MD | https://orthodontistsofmaryland.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sierakowski, Steven R, DMD | Glen Mills, PA | https://brandywineperio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Signature Orthodontics of Pittsburgh P | Murrysville, PA | https://signature-orthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Silver Spring Dentistry | Silver Spring, MD | https://dentistsofsilverspring.com | [0] REJECT — DSO signal (pacificdental)
+- Simon, Alexander M, DDS | Midlothian, VA | https://unitedsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sinha Kang, DMD, PA | Ellicott City, MD | https://skangdmd.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Sipes Dental | York, PA | https://sipesdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Siranli Dental - McLean | Mclean, VA | https://mcleandentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sisco, Maria, DDS | Wexford, PA | https://drrotzandassociates.com | [0] REJECT — unreachable / dead / hijacked / parked (429)
+- Skaff Don E DDS | Charleston, WV | https://pediatricdentistcharleston.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Skinner & Ossakow DDS & Associates | mc Lean, VA | https://smilesanddental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Slagle Jr, James L, DDS | Chesterfield, VA | https://va-perio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sloat, Inga, DMD | Vienna, VA | https://sloatdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Slootsky Artistic Dentistry | Reading, PA | https://slootskyartisticdentistry.com | [0] MANUAL: REJECT — modern WP 7.1 ©2026
+- Slysh, Mark R, DMD | Doylestown, PA | https://888smile10.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Smallwood Prison Dental Services | Ashburn, VA | https://smallwoodpds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Smile 32 | North Chesterfield, VA | https://smile32dentalcenters.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Smile Beautiful Dentistry | Monroeville, PA | https://smilebeautifuldentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Care Group LTD | Lancaster, PA | https://smilecaregroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Center | Charleston, WV | https://simpsonandguest.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Culture Dental-Glen Mills | Glen Mills, PA | https://smileculture.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Dental Clinic | Herndon, VA | https://smiledentalclinicva.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Smile Dental Studio | Rockville, MD | https://smile-dental-studio.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Design of Northern Virginia | Fairfax, VA | https://smiledesignnova.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Direct Club | Towson, MD | https://smiledirectclub.com | [0] REJECT — DSO signal (brand domain)
+- Smile Exchange of Malvern | Malvern, PA | https://malvern.smileexchange.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Fixer RVA | Richmond, VA | https://smilefixerrva.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Smile Images of Waldorf, MD (SBS Partner) | Waldorf, MD | https://sbsmiles.org | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Smile Makers Dental Center - Fairfax | Fairfax, VA | https://smilemakerscenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Please | Leesburg, VA | https://smilepleaseva.com | [0] REJECT — unreachable / dead / hijacked / parked (523)
+- Smile Rx Dental | Bowie, MD | https://smilerxdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smile Savers Dentistry | Columbia, MD | https://smilesaversdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- SmileWorx | Vienna, VA | https://smileworxnova.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smilebuilderz | Lancaster, PA | https://smilebuilderz.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smilecare Dental Center | Ardmore, PA | https://ardmorecosmeticdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smileform | Newtown Square, PA | https://smileformdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Smileline Dental | Herndon, VA | https://smilelinedentalpc.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smiles 4 Children | Catonsville, MD | https://smiles4children.net | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Smiles 4 Keeps | Reading, PA | https://smiles4keeps.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Smiles By Mia (Dr Mia Pham Sanchez De Lozada Dds) | Burke, VA | https://smilesbymiadentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Smiles By Moses, Orthodontics | Hershey, PA | https://smilesbymoses.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Smiles By Stevens | Lancaster, PA | https://smilesbystevensdmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smiles Forever Family Dentistry | Pittsburgh, PA | https://smilesforeverpgh.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smiles International | Mclean, VA | https://smilesinternational.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Smiles R Us | Baltimore, MD | https://smilesrusdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smiles of Virginia | Winchester, VA | https://smilesofvirginia.com | [0] MANUAL: REJECT — pro theme modern
+- Smiles! Dentistry by Dr. Joseph Heher | Salisbury, MD | https://smilesmatter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smileville Family Dental - Alexandria | Alexandria, VA | https://smilevillealexandria.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smilez Dental Care | Rockville, MD | https://smilezcare.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Smith & Co Dental Practitioners | Bel Air, MD | https://smithcodental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Smith, Brandon D, DDS | Martinsburg, WV | https://tuscaroradental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Snyder, Timothy R, DDS | Harrisburg, PA | https://smilecraftersortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Soft Touch Dentistry | Alexandria, VA | https://softtouchdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Softouch Dental Care: Dr. Michael K. Chung, DDS | Oakton, VA | https://softouchdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Soga, Nadine, DDS | Washington, DC | https://dcdentalpractice.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Solarte Orthodontics-Herndon | Herndon, VA | https://solarteorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sonrisas and Smiles Dental Care | Springfield, VA | https://sonrisasandsmiles.com | [0] REJECT — DSO signal (heartland)
+- South Hills Dental Arts | Upper St Clair, PA | https://southhillsdentalarts.com | [0] MANUAL: REJECT — modern pro theme ©2026
+- South River Dentistry | Midlothian, VA | https://midlothiandentist.com | [0] REJECT — DSO signal (heartland)
+- South Side Dental | Charlottesville, VA | https://charlottesvilledentist.com | [0] EXCLUDED — prior round (domain match in EXCLUSIONS.md)
+- Southern Maryland Family Dental Associates | Gambrills, MD | https://somdfamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Soyfer DMD Fairfax Smiles | Fairfax, VA | https://fairfaxdentistva.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Sparks, Ronnie J, DDS | Charleston, WV | https://sparksfamilyorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Special Care Dentistry Frank S. Luxl, D.D.S., P.A | Wilmington, DE | https://familycaredentistry.us | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Spencer Dental & Braces | Richmond, VA | https://spencerdentalgroup.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Spina III, Joseph, DMD | Wayne, PA | https://drjspina.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Spivak, Karina, DDS | Severna Park, MD | https://bracesinthepark.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Spring Garden Dental – Daniel G. Laux, D.M.D. | York, PA | https://springgardendental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Spring Ridge Chiropractic | Frederick, MD | https://springridgechiropractic.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Springfield Complete Denistry | Springfield, VA | https://springfieldcompletedentistry.com | [0] REJECT — DSO signal (heartland)
+- Springfield Dentist - Dulac Dental of Springfield | Springfield, VA | https://dulacdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Springfield Healthy Smile | Springfield, VA | https://springfieldhealthysmile.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Springwood Dental Associates | York, PA | https://springwooddental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sradomski Mike J DMD | Cranberry Township, PA | https://cranberrytownshipdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Stall, David E, DDS | West Chester, PA | https://westtowndentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Stanley Horwitz & Associate-Eric S Hans DDS | Ardmore, PA | https://lowermerionpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Star Care Dental | Glen Mills, PA | https://starcaredental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Starlight Smiles Pediatric Dentistry, P.C. | Manassas, VA | https://starlightsmiles.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- State College Dentist | State College, PA | https://statecollegedentist.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Staunton City Dental Clinic | Staunton, VA | https://dentistoffices.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Staunton Dental Care | Staunton, VA | https://stauntondentist.com | [0] REJECT — DSO signal (heartland)
+- Steel City Orthodontics | Mcmurray, PA | https://steelcityorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Steel City Pediatric Dentistry | Sewickley, PA | https://steelcitypediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Stein, Charles A, DDS | York, PA | https://steinshannondental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Steliotes, Theodore P, DMD | Mcmurray, PA | https://steliotesdentalspa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Stensland Dental Studio | Williamsburg, VA | https://mywilliamsburgdentist.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Steven B Wright DMD PA | Rehoboth Beach, DE | https://rehobothbeachsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Steven Janowitz, D.D.S. | Potomac, MD | https://stevenjanowitzdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Steven Melman DMD | Bala Cynwyd, PA | https://stevenmelmandmd.com | [0] MANUAL: REJECT — bb-theme modern
+- Steven P Hearne PC | Suffolk, VA | https://suffolkbraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Stoute Dental | Crofton, MD | https://drstoute.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Stoutland, Alicia P, DDS | Chadds Ford, PA | https://4mybraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Strafford Dental: Dr. Eric Gartner | Wayne, PA | https://strafforddental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Stratford, Michael E., D.D.S., P.A. | Bel Air, MD | https://stratforddentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- Strawbridge Dental | Virginia Beach, VA | https://strawbridgedental.com | [0] REJECT — DSO signal (atlanticdental)
+- Stuart M Gutsche DMD PC | Paoli, PA | https://gutscheorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Stypula, Michael C DDS | Pittsburgh, PA | https://pittsburgh-periodontist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Suffolk Complete Dental Care | Suffolk, VA | https://suffolkcompletedentalcare.com | [0] REJECT — DSO signal (heartland)
+- Suh, Yoosung, DDS | Blue Bell, PA | https://charmpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sunshine Dental | Lititz, PA | https://sunshinedentalpc.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Sunshine Smiles Dental Care | Silver Spring, MD | https://sunshinesmilesdentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- SuperKids Pediatric Dentistry | Potomac, MD | https://superkidsdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Superior Cosmetic and Family Dentistry | Bowie, MD | https://superior-dentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Supernova Dental | Fairfax, VA | https://supernovadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Surya P Dhakar DDS PC | Glen Allen, VA | https://affordabledentistrichmond.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sussex Orthodontics | Lewes, DE | https://sussex-orthodontics.hub.biz | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Sweeney Utterback Dentistry, LLC | Virginia Beach, VA | https://sweeneyutterback.com | [0] REJECT — DSO signal (gentle dental)
+- Swiatowicz Dental Associates | Wilmington, DE | https://delawaredentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sycamore Family Dentistry | Midlothian, VA | https://sycamorefamilydentistryva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Sylvan Mintz DDS,Mscd & Jeremy J. Abbott DDS | Bethesda, MD | https://drsylvanmintz.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Taff & Levine DDS | Potomac, MD | https://taffandlevine.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Tafo-Tabue, Hendrick B, DDS | Richmond, VA | https://ivoirsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Taira, Gregg S, DDS | Gaithersburg, MD | https://smilemontgomery.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Talati, Ankit K, DDS | Mechanicsburg, PA | https://aspendentaljobs.com | [0] REJECT — DSO signal (brand domain)
+- Tamburrino Family Orthodontics | Kennett Square, PA | https://tfortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tammy DeGregorio, DMD | Pittsburgh, PA | https://holisticdentistpgh.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Tanzania Davis DDS PC | Bowie, MD | https://tdavisdds.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Tarver, Darryl T, DDS | Fredericksburg, VA | https://kravitzorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tassopoulou-Fishell, Maria K, DDS | Washington, PA | https://mandmorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tate, Carter S, DDS | Roanoke, VA | https://semtnerdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Tend Ballston | Arlington, VA | https://hellotend.com | [0] REJECT — DSO signal (brand domain)
+- Tender Care Pediatric Dentistry | Murrysville, PA | https://tendercarepediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Terry, Bruce R, DMD | Wayne, PA | https://endodonticspecialists.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Thariani, Hani M, DDS | Herndon, VA | https://tbraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- The Bright Smile Lab | Pikesville, MD | https://thebrightsmilelab.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- The Center For Airway & Facial Development | Newark, DE | https://airwayandfacialdevelopment.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- The Centre For Dental Excellence | Virginia Beach, VA | https://dunhamdental.com | [0] REJECT — DSO signal (a division of)
+- The Centre for Dentistry - Bernard T. Logan, DMD | Cranberry Township, PA | https://drbernielogan.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- The Dental Center | Baltimore, MD | https://qeip.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- The Dental Group | Lewes, DE | https://thedentalgrouplewes.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- The Dental Spa | Philadelphia/Bryn Mawr, PA | https://phillydentalspa.com | [0] MANUAL: REJECT — Divi ©2026 modern, multi-loc
+- The Dental Studio of Hampton Roads-Norfolk | Norfolk, VA | https://thedentalstudiohr.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- The Dentistry | Wexford, PA | https://thedentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- The Haven Family & Cosmetic Dentistry | Gambrills, MD | https://thehavendentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- The Maryland Center for Complete Dentistry | Owings Mills, MD | https://saveteeth.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- The Oral Surgery Group | Langhorne, PA | https://theoralsurgerygroup.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- The Orthodontic Group of Chester County | West Chester, PA | https://chestercountyorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- The Silberman Dental Group | Waldorf, MD | https://silbermandentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- The Smile Studio | Pittsburgh, PA | https://drmcushman.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- The Tooth Workshop | Chesterfield, VA | https://toothworkshop.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Theis, Jaron, DMD | Media, PA | https://smartarchesdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Thomas A. Conner DDS | Chesterfield, VA | https://drtomconner.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Thomas P Dougherty DDS | Wilmington, DE | https://christianacare.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Thomas S. Filip, DMD PC. | Carlisle, PA | https://tsfilip.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Thomson Drive Dental | Lynchburg, VA | https://thomsondrivedental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Thorn Run Dental Care | Moon Township, PA | https://thornrundentalcare.com | [0] REJECT — DSO signal (heartland)
+- Three Rivers Dental Group - Greensburg | Greensburg, PA | https://searchmagnetlocal.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Three Rivers Dental Group Cranberry | Cranberry Township, PA | https://threeriversdentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Three Rivers Endodontics | Pittsburgh, PA | https://3riversendo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Three Rivers Oral Surgery | Canonsburg, PA | https://3riversoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tidewater Family Dentistry | Newport News, VA | https://tidewaterfamilydentistry.com | [0] REJECT — DSO signal (a division of,atlanticdental)
+- Tilkin, Nancy, DDS | Silver Spring, MD | https://demarcotilkinortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Ting, Miriam, DDS | Paoli, PA | https://think-oral-implants-and-periodontics.org | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tinker Creek Dental Care | Roanoke, VA | https://tinkercreekdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Tiny Tooth Pediatric Dentistry | Herndon, VA | https://tinytoothdentist.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tiny Trips Pediatric Dentistry | Frederick, MD | https://tinytripsdental.com | [0] REJECT — DSO signal (gentle dental)
+- Tolley & Lorenzo | Lansdale, PA | https://dentistlansdalepa.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Tom Stanton DDS | Rockville, MD | https://stanton-perio.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tomb, Raymond | Bethel Park, PA | https://nutradentist.com | [0] REJECT — unreachable / dead / hijacked / parked (429)
+- Ton, Theresa P, DDS | Chantilly, VA | https://chantillypediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tong Dental Care | Gaithersburg, MD | https://tongdentalcare.com | [0] REJECT — DSO signal (gentle dental)
+- Tong Orthodontics | Fairfax, VA | https://tongortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tooth Town of Vienna | Vienna, VA | https://toothtownofvienna.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Top Dental | Manassas, VA | https://topdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Town Center Family Dentistry | Virginia Beach, VA | https://towncenterfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Towson Dental Care | Towson, MD | https://towsondentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Towson Dental Clinic | Towson, MD | https://advanceddentalcareoftowson.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Towson Smile Care | Towson, MD | https://towsonsmilecare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Toxic Free Dentistry | Ellicott City, MD | https://toxicfreedentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Tracey L Turner PC | Coraopolis, PA | https://dentisttraceyturner.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Tracy S Oliver & Associates | Virginia Beach, VA | https://startsmiling.org | [0] REJECT — DSO signal (a division of)
+- Treff, David M, DDS | Burke, VA | https://pediatricdentistryofburke.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tri-Hill Family Dentistry of York | York, PA | https://trihillfamilydentistry.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- True Smile | Falls Church, VA | https://truesmiledentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Truegem Smiles | Leesburg, VA | https://truegemsmiles.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Tudor, Cynthia K, DDS | Warrenton, VA | https://sentzgriffintudor.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Turner Mark G DDS PC | Roanoke, VA | https://markturnerdds.com | [0] REJECT — unreachable / dead / hijacked / parked (503)
+- Turner, Aron, DDS | Pikesville, MD | https://thedenturedoctor.dentist | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Tweed, Christine, DMD | Newark, DE | https://delawaremoderndental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Tylavsky Dentistry | Export, PA | https://tylavskydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Tyson Smiles | Vienna, VA | https://tysonsmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (525)
+- Tysons Dental Esthetics | Falls Church, VA | https://tysonsdentalesthetics.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Tysons Dental Spa | Vienna, VA | https://tysonsdentalspava.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ufberg Dental | Berwyn, PA | https://ufbergdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ujaoney, Shweta, DDS | Henrico, VA | https://glenallendentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- United Dental Arts Winchester | Winchester, VA | https://uniteddentalarts.com | [0] REJECT — DSO signal (heartland)
+- Universal Dentistry | Bensalem, PA | https://universaldentistry.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- University of Maryland Oral and Maxillofacial Surgery Associates | Baltimore, MD | https://medschool.umaryland.edu | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Upper Merion Dental Associates | King Of Prussia, PA | https://uppermeriondental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Urgent Dental Care/Smile Centers of America | Warrenton, VA | https://urgentdentalcare.us | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Urquiaga, Claudio L, DDS | Chantilly, VA | https://chantillysmiles.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Usmani, Muhammad, DDS | Laurel, MD | https://fultonfamilydentalcare.com | [0] REJECT — DSO signal (heartland)
+- Vagnetti, Mark E, DDS | Charlottesville, VA | https://piedmontendova.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Valley Dental Health | Hunt Valley, MD | https://valleydentalhealth.com | [0] MANUAL: REJECT — codebase-2 modern
+- Valley Denture Care | Staunton, VA | https://valleydenturecare.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Valley Endodontics and Microsurgery | Owings Mills, MD | https://valleyrct.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Valley Family Dentistry | Roanoke, VA | https://roanokevalleyfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Valley Health Woodruff & Gonzales Dental | Huntington, WV | https://valleyhealth.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Valley View Pediatric Dentistry | Washington, PA | https://valleyviewpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Valley Village Oral Surgery Associates: Bethany Serafin Awalt, DMD | Pikesville, MD | https://drbethanyawalt.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Valsala, Sivaraj P, DDS | Reston, VA | https://fairfaxcounty.gov | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Vande Visse, Jack E, DDS | Pittsburgh, PA | https://ads-endo.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Vargas Dental Associates | Bowie, MD | https://evargasdds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Vera Dentistry | Woodbridge, VA | https://veradentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Vernon Pediatric Dentistry | Severna Park, MD | https://vernonpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Verona Dental Care | Verona, PA | https://veronadentalcare.com | [0] REJECT — DSO signal (heartland)
+- Victor Terry DDS | Washington, DC | https://thedcdentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Victoria M Switzer | Ellicott City, MD | https://ellicottcityortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Vida Dental | Hagerstown, MD | https://vidadds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Vienna Smiles | Vienna, VA | https://viennasmilesva.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Village Dental of Leesburg | Leesburg, VA | https://dentistryofleesburg.com | [0] MANUAL: REJECT — "Village Dental" group
+- Vince Thomas S DMD | Greensburg, PA | https://drvincedmd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Vincent E Greco DDS PC | Chevy Chase, MD | https://vincentgrecodds.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Vipul Subramanian, DDS | Bethesda, MD | https://fdbethesda.com | [0] REJECT — DSO signal (heartland)
+- Virginia Advanced Surgical Arts | Mclean, VA | https://virginiaoralimplantsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Virginia Braces and Invisalign Center-Arlington | Arlington, VA | https://myvabraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Virginia Center for Advanced Dentistry: Dentist in Midlothian, VA | Midlothian, VA | https://vcadentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Virginia Dental & Anesthesia Associates | Fredericksburg, VA | https://vdaa.info | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Virginia Dental Care | Arlington, VA | https://vadentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (307)
+- Virginia Family Dentistry | Richmond, VA | https://vadentist.com | [0] MANUAL: REJECT — multi-office, modern blocksy
+- Virginia Orthodontic Partners - Burke | Burke, VA | https://vaorthodonticpartners.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Visser, Britt E, DDS | Virginia Beach, VA | https://vbortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Vital Dental Anesthesia | Virginia Beach, VA | https://vitaldentalanesthesia.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Vladimir Soyfer | Arlington, VA | https://topsmiledesign.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Vo, Ai Khiem, DDS | Owings Mills, MD | https://owingsmillsdentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Vu, John T, DDS | Alexandria, VA | https://valleydentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- WV Pediatric Dentistry P | Martinsburg, WV | https://wvpediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- WVU Dental Practice | Morgantown, WV | https://wvudentalcare.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wade P. Dressler | Easton, MD | https://dentalchoice.net | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Waibel Dental | Ambler, PA | https://waibeldental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wallengren DDS | Roland Park, MD | https://rolandparkdentistry.com | [0] MANUAL: REJECT — Ekwa WP modern ©2026
+- Walsh Reilly Dental Group | Havertown, PA | https://wrdentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Walters Group | West Chester, PA | https://waltersgroupapartments.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Ward, Maryanne, DDS | Glen Burnie, MD | https://arundeldentalgroup.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Warrenton Dental Center | Warrenton, VA | https://warrentondental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Warrenton Dental Cosmetic | Warrenton, VA | https://drsyungandjelinek.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Washington Family Dental Care | Washington, PA | https://washingtonfamilydentalcare.com | [0] REJECT — DSO signal (heartland)
+- Waterlase Laser Dentistry | Morgantown, WV | https://drjannbarber.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Waters Edge Dental Affiliated with The Smilist Dental | West Chester, PA | https://thesmilist.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Weaver, Bryan D, DDS | Morgantown, WV | https://wvuhealthcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Weiler Orthodontics and Invisalign | Harrisonburg, VA | https://weilerorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Weis, Morgan, DDS | Chesapeake, VA | https://weispediatricdentistry.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Weiss Family Dentistry | Cockeysville, MD | https://drweissdentistry.com | [0] MANUAL: REJECT — Elementor 'dentia' modern
+- Welcome Dental | West Chester, PA | https://welcomedental.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Wellington Dental Associates | Manassas, VA | https://wellington-dental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wellwood Family Dentistry | Baltimore, MD | https://wellwoodfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Welzel, Alexandra, DDS | Baltimore, MD | https://iwayloan.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Wesley R. Davis DDS | Hershey, PA | https://wesdavisdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- West Chester Dental Arts | West Chester, PA | https://wcdentalarts.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- West Chester Orthodontics | West Chester, PA | https://wcbraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- West Falls Church Dental | Falls Church, VA | https://westfallschurchdental.com | [0] REJECT — DSO signal (heartland)
+- West Springfield Smiles | Springfield, VA | https://westspringfielddentistry.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- West York Dental Care | York, PA | https://westyorkdentalcare.com | [0] REJECT — DSO signal (heartland)
+- Westover Dentistry | Richmond, VA | https://westoverdentistry.com | [0] MANUAL: REJECT — Duda modern; keyword-heavy but multi-vendor
+- Westover Family Dentistry | Winchester, VA | https://westoverfamilydentistry.com | [0] MANUAL: REJECT — Elementor modern
+- Westown Dental | Middletown, DE | https://westowndentalde.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Westphalia Dental II | Falls Church, VA | https://westphaliadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Westwood Park Dental | Fredericksburg, VA | https://westwoodparkdental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wexford Dental Arts | Wexford, PA | https://wexforddentalarts.com | [0] REJECT — DSO signal (heartland)
+- Wexford Family Dentistry | Wexford, PA | https://wexfordfamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wexford Pediatric Dental Associates | Sewickley, PA | https://mckee-kraig-c-dds.hub.biz | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Wheeling District Dental Society | Wheeling, WV | https://wheelingareawv.chambermaster.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- White Family Dental | Manheim, PA | https://whitefamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- White Oak Dental | Silver Spring, MD | https://whiteoakdentalllc.com | [0] REJECT — unreachable / dead / hijacked / parked (200)
+- White Rose Family Dental | York, PA | https://whiterosefamilydental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- White Willow Dental Arts | Fort Washington, PA | https://harmonydentalhealth.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Whyte Smiles | Richmond, VA | https://drwhytesmile.com | [0] REJECT — DSO signal (heartland)
+- Wicomico County Dental Center | Salisbury, MD | https://wicomicohealth.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wilfred M. Dyer III, D.D.S. | Salisbury, MD | https://dyerdental.com | [0] REJECT — DSO signal (gentle dental)
+- Williams, Adam C, DDS | Roanoke, VA | https://cwcfd.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Williamsburg Cosmetic Dentistry | Williamsburg, VA | https://williamsburgcosmeticdentistry.com | [0] REJECT — DSO signal (heartland)
+- Williamsburg Orthodontics | Williamsburg, VA | https://williamsburgorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Willis and Associates Family Dentistry | Fishersville, VA | https://willisdentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Willow Tree Dental | Morgantown, WV | https://willowtreedentalwv.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wilmington Dental Associates | Wilmington, DE | https://wilmingtondentalassociates.com | [0] REJECT — unreachable / dead / hijacked / parked (202)
+- Wilmington Pediatric Dentistry | Wilmington, DE | https://wpdde.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Wilson Dental Spa | Waldorf, MD | https://wilsondentalspa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wilson, Nicholas, DDS | Cranberry Township, PA | https://allaboutsmilesinc.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Winchester Oral Surgery Center | Winchester, VA | https://winchesteroralsurgerycenter.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Windrose Family Dentistry | Cranberry Township, PA | https://windrosefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Windsor, Robert Roy, DDS | Towson, MD | https://dentalcarealliance.net | [0] REJECT — DSO signal (dental care alliance)
+- Winebrenner, Robert, DDS | Hagerstown, MD | https://valleydentalassociates.net | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Wintner Morton S DMD-Moon | Coraopolis, PA | https://braces-pa.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Wisdom Teeth Extraction | Bensalem, PA | https://wisdomteethextractionbensalem.site | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wolfe, J C, DDS | Charlottesville, VA | https://dentistwolfe.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Wolfe, Melissa A, DDS | Staunton, VA | https://mapleridgedental.net | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Wong & Yung Family Dentistry | Virginia Beach, VA | https://wongandyungdds.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Woodbridge Family & Cosmetic Dentistry | Woodbridge, VA | https://mysmileonline.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Woodruff Dental Care | Huntington, WV | https://woodruffdentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Woodside Pediatric Dentistry | Warrenton, VA | https://mywoodsidepd.com | [0] REJECT — DSO signal (gentle dental)
+- Wright, Benjamin D, DMD | Severna Park, MD | https://orthowright.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Wu, Kenneth J, DDS | Germantown, MD | https://germantownoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Wyomissing Dentistry | Wyomissing, PA | https://wyomissingdentistry.com | [0] MANUAL: REJECT — Squarespace, low priority
+- Yalda Dental | Yardley, PA | https://yaldadental.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Yang, Allen, DDS | West Chester, PA | https://extonendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Yardley Dental Arts | Yardley, PA | https://yardleydentalarts.com | [0] MANUAL: REJECT — custom modern (mb2 string? no)
+- Yardley Oral Surgery | Yardley, PA | https://yardleyoralsurgery.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Yardley Ortho | Yardley, PA | https://yardleyortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Yasbin, Lorne I, DMD | Frederick, MD | https://dentalcarefrederick.com | [0] REJECT — DSO signal (dental care alliance)
+- Yazdani, Forough, DDS | Vienna, VA | https://viennafamilydentist.com | [0] REJECT — unreachable / dead / hijacked / parked (404)
+- Yazinski Rick DMD | Hershey, PA | https://dentistinhershey.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Yeager, Victoria F, DDS | Lynchburg, VA | https://forestdentalcenter.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Yerabollu, Subha C, DDS | Chantilly, VA | https://primefamilydentistrysr.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Yes Braces | Springfield, VA | https://yesbraces.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Yk Dental Chantilly PC | Chantilly, VA | https://ykdentalcare.com | [0] REJECT — unreachable / dead / hijacked / parked (500)
+- York Dental Health Associates | York, PA | https://yorkdentalhealthassociates.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Young, Catherine M, DMD | Newark, DE | https://christianadentalspa.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Young, Raymond F, DDS | Springfield, VA | https://smilevirginia.com | [0] REJECT — DSO signal (dental care alliance)
+- Younis, Blake A, DDS | Charleston, WV | https://charlestondental.org | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Your Main Line Dentist | Devon, PA | https://yourmainlinedentist.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Yts Dental Care | West Chester, PA | https://ytsdentalcare.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Yu, Robert, DDS | Gaithersburg, MD | https://dryuorthodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Zadeh Dental: Smiles of Vienna | Vienna, VA | https://dzmdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- Zak Ramsay, Heather D, DDS | Suffolk, VA | https://suffolkvadentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Zaki, Tarek O, DDS | Virginia Beach, VA | https://zakiortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Zambito Family Dentistry | Wheeling, WV | https://zambitodentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- Zand, Kaveh, DDS | Washington, DC | https://districtendodontics.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Zebrick, Brian, DDS | Lansdale, PA | https://bzortho.com | [0] REJECT — specialty/pediatric/referral or non-practice site
+- Zug, David A, DDS | Manheim, PA | https://zugdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
+- iCare Family Dentistry- Dr. Andy Chang | Fairfax, VA | https://icarefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+- virginia dental solutions | Reston, VA | https://vadentalsolutions.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)

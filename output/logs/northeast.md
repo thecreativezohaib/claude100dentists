@@ -624,3 +624,31 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Rejected as DSO (confirmed): The Smilist (Green & Glasser Commack), 42 North (New Haven Dental Group, Taylor Street Springfield, EMA Dental), Dental Care Alliance (Dentists Office of the Hudson Valley), Specialty1 Partners (Sonick), Hodosh (suspect DCA footprint) — plus 264 bulk string flags.
 - Excluded prior round: 12 hand-logged + 44 domain hits in bulk pool.
 - NOTE: WebSearch (200 cap) and Firecrawl (402 credits) were exhausted mid-run; discovery continued via YellowPages directories + direct fetches. Google/Healthgrades review counts could not be retrieved (Yelp/Healthgrades bot-walled) — all review fields are tagged UNKNOWN. Cloudflare-walled sites (~28 logged) not verified.
+
+## WAVE 2
+### Job A — review enrichment (old -> new)
+- Devine Dental | Greenwich, CT | dentistofgreenwich.com | JOB A 78->74 — Healthgrades 11 (4.6), RateMDs 4.5, thin corpus + some 'unnecessary procedures' complaints
+- Emmer | Morristown, NJ | tjemmer.com | JOB A 75->70 — Birdeye 7 (3.7), mixed; PX 4.3/15
+- Christensen Dental | Waldwick, NJ | cdanj.com | JOB A 73->77 — Birdeye 115 (4.9), Google 4.9, Healthgrades 65
+- Locust Valley Dentistry | Locust Valley, NY | locustvalleydentistry.com | JOB A 72->73 — Birdeye 71 (5.0)
+- Somerset Hills Family Dentist | Basking Ridge, NJ | somersethillsfamilydentist.com | JOB A 71->67 — thin (HG 2, Yelp few)
+- Bedford Cosmetic | Bedford, NH | bedfordcosmeticdentistry.com | JOB A 71->69 — ~4.9 avg, count unknown
+- Delmar Dental Medicine | Delmar, NY | delmardental.com | JOB A 70->68 — Dentascore 23, HG 9
+- Beliveau Dental | North Andover, MA | beliveaudental.com | JOB A 70->67 — Yelp 9, HG 3
+- Aesthetic Dental Innovations | Marblehead, MA | drdornbush.com | JOB A DROP — cgi-sys/suspendedpage.cgi "Account Suspended"
+- Ravel / nhestheticdentistry | Bedford, NH | nhestheticdentistry.com | JOB A 69->73 — Healthgrades 111 (4.7)
+- DeCasperis / Dazzling Smiles | Lebanon, NJ | dazzlingsmilesnj.com | JOB A 68->67 — Birdeye 97 (4.3)
+- Pioneer Valley Dental Arts | Longmeadow, MA | pioneervalleydentalarts.com | JOB A 67->74 — Birdeye 285 (4.9), Dentascore 149
+- Aesthetic Image Dentistry | Mendham, NJ | aestheticimagedentistry.com | JOB A 66->72 — Demandforce 852 (5.0), Zocdoc 138 (4.92)
+- Upper Valley Esthetic Dental | Hanover, NH | drrogerphillips.com | JOB A 66->62 — HG 3 (3.7), thin
+- Halle DMD | Commack, NY | halledental.com | JOB A 64->74 — Demandforce 1,317 (5.0); relocated to new office Oct 2023
+- Main Street Family Dentistry | Montpelier, VT | mainstreetfamilydentistryvt.com | JOB A 62->66 — Birdeye 183, PracticeMojo 128 (4.7)
+- Marblehead Dental | Marblehead, MA | marbleheaddental.com | JOB A 61->60 — HG 4, thin
+- Laura Randolph | Mahwah, NJ | drlaurarandolph.com | JOB A 60->58 — Birdeye 11 (5.0), thin
+### Job B — new screening
+- Portland Dental Health Care & Implant Center (Verrier-Davis/Davis) | Portland, ME | portlandmainedental.com | WAVE2 VIABLE ~72 — PBHS "© 2021 PBHS, Inc.", COVID-19 "Limited services right now" banner still live in Oct-2025 archive; since 1978; US News 19 reviews 5.0; via web.archive.org (Cloudflare wall)
+- Center for Dental Excellence (Christian) | Simsbury/W Hartford/Litchfield, CT | ctcde.com | WAVE2 VIABLE ~72 — PBHS Template 2112, title omits Litchfield office; since ~1966, 3 docs, 3 offices; Birdeye 387 (4.9); via archive
+- Progressive Dentistry (Steven Levy) | Merrick, NY | merrickdentistry.com | WAVE2 VIABLE ~70 — PBHS Template2120, solo since 1984, Birdeye 332 (4.9), Chamber 179; via archive
+- Keith Asarkof DMD & Associates | Lexington, MA | asarkof.com | WAVE2 CANDIDATE ~63 — PBHS Template2120, 3 docs, Birdeye 29 (4.5)+19; general/family, little cosmetic; lower FC/Gap
+- Laurence Schwartz DDS | Huntington, NY | huntingtonnysmiles.com | WAVE2 REJECT-LOW ~58 — Officite ©2024 accessibility widget, HG 2 reviews, solo
+- North Shore Prosthodontic Associates | Manhasset, NY | nspali.com | WAVE2 pending — Dentalfone ©2013-2026 LayerSlider (refreshed?)

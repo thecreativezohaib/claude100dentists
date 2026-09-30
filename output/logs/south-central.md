@@ -671,3 +671,23 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Love Dentistry / Progressive Dental Care Tulsa / Highlands Family Dentistry / Smile Fort Worth / Crescent Hill | various | REJECT — modern or low priority
 
 NOTE: WebSearch quota (200) and Firecrawl credits exhausted mid-run; discovery continued via TNT client-roster mining + threebestrated/opencare directory pages. Google review counts unretrievable => all reviews tagged UNKNOWN.
+
+## WAVE 2
+### Job A - review enrichment of finalists (2026-09-30; all 18 URLs curl 200, none suspended/parked)
+- Heights Family Dentistry | 70 -> 72 | Birdeye 146 @4.8, Chamber 110 @4.9; 2nd doctor Kwee
+- OKC Dental Arts | 69 -> 73 | Birdeye 431 @4.9, FB 89
+- Legacy Family Dental | 68 -> 64 | Google ~26-27 @4.9 (thin)
+- West University Dentistry | 67 -> 72 | 91 reviews @4.9 (directory); est. 1972, Pickei bought 2021; MB2 flag was base64 false positive
+- Donna L. Kiesel DDS | 66 -> 70 | Healthgrades 284 @4.9
+- Gary N. Pointer DDS | 65 -> 63 | Birdeye 29 (thin)
+- Castleberry Center | 62 -> 58 | 3.8 aggregate/14, complaint (thin/mixed)
+- Garrett Family Dental | 62 -> 64 | WebMD 144 @5.0
+- Terri Alani DDS | 61 -> 62 | Birdeye 262 @4.8; FLAG license 'expired 2025' snippet
+- Houston Prosthodontic Specialists | 60 -> 60 | reviews still UNKNOWN (ProvenExpert empty)
+- Campbell Dental | 60 -> 64 | PatientConnect365 269, Yelp 48
+- Michel Dental | 59 -> 64 | Google 913 UNCONFIRMED; Yelp 20, HG 10
+- John Groves DDS | 59 -> 56 | Healthgrades 20 @~3.6
+- Gary L. White DDS | 59 -> 53 | essentially no reviews
+- Ridgepointe Dental | 59 -> 73 | Birdeye 905 @4.9 (JSON-LD)
+- Austin Primary Dental | 58 -> 63 | Birdeye 370, Yelp 58
+### Job B - new candidates (screened lines follow)
