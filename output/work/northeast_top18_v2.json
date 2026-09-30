@@ -9,7 +9,7 @@
   "vendor": "ProSites",
   "decision_maker": "Barbara J. Devine, DMD, MAGD (owner) / Vincent B. DeFina, DMD, FAGD",
   "est": "In practice since 1977; current Greenwich location since 1990 (VERIFIED, About page); 2 doctors",
-  "reviews": "Thin public corpus: Healthgrades 11 reviews (4.6/5 recommend); RateMDs 4.5/5; Yelp listing exists with a few complaints about 'unnecessary procedures'; no Google count retrievable (VERIFIED via WebSearch snippets, 2026-09)",
+  "reviews": "Thin public corpus: Birdeye 15 + 9 reviews (two listings, ~5.0); Healthgrades 11 reviews (4.6/5 recommend); RateMDs 4.5/5; Yelp listing exists with a few complaints about 'unnecessary procedures'; no Google count retrievable (VERIFIED via WebSearch snippets, 2026-09)",
   "top_hook": "Both doctors are Pankey Institute alumni; Dr. Devine \"has been part of the Visiting Faculty at the Pankey Institute since 1996\" yet the site title says just \"Welcome\"",
   "independence": "INFERRED — About page names two owner-dentists (Devine, DeFina); legal name Devine Dental LLC; no group/DSO language, no DSO strings in raw HTML; booking/portal domain not identified",
   "breakdown": {
@@ -23,7 +23,7 @@
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Devine Dental LLC (Devine & DeFina) — Greenwich, CT — https://www.dentistofgreenwich.com/ — 74/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: In practice since 1977; current Greenwich location since 1990 (VERIFIED, About page); 2 doctors | Reviews: Thin public corpus: Healthgrades 11 reviews (4.6/5 recommend); RateMDs 4.5/5; Yelp listing exists with a few complaints about 'unnecessary procedures'; no Google count retrievable (VERIFIED via WebSearch snippets, 2026-09)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\" (mojibake, frozen); homepage <title> \"Cosmetic Dentistry Greenwich | Welcome | Devine Dental LLC\" (generic \"Welcome\" filler); http:// URL does not redirect to https (http://www.dentistofgreenwich.com/ stays http); 78KB template page for a Pankey-lineage Greenwich practice\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC16/20 BM14/15 WW11/15 Gap10/15 Dep8/10 Tr8/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap7 Dep7 Tr9 Tech8 (/10)\n• Independence: INFERRED — About page names two owner-dentists (Devine, DeFina); legal name Devine Dental LLC; no group/DSO language, no DSO strings in raw HTML; booking/portal domain not identified | Decision-maker: Barbara J. Devine, DMD, MAGD (owner) / Vincent B. DeFina, DMD, FAGD\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 1 (Greenwich 06830 market; comprehensive/Pankey-style care; two senior doctors) | Digital spend: ProSites subscription (2019-era template)\n• Hooks: 1) Both doctors are Pankey Institute alumni; Dr. Devine \"has been part of the Visiting Faculty at the Pankey Institute since 1996\" yet the site title says just \"Welcome\" 2) Footer still reads \"Copyright � 2019 Prosites, Inc.\" and the http:// address does not force https\n• Pitch/offer: Comprehensive-dentistry flagship redesign that leads with Pankey credentials and case gallery — $12–15k group-flagship tier. Retirement-horizon flag (in practice since 1977): probe succession before pitching.\n• Sources: Live fetch of dentistofgreenwich.com (homepage raw HTML + /our-practice/meet-the-doctors/); YellowPages Greenwich listing | Wave-2 review enrichment (2026-09-30): Healthgrades, RateMDs, Yelp snippets; homepage re-curled 200 OK",
+  "profile_md": "Devine Dental LLC (Devine & DeFina) — Greenwich, CT — https://www.dentistofgreenwich.com/ — 74/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: In practice since 1977; current Greenwich location since 1990 (VERIFIED, About page); 2 doctors | Reviews: Thin public corpus: Birdeye 15 + 9 reviews (two listings, ~5.0); Healthgrades 11 reviews (4.6/5 recommend); RateMDs 4.5/5; Yelp listing exists with a few complaints about 'unnecessary procedures'; no Google count retrievable (VERIFIED via WebSearch snippets, 2026-09)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\" (mojibake, frozen); homepage <title> \"Cosmetic Dentistry Greenwich | Welcome | Devine Dental LLC\" (generic \"Welcome\" filler); http:// URL does not redirect to https (http://www.dentistofgreenwich.com/ stays http); 78KB template page for a Pankey-lineage Greenwich practice\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC16/20 BM14/15 WW11/15 Gap10/15 Dep8/10 Tr8/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap7 Dep7 Tr9 Tech8 (/10)\n• Independence: INFERRED — About page names two owner-dentists (Devine, DeFina); legal name Devine Dental LLC; no group/DSO language, no DSO strings in raw HTML; booking/portal domain not identified | Decision-maker: Barbara J. Devine, DMD, MAGD (owner) / Vincent B. DeFina, DMD, FAGD\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 1 (Greenwich 06830 market; comprehensive/Pankey-style care; two senior doctors) | Digital spend: ProSites subscription (2019-era template)\n• Hooks: 1) Both doctors are Pankey Institute alumni; Dr. Devine \"has been part of the Visiting Faculty at the Pankey Institute since 1996\" yet the site title says just \"Welcome\" 2) Footer still reads \"Copyright � 2019 Prosites, Inc.\" and the http:// address does not force https\n• Pitch/offer: Comprehensive-dentistry flagship redesign that leads with Pankey credentials and case gallery — $12–15k group-flagship tier. Retirement-horizon flag (in practice since 1977): probe succession before pitching.\n• Sources: Live fetch of dentistofgreenwich.com (homepage raw HTML + /our-practice/meet-the-doctors/); YellowPages Greenwich listing | Wave-2 review enrichment (2026-09-30): Healthgrades, RateMDs, Yelp snippets; homepage re-curled 200 OK",
   "v1_score": 78
  },
  {
@@ -90,7 +90,7 @@
   "vendor": "ProSites",
   "decision_maker": "Dr. Schmitz, DMD (first name UNKNOWN) — with Erika Schweighardt, DMD",
   "est": "Opened 1995 as Locust Valley Dentistry (VERIFIED, homepage); 2+ doctors visible",
-  "reviews": "Birdeye 71 reviews / 5.0; Yelp listing present (count not retrieved); site has a patient-reviews page (VERIFIED via snippet)",
+  "reviews": "Birdeye 78 reviews / 5.0; Yelp listing present (count not retrieved); site has a patient-reviews page (VERIFIED via snippet)",
   "top_hook": "\"We opened our doors as Locust Valley Dentistry in 1995\" — 30-year anniversary just passed on a 2019 ProSites template",
   "independence": "INFERRED — two named DMDs; opened as independent 'Locust Valley Dentistry' in 1995; no DSO language",
   "breakdown": {
@@ -104,7 +104,7 @@
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Locust Valley Dentistry — Locust Valley, NY — https://www.locustvalleydentistry.com/ — 73/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: Opened 1995 as Locust Valley Dentistry (VERIFIED, homepage); 2+ doctors visible | Reviews: Birdeye 71 reviews / 5.0; Yelp listing present (count not retrieved); site has a patient-reviews page (VERIFIED via snippet)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\" (mojibake); homepage title \"Welcome | Locust Valley, NY | Locust Valley Dentistry\" (generic Welcome); 125KB template; implant, Invisalign and veneer pages but no visual case work above the fold\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC16/20 BM11/15 WW11/15 Gap12/15 Dep8/10 Tr7/10 Cv4/5 Sp2/3 DM2/2 | Subs: Gap8 Dep7 Tr8 Tech8 (/10)\n• Independence: INFERRED — two named DMDs; opened as independent 'Locust Valley Dentistry' in 1995; no DSO language | Decision-maker: Dr. Schmitz, DMD (first name UNKNOWN) — with Erika Schweighardt, DMD\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 1 (North Shore Gold Coast market; implants/cosmetic emphasis) | Digital spend: ProSites subscription\n• Hooks: 1) \"We opened our doors as Locust Valley Dentistry in 1995\" — 30-year anniversary just passed on a 2019 ProSites template 2) Title tag literally begins \"Welcome |\"\n• Pitch/offer: Gold Coast premium redesign — $8–12k standard tier.\n• Sources: Live fetch locustvalleydentistry.com (raw HTML + meet-the-doctors); YellowPages Oyster Bay listing | Wave-2 review enrichment (2026-09-30): Birdeye 71 reviews; homepage re-curled 200 OK",
+  "profile_md": "Locust Valley Dentistry — Locust Valley, NY — https://www.locustvalleydentistry.com/ — 73/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: Opened 1995 as Locust Valley Dentistry (VERIFIED, homepage); 2+ doctors visible | Reviews: Birdeye 78 reviews / 5.0; Yelp listing present (count not retrieved); site has a patient-reviews page (VERIFIED via snippet)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\" (mojibake); homepage title \"Welcome | Locust Valley, NY | Locust Valley Dentistry\" (generic Welcome); 125KB template; implant, Invisalign and veneer pages but no visual case work above the fold\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC16/20 BM11/15 WW11/15 Gap12/15 Dep8/10 Tr7/10 Cv4/5 Sp2/3 DM2/2 | Subs: Gap8 Dep7 Tr8 Tech8 (/10)\n• Independence: INFERRED — two named DMDs; opened as independent 'Locust Valley Dentistry' in 1995; no DSO language | Decision-maker: Dr. Schmitz, DMD (first name UNKNOWN) — with Erika Schweighardt, DMD\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 1 (North Shore Gold Coast market; implants/cosmetic emphasis) | Digital spend: ProSites subscription\n• Hooks: 1) \"We opened our doors as Locust Valley Dentistry in 1995\" — 30-year anniversary just passed on a 2019 ProSites template 2) Title tag literally begins \"Welcome |\"\n• Pitch/offer: Gold Coast premium redesign — $8–12k standard tier.\n• Sources: Live fetch locustvalleydentistry.com (raw HTML + meet-the-doctors); YellowPages Oyster Bay listing | Wave-2 review enrichment (2026-09-30): Birdeye 71 reviews; homepage re-curled 200 OK",
   "v1_score": 72
  },
  {
@@ -112,45 +112,18 @@
   "city": "Basking Ridge",
   "state": "NJ",
   "url": "https://www.somersethillsfamilydentist.com/",
-  "score": 67,
+  "score": 68,
   "likelihood": "MEDIUM-HIGH",
   "vendor": "ProSites",
   "decision_maker": "Joseph M. Micale, DMD (owner)",
   "est": "Serving Somerset Hills since 1993 (VERIFIED, site copy); multi-doctor UNKNOWN",
-  "reviews": "Thin public corpus: Healthgrades 2 reviews; Yelp few reviews, 5 stars; no Google/Birdeye count found (VERIFIED via snippets). Site has /testimonials/ and /patient-reviews/ pages",
+  "reviews": "Modest corpus: Birdeye 42 reviews / 5.0 (Birdeye directory JSON-LD); Healthgrades 2; Yelp few reviews, 5 stars (VERIFIED). Site has /testimonials/ and /patient-reviews/ pages",
   "top_hook": "Doctor-bio URL /our-practice/meet-the-doctor/ 404s with \"Sorry, we looked all over\" on the practice's own site",
   "independence": "INFERRED — PA named for owner Dr. Micale; no group language or DSO strings",
   "breakdown": {
    "FC": 14,
    "BM": 11,
    "WW": 11,
-   "Gap": 9,
-   "Dep": 8,
-   "Tr": 7,
-   "Cv": 3,
-   "Sp": 2,
-   "DM": 2
-  },
-  "profile_md": "Somerset Hills Family Dentist (Joseph M. Micale, DMD, PA) — Basking Ridge, NJ — https://www.somersethillsfamilydentist.com/ — 67/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: Serving Somerset Hills since 1993 (VERIFIED, site copy); multi-doctor UNKNOWN | Reviews: Thin public corpus: Healthgrades 2 reviews; Yelp few reviews, 5 stars; no Google/Birdeye count found (VERIFIED via snippets). Site has /testimonials/ and /patient-reviews/ pages\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\"; /our-practice/meet-the-doctor/ returns a soft \"Page Not Found\" (\"Sorry, we looked all over but couldn't find the page you requested\"); title \"Basking Ridge NJ Dentist | Dr Joseph Micale | General Dentistry | NJ Cosmetic Dentist\" (keyword chain); http:// address does not redirect to https\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC14/20 BM11/15 WW11/15 Gap9/15 Dep8/10 Tr7/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap6 Dep7 Tr8 Tech8 (/10)\n• Independence: INFERRED — PA named for owner Dr. Micale; no group language or DSO strings | Decision-maker: Joseph M. Micale, DMD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 1-2 (Somerset Hills/Bernardsville affluent market; implants 23 mentions, cosmetic) | Digital spend: ProSites subscription\n• Hooks: 1) Doctor-bio URL /our-practice/meet-the-doctor/ 404s with \"Sorry, we looked all over\" on the practice's own site 2) Since 1993 with patients of \"over 40 years\" quoted in testimonials — none of it is structured as proof\n• Pitch/offer: Somerset Hills boutique redesign with fixed doctor bio + review integration — $8–12k standard tier.\n• Sources: Live fetch somersethillsfamilydentist.com raw HTML | Wave-2 review enrichment (2026-09-30): Healthgrades, Yelp snippets; homepage re-curled 200 OK",
-  "v1_score": 71
- },
- {
-  "name": "Bedford Cosmetic & Restorative Dentistry (Hedstrom / Persha)",
-  "city": "Bedford",
-  "state": "NH",
-  "url": "https://www.bedfordcosmeticdentistry.com/",
-  "score": 69,
-  "likelihood": "MEDIUM-HIGH",
-  "vendor": "TNT Dental",
-  "decision_maker": "Joseph Hedstrom, DDS (founder, opened 1987) — successor Alokh Persha, DDS",
-  "est": "Hedstrom opened private practice in Bedford 1987, 33+ yrs per bio (VERIFIED); 2 doctors",
-  "reviews": "Count UNKNOWN: ~4.9 average cited in search snippet (source unnamed); Healthgrades 1 review for Dr. Hedstrom ('awesome dental care for over 25 years'); Yelp/Facebook listings exist; site has reviews.html",
-  "top_hook": "Generational handoff visible in the site itself: nav \"Meet Dr. Persha\" but body copy \"Dr. Hedstrom and his team\"",
-  "independence": "INFERRED — bios name founder and successor; no group language or DSO strings",
-  "breakdown": {
-   "FC": 12,
-   "BM": 13,
-   "WW": 12,
    "Gap": 10,
    "Dep": 8,
    "Tr": 7,
@@ -158,7 +131,34 @@
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Bedford Cosmetic & Restorative Dentistry (Hedstrom / Persha) — Bedford, NH — https://www.bedfordcosmeticdentistry.com/ — 69/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: Hedstrom opened private practice in Bedford 1987, 33+ yrs per bio (VERIFIED); 2 doctors | Reviews: Count UNKNOWN: ~4.9 average cited in search snippet (source unnamed); Healthgrades 1 review for Dr. Hedstrom ('awesome dental care for over 25 years'); Yelp/Facebook listings exist; site has reviews.html\n• Site (observed): TNT Dental; footer \"©Copyright 2016, Bedford Cosmetic & Restorative Dentistry | Site designed and maintained by TNT Dental\"; 17KB homepage; homepage copy still says \"Dr. Hedstrom and his Bedford, NH dental team\" while nav says \"Meet Dr. Persha\" (stale handoff copy); 360 NH-101 shared building with a second practice\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC12/20 BM13/15 WW12/15 Gap10/15 Dep8/10 Tr7/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap7 Dep7 Tr9 Tech9 (/10)\n• Independence: INFERRED — bios name founder and successor; no group language or DSO strings | Decision-maker: Joseph Hedstrom, DDS (founder, opened 1987) — successor Alokh Persha, DDS\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2-3 (Bedford/Manchester NH; implants, cosmetic, sleep apnea) | Digital spend: TNT Dental subscription\n• Hooks: 1) Generational handoff visible in the site itself: nav \"Meet Dr. Persha\" but body copy \"Dr. Hedstrom and his team\" 2) ©2016 footer on a 10-year-old TNT template\n• Pitch/offer: Handoff-positioning redesign for the new owner — $8–12k standard tier.\n• Sources: Live fetch bedfordcosmeticdentistry.com (home, meet-dr-hedstrom.html, meet-dr-persha.html) | Wave-2 review enrichment (2026-09-30): Healthgrades, Yelp/Facebook listings; homepage re-curled 200 OK",
+  "profile_md": "Somerset Hills Family Dentist (Joseph M. Micale, DMD, PA) — Basking Ridge, NJ — https://www.somersethillsfamilydentist.com/ — 68/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: Serving Somerset Hills since 1993 (VERIFIED, site copy); multi-doctor UNKNOWN | Reviews: Modest corpus: Birdeye 42 reviews / 5.0 (Birdeye directory JSON-LD); Healthgrades 2; Yelp few reviews, 5 stars (VERIFIED). Site has /testimonials/ and /patient-reviews/ pages\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\"; /our-practice/meet-the-doctor/ returns a soft \"Page Not Found\" (\"Sorry, we looked all over but couldn't find the page you requested\"); title \"Basking Ridge NJ Dentist | Dr Joseph Micale | General Dentistry | NJ Cosmetic Dentist\" (keyword chain); http:// address does not redirect to https\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC14/20 BM11/15 WW11/15 Gap10/15 Dep8/10 Tr7/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech8 (/10)\n• Independence: INFERRED — PA named for owner Dr. Micale; no group language or DSO strings | Decision-maker: Joseph M. Micale, DMD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 1-2 (Somerset Hills/Bernardsville affluent market; implants 23 mentions, cosmetic) | Digital spend: ProSites subscription\n• Hooks: 1) Doctor-bio URL /our-practice/meet-the-doctor/ 404s with \"Sorry, we looked all over\" on the practice's own site 2) Since 1993 with patients of \"over 40 years\" quoted in testimonials — none of it is structured as proof\n• Pitch/offer: Somerset Hills boutique redesign with fixed doctor bio + review integration — $8–12k standard tier.\n• Sources: Live fetch somersethillsfamilydentist.com raw HTML | Wave-2 review enrichment (2026-09-30): Healthgrades, Yelp snippets; homepage re-curled 200 OK",
+  "v1_score": 71
+ },
+ {
+  "name": "Bedford Cosmetic & Restorative Dentistry (Hedstrom / Persha)",
+  "city": "Bedford",
+  "state": "NH",
+  "url": "https://www.bedfordcosmeticdentistry.com/",
+  "score": 75,
+  "likelihood": "MEDIUM-HIGH",
+  "vendor": "TNT Dental",
+  "decision_maker": "Joseph Hedstrom, DDS (founder, opened 1987) — successor Alokh Persha, DDS",
+  "est": "Hedstrom opened private practice in Bedford 1987, 33+ yrs per bio (VERIFIED); 2 doctors",
+  "reviews": "Birdeye 374 reviews / 5.0 (Birdeye Bedford NH directory JSON-LD, VERIFIED) invisible on the homepage; Healthgrades 1 review for Dr. Hedstrom ('awesome dental care for over 25 years'); Yelp/Facebook listings exist; site has reviews.html",
+  "top_hook": "Generational handoff visible in the site itself: nav \"Meet Dr. Persha\" but body copy \"Dr. Hedstrom and his team\"",
+  "independence": "INFERRED — bios name founder and successor; no group language or DSO strings",
+  "breakdown": {
+   "FC": 13,
+   "BM": 13,
+   "WW": 12,
+   "Gap": 13,
+   "Dep": 8,
+   "Tr": 7,
+   "Cv": 5,
+   "Sp": 2,
+   "DM": 2
+  },
+  "profile_md": "Bedford Cosmetic & Restorative Dentistry (Hedstrom / Persha) — Bedford, NH — https://www.bedfordcosmeticdentistry.com/ — 75/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: Hedstrom opened private practice in Bedford 1987, 33+ yrs per bio (VERIFIED); 2 doctors | Reviews: Birdeye 374 reviews / 5.0 (Birdeye Bedford NH directory JSON-LD, VERIFIED) invisible on the homepage; Healthgrades 1 review for Dr. Hedstrom ('awesome dental care for over 25 years'); Yelp/Facebook listings exist; site has reviews.html\n• Site (observed): TNT Dental; footer \"©Copyright 2016, Bedford Cosmetic & Restorative Dentistry | Site designed and maintained by TNT Dental\"; 17KB homepage; homepage copy still says \"Dr. Hedstrom and his Bedford, NH dental team\" while nav says \"Meet Dr. Persha\" (stale handoff copy); 360 NH-101 shared building with a second practice\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC13/20 BM13/15 WW12/15 Gap13/15 Dep8/10 Tr7/10 Cv5/5 Sp2/3 DM2/2 | Subs: Gap9 Dep7 Tr9 Tech9 (/10)\n• Independence: INFERRED — bios name founder and successor; no group language or DSO strings | Decision-maker: Joseph Hedstrom, DDS (founder, opened 1987) — successor Alokh Persha, DDS\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2-3 (Bedford/Manchester NH; implants, cosmetic, sleep apnea) | Digital spend: TNT Dental subscription\n• Hooks: 1) Generational handoff visible in the site itself: nav \"Meet Dr. Persha\" but body copy \"Dr. Hedstrom and his team\" 2) ©2016 footer on a 10-year-old TNT template\n• Pitch/offer: Handoff-positioning redesign for the new owner — $8–12k standard tier.\n• Sources: Live fetch bedfordcosmeticdentistry.com (home, meet-dr-hedstrom.html, meet-dr-persha.html) | Wave-2 review enrichment (2026-09-30): Healthgrades, Yelp/Facebook listings; homepage re-curled 200 OK",
   "v1_score": 71
  },
  {
@@ -171,7 +171,7 @@
   "vendor": "Custom-dated",
   "decision_maker": "Thomas H. Abele, DMD, FAGD (owner)",
   "est": "Located in Delmar since 1969 (VERIFIED, homepage); Abele offering implants 30+ years; other doctors UNKNOWN",
-  "reviews": "Moderate corpus: Dentascore 23 reviews; Healthgrades 9 reviews; Vitals 3.4/5 (5 ratings); BBB profile; Yelp listing; long-tenure patient comments (30+ yrs) (VERIFIED via snippets)",
+  "reviews": "Moderate corpus: Birdeye 57 reviews / 5.0 (plus a 7-review / 2.7 duplicate listing); Dentascore 23 reviews; Healthgrades 9 reviews; Vitals 3.4/5 (5 ratings); BBB profile; Yelp listing; long-tenure patient comments (30+ yrs) (VERIFIED via snippets)",
   "top_hook": "Open in Delmar \"since 1969\" and on-site ceramic lab, yet the site is a keyword-stuffed 2016 .htm build with an unrendered \"&copy;\" in the footer",
   "independence": "INFERRED — homepage names sole owner Dr. Abele; no group language or DSO strings",
   "breakdown": {
@@ -185,7 +185,7 @@
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Delmar Dental Medicine (Thomas H. Abele, DMD, FAGD) — Delmar, NY — https://delmardental.com/ — 68/100 — MEDIUM(medium)\n• Est/Doctors: Located in Delmar since 1969 (VERIFIED, homepage); Abele offering implants 30+ years; other doctors UNKNOWN | Reviews: Moderate corpus: Dentascore 23 reviews; Healthgrades 9 reviews; Vitals 3.4/5 (5 ratings); BBB profile; Yelp listing; long-tenure patient comments (30+ yrs) (VERIFIED via snippets)\n• Site (observed): Legacy .htm site (22KB): footer \"Copyright &copy; Delmar Dental Medicine 2016. All Rights Reserved. Website Design by WebDesign\" (unrendered HTML entity in visible text); title is a keyword string \"Dentist Delmar NY Dental Practice Glenmont Dental Office Slingerlands NY Dental Care\"; pages named /dentalimplants.htm, /oralsurgery.htm; http:// URL does not redirect to https\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC12/20 BM13/15 WW13/15 Gap10/15 Dep7/10 Tr6/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap7 Dep6 Tr9 Tech9 (/10)\n• Independence: INFERRED — homepage names sole owner Dr. Abele; no group language or DSO strings | Decision-maker: Thomas H. Abele, DMD, FAGD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2 (Capital District; on-site lab, conscious sedation, implants/oral surgery) | Digital spend: Custom/agency-built site (2016); no vendor subscription identified\n• Hooks: 1) Open in Delmar \"since 1969\" and on-site ceramic lab, yet the site is a keyword-stuffed 2016 .htm build with an unrendered \"&copy;\" in the footer 2) Sedation + implants + in-house lab are undersold by the current pages\n• Pitch/offer: Heritage-forward redesign ('since 1969') with sedation/implant service pages — $8–12k. Retirement-horizon flag (55+ years in one location); succession unknown.\n• Sources: Live fetch delmardental.com raw HTML; About-page text via search snippet (Delmar Dental Medicine since 1969) | Wave-2 review enrichment (2026-09-30): Dentascore 23, Healthgrades 9, Vitals 5; homepage re-curled 200 OK",
+  "profile_md": "Delmar Dental Medicine (Thomas H. Abele, DMD, FAGD) — Delmar, NY — https://delmardental.com/ — 68/100 — MEDIUM(medium)\n• Est/Doctors: Located in Delmar since 1969 (VERIFIED, homepage); Abele offering implants 30+ years; other doctors UNKNOWN | Reviews: Moderate corpus: Birdeye 57 reviews / 5.0 (plus a 7-review / 2.7 duplicate listing); Dentascore 23 reviews; Healthgrades 9 reviews; Vitals 3.4/5 (5 ratings); BBB profile; Yelp listing; long-tenure patient comments (30+ yrs) (VERIFIED via snippets)\n• Site (observed): Legacy .htm site (22KB): footer \"Copyright &copy; Delmar Dental Medicine 2016. All Rights Reserved. Website Design by WebDesign\" (unrendered HTML entity in visible text); title is a keyword string \"Dentist Delmar NY Dental Practice Glenmont Dental Office Slingerlands NY Dental Care\"; pages named /dentalimplants.htm, /oralsurgery.htm; http:// URL does not redirect to https\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC12/20 BM13/15 WW13/15 Gap10/15 Dep7/10 Tr6/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap7 Dep6 Tr9 Tech9 (/10)\n• Independence: INFERRED — homepage names sole owner Dr. Abele; no group language or DSO strings | Decision-maker: Thomas H. Abele, DMD, FAGD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2 (Capital District; on-site lab, conscious sedation, implants/oral surgery) | Digital spend: Custom/agency-built site (2016); no vendor subscription identified\n• Hooks: 1) Open in Delmar \"since 1969\" and on-site ceramic lab, yet the site is a keyword-stuffed 2016 .htm build with an unrendered \"&copy;\" in the footer 2) Sedation + implants + in-house lab are undersold by the current pages\n• Pitch/offer: Heritage-forward redesign ('since 1969') with sedation/implant service pages — $8–12k. Retirement-horizon flag (55+ years in one location); succession unknown.\n• Sources: Live fetch delmardental.com raw HTML; About-page text via search snippet (Delmar Dental Medicine since 1969) | Wave-2 review enrichment (2026-09-30): Dentascore 23, Healthgrades 9, Vitals 5; homepage re-curled 200 OK",
   "v1_score": 70
  },
  {
@@ -193,26 +193,26 @@
   "city": "North Andover",
   "state": "MA",
   "url": "https://www.beliveaudental.com/",
-  "score": 67,
+  "score": 71,
   "likelihood": "MEDIUM-HIGH",
   "vendor": "TNT Dental",
   "decision_maker": "E. Charles Beliveau, DDS (owner)",
   "est": "Delivering dental excellence since 1989 (VERIFIED, homepage); 30+ years; ~1 doctor visible",
-  "reviews": "Thin/mixed: Yelp 9 reviews / 5.0; Healthgrades 3 reviews; Sharecare 3.7 from 3 ratings; site says 'many people leave us kind words on Google and Facebook' but no count shown (VERIFIED)",
+  "reviews": "Birdeye 152 reviews / 5.0 (Birdeye directory JSON-LD, VERIFIED); Yelp 9 reviews / 5.0; Healthgrades 3 reviews; Sharecare 3.7 from 3 ratings; site says 'many people leave us kind words on Google and Facebook' but no count shown (VERIFIED)",
   "top_hook": "Member of the Dawson Academy, Pankey Institute and Spear Study Club — advanced-credential story told by a stock TNT template",
   "independence": "INFERRED — PLLC in owner's name; bio is owner-authored; no group language",
   "breakdown": {
-   "FC": 13,
+   "FC": 14,
    "BM": 12,
    "WW": 10,
-   "Gap": 9,
+   "Gap": 11,
    "Dep": 8,
    "Tr": 8,
-   "Cv": 3,
+   "Cv": 4,
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Beliveau Dental (E. Charles Beliveau, DDS, PLLC) — North Andover, MA — https://www.beliveaudental.com/ — 67/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: Delivering dental excellence since 1989 (VERIFIED, homepage); 30+ years; ~1 doctor visible | Reviews: Thin/mixed: Yelp 9 reviews / 5.0; Healthgrades 3 reviews; Sharecare 3.7 from 3 ratings; site says 'many people leave us kind words on Google and Facebook' but no count shown (VERIFIED)\n• Site (observed): TNT Dental (\"Website developed by TNT Dental Content Management System\"; footer \"©2021 E. Charles Beliveau DDS | designed and maintained by TNT Dental\"); 30KB template page; title \"Dentist North Andover | E. Charles Beliveau, DDS\"; Dawson/Pankey/Spear credentials are buried in a template\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC13/20 BM12/15 WW10/15 Gap9/15 Dep8/10 Tr8/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap6 Dep7 Tr8 Tech9 (/10)\n• Independence: INFERRED — PLLC in owner's name; bio is owner-authored; no group language | Decision-maker: E. Charles Beliveau, DDS (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2 (Merrimack Valley; Dawson Academy / Pankey / Spear study-club comprehensive dentistry) | Digital spend: TNT Dental hosting/CMS subscription\n• Hooks: 1) Member of the Dawson Academy, Pankey Institute and Spear Study Club — advanced-credential story told by a stock TNT template 2) Delivering dentistry \"since 1989\" = 37th-year anniversary\n• Pitch/offer: Comprehensive-dentistry credential-led redesign — $8–12k; TNT-sub redirect hook.\n• Sources: Live fetch beliveaudental.com (home + /meet-dr-beliveau.html) | Wave-2 review enrichment (2026-09-30): Yelp 9, Healthgrades 3, Sharecare 3; site reviews.html; homepage re-curled 200 OK",
+  "profile_md": "Beliveau Dental (E. Charles Beliveau, DDS, PLLC) — North Andover, MA — https://www.beliveaudental.com/ — 71/100 — MEDIUM-HIGH(medium)\n• Est/Doctors: Delivering dental excellence since 1989 (VERIFIED, homepage); 30+ years; ~1 doctor visible | Reviews: Birdeye 152 reviews / 5.0 (Birdeye directory JSON-LD, VERIFIED); Yelp 9 reviews / 5.0; Healthgrades 3 reviews; Sharecare 3.7 from 3 ratings; site says 'many people leave us kind words on Google and Facebook' but no count shown (VERIFIED)\n• Site (observed): TNT Dental (\"Website developed by TNT Dental Content Management System\"; footer \"©2021 E. Charles Beliveau DDS | designed and maintained by TNT Dental\"); 30KB template page; title \"Dentist North Andover | E. Charles Beliveau, DDS\"; Dawson/Pankey/Spear credentials are buried in a template\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC14/20 BM12/15 WW10/15 Gap11/15 Dep8/10 Tr8/10 Cv4/5 Sp2/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech9 (/10)\n• Independence: INFERRED — PLLC in owner's name; bio is owner-authored; no group language | Decision-maker: E. Charles Beliveau, DDS (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2 (Merrimack Valley; Dawson Academy / Pankey / Spear study-club comprehensive dentistry) | Digital spend: TNT Dental hosting/CMS subscription\n• Hooks: 1) Member of the Dawson Academy, Pankey Institute and Spear Study Club — advanced-credential story told by a stock TNT template 2) Delivering dentistry \"since 1989\" = 37th-year anniversary\n• Pitch/offer: Comprehensive-dentistry credential-led redesign — $8–12k; TNT-sub redirect hook.\n• Sources: Live fetch beliveaudental.com (home + /meet-dr-beliveau.html) | Wave-2 review enrichment (2026-09-30): Yelp 9, Healthgrades 3, Sharecare 3; site reviews.html; homepage re-curled 200 OK",
   "v1_score": 70
  },
  {
@@ -360,7 +360,7 @@
   "vendor": "ProSites",
   "decision_maker": "Roger A. Phillips, DMD (owner)",
   "est": "UNKNOWN (founding year not on fetched pages); solo; FICOI, AFAAID",
-  "reviews": "Thin: Healthgrades 3 reviews (3.7/5 recommend); Yelp listing; site has /testimonials/ page; no Google count found (VERIFIED via snippet)",
+  "reviews": "Thin: Birdeye 25 reviews / 4.0; Healthgrades 3 reviews (3.7/5 recommend); Yelp listing; site has /testimonials/ page; no Google count found (VERIFIED via snippet)",
   "top_hook": "Fellow of the International Congress of Oral Implantologists with a Planmeca CBCT and Solea laser — presented as a \"Practice News\" line on ProSites",
   "independence": "INFERRED — solo owner-dentist; no group language",
   "breakdown": {
@@ -374,7 +374,7 @@
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Upper Valley Esthetic Dental Designs (Roger A. Phillips, DMD, FICOI) — Hanover, NH — https://www.drrogerphillips.com/ — 62/100 — MEDIUM(low-medium)\n• Est/Doctors: UNKNOWN (founding year not on fetched pages); solo; FICOI, AFAAID | Reviews: Thin: Healthgrades 3 reviews (3.7/5 recommend); Yelp listing; site has /testimonials/ page; no Google count found (VERIFIED via snippet)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\"; 59KB page; title \"Hanover, NH Dentist - Roger A. Phillips, DMD, FICOI - Upper Valley Esthetic Dental Designs\"; homepage \"Practice News: We have purchased a Solea Dental Laser\" (dated news block); Planmeca cone-beam noted\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC12/20 BM10/15 WW11/15 Gap8/15 Dep7/10 Tr7/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap5 Dep7 Tr8 Tech8 (/10)\n• Independence: INFERRED — solo owner-dentist; no group language | Decision-maker: Roger A. Phillips, DMD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2 (Hanover/Dartmouth market; CBCT, Solea laser, implant fellowships) | Digital spend: ProSites subscription\n• Hooks: 1) Fellow of the International Congress of Oral Implantologists with a Planmeca CBCT and Solea laser — presented as a \"Practice News\" line on ProSites 2) Title tag carries doctor + credential + brand in one string\n• Pitch/offer: Implant/esthetic solo redesign — $5–8k solo tier.\n• Sources: Live fetch drrogerphillips.com (home + meet-the-doctor) | Wave-2 review enrichment (2026-09-30): Healthgrades 3; homepage re-curled 200 OK",
+  "profile_md": "Upper Valley Esthetic Dental Designs (Roger A. Phillips, DMD, FICOI) — Hanover, NH — https://www.drrogerphillips.com/ — 62/100 — MEDIUM(low-medium)\n• Est/Doctors: UNKNOWN (founding year not on fetched pages); solo; FICOI, AFAAID | Reviews: Thin: Birdeye 25 reviews / 4.0; Healthgrades 3 reviews (3.7/5 recommend); Yelp listing; site has /testimonials/ page; no Google count found (VERIFIED via snippet)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\"; 59KB page; title \"Hanover, NH Dentist - Roger A. Phillips, DMD, FICOI - Upper Valley Esthetic Dental Designs\"; homepage \"Practice News: We have purchased a Solea Dental Laser\" (dated news block); Planmeca cone-beam noted\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC12/20 BM10/15 WW11/15 Gap8/15 Dep7/10 Tr7/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap5 Dep7 Tr8 Tech8 (/10)\n• Independence: INFERRED — solo owner-dentist; no group language | Decision-maker: Roger A. Phillips, DMD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2 (Hanover/Dartmouth market; CBCT, Solea laser, implant fellowships) | Digital spend: ProSites subscription\n• Hooks: 1) Fellow of the International Congress of Oral Implantologists with a Planmeca CBCT and Solea laser — presented as a \"Practice News\" line on ProSites 2) Title tag carries doctor + credential + brand in one string\n• Pitch/offer: Implant/esthetic solo redesign — $5–8k solo tier.\n• Sources: Live fetch drrogerphillips.com (home + meet-the-doctor) | Wave-2 review enrichment (2026-09-30): Healthgrades 3; homepage re-curled 200 OK",
   "v1_score": 66
  },
  {
@@ -414,7 +414,7 @@
   "vendor": "ProSites",
   "decision_maker": "Cassandra P. Coakley, DDS",
   "est": "Dr. Coakley providing care in Central Vermont since 1998 (VERIFIED, bio); 2 doctors (Coakley, Kelly F. Burns DMD)",
-  "reviews": "Birdeye 183 reviews (Main Street Family Dental) ; PracticeMojo 4.7/5 from 128 reviews; Yelp 13 reviews; Facebook 94% recommend (12 reviews) (VERIFIED via snippets)",
+  "reviews": "Birdeye 213 reviews / 4.7 (Main Street Family Dental); PracticeMojo 4.7/5 from 128 reviews; Yelp 13 reviews; Facebook 94% recommend (12 reviews) (VERIFIED via snippets)",
   "top_hook": "Beautifully restored Victorian office is invisible on a \"Welcome |\" template",
   "independence": "INFERRED — two named doctors, restored-Victorian owner-practice; no group language",
   "breakdown": {
@@ -428,7 +428,7 @@
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Main Street Family Dentistry (Coakley / Burns) — Montpelier, VT — https://www.mainstreetfamilydentistryvt.com/ — 66/100 — MEDIUM(medium)\n• Est/Doctors: Dr. Coakley providing care in Central Vermont since 1998 (VERIFIED, bio); 2 doctors (Coakley, Kelly F. Burns DMD) | Reviews: Birdeye 183 reviews (Main Street Family Dental) ; PracticeMojo 4.7/5 from 128 reviews; Yelp 13 reviews; Facebook 94% recommend (12 reviews) (VERIFIED via snippets)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\"; title \"Welcome | Montpelier, Vermont | Main Street Family Dentistry\"; home banner still carries pandemic-era infection-control copy (\"As health practitioners, we have always followed the infection control recommendations made by the ADA, CDC and OSHA. We continue to monitor their recommendations\")\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC9/20 BM11/15 WW11/15 Gap12/15 Dep7/10 Tr7/10 Cv5/5 Sp2/3 DM2/2 | Subs: Gap8 Dep7 Tr8 Tech8 (/10)\n• Independence: INFERRED — two named doctors, restored-Victorian owner-practice; no group language | Decision-maker: Cassandra P. Coakley, DDS\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 3 (Vermont capital market; modest but full-service, in-office membership plan) | Digital spend: ProSites subscription\n• Hooks: 1) Beautifully restored Victorian office is invisible on a \"Welcome |\" template 2) COVID-era banner copy still live\n• Pitch/offer: Small-market flagship redesign — $5–8k solo/small-group tier.\n• Sources: Live fetch mainstreetfamilydentistryvt.com (home, meet-the-doctors) | Wave-2 review enrichment (2026-09-30): Birdeye 183, PracticeMojo 128, Yelp 13; homepage re-curled 200 OK",
+  "profile_md": "Main Street Family Dentistry (Coakley / Burns) — Montpelier, VT — https://www.mainstreetfamilydentistryvt.com/ — 66/100 — MEDIUM(medium)\n• Est/Doctors: Dr. Coakley providing care in Central Vermont since 1998 (VERIFIED, bio); 2 doctors (Coakley, Kelly F. Burns DMD) | Reviews: Birdeye 213 reviews / 4.7 (Main Street Family Dental); PracticeMojo 4.7/5 from 128 reviews; Yelp 13 reviews; Facebook 94% recommend (12 reviews) (VERIFIED via snippets)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\"; title \"Welcome | Montpelier, Vermont | Main Street Family Dentistry\"; home banner still carries pandemic-era infection-control copy (\"As health practitioners, we have always followed the infection control recommendations made by the ADA, CDC and OSHA. We continue to monitor their recommendations\")\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC9/20 BM11/15 WW11/15 Gap12/15 Dep7/10 Tr7/10 Cv5/5 Sp2/3 DM2/2 | Subs: Gap8 Dep7 Tr8 Tech8 (/10)\n• Independence: INFERRED — two named doctors, restored-Victorian owner-practice; no group language | Decision-maker: Cassandra P. Coakley, DDS\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 3 (Vermont capital market; modest but full-service, in-office membership plan) | Digital spend: ProSites subscription\n• Hooks: 1) Beautifully restored Victorian office is invisible on a \"Welcome |\" template 2) COVID-era banner copy still live\n• Pitch/offer: Small-market flagship redesign — $5–8k solo/small-group tier.\n• Sources: Live fetch mainstreetfamilydentistryvt.com (home, meet-the-doctors) | Wave-2 review enrichment (2026-09-30): Birdeye 183, PracticeMojo 128, Yelp 13; homepage re-curled 200 OK",
   "v1_score": 62
  },
  {
@@ -441,7 +441,7 @@
   "vendor": "Weebly",
   "decision_maker": "Fern E. Selesnick, DMD (owner)",
   "est": "Practicing family dentistry since 1985 (VERIFIED, homepage); solo; Tufts grad, former Tufts clinical instructor",
-  "reviews": "Thin: Healthgrades 4 reviews; Sharecare 4.0 from 3 ratings; Yelp listing under 'Selesnick Fern E DMD'; Facebook page exists (VERIFIED via snippets)",
+  "reviews": "Thin: Birdeye 7 + 10 reviews (two listings, 5.0 / 3.7); Healthgrades 4 reviews; Sharecare 4.0 from 3 ratings; Yelp listing under 'Selesnick Fern E DMD'; Facebook page exists (VERIFIED via snippets)",
   "top_hook": "Title tag is literally \"MARBLEHEAD DENTAL - Home\"",
   "independence": "INFERRED — solo owner bio; no group language",
   "breakdown": {
@@ -455,7 +455,7 @@
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Marblehead Dental (Fern E. Selesnick, DMD) — Marblehead, MA — https://www.marbleheaddental.com/ — 60/100 — MEDIUM(low-medium)\n• Est/Doctors: Practicing family dentistry since 1985 (VERIFIED, homepage); solo; Tufts grad, former Tufts clinical instructor | Reviews: Thin: Healthgrades 4 reviews; Sharecare 4.0 from 3 ratings; Yelp listing under 'Selesnick Fern E DMD'; Facebook page exists (VERIFIED via snippets)\n• Site (observed): Weebly-hosted (weebly.com assets); title \"MARBLEHEAD DENTAL - Home\"; no copyright line; http:// URL does not redirect to https; homepage lists Botox/Juvederm \"Dental Skin Care\" beside dental services\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC11/20 BM11/15 WW11/15 Gap8/15 Dep6/10 Tr6/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap5 Dep6 Tr8 Tech9 (/10)\n• Independence: INFERRED — solo owner bio; no group language | Decision-maker: Fern E. Selesnick, DMD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2 (Marblehead affluent coastal market; cosmetic + Botox/Juvederm add-ons) | Digital spend: Weebly plan\n• Hooks: 1) Title tag is literally \"MARBLEHEAD DENTAL - Home\" 2) 41 years in practice on a Weebly free-builder look\n• Pitch/offer: Solo boutique redesign — $5–8k solo tier.\n• Sources: Live fetch marbleheaddental.com raw HTML | Wave-2 review enrichment (2026-09-30): Healthgrades 4, Sharecare 3; homepage re-curled 200 OK",
+  "profile_md": "Marblehead Dental (Fern E. Selesnick, DMD) — Marblehead, MA — https://www.marbleheaddental.com/ — 60/100 — MEDIUM(low-medium)\n• Est/Doctors: Practicing family dentistry since 1985 (VERIFIED, homepage); solo; Tufts grad, former Tufts clinical instructor | Reviews: Thin: Birdeye 7 + 10 reviews (two listings, 5.0 / 3.7); Healthgrades 4 reviews; Sharecare 4.0 from 3 ratings; Yelp listing under 'Selesnick Fern E DMD'; Facebook page exists (VERIFIED via snippets)\n• Site (observed): Weebly-hosted (weebly.com assets); title \"MARBLEHEAD DENTAL - Home\"; no copyright line; http:// URL does not redirect to https; homepage lists Botox/Juvederm \"Dental Skin Care\" beside dental services\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC11/20 BM11/15 WW11/15 Gap8/15 Dep6/10 Tr6/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap5 Dep6 Tr8 Tech9 (/10)\n• Independence: INFERRED — solo owner bio; no group language | Decision-maker: Fern E. Selesnick, DMD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2 (Marblehead affluent coastal market; cosmetic + Botox/Juvederm add-ons) | Digital spend: Weebly plan\n• Hooks: 1) Title tag is literally \"MARBLEHEAD DENTAL - Home\" 2) 41 years in practice on a Weebly free-builder look\n• Pitch/offer: Solo boutique redesign — $5–8k solo tier.\n• Sources: Live fetch marbleheaddental.com raw HTML | Wave-2 review enrichment (2026-09-30): Healthgrades 4, Sharecare 3; homepage re-curled 200 OK",
   "v1_score": 61
  },
  {
@@ -468,7 +468,7 @@
   "vendor": "ProSites",
   "decision_maker": "Laura Randolph, DMD (owner)",
   "est": "Graduated Penn Dental 1990, then GPR at Morristown Memorial (VERIFIED, bio); solo",
-  "reviews": "Thin: Birdeye 11 reviews / 5.0; Sharecare 4.5 from 2 ratings; Yelp listing; site has /patient-reviews/ page (VERIFIED via snippets)",
+  "reviews": "Thin: Birdeye 12 reviews / 5.0; Sharecare 4.5 from 2 ratings; Yelp listing; site has /patient-reviews/ page (VERIFIED via snippets)",
   "top_hook": "Penn-trained solo, 1990 graduate, still on a ProSites 2019 shell",
   "independence": "INFERRED — solo owner; no group language",
   "breakdown": {
@@ -482,7 +482,7 @@
    "Sp": 2,
    "DM": 2
   },
-  "profile_md": "Laura Randolph, DMD — Mahwah, NJ — https://www.drlaurarandolph.com/ — 58/100 — MEDIUM(low-medium)\n• Est/Doctors: Graduated Penn Dental 1990, then GPR at Morristown Memorial (VERIFIED, bio); solo | Reviews: Thin: Birdeye 11 reviews / 5.0; Sharecare 4.5 from 2 ratings; Yelp listing; site has /patient-reviews/ page (VERIFIED via snippets)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\"; title \"Dentist in Mahwah, NJ | Cosmetic Dentistry | Laura Randolph DMD\"; 73KB template; footer \"Site Developed by ProSites.com\"\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC11/20 BM9/15 WW11/15 Gap8/15 Dep6/10 Tr6/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap5 Dep6 Tr8 Tech8 (/10)\n• Independence: INFERRED — solo owner; no group language | Decision-maker: Laura Randolph, DMD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2-3 (Mahwah/Ramsey Bergen-Passaic border; cosmetic, periodontal, implants) | Digital spend: ProSites subscription\n• Hooks: 1) Penn-trained solo, 1990 graduate, still on a ProSites 2019 shell 2) Mojibake copyright footer\n• Pitch/offer: Solo redesign — $5–8k solo tier.\n• Sources: Live fetch drlaurarandolph.com (home + meet-the-doctor) | Wave-2 review enrichment (2026-09-30): Birdeye 11, Sharecare 2; homepage re-curled 200 OK",
+  "profile_md": "Laura Randolph, DMD — Mahwah, NJ — https://www.drlaurarandolph.com/ — 58/100 — MEDIUM(low-medium)\n• Est/Doctors: Graduated Penn Dental 1990, then GPR at Morristown Memorial (VERIFIED, bio); solo | Reviews: Thin: Birdeye 12 reviews / 5.0; Sharecare 4.5 from 2 ratings; Yelp listing; site has /patient-reviews/ page (VERIFIED via snippets)\n• Site (observed): ProSites; footer \"Copyright � 2019 Prosites, Inc. All Rights Reserved\"; title \"Dentist in Mahwah, NJ | Cosmetic Dentistry | Laura Randolph DMD\"; 73KB template; footer \"Site Developed by ProSites.com\"\n• Social gap: UNKNOWN (social channels not inspected this run)\n• Breakdown: FC11/20 BM9/15 WW11/15 Gap8/15 Dep6/10 Tr6/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap5 Dep6 Tr8 Tech8 (/10)\n• Independence: INFERRED — solo owner; no group language | Decision-maker: Laura Randolph, DMD (owner)\n• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — Tier 2-3 (Mahwah/Ramsey Bergen-Passaic border; cosmetic, periodontal, implants) | Digital spend: ProSites subscription\n• Hooks: 1) Penn-trained solo, 1990 graduate, still on a ProSites 2019 shell 2) Mojibake copyright footer\n• Pitch/offer: Solo redesign — $5–8k solo tier.\n• Sources: Live fetch drlaurarandolph.com (home + meet-the-doctor) | Wave-2 review enrichment (2026-09-30): Birdeye 11, Sharecare 2; homepage re-curled 200 OK",
   "v1_score": 60
  }
 ]

@@ -352,3 +352,98 @@ NOTE: WebSearch session budget (200/200) exhausted and Firecrawl returned 402 (n
 - Times Square Dental | Boise, ID | timessquaredental.com | EXCLUDED - prior round (§4) | ~None
 - Boise Dental Center | Boise, ID | dentistinboiseid.com | EXCLUDED - prior round (§6) | ~None
 - CORRECTION: earlier 'Copyright � 2019 Prosites' notes refer to the ProSites Web Engine v4.0 HTML source comment (a vendor fingerprint), not a visible practice footer year.
+
+## WAVE 2
+NOTE: WebSearch budget hit 200/200 (session-wide) partway through Job B; discovery continued via vendor client lists (TNT gallery), YellowPages category pages (WebFetch), Opencare, archive.org and curl fingerprinting. Yelp/Google pages are bot-blocked, so most new finalists carry Google review counts UNKNOWN.
+### Job A (review enrichment, all 11 finalists re-checked with curl: all live 200)
+- D'Angelo/Olson La Jolla | La Jolla, CA | hibuwebsites.com | 80 -> 82: Birdeye 5.0 (304), Yelp ~80; live
+- Pacific Dental Associates | San Francisco, CA | pacificdentalassociates.com | 76 -> 74: Birdeye 49 + Yelp 28+32; live, ProSites (c)2019 mojibake still present
+- Marin Dental Implant Center | Novato, CA | novatoimplantdentist.com | 75 -> 74: Yelp 47; ALSO davidepsteindds.com (Wix) and marindentalimplants.com (Wix 2025) - site sprawl
+- Brewer Family Dentistry | Modesto, CA | brewerdentistry.com | 73 -> 80: Birdeye 4.9 (597) + 5.0 (329) + Yelp 34, BBB
+- Manhattan Beach Family Dentists | Manhattan Beach, CA | manhattanbeachfamilydentists.com | 71 -> 64: Yelp 23, Birdeye 2 (thin)
+- Rosenbaum & Associates | Modesto, CA | docsforteeth.com | 68 -> 69: Yelp 91, FB 51; live (title 'Dentist Near Me' confirmed)
+- Pelandale Dental Care | Modesto, CA | pelandaledental.com | 67 -> 69: Yelp 71; YOMI robot implants; also GoHighLevel funnel site
+- Orinda Dental Care | Orinda, CA | orindadentalcare.com | 65 -> 68: Yelp 88, Birdeye 4.8 (70), widget 69; owner Dr. Mehranfard
+- Sacramento Prosthodontics (Light) | Sacramento, CA | sacprostho.com | 64 -> 60: Yelp 11, HG 3; DDS 1981 retirement horizon
+- Midtown Dental Sacramento | Sacramento, CA | midtowndentalsacramento.com | 64 -> 70: Yelp 280 (Apekian), schema 68
+- Premier Dental Care (Chen) | Pleasanton, CA | premierdental.us | 62 -> 56: Yelp 19 pediatric-category; DROP
+### Job B screening
+- Sammamish Family Dental (Humble, since 2000) | Sammamish, WA | sammamishfamilydental.com | CANDIDATE ~60 - Sesame 24-7, YP 4.3 (17)
+- Wicklund Dental | Bainbridge Island, WA | wicklunddental.com | CANDIDATE ~60 - Sesame 24-7, 'Coronavirus Update' nav, YP 2 reviews, tenure UNKNOWN
+- Jason Widner DMD | Sammamish, WA | yourfamilydentist.com | REJECT - WEO Media but (c) 2022-2026 maintained
+- Klahanie / Issaquah Dental Health / Plateau / Premier Issaquah / Bainbridge Dental Care | WA | REJECT - modern (Elementor/Wix/Divi (c)2025-26)
+- Islandental / Fiscus / Port Orchard Smiles / Tacoma Prosthodontics / Distinctive Dentistry / Rob Harris / Fisher Jones / Lea Olson / Olympia Prosth / Weigand / Drbrolen / W-Dentistry | WA | UNSCREENED - bot-walled
+- Olympia Family Dental / West Bay Dental / Advanced Dental Care Tacoma (Kois) | WA | REJECT - modern
+- Spokane Dental (Shoquist new owner) | Spokane, WA | spokanedental.com | REJECT - opened 2012, new owner
+- Farmington Dental (Wix), Beaverton Family Dental, Premier Dental&Implants Tigard, Slater Family, Today's Dental, Hoffman, Cornell, Tanasbourne, Forest Grove, Oral Solutions NW (WEO all (c)2026), Dr Lampee, Dr James Miller, Hillsboro Dental Excellence | OR | REJECT - current/modern
+- Lake Oswego Smiles (Bowden, since 2003) | Lake Oswego, OR | lakeoswegosmiles.com | CANDIDATE ~50 - Great Dental Websites; young
+- The Dental Studio (Dr. Jeff Clawson) | Lake Oswego, OR | lodentalstudio.com | CANDIDATE ~58 - Divi '(c) Copyright 2018', 'Website by Elevation Surgical'; tenure UNKNOWN; single doctor
+- Westlake Family Dentistry | Lake Oswego, OR | westlakefamilydental.com | REJECT - (c)2026
+- Skyline Dental Bend, Aesthetic Dentistry of Bend, Freeman Smiles, Dental Artistry, Kelley Mingus | Bend, OR | REJECT - modern
+- Highlands Ranch Smiles / Almeida & Bell / HR Family Dental / Highlands Ranch Dental Care | CO | REJECT - modern or DSO (Station Dental = Smile Partners)
+- Highlands Dental (Anna Burger) | Highlands Ranch, CO | myhighlandsdental.com | CANDIDATE ~52 - (c) 2018 Divi; small solo
+- Parker Family Dental (Peterson, 30+ yrs), Holly Sletten, Killingsworth, Signature Smiles Parker, Vivid | Parker, CO | REJECT - modern
+- Michael MacInnes DDS PLLC | Sammamish, WA | macinnesdentistry.com | FINALIST - Weebly, title keyword spam, (c) 2022
+- Issaquah Valley Dental Care | Issaquah, WA | issaquahdental.com | FINALIST - Sesame, Coronavirus page with unfilled placeholders
+- Kailua Dental Arts (Hannah/Oliver) | Kailua, HI | kailuadentalarts.com | CANDIDATE ~63 - ProSites (c)2019, 2nd live domain drmarcushannah.com
+- Aloha Dental Associates | Kailua, HI | alohadentalassociates.com | CANDIDATE - Weebly; unverified
+- Kailua Dental Care (Sonson, since 2001) | Kailua, HI | kailuadds.com | CANDIDATE ~50 - Duda; 21 yrs
+- Sugiki / Honolulu Smile Design / Advanced Restorative / Kaloko | Honolulu, HI | REJECT - modern (Kaloko Squarespace (c)2023)
+- Dr. Wenicur (Barbara Wenicur DDS) | Albuquerque, NM | drwenicurdds.com | CANDIDATE ~65 - DentalMarketing.com (c)2019 Gilleard Marketing; same building as Boehmer
+- Monica Boehmer DDS PC | Albuquerque, NM | boehmerdds.com | CANDIDATE ~55 - TNT current template; Top Dentist since 2005
+- Academy Dental, Osuna, Riverpoint (walled), Sandia View, Fife, Wisteria (Duda), Rio Rancho FDC (walled), Brian Dennis AACD (WEO (c)2026) | NM | REJECT/modern
+- Las Cruces Dental Associates (Samaniego, 1984) | Las Cruces, NM | lascrucesdental.net | REJECT - Ekwa (c)2026
+- Mesilla Valley / Advanced Dental Las Cruces | Las Cruces, NM | UNSCREENED - bot-walled
+- Jared French DMD (Qore), Milagro Dental, Smile Santa Fe | Santa Fe, NM | REJECT - modern/group
+- Bozeman Dentistry (dentalcmo), Bozeman Gentle, Big Sky Dental Center (Sesame; Dr McClung ~10 yrs) | Bozeman, MT | REJECT - modern/young
+- Thomas Smile Designs | Billings, MT | bigskysmiles.net | CANDIDATE ~55 - (c) 2022 WP
+- Yellowstone Family Dental, The Billings Dentist (dentalcmo), Bridge Creek (new 2022) | Billings, MT | REJECT - modern
+- Nelson Dentistry (Great Dental Websites) | Missoula, MT | jonathannelsondmd.com | CANDIDATE ~50 - GDW, no defects beyond template
+- Meng Dentistry (Wix (c)2026), Big Sky Smiles | Missoula, MT | REJECT
+- Skinner/Fox Excellence in Dentistry, Aurora Family, Alaska Advanced (Doctor Genius (c)2026), Alcan (excluded), Delaney Park | Anchorage, AK | REJECT/walled
+- Del Mar Dental Studio (Pizzi et al, 6 doctors) | Del Mar, CA | dentistdelmar.com | CANDIDATE ~62 - Webflow by Wonderist Agency, '(c) Del Mar Dental Studio 2019' frozen; Google badge '200+ reviews'; 'Locally owned and operated'
+- Del Mar Family Dentistry (Ekwa), I-Rise (Ekwa), Encinitas Cosmetic (Squarespace (c)2026), RB Dental Arts (Wix 2025), Gentle Dentistry Poway (DentalMarketing 2026), La Mesa Hills (c)2021 PPO/affordable | San Diego area | REJECT
+- Pomerado Cosmetic Dentistry (Sacknoff/Wilson) | Poway, CA | pomeradocosmeticdentistry.com | REJECT - current
+- Aesthetic Dental Designs (Todd Snyder) | Laguna Niguel, CA | aestheticdentaldesigns.com | REJECT - Divi current
+- Anna K. Talmood DDS | Fullerton, CA | fullertondentistry.com | CANDIDATE ~64 - ProSites 'Copyright � 2019', since 1995, YP 1 review
+- Fullerton Cosmetic (Amo) small (c)2026; Fullerton Dental (Meyer) walled; Opencare Meyer 3.7 (22) | Fullerton, CA | REJECT
+- Redlands Family Dentistry (Einstein 2026), ViVE, Brookside (Duda 2026) | Redlands, CA | REJECT
+- Redlands Family Dental Care | Redlands, CA | myredlandsdentist.com | CANDIDATE ~50 - DentalMarketing
+- Brentwood Center for Cosmetic Dentistry (GrowthPlug) | Los Angeles, CA | brentwoodcosmeticdentistry.com | CANDIDATE - unverified
+- Encino Cosmetic Dental Group (Zarinnia) | Encino, CA | encinocosmetic.com | CANDIDATE ~55 - Officite (c)2025 (via archive.org); est unknown
+- South Pasadena DDS | South Pasadena, CA | southpasadenadds.com | CANDIDATE ~50 - Officite (c)2025 (archive.org)
+- Kantor Dental Group | San Rafael, CA | kantordental.com | REJECT - PBHS (c) 2002-2026 auto-updating; multi-office evening-hours PPO model
+- White Pine Family Dental | Reno, NV | whitepinefamilydental.com | REJECT - Elementor (c)2026
+- Rod Gleave DMD | Salt Lake City, UT | slcsmiles.com | REJECT - (c)2026
+- Bountiful Dentistry | Bountiful, UT | bountifuldentistry.com | UNSCREENED - JS shell, content minimal
+- Hamaty, San Diego Prosthodontics, Greenlaw, Basora/Sparks Family | CA/NV | UNVERIFIABLE - WebFetch 403 and no archive.org copy
+- La Jolla Dental Boutique / Sequoia Dental Office | CA | CANDIDATE - archive.org copy has no vendor/frozen markers
+- Mercer Island Dentistry (dentistmercerisland.com) | WA | EXCLUDED - prior round
+- Country Club Dentistry (Strober), Casa Adobes | Rancho Mirage/Tucson | REJECT/EXCLUDED - modern (c)2026 / prior round
+- Paradise Valley Smiles, Dameron, Drs of Smiles, Sunshine Dental Mesa, Scottsdale Family Dentistry (GoDaddy 2026), Scottsdale Smile Center (Squarespace 2026), Phoenix Dental Implants AZ (IDA 2026) | AZ | REJECT/modern
+- Foothills Family Dentistry (1984), Canada Hills, Rutledge, SmileMore, Great Smile Family Dentistry (DentalMarketing) | Tucson/Oro Valley, AZ | CANDIDATE/REJECT - GSFD DentalMarketing unverified
+- Spokane Cosmetic Dentistry (Michael Readel, 20+ yrs) | Spokane, WA | spokanecosmeticdentistry.com | CANDIDATE ~52 - Duda; YP 41 yrs
+- Smiles of Spokane (Rogers) Wix 2025; Chaffin (c)2022; Latah Creek GoDaddy 2014 | Spokane, WA | REJECT/low
+- Littleton Dental Studio (Cale Beasley, solo) | Littleton, CO | littletondentalstudio.com | CANDIDATE ~52 - TNT (c)2019, <title>Home</title>
+- Smile Centennial (Franquemont; GDW; since 1999) | Centennial, CO | smilecentennial.com | CANDIDATE ~50
+- TNT gallery clients: Canzoneri DDS Arcadia CA (TNT), Advanced Dental Care Costa Mesa (TNT, 4 doctors), Piedmont Sarah Baldwin (site dead - Wayback demo), Noorda Smiles Henderson (TNT 2026), Pearl Dentistry Denver (TNT 2021), Los Gatos Family Dentistry (GDW) | West | CANDIDATE/REJECT - TNT current templates, no frozen markers
+### Job B - additional screened (wave 2, continued; YellowPages category crawl + curl fingerprint)
+- Heritage Family Dental (Clibon) | Irvine, CA | ocyoursmile.com | BENCH ~65 - ProSites (c)2019, 28 yrs
+- Van Hale & Arima | Glendale, CA | glendaledentists.net | BENCH ~65 - est. 1984, (c)2019
+- Robert A. Rees DDS APC | La Jolla, CA | lajollasmile.com | BENCH ~65 - Hibu, est 1999
+- Stephen R. Ho DDS | Honolulu, HI | stephenrho.com | BENCH ~64 - ProSites (c)2019, since 1981 (retirement flag)
+- Helen Im DDS | Temecula, CA | drhelenim.com | BENCH ~63 - ProSites (c)2019
+- Paul Lippi DDS | Los Gatos, CA | theartofcreatingsmiles.com | BENCH ~62 - (c)2020
+- Del Mar Dental Studio | Del Mar, CA | dentistdelmar.com | BENCH ~62 - Webflow agency build, (c)2019, 6 docs, Google badge 200+
+- Fuller Smiles | San Jose, CA | sanjosecasedationdentist.com | REJECT - 11 locations group
+- Willow Glen Dental Care | San Jose, CA | willowglendentalcare.com | REJECT - group with Advanced Dental Care Santa Clara
+- Dead/hijacked domains of real practices: Indian Peaks Dental (Boulder), Sandra L Parker DDS + Jeff Jones DDS + David Crouch DDS (Orange), Gabriel Roybal DDS + Lakind Dental Group (Santa Fe), Delmont Dentistry (Beverly Hills), Cronk (Woodland Hills), Kerbs (Escondido), Century City Dental Group, Sarah Baldwin (Piedmont) - logged as candidates, not finalists
+- Modern rejects and ~60 further names: see output/work/west_wave2_candidates.json
+## WAVE 2 FINAL (new finalists >= 66, verified to PLAYBOOK standard)
+1. Johann Prosthetics of Boulder | Boulder, CO | andrewjohannddsmspc.com | 70 MEDIUM-HIGH | ProSites (c)2019; title typo 'Dentsitry'
+2. Michael A. MacInnes DDS PLLC | Sammamish, WA | macinnesdentistry.com | 68 MEDIUM-HIGH | Weebly; keyword+phone title; (c)2022
+3. Kahala Smile Professionals | Honolulu, HI | kahalasmileprofessionals.com | 68 MEDIUM-HIGH | ProSites; 'Welcome to our Welcome page'; staging link leaked
+4. Aesthetic Dentistry of Scottsdale | Scottsdale, AZ | aestheticdentistryofscottsdale.com | 66 MEDIUM | ProSites (c)2019
+5. Anna K. Talmood DDS | Fullerton, CA | fullertondentistry.com | 66 MEDIUM | ProSites (c)2019; since 1995
+6. Diablo Valley Prosthodontics (Barpal) | Walnut Creek, CA | diablovalleyprosthodontics.com | 66 MEDIUM | ProSites; title 'Mission Statement'
+7. Issaquah Valley Dental Care | Issaquah, WA | issaquahdental.com | 66 MEDIUM (independence MEDIUM) | Sesame; Coronavirus page placeholders

@@ -3291,3 +3291,46 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Zug, David A, DDS | Manheim, PA | https://zugdental.com | [0] REJECT — unreachable / dead / hijacked / parked (000)
 - iCare Family Dentistry- Dr. Andy Chang | Fairfax, VA | https://icarefamilydentistry.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
 - virginia dental solutions | Reston, VA | https://vadentalsolutions.com | [0] REJECT — no weak-site signal (modern/custom or not a fit)
+
+## WAVE 2
+### Job A - review enrichment (score v1 -> v2; file output/work/mid-atlantic_top18_v2.json)
+- Goodman Dental Care | Annapolis, MD | goodmandentalcare.com | 77 -> 79 - Birdeye 449 (5.0), Healthgrades 143+104
+- Cosmetic & Implant Dentistry of MD | Pikesville, MD | cosmeticandimplantdentistryofmd.com | 76 -> 75 - count still UNKNOWN
+- Devon Dental Associates | Wayne, PA | devondental.com | 76 -> 73 - ~62 reviews (aggregator), Yelp 17
+- Klein Family Dentistry | Harrisburg, PA | kleinfamilydentistry.com | 74 -> 77 - Birdeye 512 (4.9)
+- Wahl Family Dentistry | Wilmington, DE | wahlfamilydentistry.com | 74 -> 75 - Birdeye 302 (4.7)
+- Perry Hall Smiles | Perry Hall, MD | perryhallsmiles.com | 73 -> 69 - no count found, est 2015 snippet
+- Wallingford Station Family Dental | Wallingford, PA | wallingforddental.com | 73 -> 70 - Yelp 10, HG 2
+- Meetinghouse Dental Care | Hatboro, PA | meetinghousedental.com | 71 -> 76 - Birdeye 921, FB 224
+- Gotwalt Dentistry | Lititz, PA | drgotwalt.com | 71 -> 72 - schema 350; Birdeye 459
+- Annapolis Dental Associates | Annapolis, MD | annapolisdentalassociates.net | 70 -> 69 - 92 verified (agg.)
+- Hagerstown Smiles Dental Care | Hagerstown, MD | hagerstownsmiles.com | 70 -> 73 - site 1000+ Google; Birdeye 180
+- Katkow Dentistry | Columbia, MD | katkowdentistry.com | 69 -> 65 - thin corpus (Yelp 9, Birdeye 4); site live (first curl transient fail)
+- James A. Vito DMD | Wayne, PA | jamesvito.com | 68 -> 69 - Healthgrades 86
+- Advanced Dental Solutions of Pittsburgh | Pittsburgh, PA | pittsburghissmiling.com | 67 -> 75 - Birdeye 1,658 (4.9)
+- Capitol Hill Dentistry | Washington, DC | thecapitolhilldentistry.com | 66 -> 55 DROP - Birdeye 5 reviews, ~12 yrs
+- White Clay Dental Associates | Newark, DE | whiteclaydental.com | 66 -> 64 - Birdeye 46
+- Tummarello & Pandak | Fairfax, VA | dentist-in-fairfax.com | 65 -> 64 - Yelp 12
+- Serafin Family Dentistry | Carlisle, PA | serafinfamilydentistry.com | 62 -> 69 - Birdeye 389 (5.0), CoC 249
+### Job B - new finalists / verification of leftovers
+- Mid State Dental (Friedman/Grater/Williams/Sandusky) | Harrisburg, PA | friedmangrater.com | Birdeye 328 (4.9); Televox/Milestone CMS 6.0, dead plus.google.com link; 4 docs, 38th annual Free Dental Day - VERIFY -> finalist candidate ~66
+- CMB Family Dentistry (Alter/Brown) | Broomall, PA | cmbdental.com | Birdeye 306 (5.0); Televox/Milestone, 40+ yrs, Main Line Today best since 2009 - finalist candidate ~67
+- Main Line Dental Aesthetics (Godorecci) | Paoli, PA | paolidentist.com | Birdeye 565 (4.9); ProSites "Copyright � 2019"; AACD member, CEREC/E4D; owner since 2010 - finalist ~72
+- Center One Dental (Vekariya) | Canonsburg, PA | centeronedental.com | Birdeye 128-149; TNT (c)2018, keyword title, COVID letter still on homepage; single doc, est unknown - BENCH ~62
+- Pike Creek Dental | Wilmington, DE | pikecreekdental.com | Birdeye 1,765; WP/Porto, (c)2019 frozen, header typo 14901 Limestone; site not weak enough - BENCH ~64
+- Newark Dental Associates | Newark, DE | newarkdental.com | Birdeye 65; Elementor WP, (c) 2020; est 1962 - BENCH ~60
+- Canton Dental Associates | Baltimore, MD | cantondentalassociates.com | Birdeye 8, Yelp 84; 3 female docs - BENCH ~58
+- John L. Waldman DMD | Pittsburgh, PA | pittsburghsmilemakeover.com | Healthgrades 25, Sharecare 25; not accepting new pts - REJECT (thin/closed)
+- Dental Health First | Washington, PA | dentalhealthfirst.com | TNT; since 1979; count unknown; small market - BENCH ~60
+- Trahos Dental | Fredericksburg, VA | myfredericksburgdentist.com | WP 7 healthflex (c)2020; HG 7, mixed reviews - REJECT
+- Kelliher Family Dentists | Springfield, VA | kelliherfamilydentists.com | Wix (c)2020; est 1962; Yelp 1, FB 5 - BENCH ~58 thin corpus
+- Margaret A. Beamer DDS | Canonsburg, PA | margaretabeamerdds.com | Elementor WP (c)2019; HG 11, CoC 6 - REJECT thin
+- Baltimore Dental Arts (Murphy/Conklin/Ward) | Baltimore, MD | baltimoredentalarts.com | TNT (c)2021 keyword title; Birdeye 29; perio+prosth AAED fellow - candidate ~70
+- Delaney and Burke Dental Group | Lutherville, MD | delaneydental.com | ProSites (c)2019; no review data found - BENCH ~58
+- Virginia Dentistry by Design (Dilolli) | Herndon, VA | virginiadentistrybydesign.com | TNT (c)2016, COVID closure notice in source; Birdeye 242 (4.9) - candidate ~67
+- Yorkshire Dental | York, PA | yorkshiredentalpllc.com | ProSites (c)2019 - unverified
+- Aesthetic Dental Arts | York, PA | aestheticdentalarts.com | TNT - unverified
+- Costa Dentistry | Great Falls, VA | costasmiles.com | modern WP - REJECT modern
+- Signature Smiles Chesapeake | Chesapeake, VA | cosmeticdentistchesapeake.com | REJECT - DSO: Atlantic Dental Care division
+- Elevate Dental Studio | Haymarket, VA | haymarket.dental | REJECT modern
+- Richmond Dentistry (Rossetti/Cosby/Kondorossy) | Richmond, VA | richmond-dentistry.com | REJECT modern WP

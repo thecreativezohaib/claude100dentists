@@ -1,0 +1,954 @@
+[
+ {
+  "name": "Heritage Family Dental (Dr. Gregory Clibon)",
+  "city": "Irvine",
+  "state": "CA",
+  "url": "https://www.ocyoursmile.com/",
+  "verdict": "BENCH: ProSites 'Copyright � 2019', 28 yrs (site), solo, Irvine; family/general mix, reviews UNKNOWN",
+  "approx_score": 65
+ },
+ {
+  "name": "Gregory L. Van Hale DDS & Cathleen T. Arima DDS",
+  "city": "Glendale",
+  "state": "CA",
+  "url": "https://glendaledentists.net/",
+  "verdict": "BENCH: est. January 1984 (site), 2 USC docs, small 22k template '(c) 2019 All Rights Reserved'; Glendale mid-market",
+  "approx_score": 65
+ },
+ {
+  "name": "Robert A. Rees DDS, APC",
+  "city": "La Jolla",
+  "state": "CA",
+  "url": "https://www.lajollasmile.com/",
+  "verdict": "BENCH: Hibu build (staging on hibuwebsites.com), generic title 'Dentists | La Jolla, CA', '(c)' with no year; est. 1999 / 30 yrs, All-on-4 + full mouth; reviews UNKNOWN",
+  "approx_score": 65
+ },
+ {
+  "name": "Stephen R. Ho DDS Inc.",
+  "city": "Honolulu (Waikiki)",
+  "state": "HI",
+  "url": "https://www.stephenrho.com/",
+  "verdict": "BENCH: ProSites (c)2019, 'Since 1981', full-mouth/implants, solo; retirement-horizon flag",
+  "approx_score": 64
+ },
+ {
+  "name": "Dr. Barbara L. Wenicur DDS",
+  "city": "Albuquerque",
+  "state": "NM",
+  "url": "https://drwenicurdds.com/",
+  "verdict": "BENCH: DentalMarketing.com '(c)2019 Gilleard Marketing', 25+ yrs, TeethXpress/full-mouth; $59 new-patient promo (mid ticket); shares building with Boehmer (YellowPages lists boehmerdds.com against her phone)",
+  "approx_score": 64
+ },
+ {
+  "name": "Kailua Dental Arts (Drs. Hannah & Oliver)",
+  "city": "Kailua",
+  "state": "HI",
+  "url": "https://www.kailuadentalarts.com/",
+  "verdict": "BENCH: ProSites (c)2019 + 2nd live domain drmarcushannah.com, keyword-spam title, 2 docs; est. UNKNOWN",
+  "approx_score": 63
+ },
+ {
+  "name": "Dr. Helen Im, DDS",
+  "city": "Temecula",
+  "state": "CA",
+  "url": "https://www.drhelenim.com/",
+  "verdict": "BENCH: ProSites (c)2019, LVI preferred, solo; est. UNKNOWN; Temecula mid-market",
+  "approx_score": 63
+ },
+ {
+  "name": "The Art of Creating Smiles (Dr. Paul Lippi)",
+  "city": "Los Gatos",
+  "state": "CA",
+  "url": "https://www.theartofcreatingsmiles.com/",
+  "verdict": "BENCH: (c) 2020 'Created by TWO IMPRESS', YellowPages 39 yrs, Netflix/Apple patients; reviews UNKNOWN",
+  "approx_score": 62
+ },
+ {
+  "name": "Sammamish Family Dental (Dr. Robert Humble, since 2000)",
+  "city": "Sammamish",
+  "state": "WA",
+  "url": "https://www.sammamishfamilydental.com/",
+  "verdict": "BENCH: Sesame 24-7, YellowPages 4.3 (17); general/family, no evident high-ticket",
+  "approx_score": 60
+ },
+ {
+  "name": "Wicklund Dental (Dr. Lance Wicklund)",
+  "city": "Bainbridge Island",
+  "state": "WA",
+  "url": "https://www.wicklunddental.com/",
+  "verdict": "BENCH: Sesame 24-7 with Coronavirus Update in nav, IV sedation/implants, 'first or runner-up for over a decade'; YellowPages 2 reviews; tenure UNKNOWN",
+  "approx_score": 60
+ },
+ {
+  "name": "The Dental Studio (Dr. Jeff Clawson)",
+  "city": "Lake Oswego",
+  "state": "OR",
+  "url": "https://lodentalstudio.com/",
+  "verdict": "BENCH: Divi '(c) Copyright 2018 The Dental Studio', 'Website by Elevation Surgical'; tenure UNKNOWN; solo",
+  "approx_score": 58
+ },
+ {
+  "name": "LA Dental Experts (Drs. Nafisi & Cohen)",
+  "city": "Sherman Oaks",
+  "state": "CA",
+  "url": "https://www.ladentalexperts.com/",
+  "verdict": "BENCH: ProSites (c)2019; site claims 500+ five-star reviews; docs appear young, ownership UNKNOWN",
+  "approx_score": 58
+ },
+ {
+  "name": "J.R. Pulido DDS",
+  "city": "Escondido",
+  "state": "CA",
+  "url": "https://www.dentistryinescondido.com/",
+  "verdict": "LOW: ProSites, est. 1990, general/cosmetic; Escondido lower ticket",
+  "approx_score": 56
+ },
+ {
+  "name": "Orangecrest Family Dental (Dr. Sheida Mohammadizadeh)",
+  "city": "Riverside",
+  "state": "CA",
+  "url": "https://www.orangecrestdentistry.com/",
+  "verdict": "LOW: ProSites (c)2019, practice since 2004, YellowPages 18 reviews; family/ortho",
+  "approx_score": 56
+ },
+ {
+  "name": "Orange Hill Dental Group (Dr. Joseph Sabet)",
+  "city": "Orange",
+  "state": "CA",
+  "url": "https://www.orangehilldental.com/",
+  "verdict": "LOW: ProSites (c)2019, YellowPages 15 reviews, ages 3-103 family",
+  "approx_score": 55
+ },
+ {
+  "name": "Palm Desert Dental Center (Drs. Dao, Shabtaie, Kunkle, Cummings)",
+  "city": "Palm Desert",
+  "state": "CA",
+  "url": "https://www.palmdesertdental.net/",
+  "verdict": "LOW: ProSites (c)2019, 4 docs but accepts 'most HMO and PPO plans' - value/group model, ownership UNKNOWN",
+  "approx_score": 55
+ },
+ {
+  "name": "Marguerite Dental Care",
+  "city": "Mission Viejo",
+  "state": "CA",
+  "url": "https://www.margueritedentalcare.com/",
+  "verdict": "LOW: ProSites (c)2019; details UNVERIFIED",
+  "approx_score": 54
+ },
+ {
+  "name": "Gallery Smiles Dental Care",
+  "city": "Temecula",
+  "state": "CA",
+  "url": "https://www.gallerysmilesdentalcare.com/",
+  "verdict": "LOW: ProSites (c)2019; details UNVERIFIED (WebFetch 503)",
+  "approx_score": 54
+ },
+ {
+  "name": "All Care Dental",
+  "city": "Torrance",
+  "state": "CA",
+  "url": "http://www.torranceallcaredental.com/",
+  "verdict": "LOW: ProSites (c)2019, YellowPages 30 yrs; details UNVERIFIED",
+  "approx_score": 54
+ },
+ {
+  "name": "Lugay Family Dental",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "url": "https://www.lugayfamilydental.com/",
+  "verdict": "LOW: ProSites (c)2019, 'affordable... dentistry for the entire family' - low ticket",
+  "approx_score": 50
+ },
+ {
+  "name": "Vacanti Dentistry (Dr. Noah Vacanti; Dr. Blazer retired)",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "url": "https://www.drvacanti.com/",
+  "verdict": "LOW: ProSites (c)2019, 'Dr Blazer Retirement Letter' on nav, Medicare/dentures positioning",
+  "approx_score": 50
+ },
+ {
+  "name": "Lucky Dental",
+  "city": "San Jose",
+  "state": "CA",
+  "url": "https://www.luckydentalcenter.com/",
+  "verdict": "LOW: ProSites (c)2019; general dentistry, details UNVERIFIED",
+  "approx_score": 50
+ },
+ {
+  "name": "Monica Boehmer DDS PC",
+  "city": "Albuquerque",
+  "state": "NM",
+  "url": "https://www.boehmerdds.com/",
+  "verdict": "LOW: TNT Dental current template, no year in footer, Top Dentist (Albuquerque The Magazine) since 2005",
+  "approx_score": 55
+ },
+ {
+  "name": "Thomas Smile Designs",
+  "city": "Billings",
+  "state": "MT",
+  "url": "https://www.bigskysmiles.net/",
+  "verdict": "LOW: WordPress (c)2022; details UNVERIFIED",
+  "approx_score": 52
+ },
+ {
+  "name": "Louisa Gallegos DDS (prosthodontic)",
+  "city": "Denver",
+  "state": "CO",
+  "url": "https://www.louisagallegosdds.com/",
+  "verdict": "LOW: Duda build, prosthodontic/All-on-X/full mouth, Hilltop; no frozen markers",
+  "approx_score": 55
+ },
+ {
+  "name": "Cubero Dental (Dr. James Zamora)",
+  "city": "Albuquerque",
+  "state": "NM",
+  "url": "https://www.cuberodental.com/",
+  "verdict": "LOW: Weebly, YellowPages 47 yrs / 29 reviews (YP), 'we have moved' banner; family/insurance model",
+  "approx_score": 55
+ },
+ {
+  "name": "Pollary Family Dentistry (Dr. Kenneth Pollary)",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "url": "https://www.dentistincoloradospringscolorado.com/",
+  "verdict": "LOW: GrowthPlug (c)2016, All-on-4, Dawson course; solo family",
+  "approx_score": 54
+ },
+ {
+  "name": "Carl H. Smith DDS",
+  "city": "San Diego (UTC)",
+  "state": "CA",
+  "url": "https://www.carlhsmithdds.com/",
+  "verdict": "FLAG retirement: 'Practicing Adult Reconstructive & Implant Dentistry since 1970', (c) 2010 Locallife Design, tiny one-page site; son is CDT not DDS",
+  "approx_score": 50
+ },
+ {
+  "name": "Noland Dental (Dr. Paul Noland)",
+  "city": "Beaverton",
+  "state": "OR",
+  "url": "https://www.nolanddental.com/",
+  "verdict": "LOW: Squarespace (c)2017; 43 yrs YellowPages; solo",
+  "approx_score": 52
+ },
+ {
+  "name": "Spokane Cosmetic Dentistry (Dr. Michael Readel)",
+  "city": "Spokane",
+  "state": "WA",
+  "url": "https://www.spokanecosmeticdentistry.com/",
+  "verdict": "LOW: Duda, 20+ yrs, Medicare accepted, value positioning",
+  "approx_score": 50
+ },
+ {
+  "name": "Littleton Dental Studio (Dr. Cale Beasley)",
+  "city": "Littleton",
+  "state": "CO",
+  "url": "https://www.littletondentalstudio.com/",
+  "verdict": "LOW: TNT (c)2019, <title>Home</title>; solo, 'affordable' positioning, no hygienist",
+  "approx_score": 50
+ },
+ {
+  "name": "Smile Centennial (Dr. Michael Franquemont)",
+  "city": "Centennial",
+  "state": "CO",
+  "url": "https://www.smilecentennial.com/",
+  "verdict": "LOW: Great Dental Websites template; practice since 1999/2005; $89 new-patient special",
+  "approx_score": 50
+ },
+ {
+  "name": "Lake Oswego Smiles (Dr. Larry Bowden)",
+  "city": "Lake Oswego",
+  "state": "OR",
+  "url": "https://www.lakeoswegosmiles.com/",
+  "verdict": "LOW: Great Dental Websites; practice since 2003",
+  "approx_score": 50
+ },
+ {
+  "name": "Highlands Dental (Dr. Anna Burger)",
+  "city": "Highlands Ranch",
+  "state": "CO",
+  "url": "https://www.myhighlandsdental.com/",
+  "verdict": "LOW: Divi '(c) 2018'; small solo",
+  "approx_score": 50
+ },
+ {
+  "name": "Kailua Dental Care (Dr. Jeffrey Sonson)",
+  "city": "Kailua",
+  "state": "HI",
+  "url": "https://www.kailuadds.com/",
+  "verdict": "LOW: Duda; opened 2001; general",
+  "approx_score": 48
+ },
+ {
+  "name": "Aloha Dental Associates",
+  "city": "Kailua",
+  "state": "HI",
+  "url": "https://www.alohadentalassociates.com/",
+  "verdict": "LOW: Weebly; details UNVERIFIED",
+  "approx_score": 48
+ },
+ {
+  "name": "Nelson Dentistry (Dr. Jonathan Nelson)",
+  "city": "Missoula",
+  "state": "MT",
+  "url": "https://www.jonathannelsondmd.com/",
+  "verdict": "LOW: Great Dental Websites, no defects beyond template",
+  "approx_score": 48
+ },
+ {
+  "name": "Redlands Family Dental Care",
+  "city": "Redlands",
+  "state": "CA",
+  "url": "https://www.myredlandsdentist.com/",
+  "verdict": "LOW: DentalMarketing.com; details UNVERIFIED",
+  "approx_score": 48
+ },
+ {
+  "name": "Great Smile Family Dentistry",
+  "city": "Tucson",
+  "state": "AZ",
+  "url": "https://www.greatsmilefamilydentistry.com/",
+  "verdict": "LOW: DentalMarketing.com; details UNVERIFIED",
+  "approx_score": 48
+ },
+ {
+  "name": "Encino Cosmetic Dental Group (Dr. Matt Zarinnia)",
+  "city": "Encino",
+  "state": "CA",
+  "url": "https://www.encinocosmetic.com/",
+  "verdict": "LOW: bot-walled 403 live; archive.org copy shows Officite 'Copyright (c) 2025 MH Sub I, LLC dba Officite'; est. UNKNOWN",
+  "approx_score": 52
+ },
+ {
+  "name": "South Pasadena DDS",
+  "city": "South Pasadena",
+  "state": "CA",
+  "url": "https://www.southpasadenadds.com/",
+  "verdict": "LOW: bot-walled; archive.org shows Officite (c)2025",
+  "approx_score": 48
+ },
+ {
+  "name": "Del Mar Dental Studio (Drs. Pizzi, Campbell, Bellisario, Leun, Hamidi, Ayazi)",
+  "city": "Del Mar",
+  "state": "CA",
+  "url": "https://www.dentistdelmar.com/",
+  "verdict": "BENCH: 6 doctors, Google badge '200+ reviews', 'Locally owned and operated', but Webflow build by Wonderist Agency (looks agency-quality) with '(c) Del Mar Dental Studio 2019' and stale 2022 farewell notice; weak-site evidence insufficient",
+  "approx_score": 62
+ },
+ {
+  "name": "Nima Foroutan DDS (AnaBella Family & Cosmetic)",
+  "city": "Bellevue",
+  "state": "WA",
+  "url": "https://www.foroutandds.com/",
+  "verdict": "LOW: Sesame; 16 yrs; general",
+  "approx_score": 46
+ },
+ {
+  "name": "Bellevue Family & Cosmetic Dentistry",
+  "city": "Bellevue",
+  "state": "WA",
+  "url": "https://www.bellevuedentaloffice.com/",
+  "verdict": "LOW: TNT; details UNVERIFIED",
+  "approx_score": 46
+ },
+ {
+  "name": "Advanced Dentistry Northwest",
+  "city": "Bellevue",
+  "state": "WA",
+  "url": "https://www.thebellevuedentist.com/",
+  "verdict": "LOW: Great Dental Websites; 18 yrs",
+  "approx_score": 46
+ },
+ {
+  "name": "Kadoshima Family Dentistry",
+  "city": "Tacoma",
+  "state": "WA",
+  "url": "https://www.kadoshimadentistry.com/",
+  "verdict": "LOW: Duda/Hibu; 38 yrs YP; general",
+  "approx_score": 46
+ },
+ {
+  "name": "Parkland Pacific Dental",
+  "city": "Parkland",
+  "state": "WA",
+  "url": "https://www.parklandpacificdental.com/",
+  "verdict": "LOW: Weebly; value/insurance model",
+  "approx_score": 44
+ },
+ {
+  "name": "Union Avenue Dental Center (Dr. Sonia Pal)",
+  "city": "Tacoma",
+  "state": "WA",
+  "url": "https://www.unionavenuedentalcenter.com/",
+  "verdict": "LOW: Sesame; general",
+  "approx_score": 44
+ },
+ {
+  "name": "Wallace & Solhaug Family Dentistry",
+  "city": "Seattle",
+  "state": "WA",
+  "url": "https://www.wallacesolhaug.com/",
+  "verdict": "LOW: Sesame; YellowPages 31 yrs; WebFetch 503, unverified",
+  "approx_score": 50
+ },
+ {
+  "name": "Grand Dentistry (Drs. Bonar & Basso)",
+  "city": "Escondido",
+  "state": "CA",
+  "url": "https://www.granddentistry.com/",
+  "verdict": "LOW: '(c) 2018 ... Next! Ad Agency'; 2 docs; Escondido mid-market",
+  "approx_score": 50
+ },
+ {
+  "name": "Fuller Smiles",
+  "city": "San Jose",
+  "state": "CA",
+  "url": "https://www.sanjosecasedationdentist.com/",
+  "verdict": "REJECT - group: 11 locations (site), ProSites",
+  "approx_score": 10
+ },
+ {
+  "name": "Willow Glen Dental Care",
+  "city": "San Jose",
+  "state": "CA",
+  "url": "https://www.willowglendentalcare.com/",
+  "verdict": "REJECT - group: sister 'Advanced Dental Care' Santa Clara; ProSites",
+  "approx_score": 15
+ },
+ {
+  "name": "Kantor Dental Group & Implants",
+  "city": "San Rafael",
+  "state": "CA",
+  "url": "https://www.kantordental.com/",
+  "verdict": "REJECT - PBHS with auto-updating '(c) 2002 - 2026'; multi-office, evening hours, PPO/in-house plan model",
+  "approx_score": 30
+ },
+ {
+  "name": "White Pine Family Dental",
+  "city": "Reno",
+  "state": "NV",
+  "url": "https://www.whitepinefamilydental.com/",
+  "verdict": "REJECT - Elementor, 'Copyright 2026' (WebFetch); est. 1994 3 docs",
+  "approx_score": 35
+ },
+ {
+  "name": "Rod Gleave DMD",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "url": "https://www.slcsmiles.com/",
+  "verdict": "REJECT - '(c) 2026' current site (WebFetch)",
+  "approx_score": 35
+ },
+ {
+  "name": "Bountiful Dentistry",
+  "city": "Bountiful",
+  "state": "UT",
+  "url": "https://bountifuldentistry.com/",
+  "verdict": "UNSCREENED - JS shell; WebFetch returned title only",
+  "approx_score": null
+ },
+ {
+  "name": "Richard Hamaty DMD",
+  "city": "Yorba Linda",
+  "state": "CA",
+  "url": "https://www.richardhamatydmd.com/",
+  "verdict": "UNVERIFIABLE - bot-walled, WebFetch 403, no archive.org copy",
+  "approx_score": null
+ },
+ {
+  "name": "San Diego Prosthodontics",
+  "city": "La Mesa",
+  "state": "CA",
+  "url": "https://www.sandiegoprosthodontics.com/",
+  "verdict": "UNVERIFIABLE - bot-walled, WebFetch 403, no archive.org copy",
+  "approx_score": null
+ },
+ {
+  "name": "Greenlaw DDS",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "url": "https://www.greenlawdds.com/",
+  "verdict": "UNVERIFIABLE - bot-walled, WebFetch 403, no archive.org copy",
+  "approx_score": null
+ },
+ {
+  "name": "Sparks Family Dentistry (Basora)",
+  "city": "Sparks",
+  "state": "NV",
+  "url": "https://www.sparksfamilydentistry.com/",
+  "verdict": "UNVERIFIABLE - bot-walled, WebFetch 403, no archive.org copy",
+  "approx_score": null
+ },
+ {
+  "name": "La Jolla Dental Boutique",
+  "city": "La Jolla",
+  "state": "CA",
+  "url": "https://www.lajolladentalboutique.com/",
+  "verdict": "UNSCREENED - archive.org copy shows no vendor markers; live site bot-walled",
+  "approx_score": null
+ },
+ {
+  "name": "Sequoia Dental Office",
+  "city": "Visalia",
+  "state": "CA",
+  "url": "https://www.sequoiadental.com/",
+  "verdict": "UNSCREENED - archive.org copy is 3.6KB stub; live site bot-walled",
+  "approx_score": null
+ },
+ {
+  "name": "Brentwood Center for Cosmetic Dentistry",
+  "city": "Los Angeles",
+  "state": "CA",
+  "url": "https://www.brentwoodcosmeticdentistry.com/",
+  "verdict": "UNSCREENED - GrowthPlug marker; details UNVERIFIED",
+  "approx_score": null
+ },
+ {
+  "name": "Indian Peaks Dental",
+  "city": "Boulder",
+  "state": "CO",
+  "url": "https://www.indianpeakdental.com/",
+  "verdict": "DEAD/HIJACKED: domain now serves a Turkish casino-spam page ('Rokubet'); YellowPages 21 yrs",
+  "approx_score": null
+ },
+ {
+  "name": "Sandra L. Parker DDS",
+  "city": "Orange",
+  "state": "CA",
+  "url": "https://www.slparkerdds.com/",
+  "verdict": "DEAD/HIJACKED: domain title 'SLOT88 : Situs Slot Gacor...'",
+  "approx_score": null
+ },
+ {
+  "name": "Jeff Jones DDS",
+  "city": "Orange",
+  "state": "CA",
+  "url": "https://www.jeffjonesdds.com/",
+  "verdict": "DEAD/HIJACKED: domain title 'FORTUNA189' spam; YellowPages 66 yrs",
+  "approx_score": null
+ },
+ {
+  "name": "Gabriel Roybal DDS",
+  "city": "Santa Fe",
+  "state": "NM",
+  "url": "https://www.gabrielroybal.com/",
+  "verdict": "DEAD/HIJACKED: title is a Chinese casino-spam string",
+  "approx_score": null
+ },
+ {
+  "name": "Lakind Dental Group",
+  "city": "Santa Fe",
+  "state": "NM",
+  "url": "https://agencasino77.com/",
+  "verdict": "DEAD: YellowPages website now a casino domain; 46 yrs listed",
+  "approx_score": null
+ },
+ {
+  "name": "Delmont Dentistry",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "url": "https://delmontdentistry.com/",
+  "verdict": "DEAD: /cgi-sys/suspendedpage.cgi; 31 yrs listed",
+  "approx_score": null
+ },
+ {
+  "name": "Aesthetic Dentistry Associates (Daniel Cronk DDS)",
+  "city": "Woodland Hills",
+  "state": "CA",
+  "url": "https://drcronk.com/",
+  "verdict": "DEAD: /cgi-sys/suspendedpage.cgi; 23 yrs listed",
+  "approx_score": null
+ },
+ {
+  "name": "Jeffry Kerbs DDS",
+  "city": "Escondido",
+  "state": "CA",
+  "url": "https://www.drkerbs.com/",
+  "verdict": "DEAD: domain parked at HugeDomains",
+  "approx_score": null
+ },
+ {
+  "name": "David R. Crouch DDS",
+  "city": "Orange",
+  "state": "CA",
+  "url": "https://www.davidrcrouchdds.com/",
+  "verdict": "DEAD/HIJACKED: GoDaddy spam page 'Emergency Dental Service'; 43 yrs listed",
+  "approx_score": null
+ },
+ {
+  "name": "Century City Dental Group",
+  "city": "Beverly Hills",
+  "state": "CA",
+  "url": "https://www.centurycitydentalgroup.com/",
+  "verdict": "DEAD/HIJACKED: same 'Emergency Dental Service' spam; 55 yrs listed",
+  "approx_score": null
+ },
+ {
+  "name": "Sarah Baldwin DMD",
+  "city": "Piedmont",
+  "state": "CA",
+  "url": "http://www.dentaloaklandca.com/",
+  "verdict": "DEAD: page is a Wayback Machine Downloader demo",
+  "approx_score": null
+ },
+ {
+  "name": "Robert Sirotnik DDS",
+  "city": "Riverside",
+  "state": "CA",
+  "url": "https://www.riversidesmile.com/",
+  "verdict": "UNREACHABLE (curl 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Klahanie Family Dentistry",
+  "city": "Sammamish",
+  "state": "WA",
+  "url": "https://klahaniedental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Issaquah Plateau Dentistry",
+  "city": "Issaquah",
+  "state": "WA",
+  "url": "https://issaquahplateaudentistry.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Issaquah Dental Health",
+  "city": "Issaquah",
+  "state": "WA",
+  "url": "https://www.issaquahdentalhealth.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Issaquah Premier Dental",
+  "city": "Issaquah",
+  "state": "WA",
+  "url": "https://www.issaquahpremierdental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Bainbridge Dental Care",
+  "city": "Bainbridge Island",
+  "state": "WA",
+  "url": "https://bainbridgedentalcare.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Advanced Dental Care (Kois)",
+  "city": "Tacoma",
+  "state": "WA",
+  "url": "https://thetacomadentist.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "West Bay Dental",
+  "city": "Olympia",
+  "state": "WA",
+  "url": "https://www.westbaydentalwa.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Olympia Family Dental",
+  "city": "Olympia",
+  "state": "WA",
+  "url": "https://olympiadentaloffice.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Farmington Dental Care",
+  "city": "Beaverton",
+  "state": "OR",
+  "url": "https://www.farmingtondentaloffice.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Slater Family Dental",
+  "city": "Beaverton",
+  "state": "OR",
+  "url": "https://slaterfamilydental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Hoffman Dental",
+  "city": "Hillsboro",
+  "state": "OR",
+  "url": "https://dranthonyhoffman.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Cornell Dental",
+  "city": "Hillsboro",
+  "state": "OR",
+  "url": "https://cornell-dental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Tanasbourne Dental Care",
+  "city": "Hillsboro",
+  "state": "OR",
+  "url": "https://tanasbournedentalcare.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Westlake Family Dentistry",
+  "city": "Lake Oswego",
+  "state": "OR",
+  "url": "https://westlakefamilydental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Skyline Dental",
+  "city": "Bend",
+  "state": "OR",
+  "url": "https://skylinedentalbend.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Aesthetic Dentistry of Bend",
+  "city": "Bend",
+  "state": "OR",
+  "url": "https://thegreatsmile.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Freeman Smiles",
+  "city": "Bend",
+  "state": "OR",
+  "url": "https://www.freemansmiles.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Highlands Ranch Smiles",
+  "city": "Highlands Ranch",
+  "state": "CO",
+  "url": "https://highlandsranchcoloradodentist.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Almeida & Bell",
+  "city": "Lone Tree",
+  "state": "CO",
+  "url": "https://www.almeidabelldental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Parker Family Dental",
+  "city": "Parker",
+  "state": "CO",
+  "url": "https://parkerfamilydental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Mountain Springs Advanced Dental",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "url": "https://mtnspringsdental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "North End Dental",
+  "city": "Colorado Springs",
+  "state": "CO",
+  "url": "https://www.northendsmiles.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Las Cruces Dental Associates",
+  "city": "Las Cruces",
+  "state": "NM",
+  "url": "https://www.lascrucesdental.net/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Jared French DMD",
+  "city": "Santa Fe",
+  "state": "NM",
+  "url": "https://www.jaredfrenchdmd.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Alaska Advanced Dentistry",
+  "city": "Anchorage",
+  "state": "AK",
+  "url": "https://alaskaadvanceddentistry.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Kaloko Dental",
+  "city": "Honolulu",
+  "state": "HI",
+  "url": "https://www.kalokodental.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Del Mar Family Dentistry",
+  "city": "Solana Beach",
+  "state": "CA",
+  "url": "https://www.delmarfamilydentistry.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Encinitas Cosmetic Dentistry",
+  "city": "Encinitas",
+  "state": "CA",
+  "url": "https://www.encinitascosmeticdentistry.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Rancho Bernardo Dental Arts",
+  "city": "San Diego",
+  "state": "CA",
+  "url": "https://www.ranchobernardodentalarts.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Gentle Dentistry of Poway",
+  "city": "Poway",
+  "state": "CA",
+  "url": "https://www.gentledentistrypoway.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Pomerado Cosmetic Dentistry",
+  "city": "Poway",
+  "state": "CA",
+  "url": "https://www.pomeradocosmeticdentistry.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Aesthetic Dental Designs (Snyder)",
+  "city": "Laguna Niguel",
+  "state": "CA",
+  "url": "https://aestheticdentaldesigns.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Country Club Dentistry (Strober)",
+  "city": "Rancho Mirage",
+  "state": "CA",
+  "url": "https://www.countryclubdentistry.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Paradise Valley Smiles / Dameron / Drs of Smiles",
+  "city": "Phoenix area",
+  "state": "AZ",
+  "url": "https://www.paradisevalleysmiles.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Scottsdale Smile Center",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "url": "https://www.scottsdalesmile.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Sonoran Dental Design / Davis Dentistry",
+  "city": "Scottsdale",
+  "state": "AZ",
+  "url": "https://www.sonorandentaldesign.com/",
+  "verdict": "REJECT - modern/current site (Elementor/Wix/Squarespace/Einstein/Ekwa/DentalCMO/DoctorGenius/WEO with (c)2023-2026) or otherwise no weakness",
+  "approx_score": 30
+ },
+ {
+  "name": "Mercer Island Dentistry",
+  "city": "Mercer Island",
+  "state": "WA",
+  "url": "https://dentistmercerisland.com/",
+  "verdict": "EXCLUDED - prior round (EXCLUSIONS section 6)",
+  "approx_score": null
+ },
+ {
+  "name": "Casa Adobes Dentistry",
+  "city": "Tucson",
+  "state": "AZ",
+  "url": "https://www.casasadobesdentistry.com/",
+  "verdict": "EXCLUDED - prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Cooley Smiles",
+  "city": "Bellevue/Kirkland",
+  "state": "WA",
+  "url": "https://cooleysmiles.com/",
+  "verdict": "EXCLUDED - prior round (section 1)",
+  "approx_score": null
+ },
+ {
+  "name": "Alcan Family Dental / Anchorage Dental Group",
+  "city": "Anchorage",
+  "state": "AK",
+  "url": "https://www.alcanfamilydental.com/",
+  "verdict": "EXCLUDED/DSO - White Mountain Holdings (section 7)",
+  "approx_score": null
+ },
+ {
+  "name": "Station Dental Highlands Ranch",
+  "city": "Highlands Ranch",
+  "state": "CO",
+  "url": "https://smilepartnersusa.com/",
+  "verdict": "REJECT - DSO: Smile Partners USA",
+  "approx_score": 5
+ },
+ {
+  "name": "Hawaii Family Dental - Honolulu",
+  "city": "Honolulu",
+  "state": "HI",
+  "url": "https://hawaiifamilydental.com/",
+  "verdict": "REJECT - DSO blocklist (section 7)",
+  "approx_score": 5
+ },
+ {
+  "name": "Espire Dental (La Mesa / La Jolla / Boulder area)",
+  "city": "CA/CO",
+  "state": "CA",
+  "url": "https://www.espiredental.com/",
+  "verdict": "REJECT - DSO blocklist (section 7)",
+  "approx_score": 5
+ },
+ {
+  "name": "Visalia Modern Dentistry etc. ('Modern Dentistry' pattern)",
+  "city": "West",
+  "state": "CA",
+  "url": "https://www.visaliamoderndentistry.com/",
+  "verdict": "REJECT - PDS brand pattern",
+  "approx_score": 5
+ }
+]

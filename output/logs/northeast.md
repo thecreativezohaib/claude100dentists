@@ -652,3 +652,4 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Keith Asarkof DMD & Associates | Lexington, MA | asarkof.com | WAVE2 CANDIDATE ~63 — PBHS Template2120, 3 docs, Birdeye 29 (4.5)+19; general/family, little cosmetic; lower FC/Gap
 - Laurence Schwartz DDS | Huntington, NY | huntingtonnysmiles.com | WAVE2 REJECT-LOW ~58 — Officite ©2024 accessibility widget, HG 2 reviews, solo
 - North Shore Prosthodontic Associates | Manhasset, NY | nspali.com | WAVE2 pending — Dentalfone ©2013-2026 LayerSlider (refreshed?)
+- JOB A addendum (Birdeye directory JSON-LD): Bedford Cosmetic 69->75 (Birdeye 374, 5.0); Beliveau 67->71 (Birdeye 152); Somerset Hills 67->68 (Birdeye 42); see northeast_top18_v2.json
