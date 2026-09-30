@@ -103,6 +103,12 @@ def load_all():
     ov = json.load(open(ov_path)) if os.path.exists(ov_path) else {}
     for it in ov.get("add", []):
         items.append(it)
+    fix = ov.get("url_fix", {})
+    for it in items:
+        if it.get("url") in fix:
+            it["url"] = fix[it["url"]]
+        if it.get("url") and not it["url"].startswith("http"):
+            it["url"] = "https://" + it["url"]
     return items, cands, ov
 
 
