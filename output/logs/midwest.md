@@ -921,3 +921,245 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - York Dental | Cleveland, OH | york-dental.com | REJECT — modern/no defect detected in screen (cy=2026)
 - Southwest Dental Group | Racine, WI | sw-dental.com | UNSCREENED — unreachable (HTTP 000)
 - Toledo Dental Arts | Toledo, OH | toledodentist.com | UNSCREENED — unreachable (HTTP 000)
+
+## Excluded-on-sight from directory harvest (EXCLUDED — prior round)
+- artistrysmilecenter.com | EXCLUDED — prior round
+- mmfamilydental.com (Murray Family Dental) | EXCLUDED — prior round
+- pineridgedental.com | EXCLUDED — prior round
+- todaysdentist.com (Lande) | EXCLUDED — prior round
+- toledodentistry.com (Sylvania Smile Design) | EXCLUDED — prior round
+
+## DSO / group catches
+- Noblesville Family Dentistry, IN | acquired by Grin Dentistry (REJECT — DSO)
+- Aesthetic Dentistry of Frankfort, IL | redirects to smilesbyad.com group site (REJECT — group)
+- Lincoln Dental Group, Chicago | Marquee/mb2 strings in HTML (REJECT — suspected DSO)
+
+## FINAL TOP 18
+NOTE: web-search quota exhausted mid-run (200/200) and Firecrawl out of credits; discovery switched to dentistsup.com city listings (135 cities) + curl fingerprint of 826 domains. Google/Yelp review counts were NOT retrievable -> Reviews tagged UNKNOWN, scores capped accordingly.
+
+1. Thomsen Dental Group — West Omaha, NE — thomsendental.com — 72/100 — MEDIUM-HIGH (medium-high)
+• Est/Doctors: 'More than three decades' in Omaha (VERIFIED, site); Brett Thomsen DDS FAGD, AACD member, ICD member, former US Army dental surgeon (UNMC DDS); associate Dr. Wegner (name VERIFIED, credentials UNKNOWN) | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; site cites 'top Dentistry practice' recognition
+• Site (observed): ProSites platform — raw HTML footer "Copyright � 2019 Prosites, Inc. All Rights Reserved" (mojibake + frozen 2019); <title> "Dentist in West Omaha, Nebraska | Thomsen Dental"; ProSites-style /our-practice/ page structure with generic procedure pages (VERIFIED raw HTML)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC15/20 BM12/15 WW11/15 Gap11/15 Dep8/10 Tr8/10 Cv3/5 Sp3/3 DM1/2 | Subs: Gap7 Dep7 Tr8 Tech8 (/10)
+• Independence: INFERRED — 'Thomsen Dental Group' family/cosmetic practice, no DSO strings in HTML/About; entity not seen | Decision-maker: Dr. Brett Thomsen, DDS, FAGD (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper — 30+-yr FAGD/AACD family+cosmetic practice in West Omaha (affluent market) | Digital spend: ProSites subscription (redirect target)
+• Hooks: 1) ProSites footer still reads 'Copyright � 2019 Prosites, Inc.' on a 30-year FAGD/AACD practice 2) Army-surgeon-to-West-Omaha story and credentials are buried in a template
+• Pitch/offer: Credential-forward redesign of a 30-yr AACD/FAGD practice, leave ProSites. $8–12k
+• Sources: thomsendental.com raw HTML + /our-practice/dr-brett-thomsen/
+
+2. Mt. Lookout Dentistry — Cincinnati, OH — mtlookoutdentistry.com — 71/100 — MEDIUM-HIGH (medium)
+• Est/Doctors: 'Looking Out for Cincinnati Smiles Since 1956' (VERIFIED, site); Gosnell: UK / Louisville dental school, GPR 2008, local study clubs incl. Spear Education; Pankey Institute + SPEAR affiliation shown (VERIFIED on render) | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; BBB accredited badge shown
+• Site (observed): Officite platform — rendered footer "© 2022 MH SUB I, LLC DBA Officite | Web Design by LanternSol"; raw HTML contains unpopulated placeholder copy under the DOCTORS and FOUNDERS headings: "Lorem ipsum dolor sit amet, consectetuer adipiscing" (VERIFIED, curl); <title> "Mt. Lookout Dentistry | Dentist In Cincinnati, OH"
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC13/20 BM13/15 WW12/15 Gap11/15 Dep7/10 Tr8/10 Cv3/5 Sp3/3 DM1/2 | Subs: Gap8 Dep7 Tr8 Tech8 (/10)
+• Independence: INFERRED — local brand with 70-yr history; no DSO strings; footer entity is the web vendor (Officite), not a practice owner; ownership transition to Dr. Gosnell possible — verify on call | Decision-maker: Dr. Ben T. Gosnell (VERIFIED as named dentist; ownership UNKNOWN); Dr. Croop also named
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper — Pankey/Spear-trained restorative practice in Mt. Lookout/Hyde Park corridor | Digital spend: Officite subscription, PatientFi financing, PatientConnect365
+• Hooks: 1) 'Lorem ipsum' placeholder text is live under the DOCTORS and FOUNDERS headings of a practice founded in 1956 2) Pankey + Spear credentials are not carried by the design
+• Pitch/offer: Heritage + restorative-credential redesign to replace Officite. $8–12k
+• Sources: mtlookoutdentistry.com raw HTML + render
+
+3. Perfect Smiles Dental Care — Lenexa, KS — perfectsmilesdentalcare.com — 70/100 — MEDIUM-HIGH (medium-high)
+• Est/Doctors: Serving Lenexa since 1991 (VERIFIED, site); 2 doctors: Kelly Bridenstine DDS (Univ. of Iowa 1987; IV/oral sedation Level II permit 2009) + Tracy Boldry DMD, MS, board-certified prosthodontist (VERIFIED, site) | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; own-site testimonials only (3)
+• Site (observed): TNT Dental template — footer 'Site designed and maintained by TNT Dental'; homepage <title> is the keyword-spam pattern "Dentist Lenexa, KS | Dentist Near Me | Perfect Smiles Dental Care"; a board-certified prosthodontist and 'official cosmetic dentist for multiple USA Pageant circuits' positioning sit inside a generic 'Dentist Near Me' template (VERIFIED, raw HTML + render). Note: rendered layout is responsive with online booking, so the gap is positioning/SEO-title more than raw age.
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC14/20 BM12/15 WW9/15 Gap10/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech8 (/10)
+• Independence: INFERRED — no group/DSO language on home/About; directory entity 'Bridenstine Kelly D DDS' (single-owner PC); no Heartland/Aspen/MB2/Marquee strings in HTML | Decision-maker: Dr. Kelly Bridenstine, DDS (owner; VERIFIED on site)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper-mid — in-house prosthodontist + IV sedation + pageant-cosmetic positioning in Johnson County KS | Digital spend: TNT Dental hosting/maintenance (existing vendor to redirect)
+• Hooks: 1) Title tag reads 'Dentist Lenexa, KS | Dentist Near Me | Perfect Smiles Dental Care' — a 35-year prosthodontist-backed practice branded as 'near me' 2) 'Since 1991' + board-certified prosthodontist + pageant-circuit cosmetic work deserve a flagship homepage
+• Pitch/offer: Premium prosthodontic/cosmetic flagship homepage replacing TNT template; keep booking. $8–12k
+• Sources: site homepage/about (curl+render), dentistsup.com listing
+
+4. Dental Group West — Toledo, OH — dentalgroupwest.com — 70/100 — MEDIUM-HIGH (medium)
+• Est/Doctors: Founding year UNKNOWN (site has an 'Our History' page not captured); 3 dentists listed (VERIFIED); recent-associate announcement 'Dental Group West Welcomes Dr. Quinn Crago' (VERIFIED) | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; site has Patient Testimonials page
+• Site (observed): TNT Dental — footer credit tntdental.com; dead Google+ link in raw HTML "plus.google.com/116880711539601348852/"; <title> "Dentist Toledo, OH | Accepting New Patients | Dental Group West"; separate 'Dentist Near Ottawa Hills' landing page; menu lists Full Mouth Reconstruction, Porcelain Veneers, Sedation, Implants, Invisalign (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC14/20 BM10/15 WW12/15 Gap10/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM1/2 | Subs: Gap7 Dep7 Tr8 Tech8 (/10)
+• Independence: MEDIUM confidence — verify on call: generic 'Dental Group West' brand name (group-style pattern) but three named dentists and no DSO/parent language in HTML; ownership entity not confirmed | Decision-maker: UNKNOWN (dentists: Dr. Tracy Poole, Dr. Quinn Crago (new associate), Dr. Richard Thomas; principal not stated on pages read)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper-mid — 3-dentist full-scope practice serving Ottawa Hills/West Toledo (affluent pocket) | Digital spend: TNT Dental (redirect target)
+• Hooks: 1) Live dead-Google+ link (plus.google.com/1168…) in a 3-dentist practice's HTML 2) 'Accepting New Patients' in the title tag — the homepage's main SEO string is a status line, not a value proposition
+• Pitch/offer: Multi-doctor full-mouth-reconstruction/cosmetic positioning site, keep patient-pay links. $8–12k
+• Sources: dentalgroupwest.com raw HTML + rendered nav
+
+5. Byerly Family Dentistry — Montgomery (Cincinnati), OH — byerlydental.com — 70/100 — MEDIUM-HIGH (medium)
+• Est/Doctors: Dr. Lee Byerly 'over thirty years' in Montgomery (VERIFIED); son/associate Dr. Ryan Byerly 'moved back to Montgomery to practice' (both OSU) — generational handoff; All-on-4, implants, sedation, Invisalign, sleep-apnea appliances listed (VERIFIED) | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; on-site testimonials sourced from Demandforce (VERIFIED)
+• Site (observed): Frozen footer "© 2017. All Rights Reserved | Powered by"; dead Google+ link in raw HTML "plus.google.com/106753258023680623363"; WordPress generator tag "WordPress 6.2.13" (end-of-life core); <title> "Byerly Family Dentistry | Montgomery, Ohio Dentist"; tagline banner "Over Thirty Years of Dental Experience"; hours Mon/Tue/Thu 7–3 (VERIFIED raw HTML)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC13/20 BM12/15 WW11/15 Gap10/15 Dep7/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech9 (/10)
+• Independence: INFERRED — father/son family practice; single street address; no group language; no DSO strings in HTML | Decision-maker: Dr. Lee Byerly, DDS / Dr. Ryan Byerly, DDS (both VERIFIED; principal split UNKNOWN)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper — Montgomery OH is a high-income Cincinnati suburb; All-on-4 + sedation scope | Digital spend: Demandforce (reviews/reminders), Pay Online link
+• Hooks: 1) Father–son practice: Ryan Byerly joining is a natural moment to modernize the front door 2) Footer still ©2017 and a dead plus.google.com link
+• Pitch/offer: Generational-practice relaunch with All-on-4/implant landing pages; keep Demandforce + pay link. $8–12k
+• Sources: byerlydental.com raw HTML + /about/
+
+6. Passidomo Cosmetic & Family Dentistry (Dr. Passidomo & Dr. Brij Patel) — Centerville (Dayton), OH — dpsmilecenter.com — 70/100 — MEDIUM-HIGH (medium)
+• Est/Doctors: Passidomo DMD 1993 (~33 yrs since degree; practice founding year UNKNOWN); second dentist Dr. Brij Patel (page title 'Dr. Danial Passidomo and Dr. Brij Patel Family Dentistry') — possible succession/associate transition (INFERRED) | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; site has Reviews page
+• Site (observed): TNT Dental — footer "&copy; 2014 Daniel Passidomo, DMD | Site designed and maintained by TNT Dental"; live COVID banner "Click Here to See our Advanced COVID Safety Protocols -->"; misspelling 'Dr. Danial Passidomo' in the Meet-Our-Dentists page title; menu: Full Mouth Reconstruction, Porcelain Veneers, Smile Makeover, NV Soft Tissue Laser (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC13/20 BM11/15 WW12/15 Gap10/15 Dep7/10 Tr8/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap7 Dep7 Tr8 Tech8 (/10)
+• Independence: INFERRED — directory entity 'Daniel J Passidomo DMD Cosmetic & Family Dentistry'; Patel practice line suggests merger/associate — verify ownership on call; no DSO strings | Decision-maker: Dr. Dan Passidomo, DMD (Kentucky DMD 1993; VERIFIED) — Dr. Brij Patel is a second named dentist
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper-mid — cosmetic/full-mouth scope in Centerville (affluent Dayton suburb) | Digital spend: TNT Dental (redirect target)
+• Hooks: 1) Footer frozen at ©2014 and COVID-protocol banner still on the homepage 2) A 'Passidomo + Patel' handoff is a natural rebrand moment
+• Pitch/offer: Two-doctor rebrand/succession site with cosmetic showcase. $8–12k
+• Sources: dpsmilecenter.com raw HTML + /meet-our-dentists.html
+
+7. Esplanade Dental Care — Downers Grove, IL — esplanade-dental.com — 68/100 — MEDIUM (medium)
+• Est/Doctors: Founding year UNKNOWN; 3 dentists (VERIFIED); Dr. Albert Ohio State College of Dentistry (VERIFIED); AACD referenced on site (INFERRED membership); 'All Under One Roof' in the Esplanade office complex | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; site has Video Testimonials + 'Review us on Google' link
+• Site (observed): TNT Dental — footer credit tntdental.com; <title> "Dentist in Downers Grove, IL | Cosmetic Dentistry | Esplanade Dental Care"; no copyright year in footer ('© ' only); generic service-list nav (Metal Free Restorations, TMJ/TMD, Sleep Apnea, Sedation, Implants, Veneers) (VERIFIED raw HTML)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC14/20 BM10/15 WW10/15 Gap10/15 Dep8/10 Tr8/10 Cv4/5 Sp3/3 DM1/2 | Subs: Gap6 Dep7 Tr8 Tech8 (/10)
+• Independence: INFERRED — three named dentists, PC-style local brand; no DSO strings in HTML; ownership split among the 3 UNKNOWN (associate model possible) | Decision-maker: UNKNOWN (dentists: Sherif Albert DDS, Christine Snow (credential UNKNOWN), Dr. Feller (first name UNKNOWN))
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper-mid — 3-dentist practice, Invisalign-certified, implants+sedation, Downers Grove market | Digital spend: TNT Dental (redirect target)
+• Hooks: 1) TNT template on a 3-dentist Downers Grove practice that lists veneers, implants, Invisalign, sedation 2) Existing 'Video Testimonials' asset is under-used by a plain template
+• Pitch/offer: Premium multi-doctor redesign leveraging video testimonials. $8–12k
+• Sources: esplanade-dental.com raw HTML + meet-the-dentists
+
+8. Jonson Dental Care (George P. Jonson DDS) — Kettering (Dayton), OH — jonsondentalcare.com — 66/100 — MEDIUM (medium)
+• Est/Doctors: 'Over 30 years of experience' (VERIFIED, site); IDIA implant fellowship listed; sedation, laser, TMJ, sleep-apnea appliances; team unnamed — solo, retirement-horizon flag | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach
+• Site (observed): ProSites — footer "Copyright � 2019 Prosites, Inc. All Rights Reserved"; dead Google+ link "plus.google.com/117333242418443823074/about"; legacy-format Facebook link 'facebook.com/pages/George-P-Jonson-DDS/…'; office email on ISP domain gpjoffice@swohio.twcbc.com; <title> "Kettering Dentist | Dayton Dentistry | Jonson Dental Care" (VERIFIED raw HTML)
+• Social gap: Facebook page link is the pre-2015 'pages/' format (VERIFIED); activity UNKNOWN
+• Breakdown: FC11/20 BM12/15 WW11/15 Gap10/15 Dep7/10 Tr7/10 Cv3/5 Sp3/3 DM2/2 | Subs: Gap6 Dep7 Tr7 Tech8 (/10)
+• Independence: INFERRED — solo 'George P. Jonson DDS'; no group language | Decision-maker: Dr. George P. Jonson, DDS (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — mid — implant/sedation solo in Kettering | Digital spend: ProSites subscription
+• Hooks: 1) Practice email is a Time Warner Cable address (gpjoffice@swohio.twcbc.com) and Google+ link is still in the HTML 2) 30+ year implant-fellow solo — a legacy-capture site before transition
+• Pitch/offer: Solo implant/sedation redesign. $5–8k
+• Sources: jonsondentalcare.com raw HTML + render
+
+9. Lundstrom Family Dentistry — Fargo, ND — fargodentist.net — 65/100 — MEDIUM (medium)
+• Est/Doctors: 'Practicing dentistry in our community for 33 years' (VERIFIED, About); U of Minnesota DDS 1993; solo; CEREC same-day crowns, 'SMART' amalgam-removal protocol, holistic + cosmetic + implants | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; site has testimonials page, none on homepage
+• Site (observed): ProSites — footer "Copyright � 2019 Prosites, Inc. All Rights Reserved"; dead Google+ link "plus.google.com/116994733654569657567"; COVID-era masking/vaccine disclosure still on homepage; <title> "Dentist in Fargo, ND | General, Restorative & Cosmetic Dentistry" (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC11/20 BM12/15 WW10/15 Gap10/15 Dep7/10 Tr7/10 Cv3/5 Sp3/3 DM2/2 | Subs: Gap6 Dep7 Tr7 Tech8 (/10)
+• Independence: INFERRED — solo owner-dentist 'Lundstrom Family Dentistry'; no group language | Decision-maker: Dr. Jim Lundstrom, DDS (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — mid — solo practice in a mid-size, growing market; cosmetic/implant scope | Digital spend: ProSites subscription
+• Hooks: 1) 33-year Fargo practice with COVID-era text and 'Copyright � 2019 Prosites' still live 2) Dead plus.google.com link in the source
+• Pitch/offer: Solo cosmetic/holistic redesign leaving ProSites. $5–8k
+• Sources: fargodentist.net raw HTML + render
+
+10. Always Great Smiles (Drs. Pecora & Langner) — Glen Ellyn, IL — alwaysgreatsmiles.com — 64/100 — MEDIUM (medium)
+• Est/Doctors: Testimonial: 'since we moved to Glen Ellyn over 25 years ago' (INFERRED practice age ≥25 yrs); Langner joined at graduation 1995 (VERIFIED); Pecora U of Illinois; implants, veneers, prosthodontic, sedation, CEREC pages (VERIFIED) | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach
+• Site (observed): ProSites — footer "Copyright � 2019 Prosites, Inc. All Rights Reserved"; <title> "Welcome | GLEN ELLYN, IL | Always Great Smiles" (generic 'Welcome' + all-caps city, no service keyword) (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC13/20 BM11/15 WW10/15 Gap9/15 Dep7/10 Tr7/10 Cv3/5 Sp3/3 DM1/2 | Subs: Gap6 Dep7 Tr7 Tech8 (/10)
+• Independence: INFERRED — named owner-dentists, no group language | Decision-maker: Dr. Pecora (first name UNKNOWN) / Dr. Jennifer J. Langner, DDS, ABDSM (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper-mid — two-doctor practice in affluent Glen Ellyn (DuPage) | Digital spend: ProSites subscription
+• Hooks: 1) Title tag is 'Welcome | GLEN ELLYN, IL | Always Great Smiles' 2) 'Copyright � 2019 Prosites' on a 25-year, two-doctor practice
+• Pitch/offer: Two-doctor DuPage cosmetic/sedation redesign. $8–12k
+• Sources: alwaysgreatsmiles.com raw HTML + about pages
+
+11. Olberding Dental (Louis F. Olberding DDS PC) — Lincoln, NE — olberdingdental.com — 64/100 — MEDIUM (medium)
+• Est/Doctors: 'For nearly 20 years' in Lincoln (VERIFIED, site); Misch International Implant Institute + Dawson Academy training; implants, All-on-4, full-mouth, Invisalign (VERIFIED); solo | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach
+• Site (observed): TNT Dental — footer credit tntdental.com; keyword-spam <title> "Dentist Lincoln, NE | Dentist Near Me | Local Dentist | Dentist Office Near Me | Cost of Dental Care | Olberdi…" (VERIFIED raw HTML)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC12/20 BM9/15 WW10/15 Gap9/15 Dep8/10 Tr7/10 Cv4/5 Sp3/3 DM2/2 | Subs: Gap6 Dep8 Tr7 Tech8 (/10)
+• Independence: INFERRED — directory entity 'Olberding Louis F DDS PC' (single-owner PC); no group strings | Decision-maker: Dr. Louis Olberding, DDS (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — mid-upper — implant/Dawson-trained solo in Lincoln | Digital spend: TNT Dental
+• Hooks: 1) Title tag literally includes 'Cost of Dental Care' and 'Dentist Office Near Me' 2) Misch + Dawson training is invisible in the brand
+• Pitch/offer: Implant/full-mouth positioning redesign. $5–8k
+• Sources: olberdingdental.com raw HTML
+
+12. Drs. Zizic & Salata (Cosmetic & Family Dentistry) — Libertyville, IL — drzizic.com — 64/100 — MEDIUM (medium)
+• Est/Doctors: Founding year UNKNOWN; two doctors 'Dr. Kim and Dr. Bob' (VERIFIED); positioned 'Cosmetic & Family Libertyville Dentist' | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; site has Reviews page
+• Site (observed): Weebly-built (raw HTML footprint); footer "Copyright 2015"; dead Google+ link "plus.google.com/106310188855554266061"; home URL served as /index.html; <title> "Love your smile! - Dr. Zizic and Dr. Salata Cosmetic & Family Libertyville Dentist" (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC12/20 BM9/15 WW12/15 Gap9/15 Dep7/10 Tr8/10 Cv3/5 Sp2/3 DM2/2 | Subs: Gap6 Dep7 Tr8 Tech9 (/10)
+• Independence: INFERRED — two named owner-dentists, no group language | Decision-maker: Dr. Kimberly Zizic, DDS / Dr. Robert Salata, DDS (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper-mid — two-doctor cosmetic practice in affluent Libertyville (Lake County) | Digital spend: Weebly plan (DIY)
+• Hooks: 1) ©2015 Weebly site with a dead Google+ link for a two-doctor cosmetic practice 2) Title tag opens with 'Love your smile!' (no service/city keyword first)
+• Pitch/offer: Cosmetic-dentistry showcase site off Weebly. $5–8k
+• Sources: drzizic.com raw HTML
+
+13. Wagner Family Dentistry — Green Bay, WI — wagnerfamilydds.com — 61/100 — MEDIUM (medium)
+• Est/Doctors: 'Over 24 years' serving Green Bay/Howard/De Pere (VERIFIED, site); 3 doctors (VERIFIED); implants, veneers, TMJ, nitrous | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach
+• Site (observed): Sesame 24-7 — footer 'Website Powered by Sesame 24-7™' (sesamecommunications.com); very light 27 KB page; <title> "Wagner Family Dentistry | Dentist Green Bay WI"; no copyright year in footer; page notes 'currently undergoing remodeling' (VERIFIED render)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC12/20 BM10/15 WW9/15 Gap9/15 Dep7/10 Tr7/10 Cv3/5 Sp3/3 DM1/2 | Subs: Gap6 Dep7 Tr7 Tech9 (/10)
+• Independence: INFERRED — three named doctors under family name; no group language; Green Bay is Dental Associates (WI DSO) turf so verify on call | Decision-maker: Dr. Robert H. Wagner, DDS (senior; INFERRED principal) — Drs. Matthew R. Wagner, DMD & Sara J. Weber, DDS also VERIFIED
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — mid — 3-doctor family practice, Green Bay market | Digital spend: Sesame 24-7
+• Hooks: 1) Office is remodeling — a new-office launch moment for a new site 2) Sesame 24-7 template on a 3-doctor, 24-year practice
+• Pitch/offer: Remodel-launch homepage. $8–12k
+• Sources: wagnerfamilydds.com raw HTML + render
+
+14. Madison Family Dental Associates — Madison / DeForest, WI — madisonfamilydental.com — 60/100 — MEDIUM (medium-low)
+• Est/Doctors: 'For over 40 years' (VERIFIED, site); multi-owner dentist-owned group practice (VERIFIED, bio text); Invisalign, implants, cosmetic | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach
+• Site (observed): WEO Media — footer "Copyright (c) 2011-2026 WEO MEDIA (TouchPoint Communications LLC)"; classic WEO .asp URL pattern (e.g. /p/dentist-Madison-WI-Dental-Implants-p51331.asp, seen in search index); <title> "Dentist Madison & DeForest, WI &bull; Madison Family Dental Assoc." — literal '&bull;' entity in the title; note WEO actively maintained (©2026) so site is not frozen (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC12/20 BM13/15 WW7/15 Gap8/15 Dep7/10 Tr6/10 Cv3/5 Sp3/3 DM1/2 | Subs: Gap5 Dep7 Tr6 Tech8 (/10)
+• Independence: INFERRED — 'owned and operated by practicing dentists' per bio; name resembles WI DSO 'Dental Associates' only superficially — verify | Decision-maker: UNKNOWN — owned/operated by multiple practicing dentists (e.g. Dr. Julian-Hoernke, owner; VERIFIED); decision likely by owner group
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — upper-mid — multi-doctor 40-yr Madison practice | Digital spend: WEO Media subscription
+• Hooks: 1) Title tag shows a raw '&bull;' entity 2) WEO .asp URL structure on a 40-year multi-owner practice
+• Pitch/offer: Multi-owner group-practice redesign, off WEO. $8–12k
+• Sources: madisonfamilydental.com raw HTML + bios
+
+15. Bull Valley Dentistry — McHenry, IL — bullvalleydentistry.com — 60/100 — MEDIUM (medium)
+• Est/Doctors: Practice age UNKNOWN (patient testimonial 'patient for over 25 years'); solo; laser, veneers, sleep apnea, TMJ, Diagnodent | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; site has Reviews + Video Testimonials
+• Site (observed): ProSites — footer "Copyright � 2019 Prosites, Inc."; dead Google+ links "plus.google.com/+BullValleyDentistryMcHenry" (and /u/0/); <title> "Dentist in McHenry, IL | Bull Valley Dentistry | Cosmetic Dentist" (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC10/20 BM10/15 WW10/15 Gap8/15 Dep7/10 Tr7/10 Cv3/5 Sp3/3 DM2/2 | Subs: Gap5 Dep7 Tr7 Tech8 (/10)
+• Independence: INFERRED — solo 'Bull Valley Dentistry'; no group language | Decision-maker: Dr. John V. Dano, DDS (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — mid — solo cosmetic/general practice in McHenry County | Digital spend: ProSites
+• Hooks: 1) Two dead Google+ URLs in the source 2) 'Copyright � 2019 Prosites'
+• Pitch/offer: Solo redesign leaving ProSites. $5–8k
+• Sources: bullvalleydentistry.com raw HTML
+
+16. Fox Valley Dental Associates (Tami Zuck DDS) — Crystal Lake, IL — foxvalleydentalcl.com — 60/100 — MEDIUM (medium-low)
+• Est/Doctors: 'Serving Crystal Lake since 1994' (VERIFIED, site header); solo; CEREC, VELscope, prosthodontic pages | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach
+• Site (observed): ProSites — footer "Copyright � 2019 Prosites, Inc."; <title> "Crystal Lake Dentist | Fox Valley Dental Associates"; header tagline 'Tami Zuck, DDS Serving Crystal Lake since 1994....' (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC10/20 BM10/15 WW10/15 Gap8/15 Dep7/10 Tr7/10 Cv3/5 Sp3/3 DM2/2 | Subs: Gap5 Dep7 Tr7 Tech8 (/10)
+• Independence: INFERRED — 'Associates' in name but single named DDS; verify no Dental Associates (WI) link | Decision-maker: Dr. Tami Zuck, DDS (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — mid — solo 32-yr practice in Crystal Lake | Digital spend: ProSites
+• Hooks: 1) 'Serving Crystal Lake since 1994....' tagline with trailing ellipsis in the header 2) ProSites ©2019 mojibake
+• Pitch/offer: Solo redesign. $5–8k
+• Sources: foxvalleydentalcl.com raw HTML
+
+17. DeLeon Family Dental — Wheaton / Glen Ellyn, IL — deleonfamilydental.com — 59/100 — MEDIUM (medium-low)
+• Est/Doctors: Founding year UNKNOWN; U of Illinois DDS; '800+ hours CE, emphasis on complex cosmetic & restorative, implant restoration' (VERIFIED, bio); solo | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach
+• Site (observed): ProSites — footer "Copyright � 2019 Prosites, Inc."; dead Google+ link "plus.google.com/102405884266056515958"; <title> "Family Dentist Wheaton & Glen Ellyn, IL | DeLeon Family Dental" (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC11/20 BM8/15 WW10/15 Gap8/15 Dep7/10 Tr7/10 Cv3/5 Sp3/3 DM2/2 | Subs: Gap5 Dep7 Tr7 Tech8 (/10)
+• Independence: INFERRED — solo owner-dentist; no group language | Decision-maker: Dr. Daniel DeLeon, DDS (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — mid-upper — cosmetic/restorative solo in DuPage | Digital spend: ProSites
+• Hooks: 1) 800+ CE hours in complex cosmetic/restorative work not reflected on ProSites template 2) Dead Google+ link
+• Pitch/offer: Solo cosmetic redesign. $5–8k
+• Sources: deleonfamilydental.com raw HTML + bio
+
+18. Alexander Dentistry (Kim A. Alexander DDS) — Greenwood, IN — alexanderdentistry.net — 57/100 — MEDIUM (medium-low)
+• Est/Doctors: IU School of Dentistry DDS 1997 (~29 yrs); 'for over 20 years' testimonial (INFERRED practice age); solo; perio, prosthodontic pages | Reviews: UNKNOWN — Google/Yelp/Healthgrades counts not retrievable in this run (web-search quota exhausted; review platforms bot-walled); verify GBP before outreach; site has Patient Reviews page
+• Site (observed): ProSites — footer "Copyright � 2019 Prosites, Inc."; <title> "Greenwood Dentist| Greenwood, IN General Dentistry | Dr. Kim Alexander" (missing space after 'Dentist|') (VERIFIED)
+• Social gap: UNKNOWN (not checked)
+• Breakdown: FC10/20 BM8/15 WW10/15 Gap8/15 Dep6/10 Tr7/10 Cv3/5 Sp3/3 DM2/2 | Subs: Gap5 Dep6 Tr7 Tech8 (/10)
+• Independence: INFERRED — solo owner-dentist; no group language | Decision-maker: Dr. Kim A. Alexander, DDS (VERIFIED)
+• FinCap: inferred from publicly observable business scale, pricing, facilities, service positioning and market — mid — solo general practice in Greenwood (south Indianapolis) | Digital spend: ProSites
+• Hooks: 1) Title tag typo 'Greenwood Dentist| Greenwood' 2) ProSites ©2019 mojibake
+• Pitch/offer: Solo redesign. $5–8k
+• Sources: alexanderdentistry.net raw HTML + bio
+
+## CANDIDATE TABLE
+(All other screened names are listed one-per-line in the sections above; scored bench below.)
+- South Ridge Dental | Lincoln, NE | mysouthridgedental.com | ~62 | BENCH — South Ridge Dental Lincoln NE; Drs. Steven & Ryan Shaffer father/son; TNT keyword-spam title; est. UNKNOWN
+- Awake To A Beautiful Smile | Springfield, MO | springfielddentist.net | ~61 | BENCH — Olson Family Dental Springfield MO; 'Since 1998' Dr. Scott Olson; TNT; footer ©2016; implants/all-on-4
+- Warren Gase, D.D.S | Cincinnati, OH | gasedds.com | ~60 | BENCH — Warren Gase DDS Cincinnati; since 1986, 4.9 on 350+ Google reviews (site claim), Einstein 'Forever Website 2.0' ©2011-2026 but modern-looking; sole practitioner
+- Parker M Jarvis, DDS | Westerville, OH | docjarvis.com | ~58 | FLAG — Parker Jarvis DDS Westerville OH; 35+ yrs solo, source copyrightyear span '2013'; retirement-horizon solo, no successor seen
+- Gerome & Patrice Family Dentistry | Loveland, OH | geromeandpatricedds.com | ~58 | BENCH — Gerome & Patrice Family Dentistry Loveland OH; TNT keyword-spam title; 2 docs; est. UNKNOWN
+- smilefarmingtonhills.com | ,  | smilefarmingtonhills.com | ~58 | BENCH — Smile Farmington Hills (Drs Sorial & Steiner), MI; ProSites ©2019 mojibake, thin content; est. UNKNOWN
+- Gilbert X. Mendez, D.D.S | Arlington Heights, IL | drmendezsmiles.com | ~57 | BENCH — Gilbert Mendez DDS Arlington Heights IL; '30 years' per site; Squarespace ©2015 CSS; solo
+- Krasowski Dental | Wausau, WI | krasowskidental.com | ~57 | BENCH — Krasowski Dental Wausau WI; LVI mentions, ©2018, dead G+ link; est. UNKNOWN
+- Thomas S Rankin DDS | Hilliard, OH | rankinfamilydentistry.com | ~57 | BENCH — Thomas Rankin DDS Hilliard OH; ProSites ©2019 mojibake; family & cosmetic; est. UNKNOWN
+- Devington Dental Office | Indianapolis, IN | drmbazilio.com | ~56 | BENCH — Devington Dental (Dr. Merneatha Bazilio) Indianapolis; ProSites; prosthodontic mentions; est. UNKNOWN
+- Dreamtime Dental | Carmel, IN | springhettidentistry.com | ~56 | BENCH — Springhetti/Dreamtime Dental Carmel IN; TNT; Dawson mention; Carmel heavily mined
+- Donald J Loomis, DDS | Madison, WI | dentistmadison.com | ~55 | BENCH — Donald Loomis DDS Madison WI; ©2016, dead G+ link, 14 KB page; sedation; solo, age UNKNOWN
+- Richard S Weiser, DDS | Strongsville, OH | drweiser.com | ~55 | BENCH — Richard Weiser DDS, Strongsville Center for Cosmetic & Implant Dentistry; WEO Media actively maintained ©2024-2026
+- Kemper Meadow Family Dentistry | Cincinnati, OH | kempermeadow.com | ~55 | BENCH — Kemper Meadow Family Dentistry Cincinnati; TNT; 2+ docs; est. UNKNOWN
+- Yenzer Family Dental | Chesterfield, MO | yenzerdental.com | ~55 | BENCH — Yenzer Family Dental Chesterfield MO; opened own office June 2014 (<20 yrs); TNT; All-on-4
+- coccosmile.com | ,  | coccosmile.com | ~54 | BENCH — Dina Cocco DDS Ann Arbor MI; TNT; est. UNKNOWN; solo
+- fortwaynecosmeticdentist.com | ,  | fortwaynecosmeticdentist.com | ~54 | BENCH — Ellinwood Dental Care Fort Wayne IN; ProSites ©2019; 2 docs; est. UNKNOWN
+- Kotnour Jones Dental | La Crosse, WI | couleefamilydental.com | ~52 | BENCH — Coulee Family Dental La Crosse WI (Kotnour Jones); Thryv; '50 years combined experience'
+- Stuart Pettijohn, DDS | Grand Rapids, MI | foresthillsfamilydental.com | ~52 | BENCH — Forest Hills Family Dental, Grand Rapids/Cascade MI; Weebly-era 33 KB page; est. UNKNOWN
+- brownsburgdentalgroup.com | ,  | brownsburgdentalgroup.com | ~52 | BENCH — Brownsburg Dental Group (Jessica Miller DDS, JCM Dental LLC), IN; ProSites ©2019; 3rd-gen owner, young
+- Deldar Dental-Noblesville Dentist | Noblesville, IN | deldardental.com | ~50 | BENCH — Deldar & Kay Dental Noblesville IN; tiny 18 KB page; airway/sleep focus; est. UNKNOWN
+- Indiana Family Dentistry | Brownsburg, IN | infamilydentistry.com | ~50 | BENCH — Indiana Family Dentistry (Will Hine) Brownsburg IN; Thryv; ~25 yrs; 'Affordable Dentist' title (value-positioned)
+- Oak Valley Dental Associates | Ann Arbor, MI | oakvalleydental.net | ~50 | BENCH — Oak Valley Dental Associates Ann Arbor MI; ProSites ©2019; est. UNKNOWN
+- Gregory Blome, DDS | Lincoln, NE | blomefamilydentistry.com | ~48 | BENCH — Gregory Blome DDS Lincoln NE; Thryv; 'BFD' title; 20+ yr patients
+- Koehn Dentistry & Aesthetics | Kansas City, MO | koehndentistry.com | ~48 | BENCH — Koehn Dentistry & Aesthetics Kansas City MO; Thryv; Dr. Tyler Koehn; young?
+- Overland Park Family Dental | Overland Park, KS | overlandparkfamilydental.com | ~48 | BENCH — Overland Park Family Dental (Creighton Gallagher DDS); Practice Cafe ©2016 + dead G+; practice age appears <10 yrs

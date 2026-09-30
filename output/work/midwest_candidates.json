@@ -1,0 +1,7210 @@
+[
+ {
+  "name": "Distinctive Smiles",
+  "city": "Loveland",
+  "state": "OH",
+  "url": "achievingdistinctivesmiles.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Accent Dental Center",
+  "city": "Columbia",
+  "state": "MO",
+  "url": "accent-dental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "AH Dentistry",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "ahdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "4th St Dental Studio",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "4thstreetdentalstudio.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Montgomery A Joshua DDS PC",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "ajmontgomerydds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Metro Dental Laboratories",
+  "city": "Akron",
+  "state": "OH",
+  "url": "akrondental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Aerni Dental: William M. Aerni, DDS",
+  "city": "Strongsville",
+  "state": "OH",
+  "url": "aernidental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Solutions",
+  "city": "Lansing",
+  "state": "MI",
+  "url": "advdentalsolutions.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "Aesthetica Dental",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "aestheticadentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "All About You Dental Care",
+  "city": "Geneva",
+  "state": "IL",
+  "url": "allaboutyoudentalcare.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Adcc",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "adccdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Neuman Richard S, DDS",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "advancedentalsmile.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Allied Endodontic Specialists",
+  "city": "Maple Grove",
+  "state": "MN",
+  "url": "alliedendo.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Wills Julie A Dr",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "amdentpro.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "American Dental Solutions",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "american-dental-solutions.biz",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Arts: Geoffrey Riley, DDS",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "advanceddentalartskc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dentistry Of Dayton",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "advanceddentistryofdayton.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Wellness",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "advanceddentalwellness.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Anderson Dental",
+  "city": "Fargo",
+  "state": "ND",
+  "url": "andersondentalfm.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Solutions",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "887-smile.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2015",
+  "approx_score": null
+ },
+ {
+  "name": "Anjanetta Wonderlick, DDS",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "anjanettawonderlickdds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Roots, PC",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "advancedfamilydental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "All Star Dental",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "allstar-dentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "William D Almoney",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "almoneybrowndental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Jung Dental Implant Center",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "annarborimplant.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "T Murray P C",
+  "city": "Lafayette",
+  "state": "IN",
+  "url": "alluredental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Ann Arbor Smiles",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "annarborsmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Applewood Dental Family",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "applewoodsmile.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Office",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "arivedds.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "A Life Of Smiles",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "alifeofsmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Anderson Family Dental",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "andersondentalgahanna.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Anew Dental & Orthodontics",
+  "city": "Plainfield",
+  "state": "IL",
+  "url": "anewdental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Alum Creek Dental Care",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "alumcreekdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Andler Dental: Dr. Scott Andler",
+  "city": "Madison",
+  "state": "WI",
+  "url": "andlerdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Arbor West Dental",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "arborwestdental.net",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Alpine Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "alpinedentaloffice.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Angell Family Dentistry",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "angellfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "A To Z Pediatric Dentistry, PC",
+  "city": "Bismarck",
+  "state": "ND",
+  "url": "atozpediatricdentistrynd.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Apple Town Dental Care",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "appletowndental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Auburn Dental Center",
+  "city": "Auburn",
+  "state": "NE",
+  "url": "auburndentalcenter.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Aurora Best Smiles",
+  "city": "Aurora",
+  "state": "IL",
+  "url": "aurorabestsmiles.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 404)",
+  "approx_score": null
+ },
+ {
+  "name": "Allouez Family Dental Center",
+  "city": "Green Bay",
+  "state": "WI",
+  "url": "allouezfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Appletree Cosmetic & Family Dentistry",
+  "city": "Olathe",
+  "state": "KS",
+  "url": "appletreefamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Armbrust Dental",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "armbrustdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2023)",
+  "approx_score": null
+ },
+ {
+  "name": "Anderson Dental Care",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "atowndental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Ascent Family Dentistry",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "ascentfamilydentistry.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2022",
+  "approx_score": null
+ },
+ {
+  "name": "Art Of Dentistry",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "artsydentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Andrew S Moore, DDS",
+  "city": "Shawnee",
+  "state": "KS",
+  "url": "andrewmooredds.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Azim Presswala, DDS",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "azimpresswaladds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Andrew Amborski, DDS",
+  "city": "Avon",
+  "state": "IN",
+  "url": "avonsdentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Aurora Sonrisa Dental",
+  "city": "Aurora",
+  "state": "IL",
+  "url": "aurorasonrisadental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Barco Family Dentistry",
+  "city": "Bloomington",
+  "state": "IN",
+  "url": "barcofamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Aurora Dentrix",
+  "city": "Aurora",
+  "state": "IL",
+  "url": "auroradentrix.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Diane Hines PC",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "adentalclinique.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Ankeny Childrens Dental",
+  "city": "Ankeny",
+  "state": "IA",
+  "url": "ankenychildrensdental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Atsalis Dental Excellence",
+  "city": "Plymouth",
+  "state": "MI",
+  "url": "atsalisdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Beavercreek Dental Group",
+  "city": "Beavercreek",
+  "state": "OH",
+  "url": "beavercreekdentalgrp.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "24 Hour Dentist Columbus Ohio",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "24hourdentistcolumbusohio.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Uzzel Dental Group",
+  "city": "Beavercreek",
+  "state": "OH",
+  "url": "beavercreeksmiles.net",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Beckwith Family Dental Care",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "beckwithfdc.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Beechmont Dental",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "beechmontdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Bay View Dental Care",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "bayviewdentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Arctic Dental",
+  "city": "Muscatine",
+  "state": "IA",
+  "url": "arcticdental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Avery Dental Center",
+  "city": "Dublin",
+  "state": "OH",
+  "url": "averydentalcenter.com",
+  "verdict": "VENDOR-FLAGGED (weo media,weomedia) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Keven P. Arnold, DDS, PC",
+  "city": "St. Charles",
+  "state": "IL",
+  "url": "arnolddds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Link Baines Dental",
+  "city": "Springfield",
+  "state": "IL",
+  "url": "bainesdentalwellness.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Wright, Greg",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "baileywrightdentistry.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2021",
+  "approx_score": null
+ },
+ {
+  "name": "Bel Drive Dental",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "beldrivedental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Anthony Glorioso, DDS",
+  "city": "Aurora",
+  "state": "IL",
+  "url": "auroradentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Gregory Blome, DDS",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "blomefamilydentistry.com",
+  "verdict": "BENCH — Gregory Blome DDS Lincoln NE; Thryv; 'BFD' title; 20+ yr patients",
+  "approx_score": 48
+ },
+ {
+  "name": "Artisan Dental",
+  "city": "Madison",
+  "state": "WI",
+  "url": "artisandentalmadison.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Beavercreek Orthodontics",
+  "city": "Beavercreek",
+  "state": "OH",
+  "url": "beavercreekortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Bonamer Therese M, DDS",
+  "city": "Strongsville",
+  "state": "OH",
+  "url": "bonamerdds.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Samuel T Bander DDS",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "banderdentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Chas W Bell, DDS",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "belldentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Beata Czechura, DMD",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "beataczechuradental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Boger Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "bogerdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Periodontists",
+  "city": "Strongsville",
+  "state": "OH",
+  "url": "bordeauxperio.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Brian Mathison DDS PC",
+  "city": "Fargo",
+  "state": "ND",
+  "url": "brianmathisondds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Center",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "bestclevelandsmiles.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Blue Springs Dental",
+  "city": "Blue Springs",
+  "state": "MO",
+  "url": "bluespringsdentalkc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Synexus",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "bluestemlincoln.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Briarwood Dental",
+  "city": "Ankeny",
+  "state": "IA",
+  "url": "briarwoodsmiles.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "John Van Scoyoc, DDS",
+  "city": "Bloomington",
+  "state": "IL",
+  "url": "bloomingtonfamilydentalil.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Belton Dentist",
+  "city": "Belton",
+  "state": "MO",
+  "url": "beltondentist.com",
+  "verdict": "VENDOR-FLAGGED (prosites,ptl) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Bridgeport Family Dental Center",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "bridgeportfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Alex J Rang P C",
+  "city": "Evansville",
+  "state": "IN",
+  "url": "alexrangdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Bolt Family Dental",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "boltfamilydental.com",
+  "verdict": "VENDOR-FLAGGED (practice cafe,practicecafe) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "North Michigan Avenue Dental Group",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "bestcosmeticdentistchicagoil.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Brian E. Nunley, DDS",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "brianenunleydds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Blossom Pediatric Dentistry and Orthodontics",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "blossompediatricdental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Brushin' On Belmont",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "brushinonbelmont.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Buzbee Dental",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "buzbeedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Bright Smile Dental Care",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "brightsmiledentalcare.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Burchfiel Dental",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "burchfieldental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Brook West Family Dentistry",
+  "city": "Maple Grove",
+  "state": "MN",
+  "url": "brookwestfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Brett Blacher, DDS",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "brettblacher.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Brobst Family Dentistry",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "brobstfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2023)",
+  "approx_score": null
+ },
+ {
+  "name": "Brownsburg Dental Professionals, PC",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "brownsburgdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Brilliant Smiles",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "brilliantsmilesriverside.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Brush Pediatric Dentistry",
+  "city": "Hinsdale",
+  "state": "IL",
+  "url": "brushforkids.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Ryckman Orthodontics",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "braces4dayton.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Bowles Dental Center",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "bowlesdentalcenter.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "All Care Dentistry",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "allcaredentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Baker Nicholas E DMD",
+  "city": "Bloomington",
+  "state": "IL",
+  "url": "bloomingtonmoderndentistry.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2016",
+  "approx_score": null
+ },
+ {
+  "name": "Pediatric Dentistry",
+  "city": "Canton",
+  "state": "MI",
+  "url": "cantonpediatricsmiles.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Indianapolis Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "calmingfears.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Oral Implantology Of Southeastern Wisconsin",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "call4smiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Byce & Worman Family Dentistry",
+  "city": "Madison",
+  "state": "WI",
+  "url": "byce-worman-dentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Carroll Family & Cosmetic Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "carrollfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Rae Ian M DMD",
+  "city": "Mason",
+  "state": "OH",
+  "url": "cedarvillagedentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Glass Road Family Dentistry",
+  "city": "Cedar Rapids",
+  "state": "IA",
+  "url": "cedarrapidsdentist.net",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Chase Patton DDS",
+  "city": "Columbia",
+  "state": "MO",
+  "url": "chasepattondds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Camelot Dental Group",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "camelotdentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Care",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "chicagogeneraldentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Centre For Exceptional Dentistry",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "centredentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Callahan Orthodontics-Richard F Callahan, DDS",
+  "city": "Downers Grove",
+  "state": "IL",
+  "url": "callahanortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Broad & Bright Kid's Dentistry",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "broadandbrightdental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Chicago Pediatric Dentistry & Orthodontics",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "chicagopedoortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Children's Dentistry-Council",
+  "city": "Council Bluffs",
+  "state": "IA",
+  "url": "childrensdentistryofcb.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Lowitz & Meier",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "cincinnatidentists.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Centerville Dental Center",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "centervilledentalcenter.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Care Family Dental",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "carefamilydentist.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles In The Village Dentistry",
+  "city": "Carmel",
+  "state": "IN",
+  "url": "carmelsmilesdentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Children's Dentistry Of Lincoln",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "childrensdentistryol.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Clock Tower Dentistry",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "clocktowerdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Chesterfield Dentistry",
+  "city": "Chesterfield",
+  "state": "MO",
+  "url": "chesterfielddentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Childrens Dental Care",
+  "city": "Lakeville",
+  "state": "MN",
+  "url": "childrensdentalc.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Cline Dental",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "clinedental.org",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Children's Dental Health Center SC",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "childrensdentalhealthcenter.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Colletti Michael T, DDS",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "collettidds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Brad Alderman, DDS",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "coddingtondental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Jane Chen, DDS",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "chenddspc.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Franklin D Wright, DMD",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "cincytoothdoc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Glendale Dental Associates, II, PC",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "chofamilydentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Marie A Calabrese, DMD",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "completesmilecare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "CityScape Dental Arts",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "cityscapedentalarts.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Crimsoncare Family Dental",
+  "city": "Maple Grove",
+  "state": "MN",
+  "url": "crimsoncaredental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Comfort Dental Of Fort Wayne",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "comfortdentalfortwayne.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Solutions",
+  "city": "Crystal Lake",
+  "state": "IL",
+  "url": "cldentist.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Cosmos Family Dental",
+  "city": "Aurora",
+  "state": "IL",
+  "url": "cosmosfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Create A Smile, PC",
+  "city": "Bloomington",
+  "state": "IN",
+  "url": "createasmilepc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Corpuz Family Dentistry",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "corpuzfamilydentistry.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 404)",
+  "approx_score": null
+ },
+ {
+  "name": "Crowder Richard DDS",
+  "city": "Lenexa",
+  "state": "KS",
+  "url": "crowderfamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Castleton General & Implant Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "castletondental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Cool Creek Dentistry",
+  "city": "Carmel",
+  "state": "IN",
+  "url": "coolcreekdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Kotnour Jones Dental",
+  "city": "La Crosse",
+  "state": "WI",
+  "url": "couleefamilydental.com",
+  "verdict": "BENCH — Coulee Family Dental La Crosse WI (Kotnour Jones); Thryv; '50 years combined experience'",
+  "approx_score": 52
+ },
+ {
+  "name": "Daily Dental Center",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "dailydentalcenter.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Day Family Dental",
+  "city": "Lansing",
+  "state": "MI",
+  "url": "dayfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Corinth Dental Care",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "corinthdentalcare.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Dayton Pediatric Dentistry",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "daytonpediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Beaches & Braces",
+  "city": "Byron Center",
+  "state": "MI",
+  "url": "beachesandbracesgr.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Pediatric Dentistry Of Brighton",
+  "city": "Brighton",
+  "state": "MI",
+  "url": "crpediatricdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Corinium Dental",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "coriniumdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Scott D. Seiler DDS",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "dds4kidz.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Bailey Family Dental",
+  "city": "Avon",
+  "state": "IN",
+  "url": "baileydental.net",
+  "verdict": "UNSCREENED — unreachable (HTTP 404)",
+  "approx_score": null
+ },
+ {
+  "name": "Deldar Dental-Noblesville Dentist",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "deldardental.com",
+  "verdict": "BENCH — Deldar & Kay Dental Noblesville IN; tiny 18 KB page; airway/sleep focus; est. UNKNOWN",
+  "approx_score": 50
+ },
+ {
+  "name": "Creekside Family Dental William W Leffler DDS",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "creeksidefamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Care Kalamazoo: S. Rangrass, DDS, PC",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "url": "dentalcarekalamazoo.com",
+  "verdict": "VENDOR-FLAGGED (officite) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Dental & Cosmetic Solutions",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "dentalcosmeticsolution.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Clintonville Pediatric Dentistry",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "clintonvillepediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Ann Arbor's Dentist",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "annarborsdentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Tabakh Diana, DDS",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "delightfuldentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Expressions",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "dentalexpressionsleawood.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Daws Dental",
+  "city": "Livonia",
+  "state": "MI",
+  "url": "dawsdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Clarity Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "claritydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Briggs Family Dentistry",
+  "city": "Dubuque",
+  "state": "IA",
+  "url": "briggsdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "SouthPointe Dental",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "dentalsouthpointe.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Care Of Glen Ellyn Family, Cosmetic, Implants",
+  "city": "Glen Ellyn",
+  "state": "IL",
+  "url": "dentalcareofglenellyn.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dana Walters, DDS",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "danawaltersdds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Art Specialists",
+  "city": "Evanston",
+  "state": "IL",
+  "url": "dentalartspecialists.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Bridgeport Smiles",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "dentistbridgeportchicago.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Heights",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "dentalheights.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2023)",
+  "approx_score": null
+ },
+ {
+  "name": "Amy Marckese-Braun, DDS",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "dentalspaindianapolis.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Don Castellarin, DDS",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "dentistdonsmiles.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Arlington Smith Family Dentistry",
+  "city": "Arlington Heights",
+  "state": "IL",
+  "url": "dentist-arlingtonheights.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Care Center Of South Kansas City",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "dentalcarecenterofsouthkc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Cristina S Saguil DDS",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "dentalradiance.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Bruce Mathes, DDS",
+  "city": "Peoria",
+  "state": "IL",
+  "url": "dentistpeoriail.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Bismarck Dentistry",
+  "city": "Bismarck",
+  "state": "ND",
+  "url": "dentistrybismarck.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Tecumseh Dental Center",
+  "city": "Lafayette",
+  "state": "IN",
+  "url": "dentistlafayette.net",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Robin Kahn",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "dentistryforhealthomaha.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Anne E. Siegrist, DDS, SC",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "dentistinappleton.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Gentle Family Dental",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "dentistofnaperville.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Associates Orland Park",
+  "city": "Orland Park",
+  "state": "IL",
+  "url": "dentalassociatesorlandpark.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Deutch Michelle B DDS",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "dentistryoverlandpark.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Derksen Dentistry",
+  "city": "Lansing",
+  "state": "MI",
+  "url": "derksendentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dentists Southshore",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "dentistsouthshore.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Donald J Loomis, DDS",
+  "city": "Madison",
+  "state": "WI",
+  "url": "dentistmadison.com",
+  "verdict": "BENCH — Donald Loomis DDS Madison WI; ©2016, dead G+ link, 14 KB page; sedation; solo, age UNKNOWN",
+  "approx_score": 55
+ },
+ {
+  "name": "Nicole S. Kott, D.D.S",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "dentistinlombard.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2015",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Loft At The Greene",
+  "city": "Beavercreek",
+  "state": "OH",
+  "url": "dentalloftbeavercreek.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Associates PC",
+  "city": "West Des Moines",
+  "state": "IA",
+  "url": "desmoines-dentalassociates.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Summit Dental Care",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "dentistcoonrapids.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Brammeier Dental Associates Of Naperville",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "dentistrynaperville.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dentistry Of Wisconsin",
+  "city": "Beaver Dam",
+  "state": "WI",
+  "url": "dentistryofwisconsin.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=2021 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Dipiero Family Dental",
+  "city": "Akron",
+  "state": "OH",
+  "url": "dipierofamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "K J Kohan, DDS",
+  "city": "Arlington Heights",
+  "state": "IL",
+  "url": "doctorkohan.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Door Creek Dental",
+  "city": "Madison",
+  "state": "WI",
+  "url": "doorcreekdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dentists On Eastcastle",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "dentistsoneastcastle.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Downers Grove Orthodontics",
+  "city": "Downers Grove",
+  "state": "IL",
+  "url": "downersgroveorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Distinctive Dental Care",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "distinctivedentalcare.pro",
+  "verdict": "POSSIBLE-OLD-SITE ©2018",
+  "approx_score": null
+ },
+ {
+  "name": "David C. Wood Family & Cosmetic Dentistry",
+  "city": "Carmel",
+  "state": "IN",
+  "url": "davidwooddental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Distinctive Family Dental",
+  "city": "Joliet",
+  "state": "IL",
+  "url": "distinctivefamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Hylan Dental Care",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "drbradhylan.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 502)",
+  "approx_score": null
+ },
+ {
+  "name": "Diamond Smiles Dentistry",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "diamondsmilesdentistry.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Booker Family Dentistry",
+  "city": "Trenton",
+  "state": "MI",
+  "url": "downriversmiles.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "All Smiles Dental Studio",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "drbethhanks.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Parker M Jarvis, DDS",
+  "city": "Westerville",
+  "state": "OH",
+  "url": "docjarvis.com",
+  "verdict": "FLAG — Parker Jarvis DDS Westerville OH; 35+ yrs solo, source copyrightyear span '2013'; retirement-horizon solo, no successor seen",
+  "approx_score": 58
+ },
+ {
+  "name": "Chad L Bailey, DDS",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "drchadbailey.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Doug Thompson Orthodontics",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "dougthompsonortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Arsen Adjemian, DDS",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "dradjemian.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Darkow Eugene A DDS",
+  "city": "Neenah",
+  "state": "WI",
+  "url": "drdarkow.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Professional Dental Care",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "drdibs.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 404)",
+  "approx_score": null
+ },
+ {
+  "name": "Disha Pennington DDS",
+  "city": "Akron",
+  "state": "OH",
+  "url": "drdishapenningtondds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Parkway Dental",
+  "city": "Arlington Heights",
+  "state": "IL",
+  "url": "designerdentist.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Gregory L. Torosian, DDS & Dominic H. Armbrust, DDS",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "drgregtorosian.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Foster Gary L DDS",
+  "city": "Rockford",
+  "state": "IL",
+  "url": "drgaryfoster.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Brennan Family & Cosmetic Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "drbrennan.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr Guy H Gattone DDS",
+  "city": "Tinley Park",
+  "state": "IL",
+  "url": "drguyhgattone.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Downer Place Dental",
+  "city": "Aurora",
+  "state": "IL",
+  "url": "downerplacedental.org",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Arlene J. Coloma, DDS, M.S",
+  "city": "Strongsville",
+  "state": "OH",
+  "url": "drcoloma.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Just Smile: Steinmetz Michael S DDS",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "drjustsmile.net",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles Of Kansas City Dental",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "dawnberkvamdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "J C Dental Clinic P C",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "drjongchoi.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Candace M Opon, DDS",
+  "city": "Crystal Lake",
+  "state": "IL",
+  "url": "doctoropondds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Timothy Moore DDS Family Dentistry",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "drmagicsmile.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Oconomowoc Dental Care",
+  "city": "Oconomowoc",
+  "state": "WI",
+  "url": "drmichaelsdentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Mary A. Starsiak, DDS",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "drmarystarsiak.com",
+  "verdict": "VENDOR-FLAGGED (thryv) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Thomas J Bolt, DDS",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "drtjbolt.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Hartej S Sood, DDS",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "drsood.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Knierim, Erin A DMD",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "drknierim.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "DentArt Chicago",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "dentartchicago.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr Gregory Potempa, DDS, Fagd",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "drgregpotempa.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr Mingos & Associates Plaza Dental",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "drmingos.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Fox Dental Excellence",
+  "city": "Mason",
+  "state": "OH",
+  "url": "drrobertfox.com",
+  "verdict": "VENDOR-FLAGGED (foxdental,idental,weo media,weomedia) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Wind Point Dental",
+  "city": "Racine",
+  "state": "WI",
+  "url": "drwestman.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Gilbert X. Mendez, D.D.S",
+  "city": "Arlington Heights",
+  "state": "IL",
+  "url": "drmendezsmiles.com",
+  "verdict": "BENCH — Gilbert Mendez DDS Arlington Heights IL; '30 years' per site; Squarespace ©2015 CSS; solo",
+  "approx_score": 57
+ },
+ {
+  "name": "Des Moines Family Dentistry",
+  "city": "Des Moines",
+  "state": "IA",
+  "url": "dsmfamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Savvy",
+  "city": "Dublin",
+  "state": "OH",
+  "url": "dublinkidsdental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Benjamin Turnwald Dentistry",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "drturnwald.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 404)",
+  "approx_score": null
+ },
+ {
+  "name": "Ariston Family Dental",
+  "city": "Glen Ellyn",
+  "state": "IL",
+  "url": "drdouros.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Devington Dental Office",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "drmbazilio.com",
+  "verdict": "BENCH — Devington Dental (Dr. Merneatha Bazilio) Indianapolis; ProSites; prosthodontic mentions; est. UNKNOWN",
+  "approx_score": 56
+ },
+ {
+  "name": "Duff Family Dental",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "dufffamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Jonathan Eagle, DDS",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "eagledds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Eagle Run West Dental Group",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "eaglerundental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Steve A Sato, DDS",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "drsato.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dentistry Of West Bend",
+  "city": "West Bend",
+  "state": "WI",
+  "url": "dentistryofwestbend.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Wilcoxon Orthodontics",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "drwilcoxon.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Richard S Weiser, DDS",
+  "city": "Strongsville",
+  "state": "OH",
+  "url": "drweiser.com",
+  "verdict": "BENCH — Richard Weiser DDS, Strongsville Center for Cosmetic & Implant Dentistry; WEO Media actively maintained ©2024-2026",
+  "approx_score": 55
+ },
+ {
+  "name": "Duffield Dentistry",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "duffielddentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr Trista's Children's Dentistry",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "drtristasmiles.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Beauty Smile Orthodontics",
+  "city": "Bolingbrook",
+  "state": "IL",
+  "url": "beautysmileortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Dupont Family Dentistry",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "dupontfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dentistry For Madison",
+  "city": "Madison",
+  "state": "WI",
+  "url": "dentistryformadison.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Scharfenberg Dental",
+  "city": "Elmhurst",
+  "state": "IL",
+  "url": "elmhurstdentists.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Karl D Weaver, DDS",
+  "city": "Madison",
+  "state": "WI",
+  "url": "eastparkdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "Sandy Scavo",
+  "city": "West Des Moines",
+  "state": "IA",
+  "url": "eptruedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Emily Weitz, DDS",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "emilyweitzdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Emergency Dental Pros",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "emergencydentalpros.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "McAdoo Dental",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "detroitmichigandentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Emergency Dentist of Chicago",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "emergencydentistchicago.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "Fallbrook Family Dentistry",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "fallbrookfamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Eastgate Dental Excellence",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "eastgatedentalexcellence.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Excellence Dental",
+  "city": "Stevens Point",
+  "state": "WI",
+  "url": "excellencedental.net",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Elements Dental Studio",
+  "city": "Evanston",
+  "state": "IL",
+  "url": "elementsdentalstudio.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "James M. Lapierre, D.D.S",
+  "city": "Dublin",
+  "state": "OH",
+  "url": "drjameslapierre.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dental Montgomery",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "familydentalmontgomery.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Brett E Mann & Associates",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "brettmannpediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dental Of Palatine",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "familydentalofpalatine.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dentistry Of Arlington Heights",
+  "city": "Arlington Heights",
+  "state": "IL",
+  "url": "familydentistryah.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dental",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "familydentalco.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Family SmileCare Center",
+  "city": "Cedar Rapids",
+  "state": "IA",
+  "url": "familysmilecarecenter.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Eberhardt Dentistry",
+  "city": "Akron",
+  "state": "OH",
+  "url": "eberhardtdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dental Of South East Wisconsin",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "familydentalse.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Fenton Family Dentistry",
+  "city": "Fenton",
+  "state": "MO",
+  "url": "fenton-familydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Augusto Fojas, DDS. Dentistry For Adults & Children",
+  "city": "Westerville",
+  "state": "OH",
+  "url": "fojasdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Wolfgang Schaller, DDS",
+  "city": "Liberty",
+  "state": "MO",
+  "url": "flintlockdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Moore Dentistry",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "fishersdentist4u.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Bussick Orthodontics",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "bussickortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Stuart Pettijohn, DDS",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "foresthillsfamilydental.com",
+  "verdict": "BENCH — Forest Hills Family Dental, Grand Rapids/Cascade MI; Weebly-era 33 KB page; est. UNKNOWN",
+  "approx_score": 52
+ },
+ {
+  "name": "Sajan Murtaza M DDS",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "evolutiondentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Emergency Dentists USA",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "emergencydentistsusa.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Fournier Family Dentistry",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "fournierfamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Jason A Shermer",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "exceptionalsmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Village Dental At Saxony",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "fishersindentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Hires Dental Care",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "familydentisttoledo.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "FLOSS Family Dental & Surgical Center",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "flosslincoln.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Lazar Mark R Dr DDS",
+  "city": "Des Moines",
+  "state": "IA",
+  "url": "fortdesmoinesdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Elite Dental Clinics New Cairo",
+  "city": "Overton",
+  "state": "NE",
+  "url": "elitedentalclinic.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "William G Rouch",
+  "city": "Evansville",
+  "state": "IN",
+  "url": "franklinstreetdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Chicago Dentist PC",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "chicagodentistpc.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Farmington Lakes Dental, PC",
+  "city": "Oswego",
+  "state": "IL",
+  "url": "farmingtonlakesdental.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Fishinger Dental",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "fishingerdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Gabet Family Dentistry",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "gabetfamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Forestview Family Dentistry",
+  "city": "Maple Grove",
+  "state": "MN",
+  "url": "forestviewfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Fleur Dentistry",
+  "city": "Des Moines",
+  "state": "IA",
+  "url": "fleurdentistry.com",
+  "verdict": "VENDOR-FLAGGED (ekwa,prosites,ptl) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Fort Wayne Pediatric Dentistry",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "fortwayneinpediatricdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr Adam Pasono Dr Paul Vander",
+  "city": "Green Bay",
+  "state": "WI",
+  "url": "gbfamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Fox Valley Dental",
+  "city": "Neenah",
+  "state": "WI",
+  "url": "fvdental.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Galleria Dental",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "galleriadentalspringfield.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Gem City Dental Group",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "gemcityorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Dennis A. Gaishauser D.D.S",
+  "city": "Medina",
+  "state": "OH",
+  "url": "gaishauserdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Khanna Dentistry",
+  "city": "Geneva",
+  "state": "IL",
+  "url": "genevacosmeticdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Wick, George P DDS",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "georgewickdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Gentle Dental Care",
+  "city": "Grand Island",
+  "state": "NE",
+  "url": "gentledentalgi.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Goebel Pediatric Dentistry",
+  "city": "Bismarck",
+  "state": "ND",
+  "url": "goebelpediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Jeffrey Frerichs, DDS",
+  "city": "Champaign",
+  "state": "IL",
+  "url": "frerichsdental.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Gustafson Morningstar Dentistry",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "gmdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Warren Gase, D.D.S",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "gasedds.com",
+  "verdict": "BENCH — Warren Gase DDS Cincinnati; since 1986, 4.9 on 350+ Google reviews (site claim), Einstein 'Forever Website 2.0' ©2011-2026 but modern-looking; sole practitioner",
+  "approx_score": 60
+ },
+ {
+  "name": "Hernly Family & Cosmetic",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "grandrapidssmiles.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Gaslight Village Family Dnstry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "gaslightvillagefamilydentistry.com",
+  "verdict": "VENDOR-FLAGGED (greatdentalwebsites) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Cascioli Danielle A DDS",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "gantosdentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Coe Kevin",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "coe-dentistry.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Emergency Dental Milwaukee",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "emergencydentalofmilwaukee.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2023)",
+  "approx_score": null
+ },
+ {
+  "name": "Walter Stoll, DDS",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "greatsmilez.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Pete L Joseph, DDS",
+  "city": "Greenwood",
+  "state": "IN",
+  "url": "greenwoodsmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Gerome & Patrice Family Dentistry",
+  "city": "Loveland",
+  "state": "OH",
+  "url": "geromeandpatricedds.com",
+  "verdict": "BENCH — Gerome & Patrice Family Dentistry Loveland OH; TNT keyword-spam title; 2 docs; est. UNKNOWN",
+  "approx_score": 58
+ },
+ {
+  "name": "Kuthiala, Neha P DDS",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "gentledent.com",
+  "verdict": "VENDOR-FLAGGED (dental associates,sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Brian Lyngaas, DDS",
+  "city": "Livonia",
+  "state": "MI",
+  "url": "grinsrin.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2011",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles 4U Dayton",
+  "city": "Beavercreek",
+  "state": "OH",
+  "url": "gregnotestine.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Grand River Family Dentistry",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "grfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Great Smiles Family Dentistry",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "greatsmilesfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Mancewicz & White",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "grfamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Davis Gregory P DDS",
+  "city": "Mason",
+  "state": "OH",
+  "url": "gregorydavisdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Grove Dental",
+  "city": "Downers Grove",
+  "state": "IL",
+  "url": "grovedental.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2022",
+  "approx_score": null
+ },
+ {
+  "name": "Esmiles",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "esmilesdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Grandview Center For Dentistry",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "grandviewdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Growing Smiles Pediatric Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "growingsmilesgr.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Gutierrez & Gutierrez",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "gutierrezdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Green Tree Dental",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "gtdentalmke.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Grove Health Dental",
+  "city": "Maple Grove",
+  "state": "MN",
+  "url": "grovehealthdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2023)",
+  "approx_score": null
+ },
+ {
+  "name": "Hamilton Town Dentistry",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "hamiltontowndentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Hampton Dental Associates, SC",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "hamptondentalassociates.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Harmon Family Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "harmondental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Hartrick Dentistry",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "hartrickdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Growing Smiles",
+  "city": "Waukesha",
+  "state": "WI",
+  "url": "growingsmileswisconsin.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Hampton Hill Dental",
+  "city": "St. Louis",
+  "state": "MO",
+  "url": "hamptonhilldentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Laury Dimichaelangelo Lisa",
+  "city": "Westerville",
+  "state": "OH",
+  "url": "healthysmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Heritage Grove Family Dental",
+  "city": "Plainfield",
+  "state": "IL",
+  "url": "heritagegrovefamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Eastern Dental",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "grchildrensdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Cozad Dental Clinic",
+  "city": "Gothenburg",
+  "state": "NE",
+  "url": "hecoxdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Health Inspired Dentistry",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "healthinspireddentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Foust Family Dental Care",
+  "city": "West Des Moines",
+  "state": "IA",
+  "url": "foustfamilydentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Guirguis Rami DDS-Ms",
+  "city": "Duluth",
+  "state": "MN",
+  "url": "glcdc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles By Design",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "grandrapidsdentists.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Grandview Family Dentistry",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "grandviewfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Gallagher Dentistry & Facial Pain Center",
+  "city": "Eden Prairie",
+  "state": "MN",
+  "url": "gallaghercosmeticdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Health First Dental",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "healthfirstdentalschaumburg.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2015",
+  "approx_score": null
+ },
+ {
+  "name": "Hills Family Dental",
+  "city": "Platte City",
+  "state": "MO",
+  "url": "hillsfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Greder Dental",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "grederdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Herrick Dental",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "herrickfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Holman & Holman Dental",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "holmandental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Harbor Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "harbordentalmn.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Mark S Hunter, DMD",
+  "city": "Northville",
+  "state": "MI",
+  "url": "hunterorthodontist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Heys Dental",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "heysdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Henseler & Kocian Orthodontics",
+  "city": "Stillwater",
+  "state": "MN",
+  "url": "hkortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Hinsdale Dentistry",
+  "city": "Hinsdale",
+  "state": "IL",
+  "url": "hinsdaledentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Hoffman Dental",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "hoffmandentaloffice.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Huckabee & Huckabee",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "huckabeefamilydentistry.com",
+  "verdict": "VENDOR-FLAGGED (milestone) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Hilliard Family Dentistry",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "hilliardfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Hinsdale Dental",
+  "city": "Hinsdale",
+  "state": "IL",
+  "url": "hinsdaledental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dentistry By Design",
+  "city": "Hinsdale",
+  "state": "IL",
+  "url": "hinsdalefamilydentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Holt Dental",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "holtdentalindy.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Honey Family Dental",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "honeyofasmile.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Indianapolis Downtown Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "indianapolisdowntowndentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Impressions Dental",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "impressionsdentalchicago.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Boone Alan DDS",
+  "city": "Indianola",
+  "state": "IA",
+  "url": "indianoladentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Hurley Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "hurleydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "George J Gulu, DDS",
+  "city": "Grove City",
+  "state": "OH",
+  "url": "guludental.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2021",
+  "approx_score": null
+ },
+ {
+  "name": "Integrity Family Dentistry",
+  "city": "Janesville",
+  "state": "WI",
+  "url": "integritydentists.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Designer Dentistry & Smiles",
+  "city": "Sioux Falls",
+  "state": "SD",
+  "url": "ilovemydds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Ahrar Mitra Dr",
+  "city": "Hudson",
+  "state": "WI",
+  "url": "hudsonoakwooddental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Hoosier Pediatric Dental Group",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "hoosierpediatricdental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Indy Dental Group",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "indydentalgroup.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Indian Health Board Of Minneapolis",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "indianhealthboard.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Indiana Family Dentistry",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "infamilydentistry.com",
+  "verdict": "BENCH — Indiana Family Dentistry (Will Hine) Brownsburg IN; Thryv; ~25 yrs; 'Affordable Dentist' title (value-positioned)",
+  "approx_score": 50
+ },
+ {
+  "name": "Dental Care Today PC-E. Dale Behner, DDS",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "indianapolisdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Forestville Dental",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "forestvillefamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "International Dental",
+  "city": "Joliet",
+  "state": "IL",
+  "url": "intldental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2024)",
+  "approx_score": null
+ },
+ {
+  "name": "James Street Dental PC",
+  "city": "Geneva",
+  "state": "IL",
+  "url": "jamesstreetdental.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2020",
+  "approx_score": null
+ },
+ {
+  "name": "Indianapolis Pediatric Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "indykidsdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Ivory Dental Specialists",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "ivorydentalspecialists.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Iowa Center For Family & Cosmetic Dentistry",
+  "city": "West Des Moines",
+  "state": "IA",
+  "url": "iowasmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Igel Orthodontics",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "igelorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Hilldale Dental",
+  "city": "Madison",
+  "state": "WI",
+  "url": "hilldaledental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Jacob S. Miller, DDS",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "jmillerdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "J Brad Tally, DDS",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "jbradtallydds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Jewell Family Dental",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "jewelldental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2024)",
+  "approx_score": null
+ },
+ {
+  "name": "Jewel Dental",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "jeweldental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Brookside Dental Care",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "indybrooksidedentalcare.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Hearn Dental Care",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "hearndentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "James Olsen DDS",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "jamesolsendds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Kalamazoo Smiles",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "url": "kalamazoosmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dental Centers",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "jpfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2023)",
+  "approx_score": null
+ },
+ {
+  "name": "Jordan Creek Pediatric Dentistry",
+  "city": "West Des Moines",
+  "state": "IA",
+  "url": "jordancreekpediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Reno Family Dentistry",
+  "city": "Carmel",
+  "state": "IN",
+  "url": "johnrenodds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "iTooth Family Dentistry",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "itooth.net",
+  "verdict": "VENDOR-FLAGGED (growthplug) cy=2016 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Hillcrest Family Dental",
+  "city": "Waukesha",
+  "state": "WI",
+  "url": "hillcrestfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Kappenman Dental Clinic",
+  "city": "Sioux Falls",
+  "state": "SD",
+  "url": "kappenmanfamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Cade Hunzeker, DDS",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "drcade.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Jones Dental Clinic",
+  "city": "Aurora",
+  "state": "NE",
+  "url": "jonesdentalclinic.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Keith A Brown",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "keithbrowndental.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Kurt Kavanaugh Orthodontics",
+  "city": "Sedalia",
+  "state": "MO",
+  "url": "kavanaughortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Karmazin Dental",
+  "city": "Sioux Falls",
+  "state": "SD",
+  "url": "karmazindental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "K C Smile",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "kcsmile.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Karl Orthodontics",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "karlorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "John T Green DDS",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "johntgreendds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Olivia Rauschenbach, DDS",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "keepsmilingop.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Jennifer Pottinger, DDS",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "jlpottingerdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Kelly Dentistry",
+  "city": "Rochester",
+  "state": "MN",
+  "url": "kellydentistryrochester.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Kids First Pediatric Dentistry",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "kidsfirstpd.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Thomas J Bloem PC",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "kanedentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Kemper Meadow Family Dentistry",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "kempermeadow.com",
+  "verdict": "BENCH — Kemper Meadow Family Dentistry Cincinnati; TNT; 2+ docs; est. UNKNOWN",
+  "approx_score": 55
+ },
+ {
+  "name": "KC Braces & Kids",
+  "city": "Liberty",
+  "state": "MO",
+  "url": "kcbracesandkids.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Knierim, Gerald R DDS",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "knierimdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Kings Dental",
+  "city": "Mason",
+  "state": "OH",
+  "url": "kings.dental",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Kottemann Orthodontics",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "kottemannorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Just For Kids Pediatric Dentistry",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "justforkidsnaperville.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Plainfield Pediatric Dentistry",
+  "city": "Plainfield",
+  "state": "IL",
+  "url": "kidsgreatsmiles.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Kleiber Family Dentistry",
+  "city": "Hinsdale",
+  "state": "IL",
+  "url": "kleiberfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "KB Family Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "kbfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Koehn Dentistry & Aesthetics",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "koehndentistry.com",
+  "verdict": "BENCH — Koehn Dentistry & Aesthetics Kansas City MO; Thryv; Dr. Tyler Koehn; young?",
+  "approx_score": 48
+ },
+ {
+  "name": "Krasowski Dental",
+  "city": "Wausau",
+  "state": "WI",
+  "url": "krasowskidental.com",
+  "verdict": "BENCH — Krasowski Dental Wausau WI; LVI mentions, ©2018, dead G+ link; est. UNKNOWN",
+  "approx_score": 57
+ },
+ {
+  "name": "Krouth Dental",
+  "city": "Oswego",
+  "state": "IL",
+  "url": "krouthdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Northland Dental",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "kansascitycosmeticdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Langhorst Family Dentistry",
+  "city": "Holland",
+  "state": "MI",
+  "url": "langhorstfamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Joy M. Miller, D.D.S",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "joymillerdds.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2021",
+  "approx_score": null
+ },
+ {
+  "name": "Lazin Family Orthodontics",
+  "city": "Greenwood",
+  "state": "IN",
+  "url": "lazinfamilyorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Hallas Peter G, DDS",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "lakemichigandental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Fales Pediatric Dentistry, P.A",
+  "city": "Olathe",
+  "state": "KS",
+  "url": "kidzdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Kenosha Smiles",
+  "city": "Kenosha",
+  "state": "WI",
+  "url": "kenoshasmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Kent Morris Orthodontics",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "kentmorrisorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Laganis Pediatric Dentistry",
+  "city": "Maple Grove",
+  "state": "MN",
+  "url": "laganispediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Leawood Cosmetic & Family Dentistry",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "leawoodcosmeticdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Fredric Tatel DDS & Associates",
+  "city": "Tinley Park",
+  "state": "IL",
+  "url": "kidsdds.net",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Landerhaven Dental Associates",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "landerhavendental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "David D Carrier, DDS",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "dcarrierdds.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Levan Dental Group",
+  "city": "Livonia",
+  "state": "MI",
+  "url": "levandentalgroup.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Melissa D. Mariani, DDS",
+  "city": "Dublin",
+  "state": "OH",
+  "url": "legacyfamilydentaldublin.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Thomas Family Dental",
+  "city": "Columbia",
+  "state": "MO",
+  "url": "letrishaathomasdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Lincoln Pediatric Dentistry",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "lincolnpediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Lakebrink Dental",
+  "city": "Liberty",
+  "state": "MO",
+  "url": "lakebrinkdental.com",
+  "verdict": "VENDOR-FLAGGED (milestone) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Linda Liu, DMD",
+  "city": "Chesterfield",
+  "state": "MO",
+  "url": "lindaliudental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Lisa Konz Dental Care",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "lisakonzdentalcare.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Krawiec J Stephen, DDS",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "krawiecdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Lincoln Park Smiles",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "lincolnparksmiles.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Kari Holstad Dr",
+  "city": "Cedar Rapids",
+  "state": "IA",
+  "url": "lindaledental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Libertyville Dental Associates",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "libertyvilledental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Gladiola Dental Care",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "libertyvilledentistry.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2022",
+  "approx_score": null
+ },
+ {
+  "name": "Stillwater Dental Laboratories",
+  "city": "Stillwater",
+  "state": "MN",
+  "url": "liftdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Lincoln Shine Dental",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "lincolnshinedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Steven E. Marek, DDS",
+  "city": "Joliet",
+  "state": "IL",
+  "url": "joliet-dentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Lindenwoods Dental",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "url": "lindenwoodsdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Stacie A Piacsek, DDS",
+  "city": "Oconomowoc",
+  "state": "WI",
+  "url": "lspdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Little Critter Pediatric Dentistry",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "littlecritterpediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Willenberg Lan, Danae J DMD",
+  "city": "Holland",
+  "state": "MI",
+  "url": "littleredpd.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Cerone Michael, DDS",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "lombard-dentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "The Dental Store",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "dentalstore.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Lifetime Dental Health",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "lifetimedentalcolumbus.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "John Deakins, DDS",
+  "city": "Liberty",
+  "state": "MO",
+  "url": "libertyfamilydentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Lakewood Dental",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "lakewooddentalsmile.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Little Sprouts Dental",
+  "city": "Cedarburg",
+  "state": "WI",
+  "url": "littlesproutsdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Daniel P Malloy, DDS",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "malloydental76.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Lombardi Dentistry",
+  "city": "Joliet",
+  "state": "IL",
+  "url": "lombardidentistry.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2015",
+  "approx_score": null
+ },
+ {
+  "name": "Maple Grove Family Dental Clinic",
+  "city": "Maple Grove",
+  "state": "MN",
+  "url": "maplegrovedental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Hutta & Price Orthodontics",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "lovethatsmile.net",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "R. Peter Maly DDS",
+  "city": "Novi",
+  "state": "MI",
+  "url": "malylandisdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Mark A Miely, DDS",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "markamielydds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Matthew Martin DDS",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "martindentists.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Lakewood Family Dental",
+  "city": "Bloomington",
+  "state": "IL",
+  "url": "lakewood-familydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Maintain Your Smile Dental",
+  "city": "Rockford",
+  "state": "IL",
+  "url": "maintainyoursmile.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Maurer Family Dental",
+  "city": "Springfield",
+  "state": "IL",
+  "url": "maurerfamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Maury Family Dental",
+  "city": "Fond du Lac",
+  "state": "WI",
+  "url": "mauryfamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Streitz, Mark S DDS",
+  "city": "Joliet",
+  "state": "IL",
+  "url": "markstreitzdental.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Keven D Wells DDS",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "livingwelldentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Mayfair Dental Group SC",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "mayfairdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Panneton Dental Group",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "markpannetondds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Mark F. Stoner, DDS",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "markstonerdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Jeffrey A Mallette DDS",
+  "city": "Canton",
+  "state": "OH",
+  "url": "mallettedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Maurstad Dentistry",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "maurstaddentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "McNiel Family Dentistry",
+  "city": "Neenah",
+  "state": "WI",
+  "url": "mcnielfamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "AMA Dental Center",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "michaelalsoussdds.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Dean J. Kokinias, DDS",
+  "city": "Rockford",
+  "state": "IL",
+  "url": "kokiniasdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Madsen & Hirsch",
+  "city": "Madison",
+  "state": "WI",
+  "url": "madsenandhirsch.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Martinez Orthodontics",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "martinezortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "McKinney Dental",
+  "city": "Madison",
+  "state": "WI",
+  "url": "mckinneydental.net",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Arnstine & McGuire Orthodontics",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "mcguireorthocle.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Meiss Family Dental",
+  "city": "Peoria",
+  "state": "IL",
+  "url": "meissfamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Forest Home Dental Associates SC",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "milwaukeedentistoffice.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2011",
+  "approx_score": null
+ },
+ {
+  "name": "Merion Village Dental",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "merionvillagedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Artistic Smiles",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "medhatdentalexcellence.com",
+  "verdict": "VENDOR-FLAGGED (weo media,weomedia) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Medina Pediatric Dentistry",
+  "city": "Medina",
+  "state": "OH",
+  "url": "medinapediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Midtown Dental Care, S.C",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "midtowndentalcare.org",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Gerald J Miller, DDS",
+  "city": "Crystal Lake",
+  "state": "IL",
+  "url": "millerdentalexcellence.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "McGuire Dental Group",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "mcguiredentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Mill Creek Dental",
+  "city": "Shawnee",
+  "state": "KS",
+  "url": "millcreekdentalkc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Wayzata Smiles",
+  "city": "Wayzata",
+  "state": "MN",
+  "url": "martinsondental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Robertson, Jeffrey J. DDS",
+  "city": "Evansville",
+  "state": "IN",
+  "url": "jeffreyrobertsondds.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Moore Lake Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "moorelakedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Elizabeth M Bakeman DDS",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "micosmeticdentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Gregory A Balog, DDS",
+  "city": "Monroe",
+  "state": "MI",
+  "url": "monroemichigandentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Melissa J Severino-Hoza DDS",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "mentordentalarts.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Gibberman Barry P DMD",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "montgomerydentistryohio.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Mork Dental",
+  "city": "Winona",
+  "state": "MN",
+  "url": "morkdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles On Broadway",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "mkesmiles.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Mantel Orthodontics",
+  "city": "Cedarburg",
+  "state": "WI",
+  "url": "mantelortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Michael S. Leonard, DDS",
+  "city": "Kalamazoo",
+  "state": "MI",
+  "url": "msldental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Matthew L Blass Assoc",
+  "city": "Elmhurst",
+  "state": "IL",
+  "url": "mlblassdds.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Optima Dental Associates",
+  "city": "Tinley Park",
+  "state": "IL",
+  "url": "myoptimadental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Minneapolis Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "mplsdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Allen & Holm",
+  "city": "Burnsville",
+  "state": "MN",
+  "url": "myburnsvilledentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Meyer & Johns Dental",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "meyerjohnsdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "South Ridge Dental",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "mysouthridgedental.com",
+  "verdict": "BENCH — South Ridge Dental Lincoln NE; Drs. Steven & Ryan Shaffer father/son; TNT keyword-spam title; est. UNKNOWN",
+  "approx_score": 62
+ },
+ {
+  "name": "Manju R Kejriwal DDS",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "mycincinnatismiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Missouri River Dental",
+  "city": "Bismarck",
+  "state": "ND",
+  "url": "missouririverdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Randall Nameth, DDS",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "namethdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2024)",
+  "approx_score": null
+ },
+ {
+  "name": "Michael E Bond DDS PC",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "napervillefamilydentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Molldrem Family Dentistry",
+  "city": "Eden Prairie",
+  "state": "MN",
+  "url": "molldremdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Pointe",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "mydentalpointe.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Naperville Commons Dental",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "napervillecommonsdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Art Of Modern Dentistry",
+  "city": "New Berlin",
+  "state": "WI",
+  "url": "newberlindentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Nicollet Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "nicolletdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Cottage Hill Dental Care",
+  "city": "Elmhurst",
+  "state": "IL",
+  "url": "myelmhurstdentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Health & Beauty - Dr. Nicholas Polito, DDS.",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "nickpolitodds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "New Era Dental",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "neweradentalmi.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Mulka Dental",
+  "city": "Livonia",
+  "state": "MI",
+  "url": "mulkadental.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Nikodem Dental",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "nikodemdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Pebblewood Dental",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "napervilleil.dental",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Nicole Van Le, DDS",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "nicolevanledds.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 503)",
+  "approx_score": null
+ },
+ {
+  "name": "New Family Dental",
+  "city": "Arlington Heights",
+  "state": "IL",
+  "url": "newfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Hormoz Hormozdi, DDS",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "drozdds.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Neligh Family Dentistry",
+  "city": "Neligh",
+  "state": "NE",
+  "url": "nelighfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Noelridge Dental",
+  "city": "Cedar Rapids",
+  "state": "IA",
+  "url": "noelridgedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "Family General Dentistry",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "lombarddentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "New Image Dentistry",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "nidentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Nawar Alnoman, D.D.S",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "nawaralnomandds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Noblesville Dental Associates",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "noblesvilledds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Northalsted Dental Center",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "northalstedsmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Northside Dental Clinic",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "northsidedental.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2021",
+  "approx_score": null
+ },
+ {
+  "name": "Northpark Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "northparkdentalcare.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2019",
+  "approx_score": null
+ },
+ {
+  "name": "Theodore L. Gehrig, DDS",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "lincolnparkdentalassociates.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Matthew R. Lark, DDS",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "oakopeningsdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "NorthPointe Family Dental",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "northpointefamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Appleton Aesthetic Dentistry",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "northappletondentistry.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Northwest Point Dental Clinic",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "northwestpointdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Advance Dentistry",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "nofeardentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Lincoln Family Dentistry",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "nebraskafamilydentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Nicollet Station Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "nicolletstationdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Matthew Schieber, DDS, PC",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "omahakidsdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Comfort Dental Care",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "mycomfortdentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Omaha Dentistry",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "omahadentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Oral Health Care Professionals",
+  "city": "Downers Grove",
+  "state": "IL",
+  "url": "oralhealthcareprofessionals.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Healthy Smile",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "onahealthysmile.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Omaha Orthodontics",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "omahaorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "O'Brien Dental Care",
+  "city": "Shakopee",
+  "state": "MN",
+  "url": "obriendentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Modern Care Dental",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "moderncaredental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "No Fear Dentistry - Madison",
+  "city": "Madison",
+  "state": "WI",
+  "url": "nofeardentistrywi.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Bren O'Connor, D.D.S. & Fred A. Riddle, D.D.S",
+  "city": "Iowa City",
+  "state": "IA",
+  "url": "oconnorriddledentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Hilton James DDS Ms",
+  "city": "Burnsville",
+  "state": "MN",
+  "url": "oakridgedentalonline.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2022",
+  "approx_score": null
+ },
+ {
+  "name": "Peterson Aida N DDS",
+  "city": "Northville",
+  "state": "MI",
+  "url": "northvillecosmeticdentist.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Kim's",
+  "city": "Orland Park",
+  "state": "IL",
+  "url": "orlanddental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Orland Dental Care",
+  "city": "Orland Park",
+  "state": "IL",
+  "url": "orlanddentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Othman Orthodontics",
+  "city": "Orland Park",
+  "state": "IL",
+  "url": "othmanorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "The Oral Surgery & Dental Implant Specialists",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "oralsurgeonindianapolis.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Northpoint Dental Care",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "northpointdentalcare.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Palatine Sonrisa Dental",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "palatinesonrisadental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Herman Salzberg, DMD",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "palatinedental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "McKinnon Dental",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "mckinnondental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Bolon Rebecca P MSD",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "orthodonticsindianapolis.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Optimum Orthodontics",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "optimumorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Overland Park Family Dental",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "overlandparkfamilydental.com",
+  "verdict": "BENCH — Overland Park Family Dental (Creighton Gallagher DDS); Practice Cafe ©2016 + dead G+; practice age appears <10 yrs",
+  "approx_score": 48
+ },
+ {
+  "name": "Dr Stuart W Scott, DDS",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "parkcrestdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Olentangy Pediatric Dentistry",
+  "city": "Powell",
+  "state": "OH",
+  "url": "olentangypediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Overlook Plaza Dentistry",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "opdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Ryan Eight Mile Family Dentistry",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "pauldentalgroup.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 404)",
+  "approx_score": null
+ },
+ {
+  "name": "Park Dental: Siddhi Patel, DDS",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "parkdentalohio.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2024)",
+  "approx_score": null
+ },
+ {
+  "name": "Parma Ridge Family Dental",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "parmaridgefamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Pediatric Dental Associates, PC",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "pdafortwayne.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Verbic Orthodontics",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "palatinebraces.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Stanley Pediatric Dentistry",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "opkidsdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Parr Dental",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "parrdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Caputo Dental",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "paulcaputodds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Patrick J Bannon, DDS",
+  "city": "Downers Grove",
+  "state": "IL",
+  "url": "patrickjbannondds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Shyroze Rehemtulla, DMD",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "hurondentalcenter.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Mark Osenieks DDS PC",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "osenieksddspc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Annette Cserna PC",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "pioneerortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Oak Valley Dental Associates",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "oakvalleydental.net",
+  "verdict": "BENCH — Oak Valley Dental Associates Ann Arbor MI; ProSites ©2019; est. UNKNOWN",
+  "approx_score": 50
+ },
+ {
+  "name": "Park View Smiles",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "parkviewsmileschicago.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "PedZ Dental",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "pedzdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Oak Park Family Dental",
+  "city": "Lenexa",
+  "state": "KS",
+  "url": "oakparkdentalgroupks.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2021",
+  "approx_score": null
+ },
+ {
+  "name": "Perry Plaza Dental",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "perryplazadental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Polaris Dental Care",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "polarisdentalcare.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Phares Family Dentistry",
+  "city": "Holland",
+  "state": "MI",
+  "url": "pharesfamilydental.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2015",
+  "approx_score": null
+ },
+ {
+  "name": "Powell Village Dental",
+  "city": "Powell",
+  "state": "OH",
+  "url": "powellvillagedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Precision Dental Partners",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "pdpsmile.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Powers Family Dental Care",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "powersfamilydentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Roshan Parikh, DDS",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "opdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Pope Family Dental",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "popefamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2023)",
+  "approx_score": null
+ },
+ {
+  "name": "Petersen Family Dental Clinic",
+  "city": "Lakeville",
+  "state": "MN",
+  "url": "petersen-dental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Pleasant Prairie Family Dental",
+  "city": "Kenosha",
+  "state": "WI",
+  "url": "pleasantprairiefamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Wrathall, Jody L DDS",
+  "city": "Portage",
+  "state": "MI",
+  "url": "portagepediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Wenner Jennifer N DDS",
+  "city": "Powell",
+  "state": "OH",
+  "url": "powelldentalgroup.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Powell Dental Sleep Solutions",
+  "city": "Powell",
+  "state": "OH",
+  "url": "powelldentalsleepsolutions.com",
+  "verdict": "VENDOR-FLAGGED (synergy,tnt dental,tntdental) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Irwin Seidman, DDS",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "palatinepediatricdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Premier Dental Care",
+  "city": "Evanston",
+  "state": "IL",
+  "url": "premierdentalevanston.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2019",
+  "approx_score": null
+ },
+ {
+  "name": "Asha Dental",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "overlandparkdentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr Amin Mason DDS",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "polarisorthodonticcenter.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Pro Dental Concepts",
+  "city": "St. Charles",
+  "state": "IL",
+  "url": "prodentalconcepts.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Prairie Pediatric Dentistry",
+  "city": "Lenexa",
+  "state": "KS",
+  "url": "ppdkansas.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Pure Smiles - Westerville",
+  "city": "Westerville",
+  "state": "OH",
+  "url": "puresmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Prairie Walk Dental Of Oak Park",
+  "city": "Oak Park",
+  "state": "IL",
+  "url": "prairiewalkdentalofoakpark.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Porteous Family Dentistry",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "porteousfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Arts",
+  "city": "Plymouth",
+  "state": "MI",
+  "url": "premiersmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Pratt Dental PC",
+  "city": "North Platte",
+  "state": "NE",
+  "url": "prattdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "John Sfikas PC",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "johnsfikasddspc.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Quail Creek Dental",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "quailcreekdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Nadeem J Koussa, DDS",
+  "city": "Strongsville",
+  "state": "OH",
+  "url": "premierfamilydentaloh.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Rechtien Jr Robert W DDS",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "rechtiendental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Red Hat Neighborhood Dentist",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "redhatdentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Anthony J Budzinski Ms DDS",
+  "city": "Racine",
+  "state": "WI",
+  "url": "racinedentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Pure Zen Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "purezendentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Platte Valley Dental Group",
+  "city": "Scottsbluff",
+  "state": "NE",
+  "url": "plattevalleydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Norton Dentistry",
+  "city": "Evansville",
+  "state": "IN",
+  "url": "nortondentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Quivira Park Family Dentistry",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "quiviraparkdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Wisconsin Dental Specialist",
+  "city": "Brookfield",
+  "state": "WI",
+  "url": "raceorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Raptou, Nicholas P DDS",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "raptou.com",
+  "verdict": "VENDOR-FLAGGED (weo media,weomedia) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Restore Dental",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "restoredentalkc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Robbinsdale Dentalcare",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "robbinsdaledentalcare.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Lina, Li DDS",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "precisionfamilydentist.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Reardon John F DDS",
+  "city": "Stillwater",
+  "state": "MN",
+  "url": "reardondentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Rockford Family Dental",
+  "city": "Rockford",
+  "state": "IL",
+  "url": "rockfordfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Sheridan Dental: Raymond Sheridan, DDS",
+  "city": "Grove City",
+  "state": "OH",
+  "url": "raymondsheridandds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Right Choice Dental Care",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "rightchoicedentalcare.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Richards Frankel Dentistry",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "richardsfrankeldentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Robe Dental",
+  "city": "New Berlin",
+  "state": "WI",
+  "url": "robedental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Ries, Barbara DDS MS PC",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "riesorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Collins Orthodontics",
+  "city": "Rochester",
+  "state": "MN",
+  "url": "rochesterorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Saving Smiles Dentistry",
+  "city": "Fargo",
+  "state": "ND",
+  "url": "savingsmilesdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Rupenthal Dentistry",
+  "city": "Carmel",
+  "state": "IN",
+  "url": "rupenthaldentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Rojas Family Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "rojasfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Thomas S Rankin DDS",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "rankinfamilydentistry.com",
+  "verdict": "BENCH — Thomas Rankin DDS Hilliard OH; ProSites ©2019 mojibake; family & cosmetic; est. UNKNOWN",
+  "approx_score": 57
+ },
+ {
+  "name": "R R Ross DDS",
+  "city": "Springfield",
+  "state": "IL",
+  "url": "rossddsil.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Paul M Sandvick & Associates",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "sandvickdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Regency Family Dental Care PC",
+  "city": "Norfolk",
+  "state": "NE",
+  "url": "regencyfamilydentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Sexson Orthodontics",
+  "city": "Rockford",
+  "state": "IL",
+  "url": "sexsonorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Plaza Dental",
+  "city": "Lakeville",
+  "state": "MN",
+  "url": "plazadentalmn.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "Shadi Krecht, DMD",
+  "city": "Plymouth",
+  "state": "MI",
+  "url": "shadikrecht.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Sanders Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "sandersdentistry.net",
+  "verdict": "POSSIBLE-OLD-SITE ©2018",
+  "approx_score": null
+ },
+ {
+  "name": "Schoning Jeffrey R DDS",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "schoningdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Prairie Dental Center",
+  "city": "Sioux Falls",
+  "state": "SD",
+  "url": "prairiedentalcenter.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Peterson Dental Associates, P.A",
+  "city": "Saint Cloud",
+  "state": "MN",
+  "url": "petersondentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Richfield Orthodontic Associates",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "richfieldortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Sea Of Smiles Pediatric Dentistry",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "seaofsmilesdds.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Shoal Creek Pediatric Dentistry",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "shoalcreeksmiles.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Schaumburg Family Dental Clinic DDS",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "schaumburgsmile.net",
+  "verdict": "POSSIBLE-OLD-SITE ©2016",
+  "approx_score": null
+ },
+ {
+  "name": "Sanders Family Dental",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "sandersfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "McIntosh Debra DMD",
+  "city": "Mason",
+  "state": "OH",
+  "url": "showmeyourteeth.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Sloop Dental",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "sloopdentalco.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "SmileCentric",
+  "city": "Carmel",
+  "state": "IN",
+  "url": "smilecentric.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Signature Smile Family Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "signaturesmilefamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Signature Smiles Dental Care",
+  "city": "Oak Park",
+  "state": "IL",
+  "url": "signaturesmilesdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Larry H Stone Dds",
+  "city": "Lansing",
+  "state": "MI",
+  "url": "smilebystone.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Clinic, SC",
+  "city": "Manitowoc",
+  "state": "WI",
+  "url": "smileclinicsc.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Dental Works",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "smiledentalworks.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Premier Dental",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "premiersmile.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Thomas J. Lambert, DDS",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "smilegrandrapids.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Sletten Orthopedic",
+  "city": "Stillwater",
+  "state": "MN",
+  "url": "slettenortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Downers Grove",
+  "city": "Downers Grove",
+  "state": "IL",
+  "url": "smiledownersgrove.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Shoal Valley Dental",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "shoalvalleydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Reflection Dental",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "reflectdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Schaumburg Tooth Doctor",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "schaumburgtoothdoctor.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2019 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "John G. Masak, DDS",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "smileonappleton.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Show Your Grin Dental",
+  "city": "Olathe",
+  "state": "KS",
+  "url": "showyourgrin.com",
+  "verdict": "VENDOR-FLAGGED (milestone,ptl,televox) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Eden Prairie",
+  "city": "Eden Prairie",
+  "state": "MN",
+  "url": "smileedenprairie.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Paolucci, Rudolf C, DDS",
+  "city": "Joliet",
+  "state": "IL",
+  "url": "rudypaoluccidds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Pro Studio",
+  "city": "Schaumburg",
+  "state": "IL",
+  "url": "smileprostudio.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Tamim Sifri, DDS",
+  "city": "Madison",
+  "state": "WI",
+  "url": "smartdentalmadison.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Silver Lake Family Dental",
+  "city": "Orland Park",
+  "state": "IL",
+  "url": "silverlakefamilydental1.com",
+  "verdict": "VENDOR-FLAGGED (thryv) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Cindy R Pong",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "smiles4kids.net",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Heather Skari PC",
+  "city": "Fargo",
+  "state": "ND",
+  "url": "skarifamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Joyce Family Dentistry",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "smilewi.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Pediatric Dentistry North",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "pediatricdentistrynorth.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Smilie's Pediatric Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "smiliespediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Sladky Family Dental: Jacob D. Sladky, DDS",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "sladkyfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Zone",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "smilezonedentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Hilliard",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "smilehilliard.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Midwest Periodontal & Oral",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "sonrisadental.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Martin G Williams, DDS",
+  "city": "Green Bay",
+  "state": "WI",
+  "url": "sierradentalgb.com",
+  "verdict": "VENDOR-FLAGGED (prosites) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Smiley Dental",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "smileydentaloffice.com",
+  "verdict": "POSSIBLE-OLD-SITE ©2021",
+  "approx_score": null
+ },
+ {
+  "name": "Solace Dental Group",
+  "city": "Bolingbrook",
+  "state": "IL",
+  "url": "solacedentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Spring Valley Dental Care",
+  "city": "Cedar Rapids",
+  "state": "IA",
+  "url": "springvalleydentalcare.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Sonshine Family Dental",
+  "city": "Avon",
+  "state": "IN",
+  "url": "sonshinefamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Heather L. Jones, DDS, MS",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "springviewdentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Smiley Dental Group",
+  "city": "Dublin",
+  "state": "OH",
+  "url": "smileydentalgroup.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "Awake To A Beautiful Smile",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "springfielddentist.net",
+  "verdict": "BENCH — Olson Family Dental Springfield MO; 'Since 1998' Dr. Scott Olson; TNT; footer ©2016; implants/all-on-4",
+  "approx_score": 61
+ },
+ {
+  "name": "Smiling Kids Pediatric Dentistry",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "smilingkidsnoblesville.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Scott Stanek, DDS",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "stanekfamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Staley Smiles Dental Care",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "staleysmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "William N Stathas, DDS",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "stathasdental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Southill Dental Group PA",
+  "city": "Stillwater",
+  "state": "MN",
+  "url": "southilldental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Stephens Dentistry",
+  "city": "Evanston",
+  "state": "IL",
+  "url": "stephensdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Dreamtime Dental",
+  "city": "Carmel",
+  "state": "IN",
+  "url": "springhettidentistry.com",
+  "verdict": "BENCH — Springhetti/Dreamtime Dental Carmel IN; TNT; Dawson mention; Carmel heavily mined",
+  "approx_score": 56
+ },
+ {
+  "name": "Nicholas Hein, DDS",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "springfielddentalcare.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Perpich Rose, DDS",
+  "city": "Stillwater",
+  "state": "MN",
+  "url": "stillwaterfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Southwest Dental Care Villie R Nugged DDS",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "southwestdentalclinic.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Gregory Fought, DDS, PC",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "southwestpediatricdentistry.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Aaron Wilkins DDS",
+  "city": "Greenwood",
+  "state": "IN",
+  "url": "stonescrossingdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Stephen Huber",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "stephenhuberdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles By The Lake: Richard Rhoads, Jr., DDS",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "smilesbythelake.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Stork Orthodontics",
+  "city": "West Des Moines",
+  "state": "IA",
+  "url": "storkorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Sugar Fix Dental Loft",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "sugarfixdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2025)",
+  "approx_score": null
+ },
+ {
+  "name": "Ericka Stanek DDS",
+  "city": "La Crosse",
+  "state": "WI",
+  "url": "stanekdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Driscoll J Timothy, DDS",
+  "city": "Geneva",
+  "state": "IL",
+  "url": "sunrisedentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Sunnybrook Dental Daniel",
+  "city": "Olathe",
+  "state": "KS",
+  "url": "sunnybrookdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles Ahead Family Dentistry",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "smilesaheadfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Tall Grass Dental Associates",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "tallgrassdental.net",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Summit Dental Excellence",
+  "city": "Oconomowoc",
+  "state": "WI",
+  "url": "summitdentalexcellence.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Taylorsville Family Dental",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "taylorsvillefamilydental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Swartout Dental",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "swartoutdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Tangletown Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "tangletowndental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Sweet Tooth Pediatric Dentistry & Orthodontics",
+  "city": "Overland Park",
+  "state": "KS",
+  "url": "sweettoothpdo.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Sunshine Family Dentistry",
+  "city": "Bismarck",
+  "state": "ND",
+  "url": "sunshinefamily.dentist",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Sycamore Hills Dentistry",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "sycamorehillsdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "David M Sullivan, DDS",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "thepediatricdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Hawthorn Dental-West County",
+  "city": "Chesterfield",
+  "state": "MO",
+  "url": "thedoctorsofhawthorndental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Wolf Barry E Dr",
+  "city": "Milwaukee",
+  "state": "WI",
+  "url": "thedentistsonbluemound.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "The Dentist At Village Pointe",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "thedentistsomaha.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "The Smile Line Studio",
+  "city": "Leawood",
+  "state": "KS",
+  "url": "thesmilelinestudio.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Stummer Dental",
+  "city": "Kenosha",
+  "state": "WI",
+  "url": "stummerdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Colon Dagmar DDS",
+  "city": "Evansville",
+  "state": "IN",
+  "url": "smileson1st.com",
+  "verdict": "VENDOR-FLAGGED (milestone) cy=2025 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Today's Dentistry",
+  "city": "Cedarburg",
+  "state": "WI",
+  "url": "todaysdentistry.us",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Tic Tac Tooth",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "tictactooth.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Todays Dental",
+  "city": "Plainfield",
+  "state": "IL",
+  "url": "todaysdentalofil.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "St Louis Orthodontics Group",
+  "city": "Chesterfield",
+  "state": "MO",
+  "url": "stlorthogroup.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Timbercrest Dental Center",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "timbercrest.dental",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Teverbaugh Dental",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "teverbaughdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Todd E Williams",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "toddwilliamsdds.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Team Green Dentistry",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "teamgreendentistry.com",
+  "verdict": "VENDOR-FLAGGED (practice cafe,practicecafe,ptl) cy=2026 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Constance Camman, DDS",
+  "city": "Dublin",
+  "state": "OH",
+  "url": "thedublindentist.com",
+  "verdict": "VENDOR-FLAGGED (sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Khan Ali M DDS",
+  "city": "Aurora",
+  "state": "IL",
+  "url": "tranquildentalaurora.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Tooth A N",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "toothandco.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Tiny Teeth Of Dublin: Andree-Anne Page, DMD, MS",
+  "city": "Dublin",
+  "state": "OH",
+  "url": "tinyteethofdublin.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Total Dentistry",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "totaldentistry.org",
+  "verdict": "VENDOR-FLAGGED (thryv) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Troy Metro Dental",
+  "city": "Troy",
+  "state": "MI",
+  "url": "troymetrodental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Twin Oaks Dental",
+  "city": "Minneapolis",
+  "state": "MN",
+  "url": "twinoaksdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Racine Tooth Town Dentistry For Kids",
+  "city": "Racine",
+  "state": "WI",
+  "url": "toothtownsbd.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Seaman Family Dentistry PA",
+  "city": "Lenexa",
+  "state": "KS",
+  "url": "seamanfamilydentistrylenexa.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Trinity Dental",
+  "city": "Geneva",
+  "state": "IL",
+  "url": "trinitydental.org",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Urban Smiles Dental",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "urbansmileschicago.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Urbandale Smiles",
+  "city": "Urbandale",
+  "state": "IA",
+  "url": "urbandalesmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Bell, Shawn J DDS",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "tpdentistry.com",
+  "verdict": "VENDOR-FLAGGED (imagen,sesame) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Vanicek Mark L PC",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "vanicekdds.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Trimark Dental Clinic",
+  "city": "Janesville",
+  "state": "WI",
+  "url": "trimarkdental.com",
+  "verdict": "VENDOR-FLAGGED (milestone,televox) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Valley Dental-Vly Dental Sleep",
+  "city": "Fargo",
+  "state": "ND",
+  "url": "valleydentalfargo.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Van Haren Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "vanharendentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Twin Cities Modern Dentistry",
+  "city": "Burnsville",
+  "state": "MN",
+  "url": "twincitiesmoderndentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Turner & Turner Family Dentistry",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "turnerfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Hooper Dentistry",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "ua5pointsdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Utterback Dental Group",
+  "city": "Canton",
+  "state": "OH",
+  "url": "utterbackdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Panagopoulos, Megan J DDS",
+  "city": "Waukesha",
+  "state": "WI",
+  "url": "vistafamilydentistrywi.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Velez Dental Group",
+  "city": "Avon",
+  "state": "IN",
+  "url": "velezdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2023)",
+  "approx_score": null
+ },
+ {
+  "name": "Wallace Group Dentistry",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "wallacegroupdentistry.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Children's Dentistry Of South Omaha",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "southomahachildrensdentist.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Walker Dentistry PC",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "walkerdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Walton Family, Cosmetic & Implant Dentistry",
+  "city": "Greenwood",
+  "state": "IN",
+  "url": "waltondental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Orthodontics By The Lake",
+  "city": "Evanston",
+  "state": "IL",
+  "url": "walvoordortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Vita Dental",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "vita-dental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "We Smile Dental",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "wesmiledental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Waldo Dental Care",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "waldodentalcare.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Voyles Family Dental",
+  "city": "Hilliard",
+  "state": "OH",
+  "url": "voylesfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Westar Dental",
+  "city": "Westerville",
+  "state": "OH",
+  "url": "westardental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "VIP Dental Lounge",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "vipdentallounge.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Todd R Eder, DDS",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "smilesbytodd.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Walnut Creek Family Dentistry",
+  "city": "West Des Moines",
+  "state": "IA",
+  "url": "walnutcreekfamilydentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Vayda & McMahon Orthodontics",
+  "city": "Eden Prairie",
+  "state": "MN",
+  "url": "vmortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Matthew Zander M, DDS",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "westenddental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 202)",
+  "approx_score": null
+ },
+ {
+  "name": "Willow Ridge Dental Group",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "willowridgedental.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "West 38th Dental",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "west38thdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "West Village Dental",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "westvillagedentalil.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "West Lakes Family Dentistry",
+  "city": "West Des Moines",
+  "state": "IA",
+  "url": "westlakesfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Wisconsin Smiles",
+  "city": "Racine",
+  "state": "WI",
+  "url": "wisconsinsmilesdental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Winning Smile Dental Group",
+  "city": "Evanston",
+  "state": "IL",
+  "url": "winningsmiledentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Woodmeadow Dentistry",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "woodmeadowdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Washington Street Dentistry",
+  "city": "Indianapolis",
+  "state": "IN",
+  "url": "washingtonstreetdentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Whitten Dentistry & Spa",
+  "city": "Omaha",
+  "state": "NE",
+  "url": "whittendentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Wilmington Family Dental",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "wilmingtonfamilydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Wildwood Family & Cosmetic Dentistry",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "wildwoodfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Maple Park Dental Care Of Naperville",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "yournapervillefamilydentist.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Bellem",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "yourplazadentist.com",
+  "verdict": "UNSCREENED — bot-walled/stub (HTTP 403)",
+  "approx_score": null
+ },
+ {
+  "name": "Salaita Orthodontics",
+  "city": "Westerville",
+  "state": "OH",
+  "url": "westervillebraces.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Martin D Killeen, DDS",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "wildernessstation.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "West Gate Dental",
+  "city": "Lincoln",
+  "state": "NE",
+  "url": "westgatedentallincoln.com",
+  "verdict": "VENDOR-FLAGGED (milestone,televox) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Kirlough Family Dental",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "yoursmileman.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=2025 — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Yenzer Family Dental",
+  "city": "Chesterfield",
+  "state": "MO",
+  "url": "yenzerdental.com",
+  "verdict": "BENCH — Yenzer Family Dental Chesterfield MO; opened own office June 2014 (<20 yrs); TNT; All-on-4",
+  "approx_score": 55
+ },
+ {
+  "name": "Advanced Orthodontics",
+  "city": "Canton",
+  "state": "MI",
+  "url": "theadvancedortho.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Zumbro Family Dental",
+  "city": "Rochester",
+  "state": "MN",
+  "url": "zumbrofamilydental.com",
+  "verdict": "VENDOR-FLAGGED (tnt dental,tntdental) cy=n/a — see profile/candidate table",
+  "approx_score": null
+ },
+ {
+  "name": "Valley Dental Care",
+  "city": "Aurora",
+  "state": "IL",
+  "url": "yourvalleydental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Richard T Streem, DDS",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "wholelifedentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Zach Frazier Orthodontics",
+  "city": "Downers Grove",
+  "state": "IL",
+  "url": "zachfrazierorthodontics.com",
+  "verdict": "REJECT — pediatric/ortho/specialty (out of ICP)",
+  "approx_score": null
+ },
+ {
+  "name": "Zona Rosa Dental",
+  "city": "Kansas City",
+  "state": "MO",
+  "url": "zonarosadental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Szmanda Dental",
+  "city": "Wausau",
+  "state": "WI",
+  "url": "szmandadentalribmountain.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "Smile More Dental",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "smilemoredental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Patel Mahesh, DDS",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "yourfamilysmiles.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Michigan Dental Wellness Center",
+  "city": "Grand Blanc",
+  "state": "MI",
+  "url": "michigandentalwellness.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Ponderosa Smiles",
+  "city": "Rapid City",
+  "state": "SD",
+  "url": "ponderosasmiles.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "St Paul Family & Implant",
+  "city": "Saint Paul",
+  "state": "MN",
+  "url": "stpaulfamilydentistry.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=n/a)",
+  "approx_score": null
+ },
+ {
+  "name": "York Dental",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "york-dental.com",
+  "verdict": "REJECT — modern/no defect detected in screen (cy=2026)",
+  "approx_score": null
+ },
+ {
+  "name": "Southwest Dental Group",
+  "city": "Racine",
+  "state": "WI",
+  "url": "sw-dental.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "Toledo Dental Arts",
+  "city": "Toledo",
+  "state": "OH",
+  "url": "toledodentist.com",
+  "verdict": "UNSCREENED — unreachable (HTTP 000)",
+  "approx_score": null
+ },
+ {
+  "name": "smilefarmingtonhills.com",
+  "city": "",
+  "state": "",
+  "url": "smilefarmingtonhills.com",
+  "verdict": "BENCH — Smile Farmington Hills (Drs Sorial & Steiner), MI; ProSites ©2019 mojibake, thin content; est. UNKNOWN",
+  "approx_score": 58
+ },
+ {
+  "name": "coccosmile.com",
+  "city": "",
+  "state": "",
+  "url": "coccosmile.com",
+  "verdict": "BENCH — Dina Cocco DDS Ann Arbor MI; TNT; est. UNKNOWN; solo",
+  "approx_score": 54
+ },
+ {
+  "name": "fortwaynecosmeticdentist.com",
+  "city": "",
+  "state": "",
+  "url": "fortwaynecosmeticdentist.com",
+  "verdict": "BENCH — Ellinwood Dental Care Fort Wayne IN; ProSites ©2019; 2 docs; est. UNKNOWN",
+  "approx_score": 54
+ },
+ {
+  "name": "brownsburgdentalgroup.com",
+  "city": "",
+  "state": "",
+  "url": "brownsburgdentalgroup.com",
+  "verdict": "BENCH — Brownsburg Dental Group (Jessica Miller DDS, JCM Dental LLC), IN; ProSites ©2019; 3rd-gen owner, young",
+  "approx_score": 52
+ },
+ {
+  "name": "Comfort Care Family Dental",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "comfortcaredentists.com",
+  "verdict": "REJECT-so-far — WP 6.0 dentalia2 theme, reasonably modern; low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Naperville Dental Group",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "napervilledentalgroup.com",
+  "verdict": "bot-walled (CF 403) — unscreened, low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Weyandt",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "drweyandt.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "AFDC Naperville",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "afdc-naperville.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Libertyville Dental Associates (Dr. Alan Weisz, 48 yrs)",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "libertyvilledental.com",
+  "verdict": "bot-walled/JS loader — check via WebFetch",
+  "approx_score": null
+ },
+ {
+  "name": "Biasiello Dentistry",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "biasiellodentistry.com",
+  "verdict": "bot-walled — check via WebFetch",
+  "approx_score": null
+ },
+ {
+  "name": "Lake County Family Dental Care (Potts)",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "libertyvilledentist.com",
+  "verdict": "JS loader — check",
+  "approx_score": null
+ },
+ {
+  "name": "Gladiola Dental Care",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "libertyvilledentistry.com",
+  "verdict": "POSSIBLE — ©2022 frozen footer; need check for age/reviews",
+  "approx_score": null
+ },
+ {
+  "name": "Scharfenberg Dental",
+  "city": "Elmhurst",
+  "state": "IL",
+  "url": "elmhurstdentists.com",
+  "verdict": "REJECT — ©2026 custom WP theme, current",
+  "approx_score": null
+ },
+ {
+  "name": "Aiello Dental",
+  "city": "Elmhurst",
+  "state": "IL",
+  "url": "aiellodentist.com",
+  "verdict": "REJECT — likely multi-location, modern",
+  "approx_score": null
+ },
+ {
+  "name": "Fornatto DDS",
+  "city": "Elmhurst",
+  "state": "IL",
+  "url": "drfornatto.com",
+  "verdict": "REJECT — BeaverBuilder, ©2026, modern",
+  "approx_score": null
+ },
+ {
+  "name": "Elmhurst Family Dental Care",
+  "city": "Elmhurst",
+  "state": "IL",
+  "url": "elmhurstfamilydentalcare.net",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Aesthetic Dentistry of Frankfort",
+  "city": "Frankfort",
+  "state": "IL",
+  "url": "aestheticdentistryoffrankfort.com",
+  "verdict": "REJECT — redirects to smilesbydesign/smilesbyad.com (group, dentalmarketing)",
+  "approx_score": null
+ },
+ {
+  "name": "Lori Woodburn DDS",
+  "city": "Frankfort",
+  "state": "IL",
+  "url": "lwdental.com",
+  "verdict": "JS loader — check",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Boutique",
+  "city": "Frankfort",
+  "state": "IL",
+  "url": "dentalboutique.us",
+  "verdict": "REJECT — custom WP theme ©2024",
+  "approx_score": null
+ },
+ {
+  "name": "Frankfort Implant Dentistry",
+  "city": "Frankfort",
+  "state": "IL",
+  "url": "frankfortimplantdentistry.com",
+  "verdict": "JS loader — check",
+  "approx_score": null
+ },
+ {
+  "name": "Chicago Aesthetic Dentistry",
+  "city": "Lakeview",
+  "state": "IL",
+  "url": "chicagoaestheticdentistry.com",
+  "verdict": "REJECT — modern Squarespace ©2025",
+  "approx_score": null
+ },
+ {
+  "name": "Lincoln Dental Group",
+  "city": "Chicago",
+  "state": "IL",
+  "url": "lincolnavedentalgroup.com",
+  "verdict": "REJECT — Wix, Marquee/mb2 strings in HTML (possible DSO)",
+  "approx_score": null
+ },
+ {
+  "name": "Halsted Street Dental",
+  "city": "Lincoln Park",
+  "state": "IL",
+  "url": "halstedstreetdental.com",
+  "verdict": "REJECT — modern",
+  "approx_score": null
+ },
+ {
+  "name": "Libertyville Dental Associates",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "libertyvilledental.com",
+  "verdict": "REJECT — Ekwa \"Powered by\", ©2026, 7 docs, modern",
+  "approx_score": null
+ },
+ {
+  "name": "Gladiola Dental Care",
+  "city": "Libertyville",
+  "state": "IL",
+  "url": "libertyvilledentistry.com",
+  "verdict": "REJECT — Wonderist Agency modern, ~est. unknown, young solo",
+  "approx_score": null
+ },
+ {
+  "name": "Parkview Dental Associates",
+  "city": "Sun Prairie",
+  "state": "WI",
+  "url": "parkviewdentalwi.com",
+  "verdict": "REJECT — Divi ©2026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Eastpark Dental (Karl Weaver)",
+  "city": "Madison",
+  "state": "WI",
+  "url": "eastparkdental.com",
+  "verdict": "REJECT — modern",
+  "approx_score": null
+ },
+ {
+  "name": "Door Creek Dental",
+  "city": "Madison",
+  "state": "WI",
+  "url": "doorcreekdental.com",
+  "verdict": "REJECT — Divi, current SEO vendor",
+  "approx_score": null
+ },
+ {
+  "name": "Weimar Family & Implant Dentistry",
+  "city": "Maple Grove",
+  "state": "MN",
+  "url": "weimardds.com",
+  "verdict": "POSSIBLE — est.1984, Ekwa theme, WP 7.1, ©2026; likely modern -> low",
+  "approx_score": null
+ },
+ {
+  "name": "Cummings Dentistry",
+  "city": "Lee's Summit",
+  "state": "MO",
+  "url": "cummingsdentistry.com",
+  "verdict": "REJECT — owner retired / bot-walled",
+  "approx_score": null
+ },
+ {
+  "name": "Mill Creek Dental",
+  "city": "Lee's Summit",
+  "state": "MO",
+  "url": "millcreekdentalkc.com",
+  "verdict": "REJECT — dental-visions theme, modern, 2 locations",
+  "approx_score": null
+ },
+ {
+  "name": "Summit Smile / Tim O'Bryan / Luff / Marengo",
+  "city": "Lee's Summit/Olathe",
+  "state": "",
+  "url": "various",
+  "verdict": "bot-walled/dead — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Kristen Schreiner DDS",
+  "city": "Lee's Summit",
+  "state": "MO",
+  "url": "kristenschreinerdds.com",
+  "verdict": "JS loader — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Oral Health Associates",
+  "city": "Green Bay",
+  "state": "WI",
+  "url": "ohadental.com",
+  "verdict": "REJECT — custom theme ©2026",
+  "approx_score": null
+ },
+ {
+  "name": "First Impression Dental",
+  "city": "Green Bay",
+  "state": "WI",
+  "url": "greenbay-familydentist.com",
+  "verdict": "REJECT — webfitters WP 6.8 modern",
+  "approx_score": null
+ },
+ {
+  "name": "GB Family Dentistry",
+  "city": "Green Bay",
+  "state": "WI",
+  "url": "gbfamilydentistry.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Designs Green Bay",
+  "city": "Green Bay",
+  "state": "WI",
+  "url": "greenbaydental.com",
+  "verdict": "REJECT — Avada modern",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Arts of Green Bay",
+  "city": "Green Bay",
+  "state": "WI",
+  "url": "dentalartsofgreenbay.com",
+  "verdict": "REJECT — kadence ©2026",
+  "approx_score": null
+ },
+ {
+  "name": "North Appleton Dentistry",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "northappletondentistry.com",
+  "verdict": "POSSIBLE — Sesame 24-7 footprint; full-mouth recon offered",
+  "approx_score": null
+ },
+ {
+  "name": "Grand View Family & Cosmetic",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "grandviewfamilydentistry.com",
+  "verdict": "REJECT — DentalQore/charlie theme ©2026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "McKinnon Dental / RLJ Dental / Appleton Family Dentistry",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "various",
+  "verdict": "unreachable/dead — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Stillwater Family Dental",
+  "city": "Stillwater",
+  "state": "MN",
+  "url": "stillwaterfamilydental.com",
+  "verdict": "REJECT — modern ©2026",
+  "approx_score": null
+ },
+ {
+  "name": "Southill Dental Group",
+  "city": "Stillwater",
+  "state": "MN",
+  "url": "southilldental.com",
+  "verdict": "REJECT — DentalCMO-Badger theme, modern",
+  "approx_score": null
+ },
+ {
+  "name": "Platt Dentistry",
+  "city": "Lakeville",
+  "state": "MN",
+  "url": "plattdentistry.com",
+  "verdict": "REJECT — Great Dental Websites but practice est. 2007 (<20 yrs), solo",
+  "approx_score": null
+ },
+ {
+  "name": "Lakeville Dental Associates",
+  "city": "Lakeville",
+  "state": "MN",
+  "url": "lakevilledental.com",
+  "verdict": "REJECT — mydivi modern",
+  "approx_score": null
+ },
+ {
+  "name": "Pierce & Knight Family Dentistry",
+  "city": "Lenexa/Olathe",
+  "state": "KS",
+  "url": "lenexadentist.com",
+  "verdict": "REJECT — modern ©2026",
+  "approx_score": null
+ },
+ {
+  "name": "Phye Family Dentistry",
+  "city": "Olathe",
+  "state": "KS",
+  "url": "phyefamilydentistry.com",
+  "verdict": "unscreened (HTTP 202 to curl) — check",
+  "approx_score": null
+ },
+ {
+  "name": "Deldar & Kay Dental",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "deldardental.com",
+  "verdict": "POSSIBLE — tiny 18KB page; screen deeper",
+  "approx_score": null
+ },
+ {
+  "name": "Noblesville Family Dentistry",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "noblesvillefamilydentistry.com",
+  "verdict": "REJECT — acquired by Grin Dentistry (DSO)",
+  "approx_score": null
+ },
+ {
+  "name": "Noblesville Dental Associates",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "noblesvilledds.com",
+  "verdict": "PENDING — ©2026, check",
+  "approx_score": null
+ },
+ {
+  "name": "Potee Family Dentistry",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "noblesvilledentist.net",
+  "verdict": "REJECT — Wix young practice",
+  "approx_score": null
+ },
+ {
+  "name": "Chad Bailey DDS",
+  "city": "Noblesville",
+  "state": "IN",
+  "url": "drchadbailey.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Premier Dental Center (Nazarian)",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "premierdentalcenter.com",
+  "verdict": "JS loader — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "North Oaks Dental",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "northoaksdental.com",
+  "verdict": "403 — unscreened (multi-location)",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dentistry Royal Oak (Silber)",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "familydentistryroyaloak.com",
+  "verdict": "REJECT — Divi ©2026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Royal Oak Smiles",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "royaloaksmiles.com",
+  "verdict": "REJECT — modern",
+  "approx_score": null
+ },
+ {
+  "name": "Serenity Family Dentistry",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "serenityfamilydentist.com",
+  "verdict": "REJECT-low — Squarespace ©2023, young?",
+  "approx_score": null
+ },
+ {
+  "name": "Parkview Dental MI",
+  "city": "Royal Oak",
+  "state": "MI",
+  "url": "parkviewdentalmi.com",
+  "verdict": "REJECT — chrisad/uncode ©2026",
+  "approx_score": null
+ },
+ {
+  "name": "Roman Shlafer DDS",
+  "city": "Farmington Hills",
+  "state": "MI",
+  "url": "romanshlaferdds.com",
+  "verdict": "REJECT — Leilani WPBakery ©2026 (est 1987) modern-ish",
+  "approx_score": null
+ },
+ {
+  "name": "Pearl Dental PC",
+  "city": "Farmington Hills",
+  "state": "MI",
+  "url": "pearldentalpc.com",
+  "verdict": "REJECT — Avada modern",
+  "approx_score": null
+ },
+ {
+  "name": "Krawiec Dentistry",
+  "city": "Detroit",
+  "state": "MI",
+  "url": "krawiecdentistry.com",
+  "verdict": "REJECT — Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Farmington Hills (Drs Sorial, Steiner)",
+  "city": "Farmington Hills",
+  "state": "MI",
+  "url": "smilefarmingtonhills.com",
+  "verdict": "POSSIBLE — ProSites \"Copyright � 2019 Prosites, Inc.\" mojibake footer; screen deeper",
+  "approx_score": null
+ },
+ {
+  "name": "AH Dentistry",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "ahdentistry.com",
+  "verdict": "REJECT — Elementor ©2026",
+  "approx_score": null
+ },
+ {
+  "name": "Dina Cocco DDS",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "coccosmile.com",
+  "verdict": "POSSIBLE — TNT Dental footprint; solo; screen deeper",
+  "approx_score": null
+ },
+ {
+  "name": "Michigan Esthetic Dental / Ann Arbor Implant Center",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "annarborimplant.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Comfort Smiles Family Dentistry",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "comfortsmilesannarbor.com",
+  "verdict": "unscreened (28KB shell)",
+  "approx_score": null
+ },
+ {
+  "name": "Ann Arbor Family Dentistry",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "annarborfamilydentistry.net",
+  "verdict": "dead domain (redirect to junk)",
+  "approx_score": null
+ },
+ {
+  "name": "Stadium Family Dentistry",
+  "city": "Ann Arbor",
+  "state": "MI",
+  "url": "stadiumfamilydentistryannarbor.com",
+  "verdict": "REJECT — modern ©2026",
+  "approx_score": null
+ },
+ {
+  "name": "Miller Dental",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "jmillerdental.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Hernly Family & Cosmetic",
+  "city": "Forest Hills",
+  "state": "MI",
+  "url": "grandrapidssmiles.com",
+  "verdict": "HTTP 202 — unscreened (EXCLUDED? \"Grand Ridge Family Dentistry gr8smiles.net\" is different; check name)",
+  "approx_score": null
+ },
+ {
+  "name": "Nichols Family Dentistry",
+  "city": "Ada",
+  "state": "MI",
+  "url": "michaelnicholsdds.com",
+  "verdict": "REJECT — Elementor/Patient NEWS modern",
+  "approx_score": null
+ },
+ {
+  "name": "Forest Hills Family Dental",
+  "city": "Grand Rapids/Cascade",
+  "state": "MI",
+  "url": "foresthillsfamilydental.com",
+  "verdict": "POSSIBLE — Weebly-era 33KB page; screen deeper",
+  "approx_score": null
+ },
+ {
+  "name": "Bander Dental Group",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "banderdentalgroup.com",
+  "verdict": "JS loader — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "NorthPointe Family Dental",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "northpointefamilydental.com",
+  "verdict": "REJECT — .php but ©2026; check maybe later",
+  "approx_score": null
+ },
+ {
+  "name": "Great Lakes Dental Care",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "greatlakesdentalcare.com",
+  "verdict": "JS loader — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Indiana Family Dentistry (Will Hine)",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "infamilydentistry.com",
+  "verdict": "POSSIBLE — Thryv footprint; ~25 yrs; screen deeper",
+  "approx_score": null
+ },
+ {
+  "name": "Gentle Family Dental Care / Brownsburg Dental Group",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "brownsburgdentalgroup.com",
+  "verdict": "POSSIBLE — ProSites \"Copyright � 2019 Prosites\"; screen deeper",
+  "approx_score": null
+ },
+ {
+  "name": "Brownsburg Family Dentistry (Molin)",
+  "city": "Brownsburg",
+  "state": "IN",
+  "url": "brownsburgfamilydentistry.com",
+  "verdict": "unscreened (redirect stub)",
+  "approx_score": null
+ },
+ {
+  "name": "Fort Wayne Family Dental (Briscoe)",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "fortwaynefamilydental.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Sycamore Hills Dentistry",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "sycamorehillsdentistry.com",
+  "verdict": "REJECT — dentalmarketing modern",
+  "approx_score": null
+ },
+ {
+  "name": "Blair Dental",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "blairdental.com",
+  "verdict": "REJECT — Divi ©2026",
+  "approx_score": null
+ },
+ {
+  "name": "Fort Wayne Dental Implants & Aesthetics",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "fortwaynedentalimplantsandaesthetics.com",
+  "verdict": "REJECT — Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Ellinwood Dental Care",
+  "city": "Fort Wayne",
+  "state": "IN",
+  "url": "fortwaynecosmeticdentist.com",
+  "verdict": "POSSIBLE — ProSites \"Copyright � 2019 Prosites, Inc.\"; screen deeper",
+  "approx_score": null
+ },
+ {
+  "name": "Sedation & Implant Dentistry (Painter)",
+  "city": "Fort Wayne/Auburn",
+  "state": "IN",
+  "url": "auburnfamilydentistry.com",
+  "verdict": "REJECT-low — ©2026 (check later)",
+  "approx_score": null
+ },
+ {
+  "name": "Beaver Creek Dentist (Vitullo)",
+  "city": "Beavercreek",
+  "state": "OH",
+  "url": "beavercreekteeth.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Beavercreek Dental Group",
+  "city": "Beavercreek",
+  "state": "OH",
+  "url": "smilebdg.com",
+  "verdict": "bot-walled — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Gamber Family Dental",
+  "city": "Dayton",
+  "state": "OH",
+  "url": "gamberfamilydental.com",
+  "verdict": "REJECT — Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Dental & Cosmetic Solutions (Csok)",
+  "city": "Pepper Pike",
+  "state": "OH",
+  "url": "dentalcosmeticsolution.com",
+  "verdict": "JS loader — check",
+  "approx_score": null
+ },
+ {
+  "name": "Elite Dentistry Center",
+  "city": "Beachwood",
+  "state": "OH",
+  "url": "elitedentistrycenter.com",
+  "verdict": "REJECT — Squarespace ©2026, est 2010",
+  "approx_score": null
+ },
+ {
+  "name": "ClevelandSmiles (Steve Marsh)",
+  "city": "Cleveland",
+  "state": "OH",
+  "url": "clevelandsmiles.com",
+  "verdict": "site unreachable — unscreened",
+  "approx_score": null
+ },
+ {
+  "name": "Carpe Diem Dental Spa",
+  "city": "Solon",
+  "state": "OH",
+  "url": "carpediemdentalspa.com",
+  "verdict": "REJECT — Squarespace modern",
+  "approx_score": null
+ },
+ {
+  "name": "Beachwood Dental",
+  "city": "Beachwood",
+  "state": "OH",
+  "url": "beachwooddental.com",
+  "verdict": "unscreened (202)",
+  "approx_score": null
+ }
+]
