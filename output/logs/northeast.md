@@ -35,3 +35,134 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Bay Ridge Dental Arts | Bay Ridge, NY | brdentalarts.com | REJECT — Squarespace, young practice
 - B. Souferian DDS | Bay Ridge, NY | bayridgedentist.com | pending — IONOS MyWebsite tiny site; check credentials/reviews
 - Trachuk DDS | Bay Ridge, NY | trachukdds.net | REJECT — Wix, young solo
+- Queens Comprehensive Dental | Forest Hills, NY | foresthillsdds.com | pending (tiny page)
+- Harrison Avenue Dental Associates | Mamaroneck/Harrison, NY | harrisonavenuedentalassociates.com | REJECT — modern vendor site
+- Westchester Dental Care | New Rochelle, NY | westchester-dentalcare.com | bot-walled; low priority
+- Cosmetic Dentistry of Westchester (Mayers AAACD) | White Plains, NY | cosmeticdentistrywestchester.com | pending — Dentalfone WP; check design
+- Purchase Street Family Dental | Rye, NY | ryedentist.com | pending — WP twentythirteen theme ©2024
+- Gentle Touch Dentistry | Harrison, NY | gtdentistry.com | REJECT — Elementor 2026 modern
+- Fairfield Cosmetic Dentistry (Donald Miller) | Fairfield, CT | fairfieldcosmeticdentistry.com | pending — Dentalfone ©2013-2026, 4 decades; check design
+- Worthington Advanced Dentistry | Fairfield, CT | drworthington.com | REJECT — modern vendor ©2026
+- Perfect Smiles of Fairfield | Fairfield, CT | perfectsmilesoffairfield.com | REJECT — modern
+- Evergreen Family Dental Group | Fairfield/Southbury, CT | evergreenfamilydentalgroup.com | REJECT — Drupal 7 small but young/multi-loc; low
+- Fairfield County Implants & Periodontics (Sonick) | Fairfield, CT | sonickdmd.com | REJECT — perio referral practice / Specialty1 Partners DSO
+- Cosmetic & Implant Dentistry of CT (Gross) | Hamden, CT | cidct.com | REJECT — Einstein modern ©2026, multi-loc
+- New Haven Dental Group | New Haven/Hamden, CT | newhavendental.com | REJECT — DSO: 42 North Dental
+- Cranston Cosmetic Dentistry (Lakhkar) | Cranston, RI | cranstoncosmeticdentistry.com | bot-walled; low priority
+- Hodosh Cosmetic & Implant Dentistry | Providence, RI | hodosh.com | REJECT — dentalcarealliance footprint / DSO suspect, modern
+- Dr. Matrullo & Associates | Cranston, RI | rismile.com | REJECT — DoctorLogic modern ©2026
+- Todd Shatkin DDS | Buffalo/Amherst, NY | toddshatkindds.com | REJECT — modern flatsome ©2026 / DentalMarketing agency
+- East Amherst Dental Center | Amherst, NY | eastamherstdentalcenter.com | REJECT — modern ©2026
+- William Faricellie III DMD | Amherst, NY | wjfiiidmd.com | bot-walled ("One moment"); pending
+- Souferian DDS | Bay Ridge, NY | bayridgedentist.com | BENCH-LOW — IONOS MyWebsite w/ leftover "Jamaica Family Dental Care" text, but insurance/affordable positioning (low FC)
+- Rubinstein & Ducoff | Providence, RI | drsrubinsteinandducoff.com | EXCLUDED — prior round
+- Aesthetic Dentistry of Fairfield | Fairfield, CT | adfct.com | EXCLUDED — prior round
+- Delmar Dental Medicine (Thomas Abele DMD, FAGD) | Delmar, NY | delmardental.com | CANDIDATE HOT — since 1969, 22KB .htm-era site, "Copyright © Delmar Dental Medicine 2016", "Website Design by WebDesign", implants 30+ yrs, sedation, on-site lab; verify doctors/reviews
+- Lyndon Family Dental | Fayetteville, NY | lyndonfamilydental.com | CANDIDATE — TNT Dental; homepage still shows COVID "Office Open for Emergencies Only ... Governor Cuomo's Executive Order 202.8" banner; verify est/doctors/reviews
+- Main Street Family Dentistry (Coakley/Burns) | Montpelier, VT | mainstreetfamilydentistryvt.com | CANDIDATE — ProSites "Copyright � 2019 Prosites, Inc." mojibake; 2 docs; Victorian office; verify
+- Levesque Family Dentistry | Nashua, NH | levesquedentistry.com | CANDIDATE-MID — 80+ yrs, 4 docs (Dental Revenue site, no ©); moderate site; verify
+- Anthony Grasso DDS | Syracuse, NY | syracusenydentist.com | REJECT — SilverStripe ©2026 
+- Shoppingtown Dental Services | DeWitt, NY | shoppingtowndentalservices.com | REJECT — modern vendor ©2026
+- Manlius Dental Group | Manlius, NY | manliusdentist.com | REJECT — Elementor modern
+- Albany Dental | Albany, NY | albanydental.com | REJECT — emergency/denture positioning, ©2004-2026 template
+- Bausback & McGarry | Albany area, NY | bausbackmcgarry.com | pending (202 response) 
+- Portland Dental Health Care & Implant Center (Davis) | Portland, ME | portlandmainedental.com | bot-walled; pending WebFetch
+- Make ME Smile (Russo) | Yarmouth, ME | makemesmileyarmouth.com | bot-walled; pending
+- Nashua Cosmetic & Restorative Dentistry (Smith/Whitcomb) | Nashua, NH | nashuadentistry.com | bot-walled loader; pending
+- Nashua Dentist (6 Concord St) | Nashua, NH | nashuadentist.com | REJECT — Wix; check small
+- Dental Arts of Exeter | Exeter, NH | dentalartsofexeter.com | REJECT — ©2026 current
+- Caring Family Dentistry | Concord, NH | caringfamilydentistry.com | REJECT — modern
+- Herbert Dental | Montpelier, VT | drherbertdental.com | bot-walled; low
+- Woodstock Dentistry (Knott) | Woodstock, VT | woodstockdentistry.com | REJECT — Squarespace ©2026 (recent)
+- Champlain Smile Solutions | S. Burlington, VT | champlainsmilesolutions.com | REJECT — Ekwa modern
+- Catamount Family Dental | S. Burlington, VT | catamountfamilydental.com | EXCLUDED — prior round (also MB2 footprint)
+- Willard Street Dental | Burlington, VT | willardstreetdental.com | EXCLUDED — prior round
+- Midland Family Dental Care (Puccio) | Wyckoff/Garfield, NJ | midlandfamilydental.com | REJECT — Dentalfone but modern ©2013-2026 LayerSlider; multi-loc
+- Dadaian Dental | Cresskill/Franklin Lakes, NJ | dadaiandental.com | REJECT — WPBakery ©2026 modern
+- Laura Randolph DMD | Mahwah, NJ | drlaurarandolph.com | CANDIDATE — ProSites "Copyright � 2019 Prosites, Inc."; verify est/reviews/solo
+- Hawthorne Dental Associates | Hawthorne, NJ | hawthornedentalnj.com | pending — small site 47KB
+- Sandor Family Dentistry | Freehold, NJ | sandorfamilydentistry.com | REJECT — Doctor Genius refreshed ©2026
+- Molee DMD | Freehold, NJ | drmolee.com | bot-walled; low
+- Faktor DMD | Manalapan, NJ | faktordmd.com | unreachable; low
+- Chatham Dental | Chatham, NJ | chatham-dental.com | bot-walled; pending WebFetch
+- Dentistry of Mendham | Mendham, NJ | dentistryofmendham.com | REJECT — Dentalfone X-pro modern ©2026
+- Dayna Cassandra & Associates | Paramus, NJ | cosmeticdentistofparamus.com | REJECT — Growthstack modern; practice est 2006
+- Christensen Dental Associates | Waldwick, NJ | cdanj.com | CANDIDATE — ProSites "Copyright � 2019 Prosites, Inc."; verify est/doctors/reviews
+- Malki Dental | River Edge, NJ | malkidental.com | REJECT — Einstein ©2026 refreshed
+- Flemington Dentistry (Adams) | Flemington, NJ | flemingtondentistry.com | bot-walled; low
+- O'Conner Family Dental | Flemington, NJ | oconerfamilydental.com | bot-walled; low
+- Clinton Center Dental | Clinton, NJ | clintoncenterdental.com | REJECT — modern WP ©2026
+- Steven DeCasperis DMD (Dazzling Smiles) | Lebanon, NJ | dazzlingsmilesnj.com | CANDIDATE — Sesame 24-7 footprint; IDIA diplomate, laser; verify
+- Bridgewater Family Dental | Bridgewater, NJ | mybridgewaterdentist.com | pending (202)
+- Bedminster Dental | Bedminster/Bernardsville, NJ | bedminsterdental.com | REJECT — Duda modern, multi-loc
+- Gittleman Dental | Morristown, NJ | gittlemandental.com | EXCLUDED — prior round
+- Kurpis / West Ridgewood Dental Professionals | Ridgewood, NJ | — | EXCLUDED — prior round
+- Lexington Dental Care (Freedman) | Lexington, MA | lexingtondentalcare.net | pending — WP vendor, 30 yrs; check design
+- Keith Asarkof DMD & Associates | Lexington, MA | asarkof.com | bot-walled; pending
+- Belmont Dental Group | Belmont/Arlington, MA | belmontdental.com | REJECT — modern multi-location, ©2026
+- Danvers Dental Care | Danvers, MA | danversdentalcare.com | bot-walled; low
+- Dano Dental Arts (Armina Dano DMD) | South Hamilton, MA | danodentalarts.com | CANDIDATE-LOW — ProSites tiny page "Copyright � 2019 Prosites"; solo family, no cosmetic credentials; FC unverified
+- Danvers Dentistry (fmr Chestnut Green Dental Group) | Danvers, MA | danversdentistry.com | REJECT — 4-doctor group, newer rebrand, "Book Online" (possible DSO)
+- Danvers Dental Associates | Danvers, MA | danvers-dental.com | pending (202)
+- Star Smile Dental & Implant Center | Framingham, MA | starsmile.com | CANDIDATE-MID — Web.com "Copyright © 2013", 30+ yrs, oral surgery/emergency positioning; verify owner
+- Mark Fried DMD | Framingham, MA | drmarkfried.com | REJECT — modern; "Best office in town 26 yrs" but fresh site
+- Nobscot Dental Care | Framingham, MA | nobscotdentalcare.com | REJECT — Duda modern ©2025
+- Framingham Dental Group | Framingham, MA | framinghamdentalgroup.com | REJECT — TNT Dental, $149 new patient special/insurance checker positioning (low FC / possible group)
+- Lincoln Dental (Frank Voci DMD + 4) | Worcester, MA | dentistworcester.com | CANDIDATE-MID — Internet Dental Alliance ©2026 doorway template, 5 doctors, "Affordable" title; verify est
+- Shustak Dental Group | Worcester, MA | drshustak.com | bot-walled; pending
+- Worcester Cosmetic & Restorative Dentistry | Worcester, MA | worcestercrd.com | REJECT — Elementor 2026 modern
+- Taylor Street Dental | Springfield, MA | mygreatsmile.com | REJECT — DSO: 42 North pattern ("Cost of Dental Care" title, TNT)
+- EMA Dental | Northampton/E Longmeadow, MA | emadental.com | REJECT — DSO: 42 North pattern title
+- Goodman Fox Dental | Springfield, MA | goodmanfoxdental.com | bot-walled; pending
+- Pioneer Valley Dental Arts (Evans/Ziemba/Reilly) | Longmeadow, MA | pioneervalleydentalarts.com | CANDIDATE-MID — Dental Revenue site, "Copyright 2018, All Rights Reserved"; 3 docs; verify est/reviews
+- Mahshid Mirghassemi DDS | Danvers, MA | libertytreeprosthodontics.com | REJECT — Doctor Genius ©2026, est 2005
+- Smile Huntington (Epakchi) | Huntington, NY | dentist-huntington-ny.com | REJECT — modern WP theme7
+- Laurence Schwartz DDS | Huntington, NY | huntingtonnysmiles.com | bot-walled (WebFetch 403); pending
+- North Shore Prosthodontic Associates | Manhasset/Woodbury, NY | nspali.com | bot-walled loader; pending WebFetch
+- Dental Design Studio | Poughkeepsie, NY | dentaldesignstudio.net | REJECT — Duda modern
+- Hudson Valley Dental TMD | Poughkeepsie, NY | hvtmdfa.com | REJECT — Duda modern
+- Smiles of the Hudson Valley Dentistry | Poughkeepsie/Highland, NY | smileshv.com | REJECT-LOW — Hearst Media Services template, 2-loc group, "MYLOGO" placeholder text in nav; no est evidence
+- Dentists Office of the Hudson Valley (Family Dental Group) | Lake Katrine, NY | thedentistsoffice.com | REJECT — DSO: Dental Care Alliance
+- Center for Dental Excellence (Christian) | Simsbury/W Hartford/Litchfield, CT | ctcde.com | bot-walled; pending (since 1966, 5 docs, prosthodontist)
+- Harborview Dental (Chenet) | Old Saybrook, CT | harborviewdentalct.com | bot-walled; low (Chenet Dental is EXCLUDED family — likely same)
+- Friedler Dental Group | Guilford, CT | friedlerdentalgroup.com | EXCLUDED — prior round
+- RI Cosmetic Dentistry (Izzi/Mansolillo) | E Greenwich, RI | rhodeislandcosmeticdentistry.net | bot-walled; low
+- Dr. Mehran Javid | E Greenwich, RI | drjavid.com | bot-walled; low
+- Peri Mutewera DMD | Warwick, RI | drperimutewera.com | bot-walled; low
+- Thomas Vutech DDS | N Kingstown, RI | northkingstowndental.com | CANDIDATE-LOW — solo, tiny 19KB site "© 2023 By Thomas Vutech"; verify
+- NJ Smile Center (Vocaturo, AACD) | Colts Neck, NJ | njsmilecenter.com | REJECT — Wix ©2026, 1.9MB modern
+- Zen Dentist (Rioseco AACD) | White Plains, NY | zendentist.com | REJECT — modern AIOSEO ©2026
+- Bella Smiles (Lotardo) | Roslyn/Riverhead, NY | bellasmilesnow.com | REJECT — modern custom theme, multi-loc
+- Kennebec River Dentistry | Augusta, ME | kennebecriverdentistry.com | REJECT — Elementor modern
+- Kennebunk Center for Dentistry | Kennebunk, ME | kennebunkdental.com | REJECT — modern ©2026
+- Kennebunk ME Dentist (Slaughter) | Kennebunk, ME | kennebunkmedentist.com | bot-walled; low
+- Maine Family Dental (Buxton) | Bangor, ME | mainefamilydental.com | REJECT — Great Dental Websites but est. 2007, solo family
+- Nicholas Rizos DMD | Bedford, NH | drnickdmd.com | REJECT — Squarespace, est 2001
+- NH Family Dentistry | Manchester, NH | nhfamilydentist.com | REJECT — modern WP 2026
+- Portsmouth Dental | Portsmouth, NH | portsmouthdental.com | bot-walled; pending
+- Comprehensive Esthetic Restorative & Implant Dentistry (Murali Ravel DMD) | Bedford, NH | nhestheticdentistry.com | CANDIDATE — Sesame 24-7 ("Website Powered by Sesame 24-7™"), 18KB; CBCT/CEREC/laser/full-mouth reconstruction; verify est/reviews
+- Bedford Cosmetic & Restorative Dentistry (Hedstrom/Persha) | Bedford, NH | bedfordcosmeticdentistry.com | CANDIDATE — TNT Dental, "©Copyright 2016"; homepage copy says "Dr. Hedstrom" while nav says "Meet Dr. Persha" (handoff); verify
+- New England Dental Arts | Salem, NH | newengland-dentalarts.com | REJECT — Divi ©2026
+- Welsh & King Prosthodontics | Portsmouth, NH | welshandking.com | bot-walled; pending (prosthodontists)
+- Coastal Dental Associates | Portsmouth, NH | — | EXCLUDED — prior round
+- Dental Arts of Bedford | Bedford, NH | — | EXCLUDED — prior round
+- Matlach Dental | Huntington, NY | matlachdental.com | EXCLUDED — prior round
+- North Shore Dental Group / Rubenstein Dental Group / Prosthodontic Assoc of LI | Long Island, NY | — | EXCLUDED — prior round
+- Aesthetic Image Dentistry (Debra Duryea DMD) | Mendham, NJ | aestheticimagedentistry.com | CANDIDATE — ProSites "Copyright � 2019 Prosites, Inc."; solo, DMD 1990, legacy Empress/Procera/Luminneers copy; Mendham affluent; ZocDoc link
+- Saddle River Dental Care (Vitarelli) | Saddle River, NJ | vitarellidental.com | REJECT — Elementor modern
+- Gruber Dental | Parsippany, NJ | gruberdental.com | pending — Great Dental Websites footprint, 4 dentists
+- Rangel Dental | Morristown, NJ | rangeldental.com | REJECT — Dentalfone refreshed ©2026
+- Reinhard Dentistry | Whippany, NJ | reinharddentistry.com | REJECT — modern small site (though since 1918)
+- Morristown Dental Associates | Morristown, NJ | morristowndentalassociates.com | REJECT — ©2025 current
+- Dickerson Dental Group | Randolph, NJ | dickersondentalgroup.com | REJECT — BB theme ©2026 modern
+- Denville Dental Studio | Denville, NJ | denvilledentalstudio.com | bot-walled; low
+- Aesthetic Dental Innovations (Jeffrey Dornbush DMD) | Marblehead, MA | drdornbush.com / aestheticdentalinnovations.com | CANDIDATE HOT — LIVE: drdornbush.com 302 -> cPanel "Account Suspended" page; aestheticdentalinnovations.com -> parked "/lander" (114 bytes); Wayback shows WP site live Apr 2025 "COPYRIGHT 2025 Dr Dorn Bush", 25+ yrs, full-mouth reconstruction; practice email office@drdornbush.com; verify still operating
+- Marblehead Dental (Fern Selesnick DMD) | Marblehead, MA | marbleheaddental.com | CANDIDATE — Weebly site; "practicing family dentistry since 1985"; Botox/Juvederm; solo; verify reviews
+- Yvette Glina DDS (The Amazing Smile) | Marblehead, MA | dryvetteglina.com | REJECT — Wix ©2023, est unknown/solo small
+- Marblehead Toothfairy (peds/ortho) | Marblehead, MA | marbleheadtoothfairy.com | REJECT — pediatric/ortho, Wix
+- Marblehead Smile Design & Family Dental | Marblehead, MA | marbleheadsmiledesign.com | bot-walled; low
+- Whiting Dental Arts | Marblehead, MA | whitingdentalarts.com | bot-walled/captcha; low
+- Christopher Wyckoff DMD | Madison, NJ | wyckoffdmd.com | CANDIDATE-LOW — Wix "©2020 by Christopher S Wyckoff, DMD"; listed Morris County Top Dentist 2025; verify est/doctors
+- Krause Dental Care | Cranford, NJ | krausedentalcare.com | REJECT — Doctor Genius ©2026
+- Aesthetic Family Dentistry | Denville, NJ | aestheticfamilydentistry.com | REJECT — WPBakery ©2026
+- (method note) YellowPages town directories (224 NE towns) parsed for practice websites -> ~2,160 unique domains bulk-fingerprinted by script (vendor strings, © year, mojibake, http-only, DSO strings). WebSearch/Firecrawl budgets were exhausted mid-run, so discovery switched to directory pages + direct fetches.

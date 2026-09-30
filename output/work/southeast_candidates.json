@@ -1,0 +1,1234 @@
+[
+ {
+  "name": "Aventura Dental Center",
+  "city": "Aventura",
+  "state": "FL",
+  "url": "https://aventuradentalcenter.com",
+  "verdict": "REJECT \u2014 modern site \u00a92026 (est 1990 noted)",
+  "approx_score": null
+ },
+ {
+  "name": "Aventura Dental Group",
+  "city": "Aventura",
+  "state": "FL",
+  "url": "https://aventuradentalgroup.com",
+  "verdict": "REJECT \u2014 bot-walled, likely modern/corporate-looking, low priority",
+  "approx_score": null
+ },
+ {
+  "name": "Aventura Dentistry",
+  "city": "Aventura",
+  "state": "FL",
+  "url": "https://aventuradds.com",
+  "verdict": "REJECT \u2014 provisional (title normal); revisit if needed",
+  "approx_score": null
+ },
+ {
+  "name": "Sher Dental",
+  "city": "Aventura",
+  "state": "FL",
+  "url": "https://sherdental.com",
+  "verdict": "REJECT \u2014 modern WP/Elementor \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Kane Dental Aventura",
+  "city": "Aventura",
+  "state": "FL",
+  "url": "https://kanedental.com",
+  "verdict": "REJECT \u2014 multi-location group, bot-walled",
+  "approx_score": null
+ },
+ {
+  "name": "Aventura Dental Excellence",
+  "city": "Aventura",
+  "state": "FL",
+  "url": "https://aventurafloridadentist.com",
+  "verdict": "REJECT \u2014 Cloudflare, cosmetic multi-page modern site",
+  "approx_score": null
+ },
+ {
+  "name": "Andres De Cardenas DDS",
+  "city": "Palmetto Bay",
+  "state": "FL",
+  "url": "https://decardenasdmd.com",
+  "verdict": "REJECT \u2014 WP/WPBakery \u00a92025, maintained custom",
+  "approx_score": null
+ },
+ {
+  "name": "Palmetto Bay Family Dentistry",
+  "city": "Palmetto Bay",
+  "state": "FL",
+  "url": "https://palmettobayfamilydentistry.com",
+  "verdict": "REJECT \u2014 new practice, \u00a92026 custom WP",
+  "approx_score": null
+ },
+ {
+  "name": "Oviedo Family & Cosmetic Dentistry (Kever)",
+  "city": "Oviedo",
+  "state": "FL",
+  "url": "https://oviedodentists.com",
+  "verdict": "REJECT \u2014 modern Divi site",
+  "approx_score": null
+ },
+ {
+  "name": "Liptak Dentistry",
+  "city": "Charleston",
+  "state": "SC",
+  "url": "https://liptakdentistry.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 check via WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Tri-County Dental Arts",
+  "city": "Charleston",
+  "state": "SC",
+  "url": "https://tricountydentalarts.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled/loader \u2014 modern likely",
+  "approx_score": 52
+ },
+ {
+  "name": "Boca Raton Cosmetic Dentist",
+  "city": "Boca Raton",
+  "state": "FL",
+  "url": "https://bocaratoncosmeticdentist.com",
+  "verdict": "REJECT \u2014 modern Astra/Elementor",
+  "approx_score": null
+ },
+ {
+  "name": "Michael Radu DDS",
+  "city": "Boca Raton",
+  "state": "FL",
+  "url": "https://bocadentist.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 check WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Boca Dental & Cosmetic",
+  "city": "Boca Raton",
+  "state": "FL",
+  "url": "https://bocadental.com",
+  "verdict": "REJECT \u2014 modern Bricks WP, phone in title but new build",
+  "approx_score": null
+ },
+ {
+  "name": "Wolf Schwartz Dentistry",
+  "city": "Boca Raton",
+  "state": "FL",
+  "url": "https://schwartzdentistry.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 redirect/bot check \u2014 deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "West Boca Dental",
+  "city": "Boca Raton",
+  "state": "FL",
+  "url": "https://westbocadental.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 Zip/Sesame-like? title has zero-width char \u2014 deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "South Gables Dental (Lesperance)",
+  "city": "Coral Gables",
+  "state": "FL",
+  "url": "https://southgablesdental.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 202 empty \u2014 retry",
+  "approx_score": 52
+ },
+ {
+  "name": "Gables Exceptional Dentistry",
+  "city": "Coral Gables",
+  "state": "FL",
+  "url": "https://gablesexceptionaldentistry.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 Doctor Genius framework; check ownership",
+  "approx_score": 52
+ },
+ {
+  "name": "Naples General & Cosmetic Dentistry (Bracho)",
+  "city": "Naples",
+  "state": "FL",
+  "url": "https://naples-smiles.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled loader \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "The Dentistry in Naples (Cancelliere)",
+  "city": "Naples",
+  "state": "FL",
+  "url": "https://thedentistrynaples.com",
+  "verdict": "REJECT \u2014 Genesis/Executive Pro maintained \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Center for Cosmetic Dentistry (Macedo)",
+  "city": "St. Petersburg",
+  "state": "FL",
+  "url": "https://advancedcenterforcosmeticdentistry.com",
+  "verdict": "REJECT \u2014 \u00a92026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "The Family Dental Boutique",
+  "city": "St. Petersburg",
+  "state": "FL",
+  "url": "https://thefamilydentalboutique.com",
+  "verdict": "REJECT \u2014 young practice, bot-walled",
+  "approx_score": null
+ },
+ {
+  "name": "St. Petersburg Dental Studio",
+  "city": "St. Petersburg",
+  "state": "FL",
+  "url": "https://spdentalstudio.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 candidate \u2014 legacy Wix/Homestead-style viewer site; WebFetch empty",
+  "approx_score": 52
+ },
+ {
+  "name": "Saint Petersburg Dental",
+  "city": "Clearwater",
+  "state": "FL",
+  "url": "https://stpetersburgdental.com",
+  "verdict": "REJECT \u2014 DSO: 09010@nadentalgroup.com (North American Dental Group)",
+  "approx_score": null
+ },
+ {
+  "name": "Exceptional Dental of St. Pete",
+  "city": "St. Petersburg",
+  "state": "FL",
+  "url": "https://dentistsofstpete.com",
+  "verdict": "REJECT \u2014 DSO: MB2 marker",
+  "approx_score": null
+ },
+ {
+  "name": "Engle Dentistry (periodontist)",
+  "city": "Naples",
+  "state": "FL",
+  "url": "https://engleimplantdentistry.com",
+  "verdict": "REJECT \u2014 perio-led practice",
+  "approx_score": null
+ },
+ {
+  "name": "Abadin Dental",
+  "city": "Coral Gables",
+  "state": "FL",
+  "url": "https://abadindental.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "General & Cosmetic Dentistry of Tampa (Diez)",
+  "city": "Tampa",
+  "state": "FL",
+  "url": "https://tampacosmeticdentist.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "The Smile Studio",
+  "city": "Fort Myers",
+  "state": "FL",
+  "url": "https://thesmilestudio.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Sunshine Dentistry Tampa",
+  "city": "Tampa",
+  "state": "FL",
+  "url": "https://sunshinedentistrytampa.com",
+  "verdict": "REJECT \u2014 normal modern title, young practice",
+  "approx_score": null
+ },
+ {
+  "name": "Adel Dentistry",
+  "city": "Tampa",
+  "state": "FL",
+  "url": "https://adeldentistry.com",
+  "verdict": "REJECT \u2014 \u00a92026 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Viva Smiles Dental",
+  "city": "Tampa",
+  "state": "FL",
+  "url": "https://vivasmilesdental.com",
+  "verdict": "REJECT \u2014 'tooth-fairy' theme, bilingual family practice not elite; low ticket",
+  "approx_score": null
+ },
+ {
+  "name": "Tampa Implant & General (Nanavati)",
+  "city": "Lutz",
+  "state": "FL",
+  "url": "https://implantcentertampa.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled loader; check WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Impressive Smiles Tampa",
+  "city": "Tampa",
+  "state": "FL",
+  "url": "https://impressivesmilestampa.com",
+  "verdict": "REJECT \u2014 site unreachable/dead (000)",
+  "approx_score": null
+ },
+ {
+  "name": "Rocha Marsh Dental",
+  "city": "Tampa",
+  "state": "FL",
+  "url": "https://rochademarshdental.com\u2192rochadentistry.com",
+  "verdict": "REJECT \u2014 bot-walled, redirect to new brand",
+  "approx_score": null
+ },
+ {
+  "name": "Bay Premier Dentistry",
+  "city": "Tampa",
+  "state": "FL",
+  "url": "https://baypremierdentistry.com",
+  "verdict": "REJECT \u2014 \u00a92026 AIOSEO maintained",
+  "approx_score": null
+ },
+ {
+  "name": "Mitchell Dentistry (since 1980)",
+  "city": "Fort Myers",
+  "state": "FL",
+  "url": "https://mitchelldentist.com",
+  "verdict": "REJECT \u2014 2024 dc-base-theme modern",
+  "approx_score": null
+ },
+ {
+  "name": "Ford Signature Dentistry",
+  "city": "Fort Myers",
+  "state": "FL",
+  "url": "https://smilesbydocford.com",
+  "verdict": "REJECT \u2014 modern WP 2026",
+  "approx_score": null
+ },
+ {
+  "name": "Coral Dental and Denture",
+  "city": "Fort Myers",
+  "state": "FL",
+  "url": "https://coraldds.com",
+  "verdict": "REJECT \u2014 denture-focused, low ticket",
+  "approx_score": null
+ },
+ {
+  "name": "SWFL Oral & Facial Surgery",
+  "city": "Fort Myers",
+  "state": "FL",
+  "url": "https://swfofs.com",
+  "verdict": "REJECT \u2014 OMS referral practice",
+  "approx_score": null
+ },
+ {
+  "name": "Kazakos/Santiago implant-perio",
+  "city": "Fort Myers",
+  "state": "FL",
+  "url": "https://implant-perio.com",
+  "verdict": "REJECT \u2014 periodontal specialty",
+  "approx_score": null
+ },
+ {
+  "name": "Premier Aesthetic Dentistry (Pelletier)",
+  "city": "Irmo",
+  "state": "SC",
+  "url": "https://columbiacosmeticdental.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 candidate (lower) \u2014 \"\u00a9 2026, Internet Dental Alliance, Inc.\" footer, doorway domain network, est. unknown",
+  "approx_score": 58
+ },
+ {
+  "name": "Crescent Prosthodontics",
+  "city": "Columbia",
+  "state": "SC",
+  "url": "https://crescentprosthodontics.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 prosthodontist, check WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Dromsky Dentistry",
+  "city": "Augusta",
+  "state": "GA",
+  "url": "https://dromskydentistry.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 check WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Morris Family Dentistry",
+  "city": "Augusta",
+  "state": "GA",
+  "url": "https://morrisdentalaugusta.com",
+  "verdict": "REJECT \u2014 modern WP Rocket 2025",
+  "approx_score": null
+ },
+ {
+  "name": "Augusta SmileCare",
+  "city": "Martinez",
+  "state": "GA",
+  "url": "https://augustasmilecare.com",
+  "verdict": "REJECT \u2014 Elementor/Astra modern",
+  "approx_score": null
+ },
+ {
+  "name": "Riverwatch Dental (Perpall)",
+  "city": "Evans",
+  "state": "GA",
+  "url": "https://dentistevansga.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 empty 202 \u2014 retry",
+  "approx_score": 52
+ },
+ {
+  "name": "Bullard Dental",
+  "city": "Martinez",
+  "state": "GA",
+  "url": "https://bullarddentalaugusta.com",
+  "verdict": "REJECT \u2014 est 2010, not established enough",
+  "approx_score": null
+ },
+ {
+  "name": "Family Dental Center of Macon",
+  "city": "Macon",
+  "state": "GA",
+  "url": "https://familydentalcenterofmacon.com",
+  "verdict": "REJECT \u2014 new Elementor 2023 relocation",
+  "approx_score": null
+ },
+ {
+  "name": "Mixon Family Dentistry",
+  "city": "Macon",
+  "state": "GA",
+  "url": "https://mixondentistry.com",
+  "verdict": "REJECT \u2014 TheDocSites \u00a92026, general family",
+  "approx_score": null
+ },
+ {
+  "name": "Premier Prosthodontics (Murphy)",
+  "city": "Raleigh",
+  "state": "NC",
+  "url": "https://premierprosthodontics.com",
+  "verdict": "REJECT \u2014 Impreza modern WP; 7-yr practice",
+  "approx_score": null
+ },
+ {
+  "name": "Raleigh Teeth (Tropmann/Oyster)",
+  "city": "Raleigh",
+  "state": "NC",
+  "url": "https://raleighteeth.com",
+  "verdict": "REJECT \u2014 modern large site",
+  "approx_score": null
+ },
+ {
+  "name": "Raleigh Prosthodontics (Murrell)",
+  "city": "Raleigh",
+  "state": "NC",
+  "url": "https://raleighprosthodontics.com",
+  "verdict": "REJECT \u2014 \u00a92025 AIOSEO twentytwentyfour modern",
+  "approx_score": null
+ },
+ {
+  "name": "Winston Smiles",
+  "city": "Winston-Salem",
+  "state": "NC",
+  "url": "https://winstonsmiles.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 check WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "High Point Dental Partners",
+  "city": "High Point",
+  "state": "NC",
+  "url": "https://highpointdentalnc.com",
+  "verdict": "REJECT \u2014 yds modern \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Charles Surles DDS",
+  "city": "High Point",
+  "state": "NC",
+  "url": "https://surlesdental.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Triad Dentistry",
+  "city": "Greensboro",
+  "state": "NC",
+  "url": "https://triaddentistry.com",
+  "verdict": "REJECT \u2014 Ekwa theme WP 6.9 modern",
+  "approx_score": null
+ },
+ {
+  "name": "A.K. Sharda DMD",
+  "city": "Jamestown",
+  "state": "NC",
+  "url": "https://drshardanc.com",
+  "verdict": "REJECT \u2014 Duda; general",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Suite",
+  "city": "Greensboro",
+  "state": "NC",
+  "url": "https://dentalsuitelife.com",
+  "verdict": "REJECT \u2014 \u00a92026 multi-location modern",
+  "approx_score": null
+ },
+ {
+  "name": "Kenneth R. Russell DDS",
+  "city": "Winston-Salem",
+  "state": "NC",
+  "url": "https://runumb.com",
+  "verdict": "REJECT \u2014 Divi/AIOSEO Pro modern",
+  "approx_score": null
+ },
+ {
+  "name": "Biltmore Avenue Family Dentistry",
+  "city": "Asheville",
+  "state": "NC",
+  "url": "https://bafdentistry.com",
+  "verdict": "REJECT \u2014 quiet modern small practice; 24KB check no",
+  "approx_score": null
+ },
+ {
+  "name": "Biltmore Dental Group",
+  "city": "Asheville",
+  "state": "NC",
+  "url": "https://biltmoredentistry.com",
+  "verdict": "REJECT \u2014 DSO marker: \"heartland\" strings in HTML (Heartland Dental)",
+  "approx_score": null
+ },
+ {
+  "name": "Asheville Smile Maker (Putman FAGD)",
+  "city": "Asheville",
+  "state": "NC",
+  "url": "https://ashevillesmilemaker.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 Vertex theme, WP 6.8.3, \u00a92026, solo \u2014 likely modern; low",
+  "approx_score": 52
+ },
+ {
+  "name": "Perrigo Dental Care",
+  "city": "Hoover",
+  "state": "AL",
+  "url": "https://perrigodentalcare.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Koch Cosmetic Dentistry (25 yrs)",
+  "city": "Birmingham",
+  "state": "AL",
+  "url": "https://kochaesthetics.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 202 empty \u2014 retry",
+  "approx_score": 52
+ },
+ {
+  "name": "Vestavia Family Dentistry (Pruitt)",
+  "city": "Vestavia",
+  "state": "AL",
+  "url": "https://vestaviafamilydentistry.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Greystone Smile Design",
+  "city": "Birmingham",
+  "state": "AL",
+  "url": "https://greystonesmiledesign.com",
+  "verdict": "REJECT \u2014 modern 'chap' theme",
+  "approx_score": null
+ },
+ {
+  "name": "Daniel Richards DMD",
+  "city": "Vestavia",
+  "state": "AL",
+  "url": "https://vestaviaaldentist.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Hall Dental",
+  "city": "Birmingham",
+  "state": "AL",
+  "url": "https://birminghamdmd.com",
+  "verdict": "EXCLUDED \u2014 prior round (Vestavia/Birmingham Hall) + modern yds",
+  "approx_score": null
+ },
+ {
+  "name": "Madison Dental Care (Burgess 30+ yrs)",
+  "city": "Madison",
+  "state": "AL",
+  "url": "https://madisondentalcare.com",
+  "verdict": "REJECT \u2014 WPBakery WP 6.9 recent, iTero/CBCT; modern",
+  "approx_score": null
+ },
+ {
+  "name": "Dentistry Today (Barrilleaux)",
+  "city": "Huntsville",
+  "state": "AL",
+  "url": "https://dentistrytodayonline.com",
+  "verdict": "REJECT \u2014 MB2 marker (Mb2 in HTML)",
+  "approx_score": null
+ },
+ {
+  "name": "William L. Ingram DMD",
+  "city": "Huntsville",
+  "state": "AL",
+  "url": "https://drwilliamingram.com",
+  "verdict": "REJECT \u2014 modern 615KB accessibility widget",
+  "approx_score": null
+ },
+ {
+  "name": "Premiere Dental Spa",
+  "city": "Huntsville",
+  "state": "AL",
+  "url": "https://premieredentalspa.com",
+  "verdict": "REJECT \u2014 Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Talbert Family Dentistry",
+  "city": "Madison",
+  "state": "AL",
+  "url": "https://talbertfamilydentistry.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 Great Dental Websites footprint; not elite cosmetic; deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "Palmer Hill Family Dentistry",
+  "city": "Mobile",
+  "state": "AL",
+  "url": "https://palmerhilldmd.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 WebFetch 403 \u2014 Milestone CMS 6.0/Televox; JSON-LD ratingValue 5 / ratingCount 10 \u2014 deepen via curl",
+  "approx_score": 52
+ },
+ {
+  "name": "Musial Dental Center",
+  "city": "Mobile",
+  "state": "AL",
+  "url": "https://musialdentalcenter.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Maitre & Crabtree Dental Group",
+  "city": "Mobile",
+  "state": "AL",
+  "url": "https://mobilealabamadentistry.com",
+  "verdict": "REJECT \u2014 Neve theme \u00a92026 maintained",
+  "approx_score": null
+ },
+ {
+  "name": "Alabama Smile Design (O'Donnell)",
+  "city": "Mobile",
+  "state": "AL",
+  "url": "https://alabamasmiledesign.com",
+  "verdict": "REJECT \u2014 Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Rogers Dentistry",
+  "city": "Mobile",
+  "state": "AL",
+  "url": "https://rogersdmd.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 Enfold WP 6.7.9, no year; deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "Noblet Cosmetic & Family Dentistry",
+  "city": "Mobile",
+  "state": "AL",
+  "url": "https://nobletfamilydental.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Mobile Family Dentistry (Williamson, 30+ yrs)",
+  "city": "Mobile",
+  "state": "AL",
+  "url": "https://mobilefamilydentistry.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Nashville Restorative Dentistry (Jones/Estes)",
+  "city": "Franklin",
+  "state": "TN",
+  "url": "https://nashvillerestorativedentistry.com",
+  "verdict": "REJECT \u2014 loader/modern holistic brand",
+  "approx_score": null
+ },
+ {
+  "name": "OMS Nashville",
+  "city": "Nashville",
+  "state": "TN",
+  "url": "https://omsnashville.com",
+  "verdict": "REJECT \u2014 oral surgery referral",
+  "approx_score": null
+ },
+ {
+  "name": "Sullivan Dental Partners",
+  "city": "Brentwood",
+  "state": "TN",
+  "url": "https://tennesseedentist.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Holcomb DDS",
+  "city": "Collierville",
+  "state": "TN",
+  "url": "https://holcombdds.com",
+  "verdict": "REJECT \u2014 domain now hijacked/dead (firearms site)",
+  "approx_score": null
+ },
+ {
+  "name": "Germantown Dentist",
+  "city": "Germantown",
+  "state": "TN",
+  "url": "https://thegermantowndentist.com",
+  "verdict": "REJECT \u2014 robot check 503; Germantown TN Skidmore/Kizer excluded region anyway",
+  "approx_score": null
+ },
+ {
+  "name": "Forest Hill Dental (Ryan Vick)",
+  "city": "Germantown/Memphis",
+  "state": "TN",
+  "url": "https://foresthilldental.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 candidate \u2014 Squarespace, title \"Forest Hill Dental\", \"award-winning boutique\", solo founder, est unknown",
+  "approx_score": 52
+ },
+ {
+  "name": "Parrish & Baldridge",
+  "city": "Bartlett/Collierville",
+  "state": "TN",
+  "url": "https://parrishandbaldridge.com",
+  "verdict": "REJECT \u2014 Elementor/AIOSEO modern",
+  "approx_score": null
+ },
+ {
+  "name": "Dentistry of Memphis",
+  "city": "Memphis",
+  "state": "TN",
+  "url": "https://dentistryofmemphis.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "The Collierville Dentist",
+  "city": "Collierville",
+  "state": "TN",
+  "url": "https://thecolliervilledentist.com",
+  "verdict": "REJECT \u2014 DSO marker: Mb2/Duda/greatdentalwebsites",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Dental Implant & TMJ Center",
+  "city": "Southaven",
+  "state": "MS",
+  "url": "https://advanceddentaltmj.com",
+  "verdict": "REJECT \u2014 MS side belongs to South-Central",
+  "approx_score": null
+ },
+ {
+  "name": "Chattanooga Center for Comprehensive Dentistry (Carico)",
+  "city": "Signal Mountain",
+  "state": "TN",
+  "url": "https://drcarico.com",
+  "verdict": "REJECT \u2014 modern LUMN build \u00a92026 (41-yr/Kois credentials noted)",
+  "approx_score": null
+ },
+ {
+  "name": "Tennessee River Dental",
+  "city": "Hixson",
+  "state": "TN",
+  "url": "https://tennesseeriverdental.com",
+  "verdict": "REJECT \u2014 Wix 1.5MB; not elite; Hixson family \u2014 low",
+  "approx_score": null
+ },
+ {
+  "name": "Hixson Dental Group",
+  "city": "Hixson",
+  "state": "TN",
+  "url": "https://hixsondentalgroup.com",
+  "verdict": "REJECT \u2014 Squarespace modern",
+  "approx_score": null
+ },
+ {
+  "name": "FIT Dental Center",
+  "city": "Chattanooga",
+  "state": "TN",
+  "url": "https://fitdentalcenter.com",
+  "verdict": "REJECT \u2014 DSO marker Mb2",
+  "approx_score": null
+ },
+ {
+  "name": "Chattanooga Dental Studio (Robertson x2)",
+  "city": "Chattanooga",
+  "state": "TN",
+  "url": "https://dentistinchattanooga.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 candidate (lower) \u2014 broken social links; \u00a92026; est unknown",
+  "approx_score": 58
+ },
+ {
+  "name": "McOmie Dentistry",
+  "city": "Chattanooga",
+  "state": "TN",
+  "url": "https://mcomiedentistry.com",
+  "verdict": "EXCLUDED \u2014 prior round (McOmie Family Dentistry)",
+  "approx_score": null
+ },
+ {
+  "name": "Heritage Family Dentistry (Bradshaw)",
+  "city": "Farragut",
+  "state": "TN",
+  "url": "https://hfdsmiles.com",
+  "verdict": "REJECT \u2014 modern \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "Knoxville Smiles",
+  "city": "Knoxville",
+  "state": "TN",
+  "url": "https://knoxvillesmiles.com",
+  "verdict": "REJECT \u2014 Ekwa theme modern",
+  "approx_score": null
+ },
+ {
+  "name": "Confident Smiles & Implants",
+  "city": "Farragut",
+  "state": "TN",
+  "url": "https://confidentsmilesknoxville.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 plain \"\u00a9\" small; deepen lightly",
+  "approx_score": 52
+ },
+ {
+  "name": "Knox Valley Dental (Zaveri)",
+  "city": "Farragut",
+  "state": "TN",
+  "url": "https://knoxvalleydental.com",
+  "verdict": "REJECT \u2014 202/modern blog SEO site",
+  "approx_score": null
+ },
+ {
+  "name": "Wayne G. Suway DDS (30+ yrs)",
+  "city": "Vinings/Smyrna",
+  "state": "GA",
+  "url": "https://doctorwaynesuway.com",
+  "verdict": "REJECT \u2014 custom dr-suway theme \u00a92026 WPML; maintained",
+  "approx_score": null
+ },
+ {
+  "name": "Smyrna Dental Studio",
+  "city": "Smyrna",
+  "state": "GA",
+  "url": "https://smyrnadentalstudio.com",
+  "verdict": "REJECT \u2014 Framer 2025 modern",
+  "approx_score": null
+ },
+ {
+  "name": "Kabani Dental (Pankey)",
+  "city": "Marietta",
+  "state": "GA",
+  "url": "https://kabanidental.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 no title captured; deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "West Vinings Dental Aesthetics",
+  "city": "Smyrna",
+  "state": "GA",
+  "url": "https://westviningsdentistsmyrnaga.com",
+  "verdict": "REJECT \u2014 Duda (Mb2/DSO-style Duda template)",
+  "approx_score": null
+ },
+ {
+  "name": "DentFirst Smyrna",
+  "city": "Smyrna",
+  "state": "GA",
+  "url": "https://dentfirst.com",
+  "verdict": "REJECT \u2014 DSO",
+  "approx_score": null
+ },
+ {
+  "name": "Smile Design Dental (Azar)",
+  "city": "Fort Lauderdale",
+  "state": "FL",
+  "url": "https://smiledesigndentalfl.com",
+  "verdict": "REJECT \u2014 4-office group, 202",
+  "approx_score": null
+ },
+ {
+  "name": "Florida Smile Studio (prosthodontist)",
+  "city": "Fort Lauderdale",
+  "state": "FL",
+  "url": "https://floridasmilestudio.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 IWD responsive theme, SliderRev 6.7 \u2014 deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "Advanced Dentistry of Plantation (Schwartz x2 + Boillot)",
+  "city": "Plantation",
+  "state": "FL",
+  "url": "https://advanceddentistryofplantation.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch (100-yr family practice)",
+  "approx_score": 52
+ },
+ {
+  "name": "Gentle Dentistry (gentdent)",
+  "city": "Tamarac",
+  "state": "FL",
+  "url": "https://gentdent.com",
+  "verdict": "REJECT \u2014 multi-location group",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Professionals of Coral Springs",
+  "city": "Coral Springs",
+  "state": "FL",
+  "url": "https://coralspringsdentists.org",
+  "verdict": "UNRESOLVED/BENCH \u2014 202 empty \u2014 retry",
+  "approx_score": 52
+ },
+ {
+  "name": "Solomon Family Dentistry",
+  "city": "Summerville",
+  "state": "SC",
+  "url": "https://solomondentistry.com",
+  "verdict": "REJECT \u2014 6-location group, \u00a92026",
+  "approx_score": null
+ },
+ {
+  "name": "East Cooper Dental",
+  "city": "Mt Pleasant",
+  "state": "SC",
+  "url": "https://charlestondentistry.com",
+  "verdict": "REJECT \u2014 Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Pleasant Family Dentistry",
+  "city": "Mt Pleasant",
+  "state": "SC",
+  "url": "https://pleasantfamilydentistry.com",
+  "verdict": "EXCLUDED \u2014 prior round (Pleasant Smiles/Pleasant Family)",
+  "approx_score": null
+ },
+ {
+  "name": "Smiling Oak Dentistry",
+  "city": "Mt Pleasant",
+  "state": "SC",
+  "url": "https://smilingoakdentistry.com",
+  "verdict": "REJECT \u2014 loader/new",
+  "approx_score": null
+ },
+ {
+  "name": "Smileworks (Gibson/Caouette + 3)",
+  "city": "Mt Pleasant",
+  "state": "SC",
+  "url": "https://smileworks.us",
+  "verdict": "UNRESOLVED/BENCH \u2014 candidate (lower) \u2014 TNT Dental, est 2008 (<20 yrs), 4.9 Google avg, 5 doctors, AACD",
+  "approx_score": 58
+ },
+ {
+  "name": "River Landing Dentistry",
+  "city": "Daniel Island/Mt Pleasant",
+  "state": "SC",
+  "url": "https://riverlandingdentistry.com",
+  "verdict": "REJECT \u2014 multi-location",
+  "approx_score": null
+ },
+ {
+  "name": "Sand Lake Dental (Maali)",
+  "city": "Dr. Phillips/Windermere",
+  "state": "FL",
+  "url": "https://sandlakedental.com",
+  "verdict": "REJECT \u2014 Salient modern \u00a92026, 2 locations",
+  "approx_score": null
+ },
+ {
+  "name": "Makris Dental Prosthodontics (Cokovska)",
+  "city": "Lake Nona",
+  "state": "FL",
+  "url": "https://lakenonadentist.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 prosthodontist 30+ yrs; site \u00a9? \u2014 deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "Dentistry at Lake Nona",
+  "city": "Lake Nona",
+  "state": "FL",
+  "url": "https://dentistryatlakenona.com",
+  "verdict": "REJECT \u2014 Avada 1.2MB, young",
+  "approx_score": null
+ },
+ {
+  "name": "Nona Dental Arts",
+  "city": "Lake Nona",
+  "state": "FL",
+  "url": "https://nonadentalarts.com",
+  "verdict": "REJECT \u2014 \u00a92026 young",
+  "approx_score": null
+ },
+ {
+  "name": "Esteem Dental",
+  "city": "Lake Nona",
+  "state": "FL",
+  "url": "https://esteemsmiles.com",
+  "verdict": "REJECT \u2014 multi-location group",
+  "approx_score": null
+ },
+ {
+  "name": "Chapel Hill Family & Cosmetic (Furgurson)",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "url": "https://chapelhilldds.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled/403 \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Studio G Aesthetic & Family",
+  "city": "Chapel Hill",
+  "state": "NC",
+  "url": "https://studiogdentist.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Davis Dental Studio",
+  "city": "Hillsborough",
+  "state": "NC",
+  "url": "https://davisdentalnc.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 'practice' theme; small town; low",
+  "approx_score": 52
+ },
+ {
+  "name": "Hillsborough Family & Cosmetic (Williamson)",
+  "city": "Hillsborough",
+  "state": "NC",
+  "url": "https://hillsboroughfamilydds.com",
+  "verdict": "REJECT \u2014 Dental Revenue codebase-2 recent; small-town",
+  "approx_score": null
+ },
+ {
+  "name": "Durham Dentistry",
+  "city": "Durham",
+  "state": "NC",
+  "url": "https://durhamdentist.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 vendor editor (data-widget-id) \u2014 likely Yola/ Sesame; deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "Dental Avenu Miami (Diaz)",
+  "city": "Pinecrest",
+  "state": "FL",
+  "url": "https://dentalavenumiami.com",
+  "verdict": "REJECT \u2014 Divi \u00a92022 but young practice/low ticket",
+  "approx_score": null
+ },
+ {
+  "name": "Kendall Breeze Dental Centers",
+  "city": "Kendall",
+  "state": "FL",
+  "url": "https://kendallbreezedental.com",
+  "verdict": "REJECT \u2014 multi-location group, empty response",
+  "approx_score": null
+ },
+ {
+  "name": "Miami Center for Cosmetic & Implant Dentistry",
+  "city": "Miami",
+  "state": "FL",
+  "url": "https://miamicosmeticdentalcare.com",
+  "verdict": "REJECT \u2014 DSO: Dental Care Alliance markers",
+  "approx_score": null
+ },
+ {
+  "name": "Advanced Center for Cosmetic & Implant Dentistry (Cascante)",
+  "city": "Kendall",
+  "state": "FL",
+  "url": "https://drocascante.com",
+  "verdict": "REJECT \u2014 mydivi-light, NitroPack \u00a92025 modern",
+  "approx_score": null
+ },
+ {
+  "name": "People First Dentistry",
+  "city": "Coral Gables",
+  "state": "FL",
+  "url": "https://peoplefirstdentistry.com",
+  "verdict": "REJECT \u2014 671KB active WPBakery, modern",
+  "approx_score": null
+ },
+ {
+  "name": "Brookhaven Dental Associates",
+  "city": "Brookhaven",
+  "state": "GA",
+  "url": "https://brookhavendentalassociates.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 CHECK \u2014 Wix, \"Website SEO by\" credit \u2014 deepen",
+  "approx_score": 52
+ },
+ {
+  "name": "Dunwoody Park Dental",
+  "city": "Dunwoody",
+  "state": "GA",
+  "url": "https://dunwoodyparkdental.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "Plunkett & Chaw Dental (est 1978)",
+  "city": "Dunwoody",
+  "state": "GA",
+  "url": "https://drleeplunkett.com",
+  "verdict": "REJECT \u2014 Elementor/10web \u00a92026 rebuilt",
+  "approx_score": null
+ },
+ {
+  "name": "Smiles in Buckhead (Derrick)",
+  "city": "Atlanta",
+  "state": "GA",
+  "url": "https://smilesinbuckhead.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 bot-walled \u2014 WebFetch",
+  "approx_score": 52
+ },
+ {
+  "name": "The Whole Tooth (20 yrs)",
+  "city": "Dunwoody",
+  "state": "GA",
+  "url": "https://wholetoothdunwoody.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 LEAD-lite \u2014 Great Dental Websites; check size/credentials",
+  "approx_score": 52
+ },
+ {
+  "name": "Dentistry with a Difference (Nordone/Oh)",
+  "city": "Dunwoody",
+  "state": "GA",
+  "url": "https://dentistrydifference.com",
+  "verdict": "REJECT \u2014 WP Rocket modern",
+  "approx_score": null
+ },
+ {
+  "name": "Wolfe Family Dentistry",
+  "city": "Brookhaven",
+  "state": "GA",
+  "url": "https://wolfefamilydentistry.com",
+  "verdict": "REJECT \u2014 AIOSEO 'charlie' theme maintained",
+  "approx_score": null
+ },
+ {
+  "name": "Dunwoody Family & Cosmetic",
+  "city": "Dunwoody",
+  "state": "GA",
+  "url": "https://dfcdonline.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Lakewood Ranch Dental (Kanter since 1984)",
+  "city": "Sarasota",
+  "state": "FL",
+  "url": "https://lakewoodranchdental.com",
+  "verdict": "REJECT \u2014 Oshin theme, appears maintained (recheck if needed)",
+  "approx_score": null
+ },
+ {
+  "name": "Paradise Dental",
+  "city": "Bradenton",
+  "state": "FL",
+  "url": "https://paradisedentalsmiles.com",
+  "verdict": "REJECT \u2014 Elementor modern",
+  "approx_score": null
+ },
+ {
+  "name": "Bayview Dental",
+  "city": "Sarasota",
+  "state": "FL",
+  "url": "https://bayviewdental.com",
+  "verdict": "REJECT \u2014 Elementor multi-office",
+  "approx_score": null
+ },
+ {
+  "name": "World Class Dentistry",
+  "city": "Sarasota",
+  "state": "FL",
+  "url": "https://sarasotadentist.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Carolina Prosthodontics & Implant Dentistry (Crumpton, opened 1999)",
+  "city": "Greenville",
+  "state": "SC",
+  "url": "https://crumptondmd.com",
+  "verdict": "REJECT \u2014 \u00a92026 modern custom",
+  "approx_score": null
+ },
+ {
+  "name": "Palmetto Prosthodontics",
+  "city": "Simpsonville/Greenville",
+  "state": "SC",
+  "url": "https://palmettopros.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 candidate (lower) \u2014 custom 2015 theme, doctors not named on homepage",
+  "approx_score": 58
+ },
+ {
+  "name": "Classic Dental Group",
+  "city": "Greenville",
+  "state": "SC",
+  "url": "https://classicdentalgroup.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 candidate (lower) \u2014 ProSites, 2 docs incl. periodontist, not high-ticket",
+  "approx_score": 58
+ },
+ {
+  "name": "David P. Babb DMD",
+  "city": "Beaufort",
+  "state": "SC",
+  "url": "https://davidpbabbdmd.com",
+  "verdict": "UNRESOLVED/BENCH \u2014 202 \u2014 retry",
+  "approx_score": 52
+ },
+ {
+  "name": "Southern Smiles Hilton Head",
+  "city": "Hilton Head",
+  "state": "SC",
+  "url": "https://southernsmiles.net",
+  "verdict": "EXCLUDED \u2014 prior round (Fader/Southern Smiles/Ocean Dental)",
+  "approx_score": null
+ },
+ {
+  "name": "Dr. Timothy Gross",
+  "city": "Hilton Head",
+  "state": "SC",
+  "url": "https://drtimgross.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Hilton Head Dental",
+  "city": "Hilton Head",
+  "state": "SC",
+  "url": "https://hhdental.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Old Moreland Dental",
+  "city": "Bluffton",
+  "state": "SC",
+  "url": "https://oldmorelanddental.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Dental Designs of Savannah",
+  "city": "Savannah",
+  "state": "GA",
+  "url": "https://dentaldesignsavannah.com",
+  "verdict": "EXCLUDED \u2014 prior round",
+  "approx_score": null
+ },
+ {
+  "name": "Healthy Smiles of Birmingham",
+  "city": "Birmingham",
+  "state": "AL",
+  "url": "https://healthysmilesofbirmingham.com",
+  "verdict": "REJECT \u2014 est 2010; Doctor Genius-like; low",
+  "approx_score": null
+ }
+]

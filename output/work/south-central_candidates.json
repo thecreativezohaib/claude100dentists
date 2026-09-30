@@ -1,0 +1,906 @@
+[
+ {
+  "name": "Wayne & Julie Scott DDS",
+  "city": "Coppell",
+  "state": "TX",
+  "url": "wjscottdds.com",
+  "verdict": "REJECT-ish — modern WP 7.1 (mts_schema/gala child), Cowboys/Stars team dentists since 1990; site current-ish (low gap)",
+  "approx_score": 20
+ },
+ {
+  "name": "Mason Dental",
+  "city": "Grapevine",
+  "state": "TX",
+  "url": "drmasondental.com",
+  "verdict": "REJECT — Einstein-built BlackMarlin theme ©2026 \"Propelled by\" vendor, modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Flower Mound Dental (Wyatt)",
+  "city": "Flower Mound",
+  "state": "TX",
+  "url": "flowermounddental.com",
+  "verdict": "REJECT — ©2026 Ekwa WP theme, current",
+  "approx_score": 20
+ },
+ {
+  "name": "Rick Larson DDS",
+  "city": "Coppell",
+  "state": "TX",
+  "url": "ricklarsondds.com",
+  "verdict": "bot-walled (403 CF) — PENDING render check",
+  "approx_score": 35
+ },
+ {
+  "name": "Coppell Smiles",
+  "city": "Coppell",
+  "state": "TX",
+  "url": "coppellsmilesonline.com",
+  "verdict": "bot-walled (403 CF) — PENDING",
+  "approx_score": 35
+ },
+ {
+  "name": "West U Family Dental",
+  "city": "Houston",
+  "state": "TX",
+  "url": "westufamilydental.com",
+  "verdict": "PENDING — check (modern icons)",
+  "approx_score": 45
+ },
+ {
+  "name": "Lovett Dental West U",
+  "city": "Houston TX",
+  "state": "",
+  "url": "lovettdental.com",
+  "verdict": "REJECT — DSO: Lovett",
+  "approx_score": 0
+ },
+ {
+  "name": "Ahrens Family & Cosmetic Dentistry",
+  "city": "Grapevine",
+  "state": "TX",
+  "url": "(url TBD)",
+  "verdict": "PENDING",
+  "approx_score": 45
+ },
+ {
+  "name": "Jason Daaboul DDS",
+  "city": "Grapevine TX",
+  "state": "",
+  "url": "jasondds.net",
+  "verdict": "PENDING (est 2006 - too young, low)",
+  "approx_score": 45
+ },
+ {
+  "name": "Cosmetic Dental Associates (Dr John Moore Jr)",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "33smile.com",
+  "verdict": "REJECT — multi-location (Alamo Ranch/Stone Oak/Med Center) group, Elementor modern site",
+  "approx_score": 20
+ },
+ {
+  "name": "Atkins & Anderson DDS",
+  "city": "Bryan/College Station",
+  "state": "TX",
+  "url": "atkinsandersondds.com",
+  "verdict": "PENDING — bot challenge page (\"One moment, please\"); check render",
+  "approx_score": 45
+ },
+ {
+  "name": "Matthews Dental Group",
+  "city": "College Station",
+  "state": "TX",
+  "url": "matthewsdental.net",
+  "verdict": "bot-walled 403; PENDING (25+ yrs Dr Matthews & Sally)",
+  "approx_score": 35
+ },
+ {
+  "name": "Curtis Kaiser DDS",
+  "city": "College Station",
+  "state": "TX",
+  "url": "drcurtiskaiser.com",
+  "verdict": "REJECT — domain redirects to gambling spam (pg-demo.net) / hijacked; not a viable prospect site check (flag)",
+  "approx_score": 20
+ },
+ {
+  "name": "Hooks Family Dentistry",
+  "city": "College Station",
+  "state": "TX",
+  "url": "hooksdds.com",
+  "verdict": "REJECT — ©2026 custom WP theme (Practice Cafe), modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Long Family & Cosmetic Dentistry",
+  "city": "College Station",
+  "state": "TX",
+  "url": "longfamilydentistry.com",
+  "verdict": "PENDING — Bootstrap 3 / old template, copyright_year dynamic; check",
+  "approx_score": 45
+ },
+ {
+  "name": "Central Texas Dental Care",
+  "city": "Hewitt/Waco",
+  "state": "TX",
+  "url": "hewittdentist.com",
+  "verdict": "REJECT — Einstein-built ©2026, est 1983, modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Starr General Dentistry (Kent Starr, est 1974)",
+  "city": "Waco",
+  "state": "TX",
+  "url": "starrgeneraldentistry.com",
+  "verdict": "PENDING — Dentalfone + Breakdance builder, likely refreshed; check",
+  "approx_score": 45
+ },
+ {
+  "name": "Chad Latino DDS",
+  "city": "Waco",
+  "state": "TX",
+  "url": "wacofamilydentist.com",
+  "verdict": "REJECT — Elementor modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Thornton Dental",
+  "city": "Bryan",
+  "state": "TX",
+  "url": "thorntondentalbcs.com",
+  "verdict": "REJECT — Elementor modern, young",
+  "approx_score": 20
+ },
+ {
+  "name": "Tulsa Time Dental Design",
+  "city": "Tulsa",
+  "state": "OK",
+  "url": "tulsatimedentaldesign.com",
+  "verdict": "REJECT — Squarespace ©2026 modern-ish, 80 yrs combined",
+  "approx_score": 20
+ },
+ {
+  "name": "Charles Calhoun DDS",
+  "city": "Tulsa",
+  "state": "OK",
+  "url": "calhoundds.com",
+  "verdict": "PENDING — fetch returned 202/empty; recheck",
+  "approx_score": 45
+ },
+ {
+  "name": "Ben Gerkin DDS",
+  "city": "Tulsa",
+  "state": "OK",
+  "url": "drgerkin.com",
+  "verdict": "REJECT — WP charlie theme ©2026 DentalQore modern",
+  "approx_score": 20
+ },
+ {
+  "name": "élan Tulsa Cosmetic Dentistry",
+  "city": "Tulsa",
+  "state": "OK",
+  "url": "tulsadentalcare.com",
+  "verdict": "REJECT — Elementor ©2026 modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Endicott Dental",
+  "city": "Broken Arrow",
+  "state": "OK",
+  "url": "endicottdental.com",
+  "verdict": "PENDING — check vendor/copyright",
+  "approx_score": 45
+ },
+ {
+  "name": "Advances in Dentistry",
+  "city": "OKC",
+  "state": "OK",
+  "url": "advancesindentistry.com",
+  "verdict": "PENDING — 302 blank; recheck",
+  "approx_score": 45
+ },
+ {
+  "name": "OKC Smiles (Moore/Norman)",
+  "city": "OKC",
+  "state": "OK",
+  "url": "okcsmiles.com",
+  "verdict": "REJECT — multi-office, WP goya ©2026",
+  "approx_score": 20
+ },
+ {
+  "name": "HARA Cosmetic Dentistry (Grace Jun)",
+  "city": "OKC",
+  "state": "OK",
+  "url": "haracosmeticdentistry.com",
+  "verdict": "REJECT — Elementor ©2026 modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Alamo Heights Implant Center",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "alamoimplantcenter.com",
+  "verdict": "REJECT — custom theme ©2026 modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Alamo Family & Cosmetic Dentistry (Dr Mooney)",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "alamodentalsa.com",
+  "verdict": "PENDING — TNT Dental, \"&copy; 2020\"",
+  "approx_score": 45
+ },
+ {
+  "name": "Calhoun DDS",
+  "city": "Tulsa",
+  "state": "OK",
+  "url": "calhoundds.com",
+  "verdict": "PENDING — server 202 empty for curl; render check",
+  "approx_score": 45
+ },
+ {
+  "name": "Advances in Dentistry",
+  "city": "OKC",
+  "state": "OK",
+  "url": "advancesindentistry.com",
+  "verdict": "PENDING — 302 loop for curl; render check",
+  "approx_score": 45
+ },
+ {
+  "name": "Ahrens Family & Cosmetic Dentistry (Craig Ahrens, 30+ yrs)",
+  "city": "Grapevine",
+  "state": "TX",
+  "url": "url?",
+  "verdict": "PENDING — domain unknown, ahrensdentistry.com dead",
+  "approx_score": 45
+ },
+ {
+  "name": "Grapevine Family Dentistry (Michael Solis)",
+  "city": "Grapevine",
+  "state": "TX",
+  "url": "grapevinefamilydentistry.com",
+  "verdict": "PENDING — small 24KB page, check vendor/©",
+  "approx_score": 45
+ },
+ {
+  "name": "Prosper Family Dentistry",
+  "city": "Prosper",
+  "state": "TX",
+  "url": "prosperfamilydentistry.com",
+  "verdict": "PENDING — small 23KB page; check",
+  "approx_score": 45
+ },
+ {
+  "name": "Ron S. White DDS (est 1999, w/ Kindra Dietrich)",
+  "city": "Dripping Springs",
+  "state": "TX",
+  "url": "ronswhite.com",
+  "verdict": "bot-walled 403 CF; PENDING render",
+  "approx_score": 35
+ },
+ {
+  "name": "Austin Prosthodontics (Ernesto Carmona)",
+  "city": "Austin",
+  "state": "TX",
+  "url": "austinprostheticdental.com",
+  "verdict": "bot-walled 403; PENDING",
+  "approx_score": 35
+ },
+ {
+  "name": "NWA Family Dental (Dr Kifer)",
+  "city": "Fayetteville",
+  "state": "AR",
+  "url": "nwafamilydentist.com",
+  "verdict": "PENDING — Great Dental Websites",
+  "approx_score": 45
+ },
+ {
+  "name": "Kevin G. Jones DDS (Pankey; since 2001)",
+  "city": "Little Rock",
+  "state": "AR",
+  "url": "jonesfamilydental.com",
+  "verdict": "REJECT-ish — Dentalfone but X-theme/LayerSlider maintained ©2013-2026, 25y? no (2001)",
+  "approx_score": 20
+ },
+ {
+  "name": "John C. Howell Jr DDS prosthodontist",
+  "city": "North Little Rock",
+  "state": "AR",
+  "url": "ardentalimplants.com",
+  "verdict": "bot-walled 403; PENDING",
+  "approx_score": 35
+ },
+ {
+  "name": "Simon Family Dentistry",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "url": "simonfamilydentistryla.com",
+  "verdict": "PENDING — dynamic-year ©; check vendor",
+  "approx_score": 45
+ },
+ {
+  "name": "Premier Dental Care (Dr Robert J. ..., 30 yrs)",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "url": "smilebr.com",
+  "verdict": "PENDING — Squarespace \"©Copyright 2023\"",
+  "approx_score": 45
+ },
+ {
+  "name": "Levy & Vutera Family Dentistry",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "url": "levyvuteradental.com",
+  "verdict": "PENDING — ©2026; check design",
+  "approx_score": 45
+ },
+ {
+  "name": "Bruns Family Dental Center",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "url": "brunsfamilydentalcenter.com",
+  "verdict": "REJECT — ©2026 modern-ish",
+  "approx_score": 20
+ },
+ {
+  "name": "Baton Rouge Dentistry (Highland/Welch)",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "url": "batonrougedentistry.com",
+  "verdict": "PENDING — 307 redirect interstitial",
+  "approx_score": 45
+ },
+ {
+  "name": "Mark Ventress DDS (Cosmetic Dentistry of Baton Rouge)",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "url": "markventressdds.com",
+  "verdict": "PENDING-STRONG — Sesame 24-7, 26KB thin page",
+  "approx_score": 53
+ },
+ {
+  "name": "Pearl Dental Group",
+  "city": "Baton Rouge",
+  "state": "LA",
+  "url": "pearldentalgroup.com",
+  "verdict": "REJECT — multi-location group, dental-visions/Elementor modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Scott Hannaman & Edward Herbert DDS",
+  "city": "Lake Charles",
+  "state": "LA",
+  "url": "smhdds.com",
+  "verdict": "PENDING — Great Dental Websites; practice est 2011 (young)",
+  "approx_score": 45
+ },
+ {
+  "name": "Michael B. Williamson DDS",
+  "city": "Lake Charles",
+  "state": "LA",
+  "url": "lakecharlessmiles.com",
+  "verdict": "PENDING-STRONG — ProSites \"Copyright � 2019\", http-only lookup ok",
+  "approx_score": 52
+ },
+ {
+  "name": "Daniel M. Perry DDS",
+  "city": "Lake Charles",
+  "state": "LA",
+  "url": "drperrydentistry.com",
+  "verdict": "REJECT — Avada custom ©2025",
+  "approx_score": 20
+ },
+ {
+  "name": "Darren Chaumont DDS",
+  "city": "Lake Charles",
+  "state": "LA",
+  "url": "lcdentalcare.com",
+  "verdict": "PENDING-STRONG — ProSites \"Copyright � 2019\"; family/cosmetic/sedation",
+  "approx_score": 52
+ },
+ {
+  "name": "Ted Bercier DDS",
+  "city": "Lake Charles",
+  "state": "LA",
+  "url": "tedbercierdds.net",
+  "verdict": "PENDING — Thryv site",
+  "approx_score": 45
+ },
+ {
+  "name": "Renewed Family Dental",
+  "city": "Lake Charles",
+  "state": "LA",
+  "url": "dentistlakecharlesla.com",
+  "verdict": "REJECT — young/small",
+  "approx_score": 20
+ },
+ {
+  "name": "Tharp, Klaus & Kelly",
+  "city": "Flowood",
+  "state": "MS",
+  "url": "smilesinjackson.com",
+  "verdict": "REJECT — dental-visions modern WP 7.0",
+  "approx_score": 20
+ },
+ {
+  "name": "Joe Burns DDS",
+  "city": "Flowood/Madison MS",
+  "state": "",
+  "url": "joeburnsdds.com",
+  "verdict": "EXCLUDED — prior round (Joe Burns DDS, Ridgeland)",
+  "approx_score": 0
+ },
+ {
+  "name": "Achord Dentistry",
+  "city": "Flowood",
+  "state": "MS",
+  "url": "achorddentistry.com",
+  "verdict": "bot-walled; young practice, low priority",
+  "approx_score": 35
+ },
+ {
+  "name": "Belle Meade Family Dental (Dr Jason Cox)",
+  "city": "Flowood",
+  "state": "MS",
+  "url": "bellemeadefamilydental.com",
+  "verdict": "PENDING — small 54KB legacy",
+  "approx_score": 45
+ },
+ {
+  "name": "Windstone Dental (Stephen Joe, since 1983)",
+  "city": "Southaven/Olive Branch MS",
+  "state": "",
+  "url": "windstonedental.com",
+  "verdict": "REJECT-ish — modern WP theme, multiple loc",
+  "approx_score": 20
+ },
+ {
+  "name": "Southaven Dental Care (C. Dean Umfress)",
+  "city": "Southaven",
+  "state": "MS",
+  "url": "southavendentalcare.net",
+  "verdict": "bot-walled 403; PENDING",
+  "approx_score": 35
+ },
+ {
+  "name": "The Smile Center for Cosmetic Dentistry",
+  "city": "Southaven/Olive Branch MS",
+  "state": "",
+  "url": "dentistsmilecenter.com",
+  "verdict": "PENDING — Wix",
+  "approx_score": 45
+ },
+ {
+  "name": "Goodman Road Dental",
+  "city": "Olive Branch",
+  "state": "MS",
+  "url": "bestolivebranchdentist.com",
+  "verdict": "PENDING — ©2024",
+  "approx_score": 45
+ },
+ {
+  "name": "Aspen Dental / Affordable Dentures Olive Branch",
+  "city": "MS",
+  "state": "",
+  "url": "—",
+  "verdict": "REJECT — DSO",
+  "approx_score": 0
+ },
+ {
+  "name": "Arnold Dental (Fred Arnold, AACD Accredited Fellow)",
+  "city": "Lexington",
+  "state": "KY",
+  "url": "cosmeticdentistryoflexington.com",
+  "verdict": "REJECT-ish — custom \"arnold\" theme; ©2015-2026 IDW; check quality",
+  "approx_score": 20
+ },
+ {
+  "name": "Hometown Family Dental (30+ yrs)",
+  "city": "St. Matthews/Louisville",
+  "state": "KY",
+  "url": "hometownfamilydental502.com",
+  "verdict": "bot-walled 403 CF; PENDING render",
+  "approx_score": 35
+ },
+ {
+  "name": "Lavelle Family & Cosmetic Dentistry (est 1979)",
+  "city": "Prospect/Louisville",
+  "state": "KY",
+  "url": "lavelledentistry.com",
+  "verdict": "PENDING — curl 202 empty; render check",
+  "approx_score": 45
+ },
+ {
+  "name": "Smiles of Louisville (40222)",
+  "city": "Louisville",
+  "state": "KY",
+  "url": "smilesoflouisville.com",
+  "verdict": "REJECT — Einstein-built \"Propelled by\" ©2026 modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Aiken and Wilson Dentistry",
+  "city": "Louisville",
+  "state": "KY",
+  "url": "aikenwilsondentistry.com",
+  "verdict": "EXCLUDED — prior round (also Elementor modern)",
+  "approx_score": 0
+ },
+ {
+  "name": "Advanced Dental Center (Talis)",
+  "city": "Louisville",
+  "state": "KY",
+  "url": "kyadc.com",
+  "verdict": "REJECT — multi-location, likely group",
+  "approx_score": 20
+ },
+ {
+  "name": "Kirchner Dental of St. Matthews",
+  "city": "Louisville",
+  "state": "KY",
+  "url": "kdsmiles.com",
+  "verdict": "REJECT — multi-loc brand, low priority",
+  "approx_score": 20
+ },
+ {
+  "name": "Precision Dental (Bryan Packard)",
+  "city": "Bowling Green",
+  "state": "KY",
+  "url": "precisiondentalbowlinggreen.com",
+  "verdict": "REJECT — yds custom theme ©2026",
+  "approx_score": 20
+ },
+ {
+  "name": "Wright Dental Studio",
+  "city": "Bowling Green",
+  "state": "KY",
+  "url": "wrightdentalstudio.com",
+  "verdict": "REJECT — young solo, WP 6.4 dentist-wp theme; low reputation data",
+  "approx_score": 20
+ },
+ {
+  "name": "Cox Family Dentistry",
+  "city": "Bowling Green",
+  "state": "KY",
+  "url": "coxfamilydentistrybgky.com",
+  "verdict": "REJECT — Divi ©2026 modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Bowling Green Family Dentistry",
+  "city": "Bowling Green",
+  "state": "KY",
+  "url": "bowlinggreenfamilydental.com",
+  "verdict": "REJECT — \"Heartland\" string in source; modern; DSO suspect",
+  "approx_score": 0
+ },
+ {
+  "name": "Affordable Dentures & Implants Bowling Green",
+  "city": "KY",
+  "state": "",
+  "url": "—",
+  "verdict": "REJECT — DSO",
+  "approx_score": 0
+ },
+ {
+  "name": "Roberts Family Dentistry",
+  "city": "Wichita",
+  "state": "KS",
+  "url": "robertsfamilydentistry.com",
+  "verdict": "EXCLUDED — prior round",
+  "approx_score": 0
+ },
+ {
+  "name": "Robert H. Dakin Jr DDS (Comprehensive Family Dentistry)",
+  "city": "Wichita",
+  "state": "KS",
+  "url": "dakindds.com",
+  "verdict": "bot-walled 403; PENDING",
+  "approx_score": 35
+ },
+ {
+  "name": "Detmer Family Dentistry",
+  "city": "Maize",
+  "state": "KS",
+  "url": "detmerfamilydentistry.com",
+  "verdict": "bot-walled 403; PENDING (3 Detmers, family)",
+  "approx_score": 35
+ },
+ {
+  "name": "Dold Family Dental",
+  "city": "Wichita",
+  "state": "KS",
+  "url": "doldfamilydental.com",
+  "verdict": "PENDING — curl 202 empty; render",
+  "approx_score": 45
+ },
+ {
+  "name": "Envy Dental",
+  "city": "Wichita",
+  "state": "KS",
+  "url": "envydental.net",
+  "verdict": "REJECT — Elementor ©2026",
+  "approx_score": 20
+ },
+ {
+  "name": "Midwest Dental Wichita",
+  "city": "KS",
+  "state": "",
+  "url": "midwest-dental.com",
+  "verdict": "REJECT — DSO (Smile Brands)",
+  "approx_score": 0
+ },
+ {
+  "name": "Michael P. Rack DDS",
+  "city": "Topeka",
+  "state": "KS",
+  "url": "mprackdds.com",
+  "verdict": "PENDING — ©2026 small 60KB; check look",
+  "approx_score": 45
+ },
+ {
+  "name": "Jowett & Lewis Family Dentistry",
+  "city": "Topeka",
+  "state": "KS",
+  "url": "jlfamilydentistry.com",
+  "verdict": "REJECT — Elementor modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Topeka Dentistry",
+  "city": "Topeka",
+  "state": "KS",
+  "url": "thetopekadentistry.com",
+  "verdict": "REJECT — Elementor modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Exo Dental",
+  "city": "Topeka",
+  "state": "KS",
+  "url": "exodental.com",
+  "verdict": "REJECT — multi-loc group",
+  "approx_score": 20
+ },
+ {
+  "name": "Enclave Dental",
+  "city": "Southlake",
+  "state": "TX",
+  "url": "enclavedental.com",
+  "verdict": "PENDING — TNT-style keyword-spam title \"Dentist Southlake | Dentist Near Me | Local Dentist | Dentist Office Near Me | Cost of Dental Care | Enclave Dental\"; check age/docs",
+  "approx_score": 45
+ },
+ {
+  "name": "Dr. Biedermann (Keller family/laser)",
+  "city": "Keller",
+  "state": "TX",
+  "url": "docbiedermann.com",
+  "verdict": "bot-walled 403; PENDING",
+  "approx_score": 35
+ },
+ {
+  "name": "Holt Dental Care",
+  "city": "Southlake",
+  "state": "TX",
+  "url": "holtdentalcare.com",
+  "verdict": "PENDING — custom holtdental theme ©2026, 43KB; check",
+  "approx_score": 45
+ },
+ {
+  "name": "Southlake Dental Care & Wellness",
+  "city": "Keller/Southlake",
+  "state": "TX",
+  "url": "southlakedentaltexas.com",
+  "verdict": "PENDING — Sesame 24-7",
+  "approx_score": 48
+ },
+ {
+  "name": "Wright Smiles (since 1992)",
+  "city": "Southlake",
+  "state": "TX",
+  "url": "wrightsmiles.com",
+  "verdict": "REJECT — X-theme WP Rocket ©2026 modern, multi-doc",
+  "approx_score": 20
+ },
+ {
+  "name": "Fuqua Advanced Dental",
+  "city": "Southlake/Colleyville",
+  "state": "TX",
+  "url": "fuquaadvanceddental.com",
+  "verdict": "REJECT — Einstein ©2026 modern",
+  "approx_score": 20
+ },
+ {
+  "name": "1st In Smiles (since 1988)",
+  "city": "Plano",
+  "state": "TX",
+  "url": "1stinsmiles.com",
+  "verdict": "bot-walled 403; PENDING",
+  "approx_score": 35
+ },
+ {
+  "name": "Uptown Cosmetic + Implant Dentistry (Velasco, prosth)",
+  "city": "Houston",
+  "state": "TX",
+  "url": "uptowncosmeticimplantdentistry.com",
+  "verdict": "REJECT — Elementor/Genesis custom ©2026",
+  "approx_score": 20
+ },
+ {
+  "name": "Sergio Ortegon DDS MS (prosth)",
+  "city": "Bellaire/Houston",
+  "state": "TX",
+  "url": "implantshouston.dental",
+  "verdict": "REJECT — DentalQore-type \"charlie\" theme ©2026 modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Bellaire Modern Dental",
+  "city": "Houston",
+  "state": "TX",
+  "url": "bellairemoderndental.com",
+  "verdict": "REJECT — Squarespace, name pattern \"Modern Dental\" (PDS suspect)",
+  "approx_score": 20
+ },
+ {
+  "name": "Bellaire Dental Group",
+  "city": "Bellaire TX",
+  "state": "",
+  "url": "bellairedentalgroup.com",
+  "verdict": "EXCLUDED — prior round",
+  "approx_score": 0
+ },
+ {
+  "name": "The Houston Dentists (Frazar)",
+  "city": "Bellaire TX",
+  "state": "",
+  "url": "drfrazar.com",
+  "verdict": "EXCLUDED — prior round",
+  "approx_score": 0
+ },
+ {
+  "name": "Carrie Muzny DDS",
+  "city": "The Woodlands",
+  "state": "TX",
+  "url": "carriemuznydds.com",
+  "verdict": "REJECT — Beaver Builder ©2026, modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Woodsprings Dentistry",
+  "city": "The Woodlands",
+  "state": "TX",
+  "url": "woodspringsdentistry.com",
+  "verdict": "REJECT — Squarespace ©2025 multi-doc modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Woodlands Family Dental",
+  "city": "The Woodlands",
+  "state": "TX",
+  "url": "woodlandsdental.com",
+  "verdict": "PENDING — check",
+  "approx_score": 45
+ },
+ {
+  "name": "Robert Dernick DDS (since 1979)",
+  "city": "The Woodlands",
+  "state": "TX",
+  "url": "drdernickthewoodlandsdentist.com",
+  "verdict": "PENDING — Jupiter/WPBakery theme, dentalmarketing.com trace, ©2026; medium gap",
+  "approx_score": 45
+ },
+ {
+  "name": "Bailey Dental Group",
+  "city": "Cypress/Woodlands",
+  "state": "TX",
+  "url": "thebaileydentalgroup.com",
+  "verdict": "REJECT — multi-loc group, modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Montgomery Dental Center (since 1987)",
+  "city": "Montgomery/Conroe",
+  "state": "TX",
+  "url": "montgomerydentalcenter.com",
+  "verdict": "PENDING — TNT, \"©2016\"; small-town market (Lake Conroe); check income",
+  "approx_score": 50
+ },
+ {
+  "name": "Plaisance & Bostick Family Dentistry (since 1980)",
+  "city": "River Ridge/Harahan (New Orleans)",
+  "state": "LA",
+  "url": "riverridgesmiles.com",
+  "verdict": "PENDING — TNT; NOLA metro belongs to Southeast/other? in prior-round south-central; multi-doc",
+  "approx_score": 45
+ },
+ {
+  "name": "Heart of Texas Smiles (Lassetter/Enneking)",
+  "city": "Waco",
+  "state": "TX",
+  "url": "wacofamilydental.com",
+  "verdict": "PENDING — TNT, multi-doc",
+  "approx_score": 45
+ },
+ {
+  "name": "Dental Station Family Dentistry",
+  "city": "Waco",
+  "state": "TX",
+  "url": "dentalstationwaco.com",
+  "verdict": "PENDING — TNT; low priority",
+  "approx_score": 45
+ },
+ {
+  "name": "Pasadena Family Dentistry (3 docs)",
+  "city": "Pasadena",
+  "state": "TX",
+  "url": "pasadenafamilydentistry.com",
+  "verdict": "PENDING — TNT; lower-income market",
+  "approx_score": 45
+ },
+ {
+  "name": "Dallas Esthetics (Hildebrand) prosthodontics",
+  "city": "Dallas (Preston Rd)",
+  "state": "TX",
+  "url": "dallasesthetics.com",
+  "verdict": "REJECT — ©2024 modern-ish site, title \"Home\" (weak title though); check later",
+  "approx_score": 20
+ },
+ {
+  "name": "Carroll R. Butler DDS",
+  "city": "Kerrville",
+  "state": "TX",
+  "url": "carrollbutlerdds.com",
+  "verdict": "LOW — TNT; small market",
+  "approx_score": 40
+ },
+ {
+  "name": "CityLine Dental Center",
+  "city": "Richardson",
+  "state": "TX",
+  "url": "citylinedentalcenter.com",
+  "verdict": "LOW — TNT; multi-doc, no © year",
+  "approx_score": 40
+ },
+ {
+  "name": "Aegis Dental",
+  "city": "Carrollton",
+  "state": "TX",
+  "url": "familydentistcarrollton.com",
+  "verdict": "LOW — TNT ©2021, young",
+  "approx_score": 40
+ },
+ {
+  "name": "Nelson Dental Care",
+  "city": "Metairie",
+  "state": "LA",
+  "url": "nelsondentalcarela.com",
+  "verdict": "LOW — TNT; no year",
+  "approx_score": 40
+ },
+ {
+  "name": "Stonebriar Smile Design",
+  "city": "Frisco",
+  "state": "TX",
+  "url": "stonebriarsmiledesign.com",
+  "verdict": "REJECT — ©2026 modern",
+  "approx_score": 20
+ },
+ {
+  "name": "Alamo Springs Dental",
+  "city": "San Antonio",
+  "state": "TX",
+  "url": "alamospringsdental.com",
+  "verdict": "LOW — TNT ©2021, young practice",
+  "approx_score": 40
+ },
+ {
+  "name": "ARK Family Dentistry",
+  "city": "Aledo",
+  "state": "TX",
+  "url": "arkfamilydentistry.com",
+  "verdict": "LOW — TNT ©2016 small-town",
+  "approx_score": 40
+ }
+]

@@ -30,3 +30,179 @@ Format: one line per candidate — Name | Town, ST | URL | verdict-so-far
 - Wyomissing Dentistry | Wyomissing PA | wyomissingdentistry.com | REJECT — Squarespace, low priority
 - Penn's Commons Dental Group | Wyomissing/Reading PA | pennscommonsdental.com | pending — Dentalfone + WP layerslider ©2013-2026
 - Aspen Dental Wyomissing | Wyomissing PA | aspendental.com | REJECT — DSO Aspen
+- Smile Plus Dentistry | Camp Hill, PA | smileplusdentistry.net | REJECT — modern WP "charlie" theme ©2026
+- Bowser Dentistry | York, PA | bowserdentistry.com | REJECT — modern WP charlie theme ©2026
+- Highlandtown Dental Group | Baltimore, MD | highlandtowndentalgroup.com | REJECT — modern charlie theme; multi-loc
+- Yorktowne Dental Family Practice | York PA | yorktownedental.com | low priority — 329KB modern-looking page; pending
+- Shadyside Dentists (Hawranko) | Pittsburgh PA | shadysidedentists.com | bot-walled; pending
+- John L. Waldman DMD Prosthodontist | Pittsburgh (Squirrel Hill), PA | pittsburghsmilemakeover.com | CANDIDATE — Bootstrap3-era site, prosthodontist; verify
+- Renee Stewart DDS | Pittsburgh 15220 (Green Tree), PA | southhillsdentist.com | pending — 34KB small site
+- Oakland Aesthetic Dentistry | Pittsburgh PA | oaklandaestheticdentistry.com | REJECT — Duda/Squarespace generic; check indep later (low)
+- South Vue Dentistry | Upper St Clair PA | southvuedentistry.com | pending (202)
+- Pearl Dentistry of Bethel Park | Bethel Park PA | dentistbethelpark.com | REJECT — "Pearl Dentistry" brand (multi-loc), modern pro theme ©2026
+- South Hills Dental Arts | Upper St Clair PA | southhillsdentalarts.com | REJECT — modern pro theme ©2026
+- Cranberry Dental Studio | Cranberry Twp PA | cranberrydentalstudio.com | REJECT — Avada WP7 modern; 20 yrs
+- Cranberry Dental Arts | Cranberry Twp PA | cranberrydentalarts.com | REJECT — modern
+- Clopp Dentistry | Cranberry Twp PA | drmichaelclopp.com | bot-walled; est 2002; low priority
+- Wallengren DDS | Roland Park, Baltimore MD | rolandparkdentistry.com | REJECT — Ekwa WP modern ©2026
+- Smile Garden Dental Center (Dr. Erlinda Jameson) | Roland Park/Towson MD | smilegardendentalcenter.com | CANDIDATE — tiny 7.9KB legacy page; verify
+- Be More Dental | Baltimore MD | bemoredental.com | REJECT — modern
+- Federal Hill Smiles | Baltimore MD | federalhillsmiles.com | REJECT — SEO agency site modern
+- Dental Care Burke (Bernard Lynch) | Burke VA | dentalcareburke.com | REJECT — MB2 string in HTML (DSO MB2)
+- Shield Dental Care | Burke VA | shielddentalcare.com | REJECT — modern ©2026
+- Burke Dental | Burke VA | burkedental.com | REJECT — modern template ©2026 (Ghanavati)
+- MM Dentistry | Burke VA | mmdentistry.com | low priority — 72KB modern-ish
+- Revive Dental Arts | Burke VA | revivedentalartsburke.com | pending — 25KB old-looking site
+- Kings Park Dental Center | Burke VA | burkefamilydentistry.com | REJECT — templated modern ©2026
+- Cosmetic Dental Associates of Burke | Burke/Springfield VA | cosmeticdentistburke.com | REJECT — modern
+- Gainesville Dental Associates | Gainesville VA | gainesvilledentalassociates.com | pending — theme "loudondental", Bootstrap 3 glyphicons
+- Gainesville Family Dentistry (Goswami) | Gainesville VA | gvillefamilydentistry.com | bot-walled; pending
+- Awesome Smiles Dental Center | Gainesville VA | awesomesmilesva.com | REJECT — dentalqore modern ©2026 (multi?)
+- Heritage Hunt Dental | Gainesville VA | heritagehuntdental.com | bot-walled; pending
+- Haymarket Family & Cosmetic | Haymarket VA | myhaymarketsmiledr.com | pending recheck
+- Dentists of Bristow | Bristow VA | dentistsofbristow.com | pending — "Dentists of ..." brand pattern (PDS?) — likely REJECT
+- Neal Dental Care | Bristow VA | nealdentalcare.com | pending — Doctor Genius vendor
+- Federal Hill/Canton Dental Associates | Baltimore MD | cantondentalassociates.com | pending (no connect)
+- My Frederick Dentist | Frederick, MD | myfrederickdentist.com | CANDIDATE — TNT Dental, title "Dentist Frederick, MD | Dentist Near Me | Local Dentist | ... | Cost of Dental Care | My Frederick Dentist"; verify docs/est
+- Dental Associates of Delaware | Wilmington/Hockessin/Middletown DE | dentalassociatesofdelaware.com | pending — TNT Dental, 6 offices, 40+ yrs; check indep (group)
+- Frank J. Varanelli DDS | Winchester VA | frankvaranellidds.com | CANDIDATE — ProSites engine; verify est/reviews
+- Riverwind Dental | Henrico (Richmond) VA | riverwinddental.com | pending — WEO Media (.asp p/ URLs); check est/reviews
+- Dental Arts of Delaware | Newark DE | dentalartsofdelaware.com | CANDIDATE — WordPress 5.7.19 (unsupported), Avada, Slider Rev 6.4.6; verify
+- Pruden Family Dentistry | Suffolk VA | prudenfamilydentistry.net | pending — small 29KB site
+- Battlefield Family Dentistry | Chesapeake VA | battlefielddds.com | pending — small 29KB site
+- Howell Dentistry (R. L. Howell DDS) | Suffolk VA | rlhdds.com | pending — since 1959, Enfold theme
+- Greenbrier Dental Center | Chesapeake VA | greenbrierdental.com | pending — since 1985, Duda
+- Chesapeake Family & Implant Dentistry | Chesapeake VA | chesapeakefamilydentistry.com | pending
+- Eastern Virginia Family & Cosmetic Dentistry | Chesapeake VA | evadental.com | pending — multi-loc?
+- The Foleck Center | Suffolk/Norfolk VA | thefoleckcenter.com | pending — salient theme; multi-loc, check DSO
+- Cox Family Dentistry & Ortho | Fredericksburg VA | coxfamilydentists.com | REJECT — theme smile-brands-d1 (Smile Brands DSO)
+- Monument Family Dentistry | Richmond VA | richmonddentistry.com | EXCLUDED — prior round (Monument Family Dentistry)
+- Westover Dentistry | Richmond VA | westoverdentistry.com | REJECT — Duda modern; keyword-heavy but multi-vendor
+- Advanced Dentistry of Richmond | Richmond VA | advanceddentistryofrichmond.com | REJECT — Elementor ©2026 modern
+- Dr. C Advanced Dental Care | Richmond VA | drcrichmonddentistry.com | REJECT — modern pro theme
+- Commonwealth Dentistry | Suffolk/Central VA | commonwealth-dentistry.com | REJECT — Divi modern, multi-loc
+- Gwaltney Dental | Suffolk VA | gwaltneydental.net | REJECT — codebase-2 modern
+- LWSS Family Dentistry | Suffolk VA | lwsssuffolk.com | REJECT — multi-loc/modern
+- Maryland Dental Center | Silver Spring MD | marylanddentalcenter.com | REJECT — multi-loc/modern
+- Smiles of Delaware (Newark) | Newark DE | smilesofdelaware.com | bot-walled; pending
+- Westover Family Dentistry | Winchester VA | westoverfamilydentistry.com | REJECT — Elementor modern
+- Shenandoah Family Dentistry | Winchester VA | winchestersmiles.com | REJECT — generatepress modern
+- Smiles of Virginia | Winchester VA | smilesofvirginia.com | REJECT — pro theme modern
+- Winchester Dental / Rutherford Family Dental | Winchester VA | wincdental.com / rutherfordfamdental.com | bot-walled; pending
+- Salem Fields Family Dental | Fredericksburg VA | salemfieldsdental.com | bot-walled; low priority
+- DC Dental Care (Culda, prosthodontist) | Fredericksburg VA | dcdentalcare.us | bot-walled; pending
+- Heritage Dental | Fredericksburg VA | heritagedentalva.com | bot-walled; pending
+- Frederick Dental Group | Frederick MD | frederickdentalgroup.net | bot-walled; low priority
+- Center for Restorative, Cosmetic & Implant Dentistry | Chesapeake VA | crcid.com | bot-walled; 3 locs — pending
+- Vibrant Smile Dentistry | Norfolk VA | vibrantsmiledentistry.com | pending
+- Capitol Hill Dentistry | Washington DC | thecapitolhilldentistry.com | CANDIDATE — Divi, "COPYRIGHT © 2018 ALL RIGHTS RESERVED" frozen, serving since 1978 per search
+- Elite Prosthetic Dentistry (Gerald Marlin) | Cleveland Park DC | eliteprostheticdentistry.com | REJECT — modern ©2026 (also 40+ yrs)
+- Georgetown Cosmetic Dentistry | DC | georgetowndentistry.com | REJECT — modern WP
+- Pia Dental (Judy Penski) | DC | piadental.com | bot-walled; pending
+- DC Smile Center | DC | dcsmilecenter.com | bot-walled; low priority
+- Georgetown Dental Studio / Markowitz Dental | DC | georgetowndentalstudio.net / markowitzdental.com | bot-walled; pending
+- Simpson Dental | Charleston WV | wvsmiles.com | pending — Astra/Elementor; since 1948
+- Howard & Howard Dental | Charleston WV | howardandhowarddental.com | pending — Divi, footer "© 2020 Internet Marketing and SEO by"
+- Revive Dental & Implant Center (Boustany prosth.) | Charleston WV | revivedentalimplantcenters.com | REJECT — codebase-2 modern
+- Charleston WV Cosmetic Dentist | S Charleston WV | charlestonwvcosmeticdentist.com | bot-walled; pending
+- Annapolis Dental Associates | Annapolis MD | annapolisdentalassociates.net | pending — "©2004-2026", title "Dentist Near Me | Dentist Office Near Me | Annapolis, MD"
+- Chesapeake Bay Dentistry | Annapolis MD | chesapeakebaydentistry.com | pending — Great Dental Websites
+- Annapolis Dental Care | Annapolis MD | annapolisdentalcare.com | REJECT — 'awi' theme modern
+- Edgewater Dental Arts | Edgewater MD | edgewaterdentalarts.com | REJECT — modern-ish custom ©2026
+- Annapolis Smiles | Arnold MD | annapolisdentistdds.com | REJECT — modern
+- Riverfront Family Dental (Chambers) | Annapolis MD | chambersfamilydentistry.com | REJECT — modern template
+- Ruland Family Dentistry | Annapolis MD | rulandfamilydentistry.com | bot-walled; low priority
+- PearlFection Dentistry | Frederick MD | pearlfectiondentistry.com | bot-walled; since 1977; pending
+- Frederick Cosmetic & Family (Fohl) | Frederick MD | frederickcosmeticdds.com | bot-walled; pending
+- Esthetique Dentistry Frederick | Frederick MD | esthetiquedentistryfrederick.com | pending — WP 6.8.10, ©2024
+- Frederick Center for Dentistry | Frederick MD | frederickcenterfordentistry.com | REJECT — codebase-2 modern
+- Worman's Mill Dental Group | Frederick MD | wormansmilldentalgroup.com | bot-walled; low priority
+- Philly Smiles | Philadelphia (Rittenhouse) PA | phillysmiles.com | pending — 30+ yrs, 80KB site
+- Philadelphia Dentistry (phillydentistry.com) | Philadelphia PA | phillydentistry.com | REJECT — modern WP blankslate 2024 redesign
+- Dentistry For Life | Philadelphia PA | dentistryforlife.net | REJECT — Elementor modern
+- Dentists on the Square (Joseph Roberts) | Philadelphia PA | dentistsonthesquare.com | pending — 126KB, laser/implants
+- Rittenhouse Smiles | Philadelphia PA | rittenhousesmiles.com | REJECT — Salient WPBakery modern
+- The Dental Spa | Philadelphia/Bryn Mawr PA | phillydentalspa.com | REJECT — Divi ©2026 modern, multi-loc
+- Rittenhouse Dental Group | Philadelphia PA | rittenhousedentist.com | REJECT — Astra modern
+- Center City Philly Dentist | Philadelphia PA | centercityphillydentist.com | low priority
+- Advanced Dental Concepts (Sander White DDS) | Broomall PA | drwhitesmile.com | REJECT — custom WP modern, 50+ yrs but effective site
+- Bachstein Dental Esthetics | Newtown Square PA | bachsteindental.com | pending — Accessibility-plugin vendor site (GDW-like)
+- Jeffrey J. Price DMD | Newtown Square PA | newtownsquaredentist.com | CANDIDATE — tiny 10KB legacy site; verify
+- Newtown Square Family Dentistry (Dr. Najibe Dow) | Newtown Square PA | newtownsqfamilydentistry.com | CANDIDATE — Drupal 7 (EOL); verify
+- Edward Chermol DDS | Newtown Square PA | chermoldentistry.com | bot-walled; est 1990 (father 1961); pending
+- Family Friendly Dental | Newtown Square/Springfield PA | familyfriendlydental.com | bot-walled; owner bought 2005; low priority
+- Smile Shop Newtown | Newtown PA | smileshopnewtown.com | bot-walled; 35 yrs; pending
+- Bucks County Smiles | Yardley PA | buckscountysmiles.com | REJECT — Elementor 'dental-visions' modern
+- Bucks County Dental Design (Spadafora) | Richboro PA | buckscountydentaldesign.com | REJECT — Elementor modern
+- Yardley Dental Arts | Yardley PA | yardleydentalarts.com | REJECT — custom modern (mb2 string? no)
+- Main Line Center for Dental Excellence | Narberth PA | mainlinedentalhealth.com | bot-walled; NOTE Main Line Dental Health & Wellness is excluded (Bryn Mawr) — likely same/sister -> EXCLUDED risk
+- Bala Oral Health Center | Bala Cynwyd PA | balaoralhealthcenter.com | REJECT — Thryv; small
+- Steven Melman DMD | Bala Cynwyd PA | stevenmelmandmd.com | REJECT — bb-theme modern
+- Dental Arts of Chestnut Hill / Chestnut Hill Smile / City Line Dentistry | Philadelphia PA | bot-walled; low priority
+- Lutherville Dental | Timonium MD | luthervilledental.com | REJECT — modern
+- Weiss Family Dentistry | Cockeysville MD | drweissdentistry.com | REJECT — Elementor 'dentia' modern
+- Valley Dental Health | Hunt Valley MD | valleydentalhealth.com | REJECT — codebase-2 modern
+- Charm City Smiles | Lutherville MD | charmcitysmilesmd.com | pending — 25KB small template site
+- Mor Smiles | Lititz PA | morsmiles.com | REJECT — Elementor modern
+- Springer Family Dentistry | Ephrata PA | springerdental.com | pending — Sesame
+- Family Dentistry of Ephrata | Ephrata PA | familydentistryephrata.com | pending — legacy static .html URLs
+- Lancaster Dental Arts | Lancaster PA | lancasterdentalarts.com | low priority
+- Dentists on the Square | Philadelphia PA | dentistsonthesquare.com | REJECT — Webflow ©2025 modern
+- Uptown Dental (Chory/Racic) | Mt. Lebanon PA | uptown.dental | bot-walled; pending
+- Fox Chapel Dentistry / Advanced Dental Care | Fox Chapel PA | foxchapeldentistry.com | pending — ProSites engine (McNeil Dental is excluded—separate?)
+- Murrysville Dental Center | Murrysville PA | murrysville-dental.com | pending
+- Center One Dental | Canonsburg PA | centeronedental.com | CANDIDATE — TNT Dental, "Copyright © 2018", title "Dentist Canonsburg, PA | Dentist Near Me | Local Dentist | ... | Cost of Dental Care | Center One Dental"
+- Margaret A. Beamer DDS | Canonsburg PA | margaretabeamerdds.com | CANDIDATE — 30+ yrs, Pittsburgh Magazine Top Dentist 2007-2024, footer "©2019" frozen; solo; verify
+- Krah Family Dentistry | McMurray PA | krahfamilydentistry.com | REJECT — Elementor headstart-ez modern
+- McMurray Family Dental (Spatz) | McMurray PA | mcmurrayfamilydental.com | REJECT — modern pro theme
+- Valleybrook Dental | McMurray PA | valleybrookdental.com | pending — ProSites engine
+- Snee Dental Associates | Washington PA | sneedentalassociates.com | pending — Thryv
+- Dr. Kira Toulson Dental Care of Baltimore | Owings Mills MD | drkiratoulson.com | bot-walled; low priority
+- Smile Forever Dentistry | Owings Mills MD | smileforeverdentistry.com | bot-walled; multi-specialty; low
+- My Fairfax Dental (Hang Le) | Fairfax VA | myfairfaxdental.com | REJECT — 15 yrs, WPBakery; not established enough
+- Laura Ki DDS | Chantilly VA | drlauraki.com | REJECT — domain hijacked (slot spam title)
+- Dentists of Centreville | Centreville VA | dentistsofcentreville.com | REJECT — "Dentists of ..." brand + fortuna theme = PDS pattern
+- Dentists of Bristow | Bristow VA | dentistsofbristow.com | REJECT — same PDS pattern (fortuna theme)
+- Modern Dentistry Richmond | Chesterfield VA | moderndentistryrichmond.com | REJECT — "Modern Dentistry" PDS pattern
+- Midlothian Dental Center | Midlothian VA | midlothiandentalcenter.com | REJECT — footer "a division of" (DSO)
+- Village Dental of Leesburg | Leesburg VA | dentistryofleesburg.com | REJECT — "Village Dental" group
+- Leesburg Dental (Loza) | Leesburg VA | leesburgdental.com | REJECT — Divi modern
+- Leesburg Spa Dentistry | Ashburn VA | leesburgspadentistry.com | low priority
+- Family First Smiles | Leesburg VA | familyfirstsmiles.com | REJECT — Medicaid-focused, modern
+- Leesburg Family & Cosmetic | Leesburg VA | smilesinleesburg.com | REJECT — dentalqore modern
+- Cochran Family Dental | Leesburg VA | theleesburgvadentist.com | REJECT — Astra modern
+- Ashbrook Center for Dentistry | Leesburg VA | ashbrookdentistry.com | pending — ProSites engine
+- Virginia Family Dentistry | Richmond VA | vadentist.com | REJECT — multi-office, modern blocksy
+- Cherrydale Dental | Mechanicsville VA | cherrydaledentalrva.com | bot-walled; low
+- Dr. Avi Gibberman | Glen Allen VA | dravigibberman.com | pending — ProSites engine
+- Friends & Family Dentistry | Ashburn VA | friendsandfamilydentistry.com | unreachable; low
+## Pipeline note: web search budget exhausted mid-run; switched to YellowPages city directories -> mass raw-HTML fingerprint (fp2.py) -> filter on vendor/frozen-(c)/legacy-CMS/small-site signals. Sweep-level lines follow.
+- Klein Family Dentistry | Harrisburg PA | kleinfamilydentistry.com | CANDIDATE — TNT Dental, ©2017, "since 1979", 4 Drs
+- Friedman, Grater & Sisler Family Dentistry | Harrisburg PA | friedmangrater.com | CANDIDATE — Milestone/TeleVox, 35KB legacy, 3 Drs
+- Moffett Dental Center (William Moffett DDS) | Harrisburg PA | moffettdental.com | candidate-lite — Milestone/TeleVox solo
+- Fetterolf Dental Medicine | Harrisburg PA | fetterolfdentalmedicine.com | candidate-lite — Sesame, 3 Drs
+- Meetinghouse Dental / Hatboro Integrative Dentistry (Trovato) | Hatboro PA | meetinghousedental.com | CANDIDATE — ProSites, 5 Drs
+- Lansdale Dental PC (Varma) | Lansdale PA | lansdaledentalpc.com | candidate-lite — ProSites
+- All Smiles Family Dentistry | Lansdale PA | allsmileslansdale.com | candidate-lite — ProSites
+- Nyce Tolley & Lorenzo | Lansdale PA | nycetolleylorenzo.com | candidate-lite — Milestone/TeleVox 27KB
+- Main Line Dental Aesthetics (James Godorecci DMD) | Paoli PA | paolidentist.com | CANDIDATE — ProSites, title "Dentist in Paoli, PA | Main Line Dental Aesthetics"
+- SV Dental (Theresa Smith DDS) | Paoli PA | svdental.com | candidate-lite — Sesame 21KB
+- James J. Gentile PC (Prosthodontist) | Media PA | jjgdds.com | CANDIDATE — tiny 4KB legacy site, prosthodontist
+- Michael S. Mullaney DMD | Media PA | drmullaney.net | candidate-lite — Officite 23KB
+- Aronimink Dental Health (Frank Lavalla) | Newtown Square PA | aroniminkdentalhealth.com | CANDIDATE — 9KB legacy site, 27+ yrs
+- Dr. Robert Marus DDS Advanced Cosmetic | Yardley PA | drmarus.com | CANDIDATE — 7KB legacy site
+- ByDesign Dental (Mogyoros) | King of Prussia PA | bydesigndental.com | candidate-lite — 6.7KB implant center
+- Leslie J. Green DMD | King of Prussia PA | drlesgreen.com | candidate-lite — Milestone/TeleVox, ~30 yrs
+- CMB Family Dentistry (Alter) | Broomall PA | cmbdental.com | CANDIDATE — Milestone/TeleVox, 40 yrs, 4 Drs
+- Adam Dai DMD | Havertown PA | adamdaidental.com | candidate-lite — Great Dental Websites, ~40 yrs
+- Graff & Heier | Malvern PA | drsgraffandheier.com | CANDIDATE — http-only tiny site
+- Bluestone Dental | Reading PA | bluestonedental.com | candidate-lite — Thryv, since 1985
+- Red Lion Dental | Red Lion/York PA | redliondental.com | REJECT — DentalQore modern
+- York Smile Care | York PA | yorksmilecare.com | candidate-lite — TNT, ~25 yrs
+- Muhlenberg Dental Associates | Reading PA | muhlenbergdental.com | candidate-lite — Doctor Genius
+- Cramer Dental | Blue Bell PA | smilesbycramer.com | candidate-lite — 39KB, since 1984
+- Dentistry of Bucks County (Jeffrey Brenner) | Newtown PA | dentistryofbuckscounty.com | candidate-lite — 39KB, 40 yrs
+- Kovaleski Dental | Camp Hill PA | kovaleskidentalsuite.com | candidate-lite — 12KB
+- Pastucka Dental Associates | New Cumberland PA | pastuckadentalassociates.com | candidate-lite — 8.8KB
+- Cares For Smiles (Schmuckler) | Newtown Square PA | caresforsmiles.com | candidate-lite — Weebly, 25-40 yrs
+- Marketstreet Dental / Cheryl Miller DDS / Alan Yeung DDS | PA | various | candidate-lite — Thryv

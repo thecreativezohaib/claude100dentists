@@ -1,0 +1,874 @@
+[
+ {
+  "name": "Pasadena Smiles (Spero/Koutchek)",
+  "city": "Pasadena",
+  "state": "CA",
+  "url": "https://www.pasadena-smiles.com/",
+  "verdict": "VIABLE-bench: ProSites v4 engine, 2 locations, implant fellowships, est ~1995; reviews UNKNOWN",
+  "approx_score": 62
+ },
+ {
+  "name": "Almaden Dental Associates",
+  "city": "San Jose",
+  "state": "CA",
+  "url": "https://www.almadendental.com/",
+  "verdict": "VIABLE-bench: 35+ yrs, 4 docs, 24KB template; leftover comment 'REMOVE COMMENTS TO ADD EMBED CODE... PASTE YELP OR VIDEO CODE'; \u00a92026 current",
+  "approx_score": 60
+ },
+ {
+  "name": "Millbrae Dental Care (Dr. Sherry Tsai)",
+  "city": "Millbrae",
+  "state": "CA",
+  "url": "https://www.millbraedental.com/",
+  "verdict": "VIABLE-bench: solo neuromuscular, cluttered dated site, Bitcoin/AfterPay payment blocks; tenure UNKNOWN",
+  "approx_score": 60
+ },
+ {
+  "name": "Pasadena Family Cosmetic & Implant Dentistry",
+  "city": "Pasadena",
+  "state": "CA",
+  "url": "https://pasadenadental.com/",
+  "verdict": "VIABLE-bench: '\u00a9 2015 Pasadena Family Dental' ONE Strategy; doctors not named on site",
+  "approx_score": 58
+ },
+ {
+  "name": "Creative Dentistry of Santa Rosa (Drs. Chin/Ko)",
+  "city": "Santa Rosa",
+  "state": "CA",
+  "url": "https://creativedentistrysantarosa.com/",
+  "verdict": "VIABLE-bench: Vigorant site, 25+ yrs, ratingCount 162 (4.5); generic '#1 Dental Service' claims",
+  "approx_score": 58
+ },
+ {
+  "name": "Young Dental Group",
+  "city": "San Mateo",
+  "state": "CA",
+  "url": "https://www.youngdentalgroup.com/",
+  "verdict": "VIABLE-bench: since 1985, 138 Google reviews 5.0, Squarespace; PPO-heavy low ticket",
+  "approx_score": 56
+ },
+ {
+  "name": "Mid Peninsula Dental Care (Dr. Kehan Li)",
+  "city": "San Mateo",
+  "state": "CA",
+  "url": "https://www.midpeninsuladentalcare.com/",
+  "verdict": "VIABLE-bench: ProSites engine, solo, est UNKNOWN",
+  "approx_score": 57
+ },
+ {
+  "name": "Tustin Smile Care",
+  "city": "Tustin",
+  "state": "CA",
+  "url": "https://www.tustinsmilecare.com/",
+  "verdict": "REJECT-low: 'Copyright & Copy; 2018' broken entity, 17 yrs only",
+  "approx_score": 50
+ },
+ {
+  "name": "Clark General & Implant Dentistry",
+  "city": "Visalia",
+  "state": "CA",
+  "url": "https://cgivisalia.com/",
+  "verdict": "BENCH: Optima site, solo, LANAP/sedation; est UNKNOWN",
+  "approx_score": 52
+ },
+ {
+  "name": "Fred Stillings DMD",
+  "city": "Meridian",
+  "state": "ID",
+  "url": "https://www.fredstillings.com/",
+  "verdict": "BENCH: mid-2010s site, husband/wife, low-ticket affordability positioning",
+  "approx_score": 48
+ },
+ {
+  "name": "Design Dental Smiles (Dr. Wahedi)",
+  "city": "Petaluma",
+  "state": "CA",
+  "url": "https://www.designdentalsmiles.com/",
+  "verdict": "REJECT: owner recently purchased practice; ProSites; <20 yrs ownership",
+  "approx_score": 50
+ },
+ {
+  "name": "Boise Prosthodontics (Gurney/Jones)",
+  "city": "Meridian",
+  "state": "ID",
+  "url": "https://www.idahoimplant.com/",
+  "verdict": "REJECT: elite creds, 209 reviews, 17 staff but site is 2024-25 WP (Key Design Websites); weak-site gap too small; ~2016 founding",
+  "approx_score": 55
+ },
+ {
+  "name": "Innovation Dental (Haymore)",
+  "city": "Oro Valley",
+  "state": "AZ",
+  "url": "https://www.innovationdentalov.com/",
+  "verdict": "REJECT: 30+ yrs but Art of Dental Marketing modern site; insurance-heavy",
+  "approx_score": 50
+ },
+ {
+  "name": "BioSmiles (Dr. Petersen)",
+  "city": "Eagle",
+  "state": "ID",
+  "url": "https://www.biosmiles.com/",
+  "verdict": "REJECT: Art of Dental Marketing modern site",
+  "approx_score": 40
+ },
+ {
+  "name": "Santa Fe Dental Group",
+  "city": "Santa Rosa/Petaluma",
+  "state": "CA",
+  "url": "https://www.santafedental.com/",
+  "verdict": "REJECT: est 2012, 2 locs, ProSites",
+  "approx_score": 45
+ },
+ {
+  "name": "Fair Oaks Family Dental / Sinai Dental",
+  "city": "Pasadena / Van Nuys",
+  "state": "CA",
+  "url": "https://www.fairoaksfamilydental.com/",
+  "verdict": "REJECT: multi-location group (Sinai Dental, est 1980/1995) - DSO risk, ProSites",
+  "approx_score": 40
+ },
+ {
+  "name": "Manhattan Beach Dental Esthetics",
+  "city": "Manhattan Beach",
+  "state": "CA",
+  "url": "https://dentalesthetics.net/",
+  "verdict": "REJECT: modern Elementor \u00a92026",
+  "approx_score": 30
+ },
+ {
+  "name": "Mav Dentistry",
+  "city": "Manhattan Beach",
+  "state": "CA",
+  "url": "https://mavdentistry.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Salo Manhattan Beach",
+  "city": "Manhattan Beach",
+  "state": "CA",
+  "url": "https://www.salomanhattanbeach.com/",
+  "verdict": "REJECT: modern Duda \u00a92026",
+  "approx_score": 30
+ },
+ {
+  "name": "Jonathan Ochi DDS",
+  "city": "Manhattan Beach",
+  "state": "CA",
+  "url": "https://jonathanochidds.com/",
+  "verdict": "REJECT: current \u00a92026",
+  "approx_score": 35
+ },
+ {
+  "name": "Experience Dental Implants (Kramer)",
+  "city": "Tustin",
+  "state": "CA",
+  "url": "https://experiencedentalimplants.com/",
+  "verdict": "REJECT: modern Elementor",
+  "approx_score": 30
+ },
+ {
+  "name": "Scripps Center for Dental Care",
+  "city": "La Jolla",
+  "state": "CA",
+  "url": "https://www.scrippsdentalcare.com/",
+  "verdict": "REJECT: modern custom, multi-specialty group",
+  "approx_score": 30
+ },
+ {
+  "name": "Encino Cosmetic Dental Group",
+  "city": "Encino",
+  "state": "CA",
+  "url": "https://www.encinocosmetic.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "Richard Hamaty DMD",
+  "city": "Yorba Linda",
+  "state": "CA",
+  "url": "https://www.richardhamatydmd.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "San Diego Prosthodontics",
+  "city": "La Mesa",
+  "state": "CA",
+  "url": "https://www.sandiegoprosthodontics.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "La Jolla Dental Boutique",
+  "city": "La Jolla",
+  "state": "CA",
+  "url": "https://www.lajolladentalboutique.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "John J. Myers DDS",
+  "city": "Yorba Linda",
+  "state": "CA",
+  "url": "https://www.jjmyersdds.com/",
+  "verdict": "REJECT-low: current site, title fine",
+  "approx_score": 35
+ },
+ {
+  "name": "Diana Fat DDS",
+  "city": "Sacramento",
+  "state": "CA",
+  "url": "https://www.dianafatdds.com/",
+  "verdict": "REJECT: modern Elementor",
+  "approx_score": 30
+ },
+ {
+  "name": "Land Park Dental",
+  "city": "Sacramento",
+  "state": "CA",
+  "url": "https://www.landparkdental.com/",
+  "verdict": "REJECT: Ekwa modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Sacramento Dentistry Group",
+  "city": "Sacramento",
+  "state": "CA",
+  "url": "https://sacramentodentistry.com/",
+  "verdict": "REJECT: modern Astro",
+  "approx_score": 30
+ },
+ {
+  "name": "Global Smiles / Perfect Smile / Blossom / GT Dental / Land Park Modern",
+  "city": "Sacramento",
+  "state": "CA",
+  "url": "",
+  "verdict": "REJECT: current sites",
+  "approx_score": 30
+ },
+ {
+  "name": "Biltmore Cosmetic & Restorative",
+  "city": "Phoenix",
+  "state": "AZ",
+  "url": "https://bcrdentistry.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Arizona Biltmore Dentistry",
+  "city": "Phoenix",
+  "state": "AZ",
+  "url": "https://www.arizonabiltmoredentistry.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Phoenician Dentistry",
+  "city": "Phoenix",
+  "state": "AZ",
+  "url": "https://phoeniciandentistry.com/",
+  "verdict": "REJECT: modern Avada",
+  "approx_score": 30
+ },
+ {
+  "name": "Biltmore Dental Center",
+  "city": "Phoenix",
+  "state": "AZ",
+  "url": "https://www.biltmoredentalcenter.com/",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Biltmore Commons / 24th Street / Biltmore Innovative",
+  "city": "Phoenix",
+  "state": "AZ",
+  "url": "",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Oro Valley Dental Arts",
+  "city": "Oro Valley",
+  "state": "AZ",
+  "url": "https://www.orovalleydentalarts.com/",
+  "verdict": "REJECT: DentalQore modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Oro Valley Family Dentistry",
+  "city": "Tucson",
+  "state": "AZ",
+  "url": "https://orovalleyfamilydentistry.com/",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Alber Dental Studio",
+  "city": "Boulder",
+  "state": "CO",
+  "url": "https://alberdentalstudio.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Incredible Smiles",
+  "city": "Boulder",
+  "state": "CO",
+  "url": "https://incrediblesmiles.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Boulder Total Dentistry",
+  "city": "Boulder",
+  "state": "CO",
+  "url": "https://www.btdentistry.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Boulder County Smiles / Broda Family Dental",
+  "city": "Boulder",
+  "state": "CO",
+  "url": "",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Desert Dental Alternatives",
+  "city": "Cathedral City",
+  "state": "CA",
+  "url": "https://desertdentalalternatives.com/",
+  "verdict": "REJECT: modern, multi-loc",
+  "approx_score": 30
+ },
+ {
+  "name": "Palm Desert Dentist",
+  "city": "Palm Desert",
+  "state": "CA",
+  "url": "https://www.palmdesertdentist.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Total Care Dentistry & Implants",
+  "city": "Palm Desert",
+  "state": "CA",
+  "url": "https://totalcareimplantdentistry.com/",
+  "verdict": "REJECT: Doctor Genius but current, multi-loc",
+  "approx_score": 30
+ },
+ {
+  "name": "4M Dental Implant Centers",
+  "city": "Palm Desert",
+  "state": "CA",
+  "url": "https://4mdentalimplants.com/",
+  "verdict": "REJECT: multi-location group",
+  "approx_score": 25
+ },
+ {
+  "name": "Siemens DDS",
+  "city": "Fresno",
+  "state": "CA",
+  "url": "https://www.siemensdds.com/",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Lovik Mirzaeian DDS",
+  "city": "Clovis",
+  "state": "CA",
+  "url": "https://dentistexam.com/",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Mirelez Wellness / On Call Dental",
+  "city": "Fresno",
+  "state": "CA",
+  "url": "",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "ProSmile Family Dental Care",
+  "city": "Modesto",
+  "state": "CA",
+  "url": "https://familydentistmodesto.com/",
+  "verdict": "REJECT: Divi modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Pearl Dental",
+  "city": "Modesto",
+  "state": "CA",
+  "url": "https://pearldentalmodesto.com/",
+  "verdict": "REJECT: \u00a92025 current",
+  "approx_score": 30
+ },
+ {
+  "name": "Sequoia Dental Office (est 1993)",
+  "city": "Visalia",
+  "state": "CA",
+  "url": "https://www.sequoiadental.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "Visalia Modern Dentistry",
+  "city": "Visalia",
+  "state": "CA",
+  "url": "https://www.visaliamoderndentistry.com/",
+  "verdict": "REJECT: 'Modern Dentistry' = PDS brand pattern",
+  "approx_score": 10
+ },
+ {
+  "name": "Pacific Heights Dental",
+  "city": "San Francisco",
+  "state": "CA",
+  "url": "https://pacificheightsdental.com/",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Marina Tooth Fairy",
+  "city": "San Francisco",
+  "state": "CA",
+  "url": "https://marinatoothfairy.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Skyline Dental Studio",
+  "city": "San Francisco",
+  "state": "CA",
+  "url": "https://www.skylinedentalstudio.com/",
+  "verdict": "REJECT",
+  "approx_score": 30
+ },
+ {
+  "name": "Union Fillmore Dental",
+  "city": "San Francisco",
+  "state": "CA",
+  "url": "https://www.unionfillmoredental.com/",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Burlingame Dental",
+  "city": "Burlingame",
+  "state": "CA",
+  "url": "https://burlingamedental.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Peninsula Dental Associates",
+  "city": "Foster City",
+  "state": "CA",
+  "url": "https://www.peninsuladentalassociates.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Walnut Creek Dentists / Walnut Creek Dental",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "url": "https://wcdentists.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Karl Muzikar DDS",
+  "city": "San Ramon",
+  "state": "CA",
+  "url": "https://www.sanramonimplantdentist.com/",
+  "verdict": "REJECT: Internet Dental Alliance doorway, current \u00a92026",
+  "approx_score": 35
+ },
+ {
+  "name": "Greenlaw DDS",
+  "city": "Walnut Creek",
+  "state": "CA",
+  "url": "https://www.greenlawdds.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "Los Gatos Dental / Dental Office Los Gatos / LG Center for Dental Excellence",
+  "city": "Los Gatos",
+  "state": "CA",
+  "url": "",
+  "verdict": "REJECT: low signal",
+  "approx_score": 30
+ },
+ {
+  "name": "Smiles By Design / Your Smile in Mind",
+  "city": "Los Gatos",
+  "state": "CA",
+  "url": "",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "Marin Modern Dentistry (McConnell)",
+  "city": "Novato",
+  "state": "CA",
+  "url": "https://www.marinmoderndentistry.com/",
+  "verdict": "REJECT: modern; 'Modern Dentistry' name pattern",
+  "approx_score": 20
+ },
+ {
+  "name": "Kantor Dental Group",
+  "city": "San Rafael",
+  "state": "CA",
+  "url": "https://www.kantordental.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "San Marin Dental Care",
+  "city": "Novato",
+  "state": "CA",
+  "url": "https://www.sanmarindental.com/",
+  "verdict": "REJECT: custom modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Pleasanton Dental Care",
+  "city": "Pleasanton",
+  "state": "CA",
+  "url": "https://pleasantondentalcare.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Lamorinda Smiles",
+  "city": "Lafayette",
+  "state": "CA",
+  "url": "https://lamorindasmiles.com/",
+  "verdict": "REJECT: Squarespace modern-looking",
+  "approx_score": 35
+ },
+ {
+  "name": "Orinda Family Dentistry",
+  "city": "Orinda",
+  "state": "CA",
+  "url": "https://orindafamilydentistry.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Almaden Valley Dentist (sister of Almaden Dental)",
+  "city": "San Jose",
+  "state": "CA",
+  "url": "https://www.almadenvalleydentist.com/",
+  "verdict": "REJECT-low: 24KB template",
+  "approx_score": 40
+ },
+ {
+  "name": "Almaden Valley Smile Design",
+  "city": "San Jose",
+  "state": "CA",
+  "url": "https://www.claraandiriousdds.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Cosmetic Dentistry of Napa",
+  "city": "Napa",
+  "state": "CA",
+  "url": "https://www.cosmeticdentistryofnapa.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "James Klim DDS",
+  "city": "Santa Rosa",
+  "state": "CA",
+  "url": "https://jamesklimdental.com/",
+  "verdict": "REJECT-low: HighendWP \u00a92026",
+  "approx_score": 40
+ },
+ {
+  "name": "Bornstein Family Dentistry",
+  "city": "Santa Rosa",
+  "state": "CA",
+  "url": "https://www.drdanbornstein.com/",
+  "verdict": "REJECT: Doctor Genius current",
+  "approx_score": 30
+ },
+ {
+  "name": "Marina Dental of Petaluma",
+  "city": "Petaluma",
+  "state": "CA",
+  "url": "https://www.marinadentalofpetaluma.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "Legacy Dental / Pasadena Advanced / Jin Dental",
+  "city": "Pasadena",
+  "state": "CA",
+  "url": "",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "South Pasadena DDS",
+  "city": "South Pasadena",
+  "state": "CA",
+  "url": "https://www.southpasadenadds.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "Encino Smile Makeover / Encino Dental Associates / Encino Dental",
+  "city": "Encino",
+  "state": "CA",
+  "url": "",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Tustin Dental Center / Donoghue / Bella / Yang / Tustin Dental Group",
+  "city": "Tustin",
+  "state": "CA",
+  "url": "",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Blessed Smile / Dentique / YL Elite / Tranquility",
+  "city": "Yorba Linda/Placentia",
+  "state": "CA",
+  "url": "",
+  "verdict": "REJECT: current, young",
+  "approx_score": 30
+ },
+ {
+  "name": "Inspire Dental of Summerlin",
+  "city": "Las Vegas",
+  "state": "NV",
+  "url": "https://www.inspiredentalsummerlin.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Vegas Smile Suite",
+  "city": "Las Vegas",
+  "state": "NV",
+  "url": "https://vegassmilesuite.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Summerlin Dental Solutions (Cohan)",
+  "city": "Las Vegas",
+  "state": "NV",
+  "url": "https://dentalsolutionslv.com/",
+  "verdict": "REJECT: modern Elementor \u00a92025",
+  "approx_score": 35
+ },
+ {
+  "name": "White Pine Family Dental (est 1994)",
+  "city": "Reno",
+  "state": "NV",
+  "url": "https://www.whitepinefamilydental.com/",
+  "verdict": "UNSCREENED: 307 JS redirect",
+  "approx_score": null
+ },
+ {
+  "name": "The Reno Dentist",
+  "city": "Reno",
+  "state": "NV",
+  "url": "https://www.therenodentist.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Kanellis Family Dentistry",
+  "city": "Sparks",
+  "state": "NV",
+  "url": "https://www.drkfamilydental.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "South Meadows Dental",
+  "city": "Reno",
+  "state": "NV",
+  "url": "https://www.southmeadowsdental.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Reno Dental Associates",
+  "city": "Reno",
+  "state": "NV",
+  "url": "https://renodentalassociates.com/",
+  "verdict": "REJECT-low: flat-bootstrap \u00a92026",
+  "approx_score": 40
+ },
+ {
+  "name": "Sparks Family Dentistry (Basora)",
+  "city": "Sparks",
+  "state": "NV",
+  "url": "https://www.sparksfamilydentistry.com/",
+  "verdict": "UNSCREENED: bot-walled 403",
+  "approx_score": null
+ },
+ {
+  "name": "Rod Gleave DMD",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "url": "https://www.slcsmiles.com/",
+  "verdict": "UNSCREENED: connection failed (000)",
+  "approx_score": null
+ },
+ {
+  "name": "Hamblin Dental",
+  "city": "Sandy",
+  "state": "UT",
+  "url": "https://dentalimplantsutah.com/",
+  "verdict": "REJECT: Divi current",
+  "approx_score": 35
+ },
+ {
+  "name": "Canyon Rim Dental",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "url": "https://www.canyonrimdentalsaltlake.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Salt Lake Dental",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "url": "https://www.saltlakedental.net/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Bountiful Dentistry",
+  "city": "Bountiful",
+  "state": "UT",
+  "url": "https://bountifuldentistry.com/",
+  "verdict": "UNSCREENED: 1KB JS shell",
+  "approx_score": null
+ },
+ {
+  "name": "Rigby Dental",
+  "city": "West Jordan",
+  "state": "UT",
+  "url": "https://www.rigbydental.com/",
+  "verdict": "REJECT: bot interstitial, multi-loc",
+  "approx_score": 20
+ },
+ {
+  "name": "Highland Heights Dental / Abundant Dental Care",
+  "city": "Salt Lake City",
+  "state": "UT",
+  "url": "",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Blaisdell Family Dentistry",
+  "city": "Boise",
+  "state": "ID",
+  "url": "https://www.blaisdellfamilydentistry.com/",
+  "verdict": "REJECT: current",
+  "approx_score": 30
+ },
+ {
+  "name": "Bird Family Dental",
+  "city": "Boise",
+  "state": "ID",
+  "url": "https://www.birdfamilydental.com/",
+  "verdict": "REJECT: Framer modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Lamb Family Dental",
+  "city": "Boise",
+  "state": "ID",
+  "url": "https://dentalboise.com/",
+  "verdict": "REJECT: modern",
+  "approx_score": 30
+ },
+ {
+  "name": "Hathaway DDS",
+  "city": "Eagle",
+  "state": "ID",
+  "url": "https://sedationdentistboise.com/",
+  "verdict": "REJECT: Divi current",
+  "approx_score": 30
+ },
+ {
+  "name": "Crossroads Dental Care (Tan)",
+  "city": "Mill Valley",
+  "state": "CA",
+  "url": "tandentalmarin.com",
+  "verdict": "EXCLUDED - prior round (\u00a76)",
+  "approx_score": null
+ },
+ {
+  "name": "Casa Adobes Dentistry",
+  "city": "Tucson",
+  "state": "AZ",
+  "url": "casasadobesdentistry.com",
+  "verdict": "EXCLUDED - prior round (\u00a73/\u00a76)",
+  "approx_score": null
+ },
+ {
+  "name": "Nevada Dental Esthetics",
+  "city": "Las Vegas",
+  "state": "NV",
+  "url": "lasvegas-cosmetic-dentistry.com",
+  "verdict": "EXCLUDED - prior round (\u00a76)",
+  "approx_score": null
+ },
+ {
+  "name": "Champagne Family Dentistry",
+  "city": "Reno",
+  "state": "NV",
+  "url": "champagnedental.com",
+  "verdict": "EXCLUDED - prior round (\u00a76)",
+  "approx_score": null
+ },
+ {
+  "name": "Atencio DDS",
+  "city": "Reno",
+  "state": "NV",
+  "url": "atenciodds.com",
+  "verdict": "EXCLUDED - prior round (\u00a76)",
+  "approx_score": null
+ },
+ {
+  "name": "Saratoga Dentistry / Orinda Family Dentistry (older entry)",
+  "city": "CA",
+  "state": "CA",
+  "url": "",
+  "verdict": "EXCLUDED - prior round name overlap noted",
+  "approx_score": null
+ },
+ {
+  "name": "Times Square Dental",
+  "city": "Boise",
+  "state": "ID",
+  "url": "timessquaredental.com",
+  "verdict": "EXCLUDED - prior round (\u00a74)",
+  "approx_score": null
+ },
+ {
+  "name": "Boise Dental Center",
+  "city": "Boise",
+  "state": "ID",
+  "url": "dentistinboiseid.com",
+  "verdict": "EXCLUDED - prior round (\u00a76)",
+  "approx_score": null
+ }
+]
