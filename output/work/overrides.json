@@ -1,17 +1,21 @@
 {
-  "drop": {},
-  "url_fix": {"fargodentist.net": "https://www.fargodentist.net/", "https://fargodentist.net/": "https://www.fargodentist.net/"},
-  "flag_cleared": {
-    "Main Street Family Dentistry (Coakley / Burns)": "Different practice: Montpelier VT vs excluded Main Street Dentists, Verona WI",
-    "Annapolis Dental Associates": "Different practice/domain from excluded Annapolis Cosmetic & Implant Dentistry / Annapolis Dental Wellness",
-    "Cosmetic & Implant Dentistry of Naples": "Different practice/domain from excluded Naples Center for Cosmetic Dentistry",
-    "The Art of Dentistry (Dr. Gregory J. Wych)": "Irmo SC; excluded 'Art of Dentistry' is Odessa TX and 'VB Art of Dentistry' is Vero Beach FL",
-    "Southern Dental Implant Center (Drs. Collier & Locante)": "Memphis TN; excluded 'Southern Smiles' is Hilton Head / Fairhope",
-    "Lee Dental Care": "Fort Myers FL; excluded Lee Family Dentistry is Charlottesville VA / Oxford MS",
-    "Campbell Dental (Jarrod Campbell DDS)": "Cedar Park TX (jarrodcampbelldds.com); excluded Campbell Dental is Campbell CA (campbelldentists.com)",
-    "Orinda Dental Care": "Different practice/domain from excluded Orinda Family Dentistry",
-    "Premier Dental Care (Dr. Lin Lin Chen)": "Pleasanton CA (premierdental.us); excluded Premier Dental entries are NH, Vero Beach FL, Gilbert AZ"
-  },
-  "notes": {},
-  "new_dso": []
+ "drop": {},
+ "url_fix": {
+  "fargodentist.net": "https://www.fargodentist.net/",
+  "https://fargodentist.net/": "https://www.fargodentist.net/"
+ },
+ "flag_cleared": {
+  "Main Street Family Dentistry (Coakley / Burns)": "Different practice: Montpelier VT vs excluded Main Street Dentists, Verona WI",
+  "Annapolis Dental Associates": "Different practice/domain from excluded Annapolis Cosmetic & Implant Dentistry / Annapolis Dental Wellness",
+  "Cosmetic & Implant Dentistry of Naples": "Different practice/domain from excluded Naples Center for Cosmetic Dentistry",
+  "The Art of Dentistry (Dr. Gregory J. Wych)": "Irmo SC; excluded 'Art of Dentistry' is Odessa TX and 'VB Art of Dentistry' is Vero Beach FL",
+  "Southern Dental Implant Center (Drs. Collier & Locante)": "Memphis TN; excluded 'Southern Smiles' is Hilton Head / Fairhope",
+  "Lee Dental Care": "Fort Myers FL; excluded Lee Family Dentistry is Charlottesville VA / Oxford MS",
+  "Campbell Dental (Jarrod Campbell DDS)": "Cedar Park TX (jarrodcampbelldds.com); excluded Campbell Dental is Campbell CA (campbelldentists.com)",
+  "Orinda Dental Care": "Different practice/domain from excluded Orinda Family Dentistry",
+  "Premier Dental Care (Dr. Lin Lin Chen)": "Pleasanton CA (premierdental.us); excluded Premier Dental entries are NH, Vero Beach FL, Gilbert AZ",
+  "Coastal Cosmetic Dental Associates": "Little River SC (coastalcosmeticdental.com); excluded 'Coastal Cosmetic' is Pensacola FL (pensacoladentistry.com)"
+ },
+ "notes": {},
+ "new_dso": []
 }
