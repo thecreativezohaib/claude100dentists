@@ -24,6 +24,11 @@
   - Capitol Hill Dentistry DC (66→55), David A. Faget DMD Coral Gables (61→57), Premier Dental Care Pleasanton (62→56) — dropped by wave-2 review enrichment (thin review corpus / weak evidence); replaced from wave-2 finalist pools.
   - Fishers Family Dentistry and Johann Prosthetics of Boulder — first-pass curl timeout; 200 on recheck (not replaced). fargodentist.net apex fails; canonical www URL used (200).
 
+## Social-activity filter (Facebook / Instagram)
+
+- Rule: keep a practice only if its most recent Facebook or Instagram post is on/after **2025-10-02** (12 months before the check date); otherwise remove and backfill from the bench in rank order. Practices with no Facebook/Instagram activity at all count as stale.
+- Source: `output/SOCIAL_AUDIT.csv` (manual check, logged-in). In the final 100: **0** ACTIVE, **100** not yet checked. Removed as stale: **0**.
+
 ## Assumptions & caveats
 
 - Wave 2 was added beyond the playbook's single fan-out because tool budgets (WebSearch cap, Firecrawl credits) ran out; no search engine was scraped to evade caps. Discovery after the caps used public directories (YellowPages, Birdeye, Demandforce city pages), vendor client galleries and web.archive.org.
@@ -153,7 +158,7 @@
 • Pitch/offer: Own-domain premium rebuild that migrates them off Hibu and surfaces the awards/reviews - $8-12k standard.
 • Wave-2 update (2026-09-30): 80 -> 82. Review corpus now VERIFIED at 380+ across Birdeye+Yelp while own reviews page is empty, which raises Gap/FC. Site re-checked with curl: live, still served from the hibuwebsites.com vendor subdomain.
 • Sources: Site raw HTML + WebFetch of /, /about, /reviews (2026-09-30); EXCLUSIONS grep clear
-• QC: liveness HTTP 200 · vendor cluster: Hibu · region: West (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Hibu · region: West (wave 1)
 
 2. Luis E. Martinez DMD, PA (St. Pete Cosmetic Dentistry) — St. Petersburg, FL — https://www.stpetecosmeticdentistry.com/ — 80/100 — HIGH (confidence: MEDIUM-HIGH)
 • Est/Doctors: Est. UNKNOWN; solo; FACD logo displayed (VERIFIED, render) | Dr. Martinez UF College of Dentistry grad 1985; "over 35 years" (Healthgrades bio; practice founding year INFERRED) | Reviews: Birdeye 1,018 reviews / 5.0 stars (search snippet, birdeye.com); Healthgrades 390 reviews; Yelp 13 reviews. Own homepage (18KB, ©2014) shows no counts [WAVE 2]
@@ -165,7 +170,7 @@
 • Hooks: 1) Site last redesigned 2014 (© 2014) while the practice pitches 'among the top 1% of dentists' for aesthetics. 2) 'Masterpieces/Gallery' page sitting behind a 2014 carousel.
 • Pitch/offer: Cosmetic gallery-led redesign — $5–8k (solo) up to $8k
 • Sources: stpetecosmeticdentistry.com (curl + rendered fetch); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: Southeast (wave 1)
 
 3. Brewer Family Dentistry — Modesto, CA — https://www.brewerdentistry.com/ — 80/100 — HIGH (medium confidence)
 • Est/Doctors: Since 1979 (VERIFIED: 'Since 1979, Brewer Family Dentistry has proudly served'); founded by Dr. Keith Brewer, now second generation | 2 doctors | Reviews: Birdeye 4.9 (597 reviews) + a second platform 5.0 (329 reviews) + Yelp 34 + BBB Accredited since 9/2010; own /patient-reviews/ page shows first-name quotes with no rating or count. Source: reviews.birdeye.com, yelp.com, bbb.org via WebSearch
@@ -178,7 +183,7 @@
 • Pitch/offer: Premium multi-generation practice rebuild; $8-10k standard.
 • Wave-2 update (2026-09-30): 73 -> 80. Biggest upgrade: ~900+ verified reviews invisible on a (c)2018 DentalMarketing.com template. Live, curl 200.
 • Sources: Raw HTML, WebFetch /, /meet-our-doctors/, /patient-reviews/
-• QC: liveness HTTP 200 · vendor cluster: Progressive Dental Marketing · region: West (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Progressive Dental Marketing · region: West (wave 1)
 
 4. Mt. Lookout Dentistry — Cincinnati, OH — mtlookoutdentistry.com — 79/100 — HIGH (medium)
 • Est/Doctors: 'Looking Out for Cincinnati Smiles Since 1956' (VERIFIED, site); Gosnell: UK / Louisville dental school, GPR 2008, local study clubs incl. Spear Education; Pankey Institute + SPEAR affiliation shown (VERIFIED on render) | Reviews: ~3,350-3,570 reviews, 4.9-5.0 (Birdeye listings reviews.birdeye.com/mt-lookout-dentistry-155338424065279 = 3,353; -155338441138064 = 3,571; two listings, possibly overlapping); Facebook 96% recommend on 23 reviews (WebSearch snippets). Homepage raw HTML shows only a generic 'Reviews' block, no visible count (curl). [Wave-2 enrichment]
@@ -191,7 +196,7 @@
 • Pitch/offer: Heritage + restorative-credential redesign to replace Officite. $8–12k
 • Sources: mtlookoutdentistry.com raw HTML + render
 • Wave-2 re-score: 71 -> 79. Review corpus of 3,000+ is huge and not surfaced on the 'Lorem ipsum' Officite homepage: strongest Gap in the region.
-• QC: liveness HTTP 200 · vendor cluster: Officite · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Officite · region: Midwest (wave 1)
 
 5. Goodman Dental Care — Annapolis, MD — https://www.goodmandentalcare.com/ — 79/100 — MEDIUM-HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: ~40 yrs, three-generation family practice (site: 'nearly 40 years'; testimonial family 'visiting Goodman Dental Care since 1985') [VERIFIED on site]; 3 dentists: A. Gary Goodman DDS, Jeremy Goodman DDS, Shoshana Garfield DDS; affiliations shown: Pankey Institute, Seattle Study Club, Spear, AAID, ADA [VERIFIED on site] | Reviews: 449 reviews, 5.0 (Birdeye, search snippet 2026-09-30); Healthgrades 143 (Dr. A. Gary Goodman) + 104 (Dr. Jeremy Goodman); Yelp 11. Site homepage does not surface the count [VERIFIED via search]
@@ -204,7 +209,7 @@
 • Pitch/offer: Premium homepage rebuild leading with the Pankey/Spear comprehensive-care story, smile gallery and generational brand; keep existing booking/financing links. $8-12k (3-doctor standard).
 • Sources: goodmandentalcare.com raw HTML + rendered fetch (2026-09-30); Google Maps place link on site
 • Wave-2 note: score 77 -> 79 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 1)
 
 6. Cosmetic & Implant Dentistry of Naples — Naples, FL — https://www.dentistryofnaples.com/ — 78/100 — HIGH (confidence: MEDIUM-HIGH)
 • Est/Doctors: Est. 1977 (INFERRED — search-indexed practice bio, not on-page); 2 doctors (VERIFIED, site); Dr. Stanosheck AACD member (INFERRED, directory snippet) | Reviews: 709 patient reviews on PatientConnect365 profile (platform not specified; VERIFIED via fetch); Yelp 19 reviews (search snippet); Facebook 94% recommend / 20 reviews; 709 vs on-page zero counts = large hidden corpus [WAVE 2]
@@ -216,7 +221,7 @@
 • Hooks: 1) Footer literally says "Comestic & Implant Denistry" on a Naples cosmetic-implant practice. 2) Still advertising a "Choice Awards 2020" badge in 2026.
 • Pitch/offer: Naples implant/cosmetic flagship redesign — $8–12k
 • Sources: dentistryofnaples.com (rendered fetch); search-indexed practice bio (est. 1977); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: Southeast (wave 1)
 
 7. Coral Gables Dentistry & Prosthodontics — Coral Gables, FL — https://www.coralgablesdentistry.com/ — 77/100 — HIGH (confidence: MEDIUM-HIGH)
 • Est/Doctors: "Well over thirty years" (INFERRED — directory snippet, not on-page); 2 prosthodontists incl. Dr. Cristina Osorio (VERIFIED, site) | Dr. Davila = Diplomate ABP & Fellow of the Academy of Prosthodontics (directory snippet) | Reviews: 706 patient reviews on PatientConnect365 profile (search snippet; platform not specified); Yelp 54 reviews (search snippet); Healthgrades thin (Dr. Davila 5 reviews, 4.2 recommend); own /for-patients/reviews page prints NO counts or ratings (VERIFIED via fetch) [WAVE 2]
@@ -228,7 +233,7 @@
 • Hooks: 1) Board-certified prosthodontists whose footer still shows a literal '#' copyright and IE-era compat code. 2) Title says 'Best Dentist' — nowhere says 'prosthodontist'.
 • Pitch/offer: Prosthodontic/All-on-4 flagship redesign — $8–12k
 • Sources: coralgablesdentistry.com (curl + rendered fetch); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: Southeast (wave 1)
 
 8. Klein Family Dentistry — Harrisburg, PA — https://www.kleinfamilydentistry.com/ — 77/100 — HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: 'A Harrisburg staple to local families since 1979'; 'Locally-Owned & Operated' [VERIFIED on site]; Dr. Gary M. Klein DDS (owner, son of founder Dr. Joel S. Klein) + Dr. Miller (and associate reviewed as Dr. Franklin-Pitts); exact roster 2-3 [VERIFIED on site, count INFERRED] | Reviews: 512 reviews, 4.9 (Birdeye); dentascore.com aggregator 433; Facebook 96% recommend / 36; Yelp listed (search snippet 2026-09-30). Homepage shows only a small carousel [VERIFIED]
@@ -241,7 +246,7 @@
 • Pitch/offer: Implant/All-on-4 focused redesign with proper review surfacing; keep TNT-hosted forms until cut-over. $8-12k.
 • Sources: kleinfamilydentistry.com raw HTML + rendered fetch (2026-09-30)
 • Wave-2 note: score 74 -> 77 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 1)
 
 9. Christensen Dental Associates — Waldwick, NJ — https://www.cdanj.com/ — 77/100 — MEDIUM-HIGH(medium)
 • Est/Doctors: Dr. Christensen practicing privately since 1998 (VERIFIED, bio); 3 doctors (Christensen, Ryan Burke, Leeda Bassam) | Reviews: Google 4.9 (count not shown); Birdeye 115 reviews 4.9; Healthgrades 65 reviews (Dr. David Christensen); site shows only 14 curated testimonials (VERIFIED via snippets)
@@ -253,7 +258,7 @@
 • Hooks: 1) Dr. Christensen was associate team dentist for the NY Giants, NJ Devils and NJ Nets and runs an in-house lab that makes All-On-X prosthetics for other dentists — none of it headlines a ProSites template 2) Footer carries the mojibake "Copyright � 2019 Prosites" next to "©2026"
 • Pitch/offer: Full-arch/All-on-X and digital-dentistry showcase redesign — $8–12k standard tier.
 • Sources: Live fetch cdanj.com (homepage, /our-practice/meet-the-doctors/meet-dr-christensen/, /our-practice/read-our-reviews/) | Wave-2 review enrichment (2026-09-30): Birdeye 115 reviews, Healthgrades 65; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Northeast (wave 1)
 
 10. Southdale Dental Associates — Edina, MN — sdadental.com — 77/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: 'CELEBRATING 50 YEARS IN EDINA, MINNESOTA' / 'more than 50 years' and 'second and third generations of the same families' (VERIFIED, site); 6 dentists (VERIFIED); Dr. Mehta is FICOI (implants) (VERIFIED) | Reviews: 1,140 reviews, 5-star aggregate, 98.9% would refer (Demandforce local.demandforce.com/b/sdadental, VERIFIED via fetch; patients listed as customers since 1999). Not surfaced on the homepage (one lone testimonial).
@@ -265,7 +270,7 @@
 • Hooks: 1) 'Celebrating 50 years' and 1,140 Demandforce reviews sit behind a single-scroll Wix page with no services 2) The header Facebook icon still points to facebook.com/wix
 • Pitch/offer: Heritage + six-doctor showcase site with services/implant pages, keep Demandforce; replace Wix. $12–15k (multi-doctor flagship)
 • Sources: sdadental.com raw HTML + WebFetch render; local.demandforce.com/b/sdadental
-• QC: liveness HTTP 200 · vendor cluster: Wix · region: Midwest (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Wix · region: Midwest (wave 2)
 
 11. Meetinghouse Dental Care (Hatboro Integrative Dentistry) — Hatboro, PA — https://www.meetinghousedental.com/ — 76/100 — HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: Founder Dr. Lou Trovato (DDS, FAGD, FICOI; now retired) - founding year UNKNOWN; long-running biologic/whole-body practice [VERIFIED on site]; Dr. Wendy Beratan DMD, Dr. Matthew He DMD, Dr. David Klass DMD (all AIAOMT/SMART); Dr. Anthony Trovato PhD nutritionist [VERIFIED on site] | Reviews: 921 reviews (Birdeye); Facebook 224 reviews / 100% recommend; BBB A+, in business since 1984 (search snippets 2026-09-30); Yelp 22. Homepage shows awards, not the corpus [VERIFIED]
@@ -278,7 +283,7 @@
 • Pitch/offer: Niche-authority redesign (biologic/ceramic implant story); $8-12k.
 • Sources: meetinghousedental.com raw HTML + rendered fetch (2026-09-30)
 • Wave-2 note: score 71 -> 76 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
 
 12. Cosmetic & Implant Dentistry of Maryland (Dr. Jennifer Ouazana) — Pikesville, MD — https://www.cosmeticandimplantdentistryofmd.com/ — 75/100 — MEDIUM-HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: Practice 'first established by our prior owner in 1965' [VERIFIED on site]; current owner-dentist Dr. Jennifer Ouazana (tenure UNKNOWN); prior owner appears to be Howard Rothschild DDS (second domain howardrothschilddds.com) [INFERRED]; 1 owner-dentist (Dr. Jennifer Ouazana DDS); AACD membership displayed [VERIFIED on site] | Reviews: Google/Birdeye count still UNKNOWN after search (Healthgrades group listing + Fresha exist; est. 1965 per site/search snippet); homepage only says 'Connect with us and leave a review!' - corpus unmeasured, Gap trimmed
@@ -291,7 +296,7 @@
 • Pitch/offer: Owner-rebrand redesign: one domain, cosmetic/implant story, before-after gallery; keep existing scheduling. $6-9k (solo, high-ticket).
 • Sources: cosmeticandimplantdentistryofmd.com and howardrothschilddds.com raw HTML/curl; rendered fetch (2026-09-30)
 • Wave-2 note: score 76 -> 75 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
 
 13. Wahl Family Dentistry — Wilmington, DE — https://www.wahlfamilydentistry.com/ — 75/100 — MEDIUM-HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: Founded 1949 by Dr. Mervin H. Wahl; children and grandchildren now practice [VERIFIED on site]; 4 dentists: Michael Wahl DDS, Yaella Aronhime DMD, Suraj Patel DMD, Zachary Pettoruto DMD; Drs. Wahl and Aronhime named Top Dentists by Delaware Today [VERIFIED on site] | Reviews: 302 reviews, 4.7 (Birdeye); aggregator 195 verified 4.7; Yelp 24; Healthgrades 10 (Dr. Wahl); practice history since 1949 per search snippet; homepage footer '2016' [VERIFIED]
@@ -304,7 +309,7 @@
 • Pitch/offer: Heritage-brand redesign (1949 to third generation) with team + awards; $8-12k (4-doctor standard).
 • Sources: wahlfamilydentistry.com raw HTML + rendered fetch (2026-09-30)
 • Wave-2 note: score 74 -> 75 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 1)
 
 14. Bedford Cosmetic & Restorative Dentistry (Hedstrom / Persha) — Bedford, NH — https://www.bedfordcosmeticdentistry.com/ — 75/100 — MEDIUM-HIGH(medium)
 • Est/Doctors: Hedstrom opened private practice in Bedford 1987, 33+ yrs per bio (VERIFIED); 2 doctors | Reviews: Birdeye 374 reviews / 5.0 (Birdeye Bedford NH directory JSON-LD, VERIFIED) invisible on the homepage; Healthgrades 1 review for Dr. Hedstrom ('awesome dental care for over 25 years'); Yelp/Facebook listings exist; site has reviews.html
@@ -316,7 +321,7 @@
 • Hooks: 1) Generational handoff visible in the site itself: nav "Meet Dr. Persha" but body copy "Dr. Hedstrom and his team" 2) ©2016 footer on a 10-year-old TNT template
 • Pitch/offer: Handoff-positioning redesign for the new owner — $8–12k standard tier.
 • Sources: Live fetch bedfordcosmeticdentistry.com (home, meet-dr-hedstrom.html, meet-dr-persha.html) | Wave-2 review enrichment (2026-09-30): Healthgrades, Yelp/Facebook listings; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Northeast (wave 1)
 
 15. Advanced Dental Solutions of Pittsburgh — Pittsburgh (Upper St. Clair/Bethel Park), PA — https://www.pittsburghissmiling.com/ — 75/100 — MEDIUM-HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: UNKNOWN founding year; Dr. Rairigh graduated WVU dentistry 2004 (Dawson Academy trained) [VERIFIED on site]; 3 dentists: Dr. Dan Rairigh DDS (Midwest Implant Institute; Dawson), Dr. Josh Culver DDS, Dr. Dakota Goodrum [VERIFIED on site] | Reviews: Birdeye 1,658 reviews, 4.9 (second Birdeye page shows 944; aggregator 1,565+); Yelp 10; BBB profile (search snippets 2026-09-30). Homepage carries a reviews page but the corpus is not headline-visible [VERIFIED]
@@ -329,7 +334,7 @@
 • Pitch/offer: Implant/full-mouth-led redesign; $8-12k.
 • Sources: pittsburghissmiling.com raw HTML + rendered fetch (2026-09-30)
 • Wave-2 note: score 67 -> 75 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 1)
 
 16. Center for Dental Excellence, LLC (Christian) - Simsbury / West Hartford / Litchfield, CT - https://www.ctcde.com/ - 75/100 - MEDIUM-HIGH (medium)
 • Est/Doctors: Serving the Farmington Valley 'for over 50 years' (VERIFIED, ctcde.com copy via search); 3+ doctors (L. Christian DMD, M. Christian DMD FACP, Bruce M. Nghiem DMD); 3 offices (Simsbury, West Hartford, Litchfield) | Reviews: Birdeye 390 reviews / 4.9 (Birdeye Simsbury directory JSON-LD, 2026-09-30; Yelp and BBB listings also exist)
@@ -341,7 +346,7 @@
 • Hooks: 1) Board-certified prosthodontist credential ("one of only fourteen private-practice Board Certified Prosthodontists in Connecticut") is buried in a stock PBHS template 2) Title tag omits the Litchfield office the body copy announces; 390 Birdeye reviews invisible on the homepage
 • Pitch/offer: Group-flagship redesign built around the prosthodontic credential, case gallery and 3-office structure - $12-15k group-flagship tier
 • Sources: ctcde.com (archive.org snapshot 2026-04-20; WebFetch/search-indexed pages); Birdeye Simsbury CT directory JSON-LD; BBB profile
-• QC: liveness HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent · vendor cluster: PBHS · region: Northeast (wave 2)
+• QC: liveness HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent · social activity NOT YET CHECKED · vendor cluster: PBHS · region: Northeast (wave 2)
 
 17. Kalil & Kress Family & Cosmetic Dentistry - Nashua, NH - https://www.kalilandkress.com/ - 75/100 - MEDIUM-HIGH (medium)
 • Est/Doctors: Since 1990 (VERIFIED, homepage 'Since 1990, the team at Kalil & Kress ...'); 4 doctors; single office 303 Amherst St | Reviews: Birdeye 840 reviews / 4.9 (Birdeye Nashua directory JSON-LD, 2026-09-30); homepage only shows a handful of quotes + 'Leave a review on Google'
@@ -353,7 +358,7 @@
 • Hooks: 1) Four partner-dentists and 840 Birdeye reviews served by a default Sesame template 2) 35-year 'since 1990' story, laser dentistry and 3D printing not showcased; homepage leads with an office-dog caption
 • Pitch/offer: Standard practice redesign: outcomes gallery, doctor-led story, review integration - $8-12k standard tier
 • Sources: kalilandkress.com (curl raw HTML + WebFetch); Birdeye Nashua NH directory JSON-LD
-• QC: liveness HTTP 200 · vendor cluster: Sesame 24-7 · region: Northeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Sesame 24-7 · region: Northeast (wave 2)
 
 18. Park Cities Dental Group (Dr. Phillip Allison / Dr. Ted Smith) - Dallas (Highland Park), TX - https://www.parkcitiesdentalgroup.com/ - 75/100 - MEDIUM-HIGH (medium confidence - owner not stated on page)
 • Est/Doctors: 1982 (VERIFIED - homepage 'ESTABLISHED IN 1982') | Drs. Phillip Allison, DDS and Ted Smith, DDS, FICOI (Pankey Institute post-doc, Misch Institute training) - VERIFIED on /about-pcdg/ | Reviews: Birdeye 4.9 (546 reviews; JSON-LD aggregateRating, 2026-09-30); Dr. Ted Smith separate Birdeye profile 4.8 (25)
@@ -365,7 +370,7 @@
 • Hooks: (1) 'Your footer says Copyright 2007 - 2025 and the homepage prints a raw timestamp byline - on a practice with 546 five-star reviews since 1982.' (2) '1.6 MB of page for four one-line service blurbs - none of your Pankey/Misch-level implant credentials are on the homepage.'
 • Pitch/offer: Flagship Highland Park implant/cosmetic homepage that puts Pankey/FICOI credentials and the 546-review corpus up front; keep existing forms; $10-12k (standard) - up to $12-15k if two-doctor group confirmed.
 • Sources: curl of homepage + /about-pcdg/ (2026-09-30); reviews.birdeye.com Park Cities Dental Group (JSON-LD); YellowPages Highland Park listing; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: WordPress (generic/agency, dated) · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: WordPress (generic/agency, dated) · region: South-Central (wave 2)
 
 19. Harbor Dental — Plymouth, MN — harbordentalmn.com — 75/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: 'more than 30 years' serving Plymouth (Demandforce profile text, VERIFIED); 'Awarded Top Dentist Every Year Since 2006' by Mpls.St.Paul Magazine (VERIFIED, /about-us/awards/); 4 dentists; implants, Invisalign, veneers, sedation-free family scope listed | Reviews: 2,941 reviews, 5-star aggregate, 99.4% would refer (Demandforce local.demandforce.com/b/harbordentalmn, VERIFIED via fetch; customers since 1995 shown). The homepage carries only a 'Patient Reviews' menu link.
@@ -377,7 +382,7 @@
 • Hooks: 1) Voted Top Dentist by Mpls.St.Paul Magazine every year since 2006 yet footer still reads 'Copyright � 2019 Prosites' 2) 2,941 Demandforce reviews are one menu click away, not on the page
 • Pitch/offer: Award- and review-forward relaunch of a 4-dentist practice; keep Cherry/pay links; leave ProSites. $10–14k
 • Sources: harbordentalmn.com raw HTML + /about-us/the-dentists/ + /about-us/awards/; local.demandforce.com/b/harbordentalmn
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Midwest (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Midwest (wave 2)
 
 20. Highland Smiles Dental (Dr. Girish Sandadi / Dr. Rachna Patel) - Dallas (Highland Park / McKinney Ave), TX - https://www.highlandsmilesdental.com/ - 74/100 - HIGH (medium confidence - founding year UNKNOWN)
 • Est/Doctors: UNKNOWN (founding year not on site) | Dr. Girish Sandadi, DDS (US Army Reserve since 2009) + Dr. Rachna Patel, DMD (Baylor 2008) - 2 doctors VERIFIED | Reviews: Birdeye 4.8 (1,991 reviews; JSON-LD aggregateRating, 2026-09-30); directory snippet cites 1,548 patient reviews for Dr. Sandadi
@@ -389,7 +394,7 @@
 • Hooks: (1) 'About 2,000 five-star reviews and the footer still says (c) 2018.' (2) 'You are one of the most-reviewed practices in Highland Park but the homepage is a stock TNT template with a 2018 map embed.'
 • Pitch/offer: Premium Highland Park implant + cosmetic homepage that foregrounds the review volume; keep existing portal; $10-12k.
 • Sources: curl + raw HTML (2026-09-30); reviews.birdeye.com Highland Smiles Dental JSON-LD; /meet-the-dentists.html; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: South-Central (wave 2)
 
 21. Devine Dental LLC (Devine & DeFina) — Greenwich, CT — https://www.dentistofgreenwich.com/ — 74/100 — MEDIUM-HIGH(medium)
 • Est/Doctors: In practice since 1977; current Greenwich location since 1990 (VERIFIED, About page); 2 doctors | Reviews: Thin public corpus: Birdeye 15 + 9 reviews (two listings, ~5.0); Healthgrades 11 reviews (4.6/5 recommend); RateMDs 4.5/5; Yelp listing exists with a few complaints about 'unnecessary procedures'; no Google count retrievable (VERIFIED via WebSearch snippets, 2026-09)
@@ -401,7 +406,7 @@
 • Hooks: 1) Both doctors are Pankey Institute alumni; Dr. Devine "has been part of the Visiting Faculty at the Pankey Institute since 1996" yet the site title says just "Welcome" 2) Footer still reads "Copyright � 2019 Prosites, Inc." and the http:// address does not force https
 • Pitch/offer: Comprehensive-dentistry flagship redesign that leads with Pankey credentials and case gallery — $12–15k group-flagship tier. Retirement-horizon flag (in practice since 1977): probe succession before pitching.
 • Sources: Live fetch of dentistofgreenwich.com (homepage raw HTML + /our-practice/meet-the-doctors/); YellowPages Greenwich listing | Wave-2 review enrichment (2026-09-30): Healthgrades, RateMDs, Yelp snippets; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Northeast (wave 1)
 
 22. Pacific Dental Associates (Duhn family; NOT Pacific Dental Services) — San Francisco (Pacific Heights), CA — https://www.pacificdentalassociates.com/ — 74/100 — MEDIUM-HIGH (medium confidence)
 • Est/Doctors: Serving Pacific Heights since 1984 (VERIFIED on site, 'Established in 1984') | 3 doctors + in-house prosthodontics/perio/OMS listed | Reviews: Birdeye 49 reviews; Yelp 28 (practice listing) + 32 (Stafford Duhn DDS listing) = ~109 across platforms; Google count not retrievable. One Yelp reviewer calls it 'wildly overpriced' (unmanaged? no reply seen). Third dentist Anisha Kahai DDS also listed. Source: birdeye.com, yelp.com via WebSearch
@@ -414,7 +419,7 @@
 • Pitch/offer: Credential-forward Pacific Heights rebuild keeping their existing booking; $8-12k standard.
 • Wave-2 update (2026-09-30): 76 -> 74. Reputation corpus is real but modest (~110), so Gap trimmed 12->11 and score 76->74. Live; ProSites 'Copyright � 2019 Prosites, Inc.' still in footer.
 • Sources: Raw HTML curl (200, ProSites engine comment), WebFetch home + /about/meet-the-doctors/
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: West (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: West (wave 1)
 
 23. Marin Dental Implant Center / David W. Epstein, DDS, Inc. — Novato, CA — https://novatoimplantdentist.com/ — 74/100 — MEDIUM-HIGH (medium confidence)
 • Est/Doctors: 'placed and restored over 20,000 implants in the last 30 years' (self-stated; INFERRED ~30 yrs in practice) | ABOI/ID Diplomate per second site | 1 doctor | Reviews: Yelp 47 reviews (David W Epstein DDS, Aug 2026); Google count not retrievable. Source: yelp.com via WebSearch
@@ -427,7 +432,7 @@
 • Pitch/offer: Consolidate two domains into one premium implant-authority site; $5-8k solo.
 • Wave-2 update (2026-09-30): 75 -> 74. Practice actually runs FOUR web properties: novatoimplantdentist.com (GoDaddy builder, (c)2019), davidepsteindds.com (Wix), marindentalimplants.com (Wix, (c) 2025) - so the pitch is consolidation of a sprawl, not a single frozen site. Live.
 • Sources: curl fingerprints of both domains; WebFetch novatoimplantdentist.com
-• QC: liveness HTTP 200 · vendor cluster: GoDaddy · region: West (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: GoDaddy · region: West (wave 1)
 
 24. Total Dental Solutions for Adults (Dr. George A. Hoop) — Fort Myers, FL — https://www.wemakeyousmile.com/ — 74/100 — MEDIUM-HIGH (confidence: MEDIUM-HIGH)
 • Est/Doctors: In private practice since 1991 (VERIFIED, site); Emory DDS; ICOI, Misch, Pikos, Pankey memberships (VERIFIED, site); adults-only practice | 3 providers listed: Drs. Hoop, Chouraqui, Streater; sister TNT domain wemakeyousmilenaples.com (North Naples) suggests 2nd office - verify | Reviews: Aggregate "4.9 stars" per directory listings; no verifiable review COUNT found (Healthgrades group page has reviews, Yelp has photos only, BBB listed) - UNKNOWN count [WAVE 2]
@@ -439,7 +444,7 @@
 • Hooks: 1) Homepage title is literally "Dentist". 2) 35 years in practice and Pankey/Misch/Pikos-trained, but the site is stamped ©2020 with a dead crowns/bridges link.
 • Pitch/offer: Implant/full-mouth reconstruction redesign — $8–12k
 • Sources: wemakeyousmile.com (curl + rendered fetch); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Southeast (wave 1)
 
 25. Robert I. Halle, DMD, PC — Commack, NY — https://www.halledental.com/ — 74/100 — MEDIUM-HIGH(low-medium)
 • Est/Doctors: 'Decades of experience' (homepage; exact year UNKNOWN); solo PC | Reviews: Very large corpus: Demandforce 1,317 reviews / 5.0 (100% would refer) (VERIFIED via WebFetch, shared listing with former partner Richard Tesser DMD); Healthgrades patient-experience ratings based on 103 reviews; Yelp listing; site has /read-our-reviews/ page
@@ -451,7 +456,7 @@
 • Hooks: 1) CEREC + Medit i900 buried in nav on a 2019 ProSites template 2) Mojibake copyright footer 3) Practice relocated to a newly constructed Commack office in Oct 2023 (search snippet) yet the site is still ProSites-2019 while a 1,300-review Demandforce corpus is invisible on the homepage
 • Pitch/offer: Solo redesign — $5–8k solo tier.
 • Sources: Live fetch halledental.com (home, meet-the-doctors) | Wave-2 review enrichment (2026-09-30): Demandforce 1,317, Healthgrades 103; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Northeast (wave 1)
 
 26. Paolucci Family Dentists (with Paolucci Lincoln Dental Associates) - Providence / Lincoln, RI - https://www.paoluccifamilydentists.com/ - 74/100 - MEDIUM-HIGH (medium)
 • Est/Doctors: 'Since opening our doors in 1957' (VERIFIED, homepage); 6 doctors named incl. a periodontist and board-certified endodontist (Paolucci, Mohamed, Cathcart, Mirucki, Govostes, Evans); Providence + Lincoln offices | Reviews: Birdeye 1,571 reviews / 4.9 (Providence listing) and 1,903 / 4.9 (Lincoln Dental Associates: Mark Paolucci DMD listing) (Birdeye directory JSON-LD, 2026-09-30); homepage banner claims only 'Over 600 Five-Star Reviews!'
@@ -463,7 +468,7 @@
 • Hooks: 1) Stale '600 reviews' banner vs 3,400+ real reviews across two Birdeye listings 2) Two separate Sesame sites for one 1957 family brand - consolidation pitch
 • Pitch/offer: Group-flagship: consolidate two sites into one brand with doctor/specialist directory + review integration - $12-15k group tier
 • Sources: paoluccifamilydentists.com and lincolndentalassociatesri.com (curl raw HTML); Birdeye Providence RI + Lincoln RI directory JSON-LD
-• QC: liveness HTTP 200 · vendor cluster: Sesame 24-7 · region: Northeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Sesame 24-7 · region: Northeast (wave 2)
 
 27. Pioneer Valley Dental Arts (Evans / Ziemba / Reilly / Lucido) — Longmeadow, MA — https://www.pioneervalleydentalarts.com/ — 74/100 — MEDIUM(medium)
 • Est/Doctors: Dr. Evans in private practice since 1985 (VERIFIED, bio); 4 doctors named (Evans, Ziemba, Reilly, Lucido) | Reviews: Birdeye 285 reviews / 4.9; Dentascore 149 reviews; BBB, Yelp, Nextdoor listings; 4 doctors incl. AACD-accredited Dr. Evans (VERIFIED via snippets)
@@ -475,7 +480,7 @@
 • Hooks: 1) Theme folder literally named "ziemba" and a ©2018 footer on a four-doctor practice 2) Dr. Evans is an AACD accreditation candidate + AAID member since 1985 — not visible on the homepage
 • Pitch/offer: Multi-doctor group redesign — $8–12k standard tier; Dental Revenue contract redirect.
 • Sources: Live fetch pioneervalleydentalarts.com (home + /longmeadow-ma-dentist-dr-mark-evans/) | Wave-2 review enrichment (2026-09-30): Birdeye 285, Dentascore 149; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: Dental Revenue · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Dental Revenue · region: Northeast (wave 1)
 
 28. OKC Dental Arts (Drs. Michael Fling & Cama Cord) — Oklahoma City (NW 63rd St), OK — http://okcdentalarts.com/ — 73/100 — HIGH (medium confidence)
 • Est/Doctors: Dr. Michael Fling (40+ yrs in dentistry, began as lab technician — VERIFIED) + Dr. Cama Cord (OU College of Dentistry — VERIFIED); practice est. UNKNOWN | Reviews: Birdeye 4.9 (431 reviews); Facebook 100% recommend (89 reviews); Dentascore 272; BBB profile; Yelp only 11 - web-search snippets 2026-09-30
@@ -488,7 +493,7 @@
 • Pitch/offer: Two-doctor credibility-forward redesign keeping existing booking; redirect Optima spend; $8–11k.
 • Sources: http://okcdentalarts.com/ (curl + WebFetch).
 • Wave-2 update (2026-09-30): score 69 -> 73. Reviews found: Birdeye 431 @4.9 - large corpus vs an Optima-platform site. URL live (200).
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: South-Central (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: South-Central (wave 1)
 
 29. Hagerstown Smiles Dental Care — Hagerstown, MD — https://www.hagerstownsmiles.com/ — 73/100 — HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: Founded 1986 by J. Bruce Burley DDS FAGD (now retired, fills in) [VERIFIED on site]; Dr. J. Brandon Burley DDS, Dr. Brandy Behrens DDS, Dr. Kyle Briggs DDS (+ founder) [VERIFIED on site] | Reviews: Site claim '1000+ Google Reviews' [VERIFIED in raw HTML]; Birdeye 180 reviews, 4.9; Yelp 12 (search 2026-09-30). Practice since 1986 (Dr. J. Bruce Burley)
@@ -501,7 +506,7 @@
 • Pitch/offer: Review-corpus-led redesign; $6-9k.
 • Sources: hagerstownsmiles.com raw HTML + rendered fetch of home and /meet-the-doctors (2026-09-30)
 • Wave-2 note: score 70 -> 73 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
 
 30. Ridgepointe Dental (Austin Amos DDS, JD) — The Colony, TX — https://www.ridgepointedental.com/ — 73/100 — HIGH (medium confidence)
 • Est/Doctors: 1979 | Dr. Austin Amos, DDS, JD | Reviews: Birdeye 4.9 (905 reviews; earlier snippet 904); Yelp 27; BestProsInTown 79 - verified via Birdeye JSON-LD reviewCount 905
@@ -513,7 +518,7 @@
 • Pitch/offer: $6–8k.
 • Sources: https://www.ridgepointedental.com/ (curl + WebFetch).
 • Wave-2 update (2026-09-30): score 59 -> 73. Reviews found: Birdeye 905 @4.9 (JSON-LD) - large corpus vs a TNT site with 'Copyright (c) 2017'; est. 1979. URL live (200).
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: South-Central (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: South-Central (wave 1)
 
 31. Main Line Dental Aesthetics (James A. Godorecci Jr., DMD) — Paoli, PA — https://www.paolidentist.com/ — 73/100 — HIGH (HIGH confidence on site/reviews; MEDIUM on ownership scale)
 • Est/Doctors: Practice acquired by Dr. Godorecci in 2010; 30+ yrs in practice (Penn Dental 1993) [VERIFIED on site]; 1 principal dentist (Dr. Godorecci, Penn Dental 1993, former Penn clinical instructor; AACD member; Invisalign, E4D/CEREC); staff tenure 20+ yrs (office manager) [VERIFIED on site] | Reviews: Birdeye 585 reviews, 4.9 (Birdeye Paoli listing, crawl 2026-09-30; search snippet 565); Yelp listing; Healthgrades 5 (Dr. Godorecci)
@@ -525,7 +530,7 @@
 • Hooks: 1) 585 Birdeye reviews (4.9) sit off the homepage on a ProSites template whose title is a generic 'Dentist in Paoli, PA'. 2) Owner-dentist since 2010 - a 16-year mark with AACD/E4D credentials that the template never showcases.
 • Pitch/offer: Premium homepage that leads with smile-gallery/CEREC/AACD credentials and surfaces the 585-review proof; keep existing booking. $5-8k (solo owner).
 • Sources: paolidentist.com raw HTML + WebFetch (2026-09-30); reviews.birdeye.com/d/dental/paoli-pa (crawl 2026-09-30); Healthgrades; WebSearch
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 2)
 
 32. Locust Valley Dentistry — Locust Valley, NY — https://www.locustvalleydentistry.com/ — 73/100 — MEDIUM-HIGH(medium)
 • Est/Doctors: Opened 1995 as Locust Valley Dentistry (VERIFIED, homepage); 2+ doctors visible | Reviews: Birdeye 78 reviews / 5.0; Yelp listing present (count not retrieved); site has a patient-reviews page (VERIFIED via snippet)
@@ -537,7 +542,7 @@
 • Hooks: 1) "We opened our doors as Locust Valley Dentistry in 1995" — 30-year anniversary just passed on a 2019 ProSites template 2) Title tag literally begins "Welcome |"
 • Pitch/offer: Gold Coast premium redesign — $8–12k standard tier.
 • Sources: Live fetch locustvalleydentistry.com (raw HTML + meet-the-doctors); YellowPages Oyster Bay listing | Wave-2 review enrichment (2026-09-30): Birdeye 71 reviews; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Northeast (wave 1)
 
 33. Dental Group West — Toledo, OH — dentalgroupwest.com — 73/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: Founding year UNKNOWN (site has an 'Our History' page not captured); 3 dentists listed (VERIFIED); recent-associate announcement 'Dental Group West Welcomes Dr. Quinn Crago' (VERIFIED) | Reviews: 4.7 on 126 reviews (Birdeye, reviews.birdeye.com/dental-group-west-154301912); est. 1969 per directory snippet (INFERRED); doctors named in listings: Thomas, Weisenburger, Poole, Aridi, Crago; some negative TMJ review noted. [Wave-2 enrichment]
@@ -550,7 +555,7 @@
 • Pitch/offer: Multi-doctor full-mouth-reconstruction/cosmetic positioning site, keep patient-pay links. $8–12k
 • Sources: dentalgroupwest.com raw HTML + rendered nav
 • Wave-2 re-score: 70 -> 73. Est. 1969 and 3-5 doctors raise Business Maturity; 126 Birdeye reviews moderate.
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Midwest (wave 1)
 
 34. Transforming Smiles (Bruce E. Carter, DMD PC) — Lawrenceville, GA — https://www.gwinnettsmiles.com/ — 73/100 — MEDIUM-HIGH (confidence: MEDIUM)
 • Est/Doctors: Dr. Carter 'practicing in this field since 1985 – well over 30 years' (VERIFIED, site About page); 'Best of Gwinnett County since 2002' and Chamber 'Physician of the Year' 2014 (site claims); 2 named doctors, 1 office (751 Old Norcross Rd) | Reviews: 'Over 500 5-Star Reviews On Google' (VERIFIED on-page text; Google count not independently confirmed); Healthgrades Dr. Carter 4.8 / 20 ratings (Healthgrades directory)
@@ -562,7 +567,7 @@
 • Hooks: 1) Title tag literally reads 'Dentist Near Me | Local Dentist | Dentist Office Near Me | Cost of Dental Care'. 2) 40-year founder plus successor doctor and 500+ Google reviews sit behind a stock TNT template.
 • Pitch/offer: Generational-handoff flagship refresh for a Gwinnett cosmetic/restorative practice — $8–12k
 • Sources: gwinnettsmiles.com raw HTML (curl) + about-our-dental-practice.html; WebFetch homepage; Healthgrades usearch (Carter); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Southeast (wave 2)
 
 35. Greater Baltimore Prosthodontics, PA — Towson, MD — https://www.gbpdental.com/ — 73/100 — MEDIUM-HIGH (MEDIUM: principal/owner not identified; site is more current than most vendor shells)
 • Est/Doctors: '30+ years experience' (site) [VERIFIED on site]; founding year UNKNOWN; 6 dentists incl. prosthodontists: Arash M. Rostami DDS MS DICOI, Michael P. Linnan DDS, Maya M. Brooks DMD, Pegah Ghiasi DDS MS, Tareq Haddad DDS, W. Maxwell Wahle DDS MS FACP; 'Top dentists - Baltimore Magazine' (site claim) [VERIFIED on site] | Reviews: Birdeye 1,070 reviews, 5.0 (crawl 2026-09-30; search snippet shows 813); Yelp 16; Nextdoor and Facebook pages exist
@@ -574,7 +579,7 @@
 • Hooks: 1) Six-doctor prosthodontic group whose homepage title is literally 'Welcome To Our Site' despite ~1,000 five-star reviews. 2) Complex-case (implant/full-arch) specialty positioned on a stock Dentalfone shell.
 • Pitch/offer: Specialty-grade rebrand: case galleries for full-arch/veneer, doctor pages, review wall. $12-15k (group flagship).
 • Sources: gbpdental.com raw HTML + WebFetch (2026-09-30); reviews.birdeye.com/d/dental/towson-md; WebSearch
-• QC: liveness HTTP 200 · vendor cluster: Dentalfone · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Dentalfone · region: Mid-Atlantic (wave 2)
 
 36. Gates Family Dentistry — Loveland, OH — gatesfamilydentistry.com — 73/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: Founded 1979 by Dr. John P. Gates; 'over 40 years'; father-to-son handoff after 2016 retirement (VERIFIED, site); '2 dentists, 3 dental hygienists, 4 dental assistants, and 3 administrative assistants' (VERIFIED) | Reviews: 1,994 reviews, 5-star aggregate, 99.2% would refer (Demandforce local.demandforce.com/b/gatesfamilydentistry, VERIFIED via fetch; customers since 1992 shown).
@@ -586,7 +591,7 @@
 • Hooks: 1) A 1979 founder-to-son practice with ~2,000 reviews on a 'Copyright � 2019 Prosites' template 2) ZIP code and two doctor names stuffed into the title tag
 • Pitch/offer: Second-generation relaunch (heritage story + smile gallery), keep Demandforce. $8–12k
 • Sources: gatesfamilydentistry.com raw HTML; local.demandforce.com/b/gatesfamilydentistry
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Midwest (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Midwest (wave 2)
 
 37. Devon Dental Associates (Drs. Steven Hart & Robert Rose) — Wayne (Devon/Berwyn), PA — http://www.devondental.com/ — 73/100 — MEDIUM (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: 'Since 1985' [VERIFIED on site]; 2 dentists: Dr. Steven Hart, Dr. Robert Rose ('dentists who practice together') [VERIFIED on site] | Reviews: 4.9/5 from 62 reviews (aggregator citing verified reviews, search snippet 2026-09-30); Yelp 17 (practice page) - mid-sized corpus, none shown on the 7.9KB homepage [VERIFIED]
@@ -599,7 +604,7 @@
 • Pitch/offer: Mobile-first, HTTPS premium rebuild for a 40-year Main Line practice; keep existing patient login links. $6-9k.
 • Sources: devondental.com raw HTML + curl redirect check (2026-09-30)
 • Wave-2 note: score 76 -> 73 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: Sesame 24-7 · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Sesame 24-7 · region: Mid-Atlantic (wave 1)
 
 38. Comprehensive Esthetic Restorative & Implant Dentistry (Murali R. Ravel, DMD) — Bedford, NH — https://www.nhestheticdentistry.com/ — 73/100 — MEDIUM(low-medium)
 • Est/Doctors: UNKNOWN (founding year not stated on fetched pages); doctors: Ravel + team | Reviews: Healthgrades 111 reviews / 4.7 (89% five-star) for Dr. Ravel; site has testimonials page; Yelp listing present (VERIFIED via WebFetch of Healthgrades)
@@ -611,7 +616,7 @@
 • Hooks: 1) CBCT + CEREC + laser + full-mouth reconstruction are listed as plain nav items on a Sesame template 2) No copyright line at all in the footer
 • Pitch/offer: Technology-forward implant/esthetic redesign — $8–12k standard tier.
 • Sources: Live fetch nhestheticdentistry.com (home, meet-dr-murali-ravel) | Wave-2 review enrichment (2026-09-30): Healthgrades 111 reviews, 4.7; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: Sesame 24-7 · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Sesame 24-7 · region: Northeast (wave 1)
 
 39. New Canaan Dental Care (Anthony T. Festa, DDS) - New Canaan, CT - https://www.newcanaandentalcare.com/ - 73/100 - MEDIUM (medium)
 • Est/Doctors: 'After 32 years on South Avenue' - practice recently moved to a new Pine Street office (VERIFIED, homepage news); solo; 'Voted Connecticut's topDentists 2025' (homepage) | Reviews: Birdeye 184 reviews / 4.9 (Birdeye New Canaan directory JSON-LD, 2026-09-30; still lists the old 116 South Ave address)
@@ -623,7 +628,7 @@
 • Hooks: 1) New office after 32 years is a natural re-launch moment 2) Two live domains (one plain http, canonical http) split SEO for a topDentists-listed practice; retirement-horizon flag - probe succession
 • Pitch/offer: Solo relaunch tied to the new office - $5-8k solo tier (upper end for New Canaan)
 • Sources: newcanaandentalcare.com + newcanaancosmeticdentist.com (curl raw HTML); Birdeye New Canaan CT directory JSON-LD
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Northeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Northeast (wave 2)
 
 40. Heights Family Dentistry (Carol L. Price DDS PC) — Houston (Heights), TX — http://www.heightsfamilydentistry.com/ — 72/100 — HIGH (medium confidence — tenure and reviews UNKNOWN)
 • Est/Doctors: UNKNOWN est. (site says 'experienced'; do not assume) | Dr. Carol L. Price, DDS, PC (VERIFIED solo owner) | Reviews: Birdeye 4.8 (146 reviews); Chamber of Commerce 4.9 (110 reviewers) - web-search snippets 2026-09-30; practice now shown as Drs. Carol L. Price and Eileen Kwee (2 doctors)
@@ -636,7 +641,7 @@
 • Pitch/offer: New-building-launch homepage refresh with real office/team photography; existing scheduling stays; $8–10k (solo).
 • Sources: http://www.heightsfamilydentistry.com/ (curl + WebFetch); EXCLUSIONS grep clean.
 • Wave-2 update (2026-09-30): score 70 -> 72. Reviews found: Birdeye 146 @4.8 + 110 Chamber @4.9 all invisible behind an empty <title>; second doctor (Kwee) on directory listings. URL live (200).
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: South-Central (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: South-Central (wave 1)
 
 41. Progressive Dental Studio & Implant Center (Drs. Kevin Metsger & Maropis) — Greensburg, PA — https://www.progressivedentalgbg.com/ — 72/100 — HIGH (MEDIUM-HIGH: est. year from doctor bio)
 • Est/Doctors: Dr. Metsger 'over 30 years' in Greensburg (Pitt Dental 1986) [VERIFIED on site]; 2 dentists: L. Kevin Metsger DMD (ADIA member, implants) and Dr. Maropis (Pitt 2014) [VERIFIED on site] | Reviews: Birdeye 1,588 reviews, 4.9 (Progressive Dental Studio listing) PLUS a second Birdeye listing for Dr. Metsger with 700 reviews, 4.9 (crawl 2026-09-30)
@@ -648,7 +653,7 @@
 • Hooks: 1) ~2,300 Birdeye reviews across two listings while the homepage meta still says 'Welcome to our Welcome page'. 2) 'Implant Center' in the name but the ProSites shell shows no implant case work; Dr. Metsger at 30+ years is a natural moment to hand the brand to Dr. Maropis.
 • Pitch/offer: Implant-led rebuild with case gallery and review wall; retire the second domain. $8-12k.
 • Sources: progressivedentalgbg.com raw HTML + meet-the-doctors page (2026-09-30); reviews.birdeye.com/d/dental/greensburg-pa
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 2)
 
 42. West University Dentistry (Drs. Ross Pickei & James M. Seale) — Houston (West U/Bellaire Blvd), TX — https://www.westuniversitydentistry.com/ — 72/100 — MEDIUM-HIGH (medium confidence — tenure UNKNOWN)
 • Est/Doctors: UNKNOWN est. ('For years…'); Drs. Ross Pickei & James M. Seale (VERIFIED names) | Reviews: 4.9 rating on 91 reviews (directory snippet; platform not named - Google/Yelp mix, verify); est. 1972 by Dr. James Seale; Dr. Ross Pickei purchased practice July 2021 (directory snippet)
@@ -661,7 +666,7 @@
 • Pitch/offer: Premium West-U-grade redesign migrating off ProSites; $10–12k.
 • Sources: https://www.westuniversitydentistry.com/ (curl + WebFetch).
 • Wave-2 update (2026-09-30): score 67 -> 72. Est. 1972 (founder Seale), Pickei bought July 2021 = ownership-transition timing hook; 91 reviews @4.9. 'Mb2' string in wave-1 was a base64 false positive (re-checked, none as a word). URL live (200).
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: South-Central (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: South-Central (wave 1)
 
 43. Gotwalt Dentistry — Lititz/Akron, PA — https://www.drgotwalt.com/ — 72/100 — MEDIUM-HIGH (MEDIUM confidence)
 • Est/Doctors: 'Over 30 years' (Dr. John Gotwalt); '35+ years combined experience' [VERIFIED on site]; 3 dentists: John T. Gotwalt DDS MAGD, Sara J. Gotwalt DMD FAGD, Stephanie Berg Stephens DMD FAGD [VERIFIED on site] | Reviews: Site schema.org aggregateRating 5.0 / 350 reviews [VERIFIED in raw HTML]; Birdeye 459 reviews, 5.0 (Sara J. Gotwalt DMD listing); Yelp 24 (search 2026-09-30)
@@ -674,7 +679,7 @@
 • Pitch/offer: Review-led premium redesign for a 30-year Lancaster County practice; $8-12k.
 • Sources: drgotwalt.com raw HTML + rendered fetch (2026-09-30)
 • Wave-2 note: score 71 -> 72 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: Dental Revenue · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Dental Revenue · region: Mid-Atlantic (wave 1)
 
 44. Aesthetic Image Dentistry (Debra Duryea, DMD) — Mendham, NJ — https://www.aestheticimagedentistry.com/ — 72/100 — MEDIUM-HIGH(medium)
 • Est/Doctors: In dentistry since 1980; DMD 1990 (FDU); solo (VERIFIED, bio) | Reviews: Very large corpus for a solo: Demandforce 852 reviews / 5.0 (100% would refer) (VERIFIED via WebFetch); Zocdoc 138 reviews / 4.92; Birdeye 35 reviews / 4.9
@@ -686,7 +691,7 @@
 • Hooks: 1) Practice name is literally "Aesthetic Image" but the site still promotes Empress/Procera-era materials 2) ZIP code inside the title tag
 • Pitch/offer: Solo cosmetic boutique redesign — $5–8k solo tier.
 • Sources: Live fetch aestheticimagedentistry.com (home + meet-the-doctor) | Wave-2 review enrichment (2026-09-30): Demandforce 852, Zocdoc 138, Birdeye 35; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Northeast (wave 1)
 
 45. Vason Family Dentistry of Buckhead — Atlanta (Buckhead), GA — https://www.drvason.com/ — 72/100 — MEDIUM-HIGH (confidence: MEDIUM)
 • Est/Doctors: 'Serving Buckhead, Atlanta for 40+ Years … Originally opened by Dr. Vason's father, Dr. J. Hamilton Vason, Jr.' (VERIFIED, site); office 3193 Howell Mill Rd NW Ste 202; full-mouth reconstruction, implants, implant dentures listed | Reviews: Count UNKNOWN — site links 'Read More Reviews' and shows long-tenure testimonials ('patients for over 20 years'); Healthgrades shows no ratings for Dr. Vason (WebSearch quota exhausted, so no Google/Birdeye count)
@@ -698,7 +703,7 @@
 • Hooks: 1) Buckhead legacy practice (40+ years, second-generation) whose title tag reads 'Dentist Near Me | Local Dentist | Dentist Office Near Me | Cost of Dental Care'. 2) Legacy/handoff story is buried in a stock template.
 • Pitch/offer: Buckhead legacy-practice flagship — $8–12k
 • Sources: drvason.com raw HTML (curl); Healthgrades usearch (Vason, no ratings); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Southeast (wave 2)
 
 46. Fox Chapel Advanced Dental Care (Dr. J. Kevin Pawlowicz) — Pittsburgh (Fox Chapel), PA — https://www.foxchapeldentistry.com/ — 72/100 — MEDIUM-HIGH (MEDIUM: est. year not stated)
 • Est/Doctors: 'Over 20 years' of practice per bio; founding year UNKNOWN [VERIFIED bio]; 1 principal dentist (AACD, Academy of Laser Dentistry, Academy of Computer Dentistry; adjunct faculty/mentor at the Scottsdale Center) plus in-house lab [VERIFIED on site] | Reviews: Birdeye 677 reviews, 4.9 (Fox Chapel Advanced Dental Care listing, crawl 2026-09-30)
@@ -710,7 +715,7 @@
 • Hooks: 1) 'Boutique dental retreat' positioning in one of Pittsburgh's richest ZIPs delivered on a ProSites shell with a retired UA-9997448-1 tag. 2) 677 Birdeye reviews and CBCT/in-house-lab capex not evidenced on the page.
 • Pitch/offer: Boutique-retreat homepage: case gallery, in-house-lab story, review wall. $8-12k.
 • Sources: foxchapeldentistry.com raw HTML + meet-our-team page (2026-09-30); reviews.birdeye.com/d/dental/pittsburgh-pa
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 2)
 
 47. Heck Family Dentistry of Lawrence (Dr. Brian Heck + 3 dentists) - Lawrence, KS - https://www.heckfamilydentistry.com/ - 72/100 - MEDIUM-HIGH (medium confidence - founding year UNKNOWN)
 • Est/Doctors: UNKNOWN (site text cites '50' in a years phrase - context UNVERIFIED; not used) | 4 dentists named on /meet-the-dentists.html: Drs. Ryan Brittingham, Brian Heck, Ahsan Iqbal + one more - VERIFIED; houses the 'Kansas Center for Sedation Dentistry' | Reviews: Birdeye 4.9 (757 reviews) + second Birdeye profile 4.8 (418) - JSON-LD / slug lookup 2026-09-30 (profiles may overlap)
@@ -722,7 +727,7 @@
 • Hooks: (1) 'Your title tag says sedation and emergencies - nothing about implants or the Kansas Center for Sedation Dentistry that you run.' (2) 'Footer is (c)2021 with 1,100+ reviews across two profiles that the homepage never shows.'
 • Pitch/offer: Two-brand architecture (family practice + Kansas Center for Sedation Dentistry) on one premium site; $8-12k.
 • Sources: curl + raw HTML (2026-09-30); Birdeye profiles heck-family-dentistry-*; /meet-the-dentists.html; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: South-Central (wave 2)
 
 48. Garden Oaks Family & Cosmetic Dentistry (Drs. Patrick Ruehle & Erika Eide) - Denton, TX - https://www.gardenoaksfamilydental.com/ - 72/100 - MEDIUM-HIGH (medium confidence)
 • Est/Doctors: YellowPages: 43 years in business (directory, 2026-09-30); Dr. Ruehle '40+ years', FICOI (Misch), Diplomate ABDSM, Spear CEREC faculty - VERIFIED on /meet-dr-ruehle.html | Drs. Ruehle + Erika Eide | Reviews: Birdeye 5.0 (432 reviews; JSON-LD) + legacy Birdeye profile 5.0 (50), 2026-09-30
@@ -734,7 +739,7 @@
 • Hooks: (1) 'Your whole brand is "privately owned" but your title tag says "Dentist Near Me | Cost of Dental Care".' (2) 'A FICOI/ABDSM-credentialed 40-year practice with 480+ five-star reviews running on a generic TNT template.'
 • Pitch/offer: Credential-led Denton homepage (implants, sleep, laser) with review wall; $8-12k.
 • Sources: curl + raw HTML (2026-09-30); Birdeye JSON-LD; /about-us.html, /meet-dr-ruehle.html; YellowPages Denton; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: South-Central (wave 2)
 
 49. Stephen J. Rothman, DMD & Cammarano, DMD - Woodbridge, CT - https://rothmandentist.com/ - 72/100 - MEDIUM-HIGH (medium)
 • Est/Doctors: 'Serving your family's dentistry needs for over 30 years'; staff 'average of 25 years' (VERIFIED, homepage); 2 doctors; 1 Bradley Rd Suite 905 | Reviews: Birdeye 632 reviews / 4.9 (Birdeye Woodbridge CT directory JSON-LD, 2026-09-30); homepage only asks 'Please review our dental services on Google'
@@ -746,7 +751,7 @@
 • Hooks: 1) 632 reviews and a 25-year average staff tenure told in one paragraph on a 4-image PHP page 2) Frozen (c) 2021 footer and a title that drops the second doctor's first name
 • Pitch/offer: Solo/duo redesign - review-led homepage, doctor pages, new-patient flow - $5-8k solo tier (top of range for 2 doctors)
 • Sources: rothmandentist.com (curl raw HTML); Birdeye Woodbridge CT directory JSON-LD
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: Northeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: Northeast (wave 2)
 
 50. Canyon Golf Family Dentistry (Dr. Bryan E. Soto) - San Antonio (Stone Oak), TX - https://www.familydentiststoneoak.com/ - 72/100 - MEDIUM-HIGH (medium confidence)
 • Est/Doctors: YellowPages: 26 years in business (as 'Stone Oak Family Dentistry'; INFERRED same office) | Dr. Bryan Soto solo (UTHSCSA DDS; AOS member; Engle Institute implant training) - VERIFIED | Reviews: Birdeye 4.9 (486 reviews; JSON-LD, 2026-09-30)
@@ -758,7 +763,7 @@
 • Hooks: (1) '486 five-star reviews and your footer still reads Copyright 2014.' (2) 'Your Analytics tag is the retired UA- property - you have not seen real traffic numbers since 2023.'
 • Pitch/offer: Stone Oak premium homepage consolidating the brand/domain split; $6-9k solo.
 • Sources: curl + raw HTML (2026-09-30); /team.php; Birdeye JSON-LD; YellowPages San Antonio; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: Practice Cafe · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Practice Cafe · region: South-Central (wave 2)
 
 51. Oak Brook Dental Center — Elmhurst, IL — oakbrookdentalcenter.com — 73/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: Dr. Karas 'practicing in the Oak Brook and Elmhurst areas since 1987' (39 yrs) with AAID-sponsored one-year implant course and consultant/teaching work (VERIFIED, site); 2–3 dentists | Reviews: 3,478 reviews, 5-star aggregate (Demandforce local.demandforce.com/b/oakbrookdentalcenter, VERIFIED via fetch). None surfaced on the 9-page static site.
@@ -770,7 +775,7 @@
 • Hooks: 1) 3,478 reviews and a 39-year implant educator on a '© 2016 CGDesign' brochure site 2) Two competing identities: oakbrookdentalcenter.com vs contact@obdent.com
 • Pitch/offer: Implant-authority relaunch with doctor bios and case gallery; keep Demandforce. $8–12k
 • Sources: oakbrookdentalcenter.com raw HTML + /about.html + WebFetch render; local.demandforce.com/b/oakbrookdentalcenter
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: Midwest (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: Midwest (wave 2)
 
 52. North Shore Prosthodontic Associates - Manhasset / Woodbury, NY - https://www.nspali.com/ - 72/100 - MEDIUM (medium)
 • Est/Doctors: Established 1985 per directory listings (INFERRED; another source gives 1987); prosthodontic group with Manhasset, Woodbury and Fifth Avenue NYC offices | Reviews: Birdeye Woodbury 670 reviews / 5.0 + Manhasset 73 / 4.8 (Birdeye directory JSON-LD, 2026-09-30); homepage shows only three first-name testimonials, no ratings
@@ -782,7 +787,7 @@
 • Hooks: 1) 743 Birdeye reviews and a prosthodontic pedigree but the homepage never names a doctor 2) 2017-dated service blocks and a Dentalfone template on a three-office Nassau/Manhattan prosthodontic group
 • Pitch/offer: Group-flagship prosthodontic redesign (doctor pages, case gallery, three-office structure) - $12-15k group-flagship tier
 • Sources: nspali.com (curl raw HTML + WebFetch); Birdeye Woodbury NY / Manhasset NY directory JSON-LD; WebSearch directory snippets (Healthgrades, BBB, Doctible)
-• QC: liveness HTTP 200 · vendor cluster: Dentalfone · region: Northeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Dentalfone · region: Northeast (wave 2)
 
 53. Beliveau Dental (E. Charles Beliveau, DDS, PLLC) — North Andover, MA — https://www.beliveaudental.com/ — 71/100 — MEDIUM-HIGH(medium)
 • Est/Doctors: Delivering dental excellence since 1989 (VERIFIED, homepage); 30+ years; ~1 doctor visible | Reviews: Birdeye 152 reviews / 5.0 (Birdeye directory JSON-LD, VERIFIED); Yelp 9 reviews / 5.0; Healthgrades 3 reviews; Sharecare 3.7 from 3 ratings; site says 'many people leave us kind words on Google and Facebook' but no count shown (VERIFIED)
@@ -794,7 +799,7 @@
 • Hooks: 1) Member of the Dawson Academy, Pankey Institute and Spear Study Club — advanced-credential story told by a stock TNT template 2) Delivering dentistry "since 1989" = 37th-year anniversary
 • Pitch/offer: Comprehensive-dentistry credential-led redesign — $8–12k; TNT-sub redirect hook.
 • Sources: Live fetch beliveaudental.com (home + /meet-dr-beliveau.html) | Wave-2 review enrichment (2026-09-30): Yelp 9, Healthgrades 3, Sharecare 3; site reviews.html; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Northeast (wave 1)
 
 54. Fox Valley Dental Associates (Tami Zuck DDS) — Crystal Lake, IL — foxvalleydentalcl.com — 71/100 — MEDIUM-HIGH (medium-low)
 • Est/Doctors: 'Serving Crystal Lake since 1994' (VERIFIED, site header); solo; CEREC, VELscope, prosthodontic pages | Reviews: 4.9 on ~1,180 reviews (Birdeye reviews.birdeye.com/fox-valley-dental-associates-158405325650813, page 75 of listing); serving Crystal Lake since 1994 (Healthgrades directory snippet). [Wave-2 enrichment]
@@ -807,7 +812,7 @@
 • Pitch/offer: Solo redesign. $5–8k
 • Sources: foxvalleydentalcl.com raw HTML
 • Wave-2 re-score: 60 -> 71. 1,180 Birdeye reviews hidden behind a 'Copyright � 2019 Prosites' template; large Gap upgrade.
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Midwest (wave 1)
 
 55. Baltimore Dental Arts (Drs. Kevin Murphy, Devon Conklin, Charles & Melody Ward) — Baltimore, MD — https://www.baltimoredentalarts.com/ — 71/100 — MEDIUM-HIGH (MEDIUM: Google count not retrievable; est. year of predecessors UNKNOWN)
 • Est/Doctors: Merged from Conklin & Ward Dental Group and Kevin G. Murphy & Associates (site: 'Formerly ...'); founding years UNKNOWN; 4 dentists: Murphy (perio/prosth, Pankey faculty, AAED fellow), Conklin, C. Ward, M. Ward [VERIFIED search + site] | Reviews: Birdeye 45 reviews, 4.8 (crawl 2026-09-30; search snippet 29); Google/Facebook counts UNKNOWN (site sends visitors to Google/Facebook pages)
@@ -819,7 +824,7 @@
 • Hooks: 1) Prosthodontist/AAED-fellow team wearing a keyword-stuffed TNT title ('Cost of Dental Care') and a ©2021 footer after the practice merger. 2) The merger itself is a rebrand moment: the site still says 'Formerly Conklin & Ward Dental Group'.
 • Pitch/offer: Merger-era rebrand: prosthodontic case gallery, four-doctor story, review integration. $12-15k (multi-specialty flagship).
 • Sources: baltimoredentalarts.com raw HTML (2026-09-30); Birdeye; Baltimore Magazine directory; WebSearch
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Mid-Atlantic (wave 2)
 
 56. Maras Dentistry (William H. Maras, DDS, PA) — Palm Beach Gardens, FL — https://www.marasdentistry.com/ — 71/100 — MEDIUM-HIGH (confidence: MEDIUM)
 • Est/Doctors: Est. UNKNOWN; patient testimonial: "I've known Dr. Maras for about 40 years … his dentist son who works with him now" (site) — INFERRED 35-40 yrs, generational handoff under way; 3 doctors; implants, veneers, Invisalign, Botox listed; 2521 Burns Rd | Reviews: Healthgrades Dr. William Maras 5.0 / 226 ratings (Healthgrades directory search); Google count UNKNOWN
@@ -831,7 +836,7 @@
 • Hooks: 1) Stale Dec-24 holiday-closure banner still live in late Sept. 2) 226 Healthgrades ratings at 5.0 for a father-son practice on a thin generic site.
 • Pitch/offer: Father-son handoff practice refresh — $8–12k
 • Sources: marasdentistry.com raw HTML (curl); Healthgrades usearch (Maras); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: WordPress (generic/agency, dated) · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: WordPress (generic/agency, dated) · region: Southeast (wave 2)
 
 57. Fishers Family Dentistry — Fishers, IN — fishersfamilydentistry.com — 71/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: Founding year UNKNOWN; Demandforce lists patients as customers since 1998 (INFERRED 25+ yrs); 2 dentists (VERIFIED); CEREC and implants listed | Reviews: 3,957 reviews, 5-star aggregate, 99.5% would refer (Demandforce local.demandforce.com/b/fishersfamilydentistry, VERIFIED via fetch). The homepage carries no review display.
@@ -843,7 +848,7 @@
 • Hooks: 1) Homepage title tag reads 'Make Payment Here | Fishers, IN' 2) ~4,000 Demandforce reviews (the biggest corpus in this batch) sit behind a bare ProSites shell
 • Pitch/offer: Full relaunch with reviews wall and implant/CEREC landing pages, keep pay link. $8–12k
 • Sources: fishersfamilydentistry.com raw HTML + doctor pages; local.demandforce.com/b/fishersfamilydentistry
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Midwest (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Midwest (wave 2)
 
 58. Oak Canyon Dentistry (Dr. Steven Haase) - Bee Cave (Austin), TX - https://www.oakcanyondentistry.com/ - 71/100 - MEDIUM-HIGH (medium confidence - founding year UNKNOWN)
 • Est/Doctors: UNKNOWN (Oak Canyon is his 'third dental practice'; UMKC DDS 1988) | Dr. Steven Haase solo - VERIFIED; lectures nationally on cosmetic techniques | Reviews: Birdeye 5.0 (506 reviews; JSON-LD, 2026-09-30)
@@ -855,7 +860,7 @@
 • Hooks: (1) '506 five-star reviews in Bee Cave and the site still says Copyright 2019 ProSites.' (2) 'You teach cosmetic dentistry to other dentists - your homepage reads like boilerplate.'
 • Pitch/offer: Bee Cave cosmetic/implant homepage featuring Dr. Haase's teaching credentials; $6-9k solo.
 • Sources: curl + raw HTML (2026-09-30); Birdeye JSON-LD; /our-practice/meet-our-doctor/; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: South-Central (wave 2)
 
 59. Montrose DDS (Drs. Samuel Carrell & Austin Faulk) - Houston (Montrose), TX - https://montrosedds.com/ - 71/100 - MEDIUM-HIGH (medium confidence)
 • Est/Doctors: 1981 (founded by Dr. Bruce Smith; directory + site) | Drs. Carrell (joined 2014, bought practice) and Austin Faulk (joined 2018) - married couple | Reviews: Birdeye 5.0 (323 reviews; JSON-LD, 2026-09-30); Yelp 38 (search snippet)
@@ -867,7 +872,7 @@
 • Hooks: (1) 'New owners since the Smith handoff, new office, 323 five-star reviews - and the footer is still Copyright 2018.' (2) 'Your site is a GoDaddy builder page; your competitors in Montrose/River Oaks are not.'
 • Pitch/offer: Ownership-transition relaunch for a 1981 Montrose practice; $8-10k.
 • Sources: curl + raw HTML (2026-09-30); Birdeye JSON-LD; /our-team; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: GoDaddy · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: GoDaddy · region: South-Central (wave 2)
 
 60. Smiles by Martin (Dr. Greg Martin - third generation) - Grapevine, TX - https://www.smilesbymartin.com/ - 71/100 - MEDIUM-HIGH (medium confidence)
 • Est/Doctors: YellowPages: 42 years in business | Martin Dental Practice, Dr. Greg Martin joined 2002 - third generation of Martins (VERIFIED on /meet-dr-martin.html) | Reviews: Birdeye 4.9 (277 reviews; JSON-LD, 2026-09-30)
@@ -879,7 +884,7 @@
 • Hooks: (1) 'Three generations of Martins and the website footer is (c)2021.' (2) 'You offer a 5-year warranty and All-On-4 - the homepage never says it above the fold.'
 • Pitch/offer: Legacy-story relaunch (third-generation) with All-On-4 and warranty positioning; $8-12k.
 • Sources: curl + raw HTML (2026-09-30); Birdeye JSON-LD; /meet-dr-martin.html; YellowPages Southlake; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: South-Central (wave 2)
 
 61. Progressive Dentistry (Steven M. Levy, DMD) - Merrick, NY - https://www.merrickdentistry.com/ - 71/100 - MEDIUM (medium)
 • Est/Doctors: Owner since 1984; implants since 1986 (VERIFIED, homepage/bio); solo; 2565 Beverly Rd | Reviews: Birdeye 337 reviews / 4.9 (Birdeye Merrick directory JSON-LD, 2026-09-30); Chamber of Commerce listing 179 reviews / 4.9; Healthgrades 13 reviews / 4.4
@@ -891,7 +896,7 @@
 • Hooks: 1) 337 Birdeye + 179 Chamber reviews carry the practice, not the template site 2) Implants-since-1986 expertise is a bullet in a generic PBHS page - succession/legacy angle at 40 years
 • Pitch/offer: Solo redesign leading with implant experience and reviews - $5-8k solo tier
 • Sources: merrickdentistry.com (archive.org 2025-10-15, search-indexed pages); Birdeye Merrick NY directory JSON-LD; WebSearch (Chamber of Commerce, Healthgrades snippets)
-• QC: liveness HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent · vendor cluster: PBHS · region: Northeast (wave 2)
+• QC: liveness HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent · social activity NOT YET CHECKED · vendor cluster: PBHS · region: Northeast (wave 2)
 
 62. Thomsen Dental Group — West Omaha, NE — thomsendental.com — 70/100 — MEDIUM-HIGH (medium-high)
 • Est/Doctors: 'More than three decades' in Omaha (VERIFIED, site); Brett Thomsen DDS FAGD, AACD member, ICD member, former US Army dental surgeon (UNMC DDS); associate Dr. Wegner (name VERIFIED, credentials UNKNOWN) | Reviews: Thin public corpus: aggregator shows 5.0 on 10 Google reviews (bippermedia.com snippet); Healthgrades 4 for Dr. Allen Thomsen; Yelp/BBB (A+, accredited since 2009) listings exist (WebSearch, INFERRED counts small). Site intermittently timed out in curl on first try, then loaded 200 (95.9KB). [Wave-2 enrichment]
@@ -904,7 +909,7 @@
 • Pitch/offer: Credential-forward redesign of a 30-yr AACD/FAGD practice, leave ProSites. $8–12k
 • Sources: thomsendental.com raw HTML + /our-practice/dr-brett-thomsen/
 • Wave-2 re-score: 72 -> 70. Thin review base lowers Gap/FC vs wave 1. Raw HTML re-verified 2026-09-30: still 'Copyright � 2019 Prosites, Inc.'
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Midwest (wave 1)
 
 63. Donna L. Kiesel DDS PA — Coppell, TX — https://www.drdonnakiesel.com/ — 70/100 — MEDIUM-HIGH (medium confidence)
 • Est/Doctors: 35+ yrs (site claim) | Dr. Donna L. Kiesel; veneers, implants, All-on-4, IV sedation (VERIFIED site) | Reviews: Healthgrades 4.9 (284-286 patient ratings); Yelp 10 reviews - search snippets 2026-09-30; Baylor College of Dentistry 1989 grad
@@ -917,7 +922,7 @@
 • Pitch/offer: Title/structure + premium visual rebuild; $8–10k.
 • Sources: https://www.drdonnakiesel.com/ (curl + WebFetch).
 • Wave-2 update (2026-09-30): score 66 -> 70. Reviews found: Healthgrades ~284 @4.9. URL live (200); title still keyword-spam.
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: South-Central (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: South-Central (wave 1)
 
 64. Byerly Family Dentistry — Montgomery (Cincinnati), OH — byerlydental.com — 70/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: Dr. Lee Byerly 'over thirty years' in Montgomery (VERIFIED); son/associate Dr. Ryan Byerly 'moved back to Montgomery to practice' (both OSU) — generational handoff; All-on-4, implants, sedation, Invisalign, sleep-apnea appliances listed (VERIFIED) | Reviews: Count still UNKNOWN: Google/Birdeye/HG counts not surfaced by WebSearch. Nextdoor 'Neighborhood Favorite' 2019-2022 (WebSearch snippet); on-site testimonials from Demandforce; 30+ yrs (site). [Wave-2 enrichment]
@@ -930,7 +935,7 @@
 • Pitch/offer: Generational-practice relaunch with All-on-4/implant landing pages; keep Demandforce + pay link. $8–12k
 • Sources: byerlydental.com raw HTML + /about/
 • Wave-2 re-score: 70 -> 70. No new count found; score unchanged. Raw HTML re-verified: '© 2017. All Rights Reserved', WordPress 6.2.13.
-• QC: liveness HTTP 200 · vendor cluster: WordPress (generic/agency, dated) · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: WordPress (generic/agency, dated) · region: Midwest (wave 1)
 
 65. Wallingford Station Family Dental — Wallingford (Media), PA — https://www.wallingforddental.com/ — 70/100 — MEDIUM-HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: Founded 1948; three generations [VERIFIED on site]; Stephen P. Howarth Sr. DMD ('voted top dentist in greater Philadelphia' 18 times per site), Stephen P. Howarth Jr. DMD, Daniella Rizzo DMD [VERIFIED on site] | Reviews: Thin public corpus: Yelp 10, Healthgrades 2 (Dr. Howarth), Birdeye 0 (search 2026-09-30); Google count UNKNOWN. Founded 1948 by Dr. Willard Howarth; run by Dr. Stephen Howarth Sr. and Jr. (3 generations) - heritage story is the asset, not review volume
@@ -943,7 +948,7 @@
 • Pitch/offer: Heritage + succession redesign (1948 -> Jr.); $8-12k.
 • Sources: wallingforddental.com raw HTML + rendered fetch; Healthgrades/Yelp search snippets (2026-09-30)
 • Wave-2 note: score 73 -> 70 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
 
 66. Midtown Dental Sacramento — Sacramento, CA — https://www.midtowndentalsacramento.com/ — 70/100 — MEDIUM-HIGH (medium confidence)
 • Est/Doctors: Site '2013 - 2020'; practice founding UNKNOWN | 3 dentists | Reviews: Yelp 280 reviews (Jenny Apekian DDS - Midtown Dental listing, Jul 2026; site claims 'over 150 five-star' on Yelp and Google 5.0); site schema ratingCount 68 / 5.0. In-house dental lab + CEREC. Source: yelp.com via WebSearch + raw HTML schema
@@ -956,7 +961,7 @@
 • Pitch/offer: Midtown premium rebuild; $8k.
 • Wave-2 update (2026-09-30): 64 -> 70. Big Yelp corpus (280) under a (c) 2013 - 2020 footer that still references COVID: 64 -> 70. Live.
 • Sources: Raw HTML, WebFetch homepage
-• QC: liveness HTTP 200 · vendor cluster: WordPress (generic/agency, dated) · region: West (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: WordPress (generic/agency, dated) · region: West (wave 1)
 
 67. Johann Prosthetics of Boulder (Andrew R. Johann DDS MS PC) — Boulder, CO — https://www.andrewjohannddsmspc.com/ — 70/100 — MEDIUM-HIGH (medium confidence)
 • Est/Doctors: Boulder prosthodontic practice since 1999 (MS Prosthodontics, U Minnesota; DDS Indiana 1996 - VERIFIED on /meet-dr-johann/); YellowPages lists 28 yrs (INFERRED) | 2 prosthodontists (Johann + associate Dr. Paul Child Jr., LSU prosthodontics, CDT, AAED member - VERIFIED) | Reviews: Google/Yelp counts UNKNOWN (Google/Yelp/Facebook are bot-blocked from this environment; Opencare Boulder listing shows 0 reviews); site claims 'selected by his peers into the 5280 Magazine for best in his specialty field for the last ten years' and a 'top dentist 2017 by 5280 Magazine' badge
@@ -968,7 +973,7 @@
 • Hooks: 'Your title tag literally reads Cosmetic Dentsitry and the footer is frozen at 2019 on a site that undersells a two-prosthodontist, CBCT-equipped Boulder specialty practice.' / New associate (Dr. Child, AAED) is a natural relaunch moment.
 • Pitch/offer: Specialty-practice rebuild that leads with prosthodontic credentials and case gallery, keeping existing forms/financing links; $8-12k standard.
 • Sources: Raw HTML curl 200 (title, footer, ProSites strings); WebFetch of /, /our-practice/meet-dr-johann/, /our-practice/meet-dr-child/; Opencare Boulder listing; YellowPages Boulder listing; EXCLUSIONS grep clear
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: West (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: West (wave 2)
 
 68. Baccellieri Family Dentistry (Dr. Carl Baccellieri Jr.) — Kennett Square, PA — https://bfdentistry.com/ — 70/100 — MEDIUM-HIGH (MEDIUM-HIGH)
 • Est/Doctors: Practicing since 1997 (site: 'providing exceptional dental care since 1997') [VERIFIED on site]; 3 dentists: C. Baccellieri Jr. DMD (Temple), T. Santana DDS (joined 2016), R. Starner DDS (part-time, 2016) [VERIFIED on site] | Reviews: Birdeye 877 reviews, 4.9 (C E Baccellieri DDS listing, crawl 2026-09-30)
@@ -980,7 +985,7 @@
 • Hooks: 1) Visible 'Page Phrases: dentist Kennett Square PA' keyword footer and .asp URLs on a 29-year-old, 877-review practice. 2) Two 2016 associates make a succession-planning conversation natural.
 • Pitch/offer: Replace WEO shell with a premium site featuring CEREC/implant story and review wall; keep booking. $8-12k.
 • Sources: bfdentistry.com raw HTML + meet-the-doctors page (2026-09-30); reviews.birdeye.com/d/dental/kennett-square-pa
-• QC: liveness HTTP 200 · vendor cluster: WEO Media · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: WEO Media · region: Mid-Atlantic (wave 2)
 
 69. March Dentistry — Upper Arlington (Columbus), OH — marchdentistry.com — 70/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: 'over 25 years of private practice'; Columbus Monthly 'Top Dentist'; Columbus Dental Society president 2014; ICD Fellow 2013 (VERIFIED, site); full-mouth reconstruction, implants, TMJ, sleep apnea, CEREC, laser, veneers listed; solo | Reviews: 3,331 reviews, 5-star aggregate, 99.6% would refer (Demandforce local.demandforce.com/b/marchdentistry, VERIFIED via fetch; customers since 2002 shown). Not shown on the homepage.
@@ -992,7 +997,7 @@
 • Hooks: 1) Angie's List credential (the brand no longer exists) on the homepage of a Top Dentist with 3,331 reviews 2) Full-mouth reconstruction/TMJ/sleep services buried in a mid-2010s template
 • Pitch/offer: Credential-forward restorative site (full-mouth, TMJ, sleep apnea); replace agency template. $6–9k
 • Sources: marchdentistry.com raw HTML + WebFetch render; local.demandforce.com/b/marchdentistry
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: Midwest (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: Midwest (wave 2)
 
 70. Todd Phelan DDS (Drs. S. Todd Phelan & Tyler Gossett) - Rogers, AR - https://www.nwadentist.com/ - 70/100 - MEDIUM-HIGH (medium confidence)
 • Est/Doctors: Since 2004 ('Rogers' Trusted Dental Home Since 2004' - VERIFIED; '20+ years'); Dr. Phelan 25+ yrs (Spear Institute, Dawson Academy CE) + Dr. Tyler Gossett - 2 doctors VERIFIED | Reviews: Birdeye 4.9 (621 reviews; JSON-LD lookup, 2026-09-30)
@@ -1004,7 +1009,7 @@
 • Hooks: (1) 'Your title tag says Rogers, PA - Pennsylvania - to Google.' (2) '621 five-star reviews in NW Arkansas and a 22 KB TNT template.'
 • Pitch/offer: NW Arkansas comprehensive-dentistry homepage built around Spear/Dawson positioning; $8-10k.
 • Sources: curl + raw HTML (2026-09-30); Birdeye todd-phelan-dds JSON-LD; /about-us.html, /meet-the-dentists.html; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: South-Central (wave 2)
 
 71. Thomas J. Emmer, DDS, PA (Prosthodontist) — Morristown, NJ — https://www.tjemmer.com/ — 70/100 — MEDIUM(medium)
 • Est/Doctors: Practice began 1962 (Mountain Lakes); Emmer in Morristown since 1992 (VERIFIED, About page); solo | Reviews: Thin and mixed: Birdeye 7 reviews / 3.7 stars (one complaint alleging unnecessary tooth prep); Healthgrades/Sharecare 9 reviews 4.2; Vitals 4 ratings 4.8; US News PX score 4.3 from 15 reviews; NJ Monthly Top Dentist each year (VERIFIED via snippets)
@@ -1016,7 +1021,7 @@
 • Hooks: 1) "The practice began in 1962" — six decades of heritage presented on a 2018 Wix template 2) Listed as a board-recognized prosthodontist (Specialty #3929) but site does not showcase case work
 • Pitch/offer: Prosthodontic case-gallery and referral-focused site rebuild — $8–12k standard tier; possible succession/legacy angle.
 • Sources: Live fetch tjemmer.com raw HTML (generator, footer) + About text | Wave-2 review enrichment (2026-09-30): Birdeye, Sharecare, Vitals, US News; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: Wix · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Wix · region: Northeast (wave 1)
 
 72. Moulton Dentistry of Hoover — Hoover (Birmingham), AL — https://www.moultondentistry.com/ — 70/100 — MEDIUM (confidence: MEDIUM)
 • Est/Doctors: 'Over 30 years of experience' (VERIFIED, site); Dr. Gunn also listed ('Meet Dr. Gunn' nav); office 3821 Lorna Rd (Hoover/Riverchase) | Reviews: Healthgrades Dr. Marc Moulton 4.9 / 158 ratings (Healthgrades directory search); Google count UNKNOWN (WebSearch quota exhausted)
@@ -1028,7 +1033,7 @@
 • Hooks: 1) Title tag: 'Dentist Near Me | Local Dentist | Dentist Office Near Me | Cost of Dental Care'. 2) 158 Healthgrades ratings at 4.9 for a 30-year solo — reputation far ahead of a stock template.
 • Pitch/offer: Solo-plus-associate Hoover family/implant practice — $5–8k
 • Sources: moultondentistry.com raw HTML (curl); WebFetch none; Healthgrades usearch (Marc Moulton); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Southeast (wave 2)
 
 73. Portland Dental Health Care & Implant Center - Portland, ME - https://www.portlandmainedental.com/ - 70/100 - MEDIUM (low-medium)
 • Est/Doctors: Serving Portland families since 1978 (search snippet, INFERRED); 3 doctors; IV/oral sedation + implants; 315 Auburn St | Reviews: US News: Dr. Verrier-Davis 5.0 with 19 reviews and 6 patient awards; BBB profile; Yelp listing with mixed comments (a billing complaint); Google count UNKNOWN (the 126-review Birdeye 'Portland Health Center' entry could not be tied to this practice, so not used)
@@ -1040,7 +1045,7 @@
 • Hooks: 1) COVID limited-services notice still on the homepage 5+ years on 2) Rare IV-sedation + implant credentials (MAGD/DICOI x2) under a stock PBHS template
 • Pitch/offer: Standard redesign: sedation + implant landing pages - $8-12k standard tier
 • Sources: portlandmainedental.com (archive.org 2025-10-14); WebSearch (US News, BBB, Yelp snippets)
-• QC: liveness HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent · vendor cluster: PBHS · region: Northeast (wave 2)
+• QC: liveness HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent · social activity NOT YET CHECKED · vendor cluster: PBHS · region: Northeast (wave 2)
 
 74. Ross & Sourlis Family Dentistry of Rock Hill (domain: Coombs and Ross legacy) — Rock Hill, SC — https://www.crsmile.com/ — 70/100 — MEDIUM (confidence: MEDIUM)
 • Est/Doctors: 'Improving Smiles Since 1993' / 'trusted us for over 30 years' (VERIFIED, site); 'over 50 years of combined experience'; implants, All-on-4, CEREC, veneers, ClearCorrect listed; 'VIP Smile Club' membership ($48/mo adult) signals price-sensitive mix | Reviews: Homepage badge alt-text: 'top rated dentist on Google over 500 5 star reviews' (VERIFIED on-page; Google count not independently confirmed)
@@ -1052,7 +1057,7 @@
 • Hooks: 1) 500+ Google reviews and 30 years behind a 'Dentist Near Me' title and a legacy-name domain. 2) VIP Smile Club membership offer suggests a redesign can lift implant/cosmetic conversion.
 • Pitch/offer: Two-doctor legacy practice — $5–8k
 • Sources: crsmile.com raw HTML (curl) + pg text; EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Southeast (wave 2)
 
 75. Perry Hall Smiles (Caroline F. Owens, DDS, PA) — Perry Hall (Baltimore), MD — http://www.perryhallsmiles.com/ — 69/100 — MEDIUM-HIGH (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: Dr. Roedel Jaeger began in Overlea and then Perry Hall 'almost 50 years ago'; 'four generations of patients' [VERIFIED on site]; Dr. Caroline Foster Owens DDS (owner carrying the office forward), Dr. Marina Burdusi (joined); Dr. Ronald Carter earlier partner [VERIFIED on site] | Reviews: No Google/Birdeye count found (Birdeye has no listing; Yelp listing exists under 'Caroline Foster Owens DDS PA'); Baltimore Magazine Top Dentist recognition; snippet says practice 'established 2015' under Dr. Owens (earlier generations of patients) - maturity and corpus unproven, docked
@@ -1065,7 +1070,7 @@
 • Pitch/offer: Fix-the-basics premium rebuild (secure, mobile, review-led) for a 50-year practice; $5-8k.
 • Sources: perryhallsmiles.com raw HTML + curl SSL test (2026-09-30)
 • Wave-2 note: score 73 -> 69 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
 
 76. Always Great Smiles (Drs. Pecora & Langner) — Glen Ellyn, IL — alwaysgreatsmiles.com — 69/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: Testimonial: 'since we moved to Glen Ellyn over 25 years ago' (INFERRED practice age ≥25 yrs); Langner joined at graduation 1995 (VERIFIED); Pecora U of Illinois; implants, veneers, prosthodontic, sedation, CEREC pages (VERIFIED) | Reviews: 4.9 on 393-396 reviews (Birdeye reviews.birdeye.com/always-great-smilescom-pc-146486020505051); Yelp 18; Facebook 98% recommend (WebSearch). Reviews also name a Dr. Zaremba - confirm roster. [Wave-2 enrichment]
@@ -1078,7 +1083,7 @@
 • Pitch/offer: Two-doctor DuPage cosmetic/sedation redesign. $8–12k
 • Sources: alwaysgreatsmiles.com raw HTML + about pages
 • Wave-2 re-score: 64 -> 69. Large Birdeye corpus behind a 'Copyright � 2019 Prosites' template (re-verified raw HTML).
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Midwest (wave 1)
 
 77. Schilling Farms Dental (Drs. Midyett & Prine) — Collierville (Memphis), TN — https://www.schillingfarmsdental.com/ — 69/100 — MEDIUM-HIGH (confidence: MEDIUM) [BELOW 68 CUT LINE — bench only]
 • Est/Doctors: Est. UNKNOWN; 3 doctors ('group practice') | 3 doctors: Midyett, Prine, Jason Glick; one office; footer "(c) 2026 DentalWebsites.com (Advanced Web Systems LLC)"; site describes itself as "group practice" - independence MEDIUM | Reviews: Birdeye 1,892 reviews / 4.9 (search snippet, birdeye.com); Yelp 18; BBB A+ (not accredited). Own homepage shows only four 5-star Google review excerpts, no aggregate count (VERIFIED via fetch) = large invisible corpus [WAVE 2]
@@ -1090,7 +1095,7 @@
 • Hooks: 1) Mojibake "â€¢" bullets in the footer. 2) 2011-era Bootstrap 2 under a 2026 footer.
 • Pitch/offer: Group-practice redesign — $8–12k
 • Sources: schillingfarmsdental.com (curl + rendered fetch); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: DentalWebsites.com · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: DentalWebsites.com · region: Southeast (wave 1)
 
 78. Dental Arts of Delaware (Drs. Gregg Fink & Christopher Appleman) — Newark, DE — https://dentalartsofdelaware.com/ — 69/100 — MEDIUM-HIGH (MEDIUM: est. year UNKNOWN)
 • Est/Doctors: Founding year UNKNOWN; Dr. Fink lectures/expert witness, hygienist tenure since 2008 [VERIFIED on site]; 2 dentists: Fink (Penn Dental; AGD fellow; ICOI fellow; places and restores implants in-house) and Appleman DDS (AGD fellowship in progress) [VERIFIED on site] | Reviews: Birdeye 1,334 reviews, 4.9 (crawl 2026-09-30)
@@ -1102,7 +1107,7 @@
 • Hooks: 1) WordPress 5.7.19 core + Slider Revolution 6.4.6 under a footer that credits 'New Patients, Inc.' rather than the practice, above 1,334 Birdeye reviews. 2) Their own 'independent, not DSO' statement is a ready-made brand pillar the current site buries.
 • Pitch/offer: Independent-and-proud rebrand: implant story, Fink credentials, review wall. $8-12k.
 • Sources: dentalartsofdelaware.com raw HTML + meet-the-doctors page (2026-09-30); reviews.birdeye.com/d/dental/newark-de
-• QC: liveness HTTP 200 · vendor cluster: WordPress (generic/agency, dated) · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: WordPress (generic/agency, dated) · region: Mid-Atlantic (wave 2)
 
 79. CMB Family Dentistry (Drs. David Brown & Josh Alter) — Broomall, PA — https://www.cmbdental.com/ — 69/100 — MEDIUM-HIGH (MEDIUM-HIGH)
 • Est/Doctors: 'For more than 40 years' (site) [VERIFIED on site]; Main Line Today 'Best of the Main Line Dentists' consecutive years since 2009 (site claim); 2 dentists: Brown (implant-trained, AGD) and Alter (DMD, MS) [VERIFIED on site] | Reviews: Birdeye 460 reviews, 5.0 (crawl 2026-09-30; a second Birdeye page shows 306); aggregator 362
@@ -1114,7 +1119,7 @@
 • Hooks: 1) A 40-year Main Line Today 'Best of' practice whose site still carries a COVID-19 nav item (interior pages) and a <center>/<table> homepage layout. 2) Practice name is founder initials with the principals now Brown (2001) and Alter (2013) - a natural rebrand moment.
 • Pitch/offer: Full rebrand around the 'Best of the Main Line' proof and full-mouth-rehab cases. $8-12k.
 • Sources: cmbdental.com raw HTML + meet-the-doctor pages (2026-09-30); reviews.birdeye.com/d/dental/broomall-pa; WebSearch
-• QC: liveness HTTP 200 · vendor cluster: TeleVox/Milestone · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TeleVox/Milestone · region: Mid-Atlantic (wave 2)
 
 80. Cinco Meadows Dental (Dr. Brian Williams) - Katy (Cinco Ranch), TX - https://www.cincomeadowsdental.com/ - 69/100 - MEDIUM-HIGH (medium confidence - founding year UNKNOWN)
 • Est/Doctors: UNKNOWN | Dr. Brian Williams (Texas A&M; Baylor College of Dentistry DDS), 'Meet Our Doctors' page - VERIFIED; YP lists a prior/alternate name 'Joel Nickles, DDS' (ownership history UNKNOWN) | Reviews: Birdeye 4.9 (898 reviews; JSON-LD, 2026-09-30)
@@ -1126,7 +1131,7 @@
 • Hooks: (1) '898 five-star reviews and a ZIP code in your title tag.' (2) 'Cinco Ranch is one of Houston's most affluent suburbs; the site is a 2019-engine ProSites template.'
 • Pitch/offer: Cinco Ranch cosmetic homepage that converts the 898-review corpus; $6-9k solo.
 • Sources: curl + raw HTML (2026-09-30); Birdeye JSON-LD; /our-practice/meet-our-doctors/; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: South-Central (wave 2)
 
 81. Dr. Rosenbaum & Associates — Modesto, CA — https://www.docsforteeth.com/ — 69/100 — MEDIUM (medium confidence)
 • Est/Doctors: Founded 42+ years ago (VERIFIED on site) | 3 dentists | Reviews: Yelp 91 reviews (Jul 2026); Facebook 51 reviews (100% recommend); Modesto Bee Readers' Choice 9 yrs per search snippet ('175+ five-star, 4.9'). The earlier '700 five-star Google reviews' self-claim was NOT found in the current raw HTML. Source: yelp.com, facebook.com via WebSearch
@@ -1139,7 +1144,7 @@
 • Pitch/offer: Rebuild + review integration, redirect TNT spend; $5-8k.
 • Wave-2 update (2026-09-30): 68 -> 69. Reviews verified but smaller than the site's earlier claim; net +1. curl 200; homepage <title> re-confirmed 'Dentist Modesto, CA | Dentist Near Me | Dr. Rosenbaum & Associates'.
 • Sources: Raw HTML, WebFetch homepage
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: West (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: West (wave 1)
 
 82. Pelandale Dental Care (Dr. Param Gill) — Modesto, CA — https://www.pelandaledental.com/ — 69/100 — MEDIUM (medium confidence)
 • Est/Doctors: Practice founding year UNKNOWN; Gill 25+ yrs experience (VERIFIED on site) | 1 named dentist | Reviews: Yelp 71 reviews (Aug 2026); practice claims '250+ 5-star' top-rated in Central Valley; BBB profile exists. Source: yelp.com, bbb.org via WebSearch
@@ -1152,7 +1157,7 @@
 • Pitch/offer: Technology-forward implant site; $8k.
 • Wave-2 update (2026-09-30): 67 -> 69. Also markets YOMI robotic implant surgery (only one in the Modesto area per its own copy) = capex and high-ticket work; now also runs a GoHighLevel funnel site (pelandale-dental.com, (c) 2026) beside the ProSites (c)2019 main site. Live.
 • Sources: Raw HTML, WebFetch homepage
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: West (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: West (wave 1)
 
 83. Annapolis Dental Associates — Annapolis, MD — https://www.annapolisdentalassociates.net/ — 69/100 — MEDIUM (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: Site footer ©2004; patient testimonial 'over 20 years' [VERIFIED on site]; founding year INFERRED ~2004; 5 dentists: Drs. Waddell, Bjorklund, Warfield, Shanahan, Ahmed; ADA, AGD, ICOI and laser-dentistry memberships [VERIFIED on site] | Reviews: 92 verified reviews, 4.8 (aggregator, search snippet); BBB profile; Yelp listing; 5 testimonials on homepage. In business ~31 yrs per aggregator; footer '(c) 2004 -' [VERIFIED]
@@ -1165,7 +1170,7 @@
 • Pitch/offer: Multi-doctor flagship redesign; $10-14k.
 • Sources: annapolisdentalassociates.net raw HTML + rendered fetch (2026-09-30)
 • Wave-2 note: score 70 -> 69 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: Mid-Atlantic (wave 1)
 
 84. James A. Vito, DMD (Prosthodontics & Periodontics) — Wayne, PA — https://www.jamesvito.com/ — 69/100 — MEDIUM (review enrichment wave 2, 2026-09-30)
 • Est/Doctors: 'Over 30 years of experience' [VERIFIED on site]; 1 dentist (Dr. James A. Vito DMD), advanced training in prosthodontics and periodontics; in-office ceramist [VERIFIED on site]; board certification UNKNOWN | Reviews: Healthgrades 86 reviews (Dr. James Vito); Yelp listing; Facebook page; dual-board specialist (perio/prosth/implant), in practice since 1987 (search snippet 2026-09-30)
@@ -1178,7 +1183,7 @@
 • Pitch/offer: Solo prosthodontic authority redesign; $6-9k.
 • Sources: jamesvito.com raw HTML + rendered fetch (2026-09-30)
 • Wave-2 note: score 68 -> 69 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 1)
 
 85. Serafin Family Dentistry — Carlisle, PA — https://www.serafinfamilydentistry.com/ — 69/100 — MEDIUM (LOW-MEDIUM confidence: est year, reviews, doctors' tenure UNKNOWN)
 • Est/Doctors: UNKNOWN [no founding year on site]; Dr. Robert Serafin, Dr. Tamara Shore (Serafin) [VERIFIED on site] | Reviews: Birdeye 389 reviews, 5.0; Chamber of Commerce 5.0 from 249 reviewers; Facebook 98% recommend / 69; Yelp listed (search 2026-09-30). Homepage shows no counts [VERIFIED]
@@ -1191,7 +1196,7 @@
 • Pitch/offer: Implant/full-mouth-led redesign; $5-8k.
 • Sources: serafinfamilydentistry.com raw HTML + rendered fetch (2026-09-30)
 • Wave-2 note: score 62 -> 69 after review-count enrichment; site re-fetched live 2026-09-30 (HTTP 200).
-• QC: liveness HTTP 200 · vendor cluster: Progressive Dental Marketing · region: Mid-Atlantic (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Progressive Dental Marketing · region: Mid-Atlantic (wave 1)
 
 86. Allison Family & Cosmetic Dentistry (F. Vincent Allison III, DDS, PA) — Durham, NC — https://www.allisonfamilydentistry.com/ — 69/100 — MEDIUM (confidence: MEDIUM)
 • Est/Doctors: Est. UNKNOWN (site carries no history page); office 6208 Fayetteville Rd Ste 102, South Durham; family + cosmetic (veneers, whitening) positioning | Reviews: Healthgrades Dr. F. Vincent Allison 4.8 / 188 ratings (Healthgrades directory search); Google count UNKNOWN (WebSearch quota exhausted)
@@ -1203,7 +1208,7 @@
 • Hooks: 1) 188 Healthgrades ratings at 4.8 vs. a ProSites shell whose title is just 'Durham Dentist, Dr. F. Vincent Allison III'. 2) ProSites mojibake footer + UA-1769281-1 tag from the 2000s.
 • Pitch/offer: Solo/small cosmetic practice — $5–8k
 • Sources: allisonfamilydentistry.com raw HTML (curl) + WebFetch not needed; Healthgrades usearch (Allison); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Southeast (wave 2)
 
 87. Iglesias Dental Group (formerly Walter K. Kulick, DMD, PA) — Coral Springs, FL — https://www.dentistrycoralsprings.com/ — 69/100 — MEDIUM (confidence: MEDIUM)
 • Est/Doctors: Practice 'Dr. Walter Kulick founded in 1988'; 'over 30 years' (VERIFIED, site); Iglesias doctors now 'carry on a legacy' (generational handoff); CBCT, guided implant surgery, in-house digital lab (VERIFIED, site) | Reviews: Google count UNKNOWN (WebSearch quota exhausted); Healthgrades: Dr. Kulick 5.0/14, Dr. Ghodsi 4.6/12 at same address (thin)
@@ -1215,7 +1220,7 @@
 • Hooks: 1) Ownership transition (Kulick 1988 → Iglesias) with a 'Dentist Near Me' title and slug domain. 2) CBCT + in-house digital lab capex not reflected on a stock template.
 • Pitch/offer: Rebrand/handoff redesign — $8–12k
 • Sources: dentistrycoralsprings.com raw HTML (curl) + pg text; Healthgrades usearch; EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Southeast (wave 2)
 
 88. DeMartin Dental Associates - Fairfield, CT - https://www.demartindental.com/ - 69/100 - MEDIUM (low-medium)
 • Est/Doctors: 'Serving Fairfield County For Over 65 Years' (VERIFIED, homepage); 2 doctors; 69 Sherman St | Reviews: Birdeye 113 reviews / 4.7 (Birdeye Fairfield directory JSON-LD, 2026-09-30); Healthgrades link on site
@@ -1227,7 +1232,7 @@
 • Hooks: 1) '65 years' heritage sold with a stock Sesame template 2) Generational hand-off (legacy DeMartin name, two current doctors) = timing event
 • Pitch/offer: Standard redesign around heritage + doctors - $8-12k standard tier
 • Sources: demartindental.com (curl raw HTML); Birdeye Fairfield CT directory JSON-LD
-• QC: liveness HTTP 200 · vendor cluster: Sesame 24-7 · region: Northeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Sesame 24-7 · region: Northeast (wave 2)
 
 89. Egidio Dental Care (Aaron J. Egidio, DDS) - Madison, CT - https://www.egidiodentalcare.com/ - 69/100 - MEDIUM (medium)
 • Est/Doctors: 'more than 20 years' (VERIFIED, homepage); solo; 149 Durham Rd | Reviews: Birdeye 342 reviews / 5.0 (Birdeye Madison CT directory JSON-LD, 2026-09-30); Healthgrades link on site
@@ -1239,7 +1244,7 @@
 • Hooks: 1) 342 reviews at 5.0 not surfaced on an 18KB template 2) Homepage services list is preventive-only for a 20-year shoreline practice
 • Pitch/offer: Solo redesign - $5-8k solo tier
 • Sources: egidiodentalcare.com (curl raw HTML); Birdeye Madison CT directory JSON-LD
-• QC: liveness HTTP 200 · vendor cluster: Sesame 24-7 · region: Northeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Sesame 24-7 · region: Northeast (wave 2)
 
 90. Blossfeld Family Dentistry (Dr. Carol M. Blossfeld) - Edmond / Oklahoma City, OK - https://www.drblossfeld.com/ - 69/100 - MEDIUM (medium confidence - succession unknown (40+ yrs in field))
 • Est/Doctors: YellowPages: 29 years in business | Dr. Blossfeld (dental school 1996, 'more than 40 years in the dental field'), solo - VERIFIED on /meet-the-doctor-and-team/ | Reviews: Birdeye 5.0 (440 reviews) + two further Birdeye profiles 5.0 (194) and 5.0 (142), 2026-09-30 (may overlap)
@@ -1251,7 +1256,7 @@
 • Hooks: (1) 'Three Birdeye profiles, 440+ five-star reviews - and a 3-image ProSites page titled "Welcome".' (2) 'Dr. Blossfeld built this practice from day one; the site has not been rebuilt since the 2019 ProSites engine.'
 • Pitch/offer: Edmond cosmetic/family homepage with review wall; $6-8k solo.
 • Sources: curl + raw HTML (2026-09-30); Birdeye JSON-LD; /meet-the-doctor-and-team/; YellowPages Edmond; EXCLUSIONS/log grep clean
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: South-Central (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: South-Central (wave 2)
 
 91. Perfect Smiles Dental Care — Lenexa, KS — perfectsmilesdentalcare.com — 68/100 — MEDIUM-HIGH (medium-high)
 • Est/Doctors: Serving Lenexa since 1991 (VERIFIED, site); 2 doctors: Kelly Bridenstine DDS (Univ. of Iowa 1987; IV/oral sedation Level II permit 2009) + Tracy Boldry DMD, MS, board-certified prosthodontist (VERIFIED, site) | Reviews: 4.4 avg on 61 reviews (aggregator snippet, WebSearch); Yelp 15 reviews; 'dentists helping patients for more than 30 years' (site snippet). [Wave-2 enrichment]
@@ -1264,7 +1269,7 @@
 • Pitch/offer: Premium prosthodontic/cosmetic flagship homepage replacing TNT template; keep booking. $8–12k
 • Sources: site homepage/about (curl+render), dentistsup.com listing
 • Wave-2 re-score: 70 -> 68. Moderate corpus, 4.4 avg is below premium band; Gap lowered.
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Midwest (wave 1)
 
 92. Somerset Hills Family Dentist (Joseph M. Micale, DMD, PA) — Basking Ridge, NJ — https://www.somersethillsfamilydentist.com/ — 68/100 — MEDIUM-HIGH(medium)
 • Est/Doctors: Serving Somerset Hills since 1993 (VERIFIED, site copy); multi-doctor UNKNOWN | Reviews: Modest corpus: Birdeye 42 reviews / 5.0 (Birdeye directory JSON-LD); Healthgrades 2; Yelp few reviews, 5 stars (VERIFIED). Site has /testimonials/ and /patient-reviews/ pages
@@ -1276,7 +1281,7 @@
 • Hooks: 1) Doctor-bio URL /our-practice/meet-the-doctor/ 404s with "Sorry, we looked all over" on the practice's own site 2) Since 1993 with patients of "over 40 years" quoted in testimonials — none of it is structured as proof
 • Pitch/offer: Somerset Hills boutique redesign with fixed doctor bio + review integration — $8–12k standard tier.
 • Sources: Live fetch somersethillsfamilydentist.com raw HTML | Wave-2 review enrichment (2026-09-30): Healthgrades, Yelp snippets; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Northeast (wave 1)
 
 93. North Macon Dental Associates — Macon, GA — https://www.northmacondentalassociates.com/ — 68/100 — MEDIUM-HIGH (confidence: MEDIUM-HIGH)
 • Est/Doctors: Founded 40+ years ago by Dr. Lee Stockslager (VERIFIED, site: "over 40 years"); ownership transitioned to Dr. Baker-Anday (generational handoff) | Reviews: Facebook 92% recommend / 55 reviews; Chamber of Commerce 4.0 stars / 49; Yelp 12; BestProsInTown 125 aggregated (search snippets) - thin/mixed corpus, one reviewer alleges missed cavities, community calls it "among the cheapest rates" (low-ticket signal) [WAVE 2]
@@ -1288,7 +1293,7 @@
 • Hooks: 1) © 2035 and a 123-456-7890 placeholder phone are live on the homepage. 2) New owner-dentist inheriting a 40-year name — natural moment to rebuild.
 • Pitch/offer: Successor-owner rebrand/redesign — $5–8k
 • Sources: northmacondentalassociates.com (curl + rendered fetch); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: Wix · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Wix · region: Southeast (wave 1)
 
 94. Passidomo Cosmetic & Family Dentistry (Dr. Passidomo & Dr. Brij Patel) — Centerville (Dayton), OH — dpsmilecenter.com — 68/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: Passidomo DMD 1993 (~33 yrs since degree; practice founding year UNKNOWN); second dentist Dr. Brij Patel (page title 'Dr. Danial Passidomo and Dr. Brij Patel Family Dentistry') — possible succession/associate transition (INFERRED) | Reviews: Yelp 23 reviews; Healthgrades 5 reviews for Dr. Passidomo; ~4.9 avg per aggregate snippet; RateMDs/WebMD/US News listings exist (WebSearch). Corpus small for a 33-yr practice. [Wave-2 enrichment]
@@ -1301,7 +1306,7 @@
 • Pitch/offer: Two-doctor rebrand/succession site with cosmetic showcase. $8–12k
 • Sources: dpsmilecenter.com raw HTML + /meet-our-dentists.html
 • Wave-2 re-score: 70 -> 68. Small review base lowers Gap/FC. Raw HTML re-verified: '&copy; 2014 ... Site designed and maintained by TNT Dental'.
-• QC: liveness HTTP 200 · vendor cluster: TNT Dental · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: TNT Dental · region: Midwest (wave 1)
 
 95. Michael A. MacInnes, DDS, PLLC — Sammamish, WA — https://www.macinnesdentistry.com/ — 68/100 — MEDIUM-HIGH (medium confidence)
 • Est/Doctors: NYU dental 2001 (VERIFIED); 'Serving Sammamish, Issaquah, & Redmond for Sixteen Years' (VERIFIED on site); YellowPages tenure 21 yrs (INFERRED) | 1 doctor | Reviews: Google/Yelp counts UNKNOWN (bot-blocked); YellowPages 1; Opencare 0; homepage banner 'Trusted by Dental Specialists ... 16 Consecutive Years 2011~2026' (Seattle Met Top Dentists, self-reported)
@@ -1313,7 +1318,7 @@
 • Hooks: 'Sixteen years as a Seattle Met Top Dentist and the site is a 2022 Weebly with a phone number in the title tag.' / Implant and CEREC menu buried behind a services list.
 • Pitch/offer: Solo premium rebuild keeping his Wufoo intake; $5-8k solo.
 • Sources: Raw HTML curl 200 (title, editmysite/weebly assets, footer); text of /; YellowPages Sammamish listing (WebFetch); Opencare Sammamish listing; EXCLUSIONS grep clear
-• QC: liveness HTTP 200 · vendor cluster: Weebly · region: West (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Weebly · region: West (wave 2)
 
 96. Kahala Smile Professionals, LLC (Drs. Candace & Robert Wada) — Honolulu (Kahala), HI — https://www.kahalasmileprofessionals.com/ — 68/100 — MEDIUM-HIGH (medium confidence)
 • Est/Doctors: Dr. Candace M. Wada 'over 30 years' of practice (VERIFIED on doctors page); YellowPages 29 yrs (INFERRED) | 2 doctors: founder Candace Wada + son Dr. Robert J. M. Wada (associate, 'recently joined') | Reviews: Google/Yelp counts UNKNOWN (bot-blocked); site shows Opencare-verified and 'Patients' Choice Awards (2015)' badges and lists Honolulu Magazine Top Dentist 2015-2022 (Candace) / 2018-2022 (Robert)
@@ -1325,7 +1330,7 @@
 • Hooks: 'Meta description reads Welcome to our Welcome page' / Generational handoff to Dr. Robert Wada is a natural relaunch moment; eight years of Honolulu Magazine awards not reflected in a 2019-era site.
 • Pitch/offer: Family-practice rebuild that showcases both doctors and awards; keep existing CareCredit/forms links; $8-10k standard.
 • Sources: Raw HTML curl 200 (title, meta description, footer, staging link); WebFetch of / and /our-practice/meet-the-doctors/; YellowPages Honolulu listing; EXCLUSIONS grep clear (Hawaii entries: Hawaii Cosmetic Dental, Yasuhara/Okuda/Umeda only)
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: West (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: West (wave 2)
 
 97. Lee Dental Care — Fort Myers, FL — https://www.leedental.net/ — 68/100 — MEDIUM-HIGH (confidence: MEDIUM) [BELOW 68 CUT LINE — bench only]
 • Est/Doctors: "Serving Fort Myers since 1983" (VERIFIED, meta description) | Founded 1983 as group practice; Drs. Yassamin Lenzi, Efrain Plaza, Annelise Perez, Keith Morse, Paul Uliasz (search snippet); serves Fort Myers/N. Fort Myers/Cape Coral; positioning "affordable" = lower ticket; fetch found no DSO/parent language | Reviews: Birdeye 6,838 reviews / 4.8 (search snippet, birdeye.com; another snapshot 6,853); Yelp 61; embedded Birdeye widget on own site. Very large corpus [WAVE 2]
@@ -1337,7 +1342,7 @@
 • Hooks: 1) Sesame 24-7 template with no copyright line. 2) Birdeye reviews present but buried in a widget.
 • Pitch/offer: Standard redesign — $5–8k
 • Sources: leedental.net (curl + rendered fetch); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: Sesame 24-7 · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Sesame 24-7 · region: Southeast (wave 1)
 
 98. Delmar Dental Medicine (Thomas H. Abele, DMD, FAGD) — Delmar, NY — https://delmardental.com/ — 68/100 — MEDIUM(medium)
 • Est/Doctors: Located in Delmar since 1969 (VERIFIED, homepage); Abele offering implants 30+ years; other doctors UNKNOWN | Reviews: Moderate corpus: Birdeye 57 reviews / 5.0 (plus a 7-review / 2.7 duplicate listing); Dentascore 23 reviews; Healthgrades 9 reviews; Vitals 3.4/5 (5 ratings); BBB profile; Yelp listing; long-tenure patient comments (30+ yrs) (VERIFIED via snippets)
@@ -1349,7 +1354,7 @@
 • Hooks: 1) Open in Delmar "since 1969" and on-site ceramic lab, yet the site is a keyword-stuffed 2016 .htm build with an unrendered "&copy;" in the footer 2) Sedation + implants + in-house lab are undersold by the current pages
 • Pitch/offer: Heritage-forward redesign ('since 1969') with sedation/implant service pages — $8–12k. Retirement-horizon flag (55+ years in one location); succession unknown.
 • Sources: Live fetch delmardental.com raw HTML; About-page text via search snippet (Delmar Dental Medicine since 1969) | Wave-2 review enrichment (2026-09-30): Dentascore 23, Healthgrades 9, Vitals 5; homepage re-curled 200 OK
-• QC: liveness HTTP 200 · vendor cluster: Custom-dated / small agency · region: Northeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Custom-dated / small agency · region: Northeast (wave 1)
 
 99. Family Smile Dentistry (Drs. Foroughi & Jarquin) — Lakewood Ranch (Bradenton), FL — https://familysmiledentistry.com/ — 68/100 — MEDIUM (confidence: MEDIUM-HIGH)
 • Est/Doctors: "Since 2001"; "more than 25 years" (VERIFIED, site); 2 doctors | Reviews: Yelp 15 reviews; directory average "5 stars" - Google count NOT found (UNKNOWN); thin visible corpus [WAVE 2]
@@ -1361,7 +1366,7 @@
 • Hooks: 1) Homepage title is a 30-word keyword run-on with a leading space. 2) No copyright/footer identity at all.
 • Pitch/offer: Family/cosmetic redesign — $5–8k
 • Sources: familysmiledentistry.com (curl + rendered fetch); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: Unknown / unattributed template · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Unknown / unattributed template · region: Southeast (wave 1)
 
 100. Jonson Dental Care (George P. Jonson DDS) — Kettering (Dayton), OH — jonsondentalcare.com — 68/100 — MEDIUM (medium)
 • Est/Doctors: 'Over 30 years of experience' (VERIFIED, site); IDIA implant fellowship listed; sedation, laser, TMJ, sleep-apnea appliances; team unnamed — solo, retirement-horizon flag | Reviews: Birdeye 72 reviews, 4.4; homepage/reviews page widget links to Demandforce profile 'comprehensivegeneralandimplantdentistry' whose snippet shows 990 reviewers, 99.5% would refer (INFERRED same practice, VERIFIED widget link in raw HTML); 30+ yrs (site). [Wave-2 enrichment]
@@ -1374,7 +1379,7 @@
 • Pitch/offer: Solo implant/sedation redesign. $5–8k
 • Sources: jonsondentalcare.com raw HTML + render
 • Wave-2 re-score: 66 -> 68. Demandforce corpus (~990) sits behind an old widget; Gap raised.
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Midwest (wave 1)
 
 ## Bench (101–108, full profiles)
 
@@ -1389,7 +1394,7 @@
 • Pitch/offer: Lamorinda premium rebuild; $8k.
 • Wave-2 update (2026-09-30): 65 -> 68. Search snippets name Dr. Morgan Mehranfard as 'owner and lead dentist' (upgrades DM and independence from MEDIUM to INFERRED-owner-led). Live.
 • Sources: Raw HTML, WebFetch /about/
-• QC: liveness HTTP 200 · vendor cluster: WordPress (generic/agency, dated) · region: West (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: WordPress (generic/agency, dated) · region: West (wave 1)
 
 102. Lundstrom Family Dentistry — Fargo, ND — fargodentist.net — 68/100 — MEDIUM (medium)
 • Est/Doctors: 'Practicing dentistry in our community for 33 years' (VERIFIED, About); U of Minnesota DDS 1993; solo; CEREC same-day crowns, 'SMART' amalgam-removal protocol, holistic + cosmetic + implants | Reviews: 4.7 on 196-197 reviews (Birdeye reviews.birdeye.com/lundstrom-family-dentistry-155336071935659); Yelp 17; Healthgrades 5; est. 1993 (Healthgrades directory). [Wave-2 enrichment]
@@ -1402,7 +1407,7 @@
 • Pitch/offer: Solo cosmetic/holistic redesign leaving ProSites. $5–8k
 • Sources: fargodentist.net raw HTML + render
 • Wave-2 re-score: 65 -> 68. Solid Birdeye corpus, est. 1993.
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Midwest (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Midwest (wave 1)
 
 103. Staller Dental & Associates — Delray Beach, FL — https://www.stallerdental.com/ — 68/100 — MEDIUM (confidence: MEDIUM)
 • Est/Doctors: 'has served the Delray Beach area since 1994' (VERIFIED, site); Drs. Staller, Catherine Harb, Jason Sheikh, Lauren Mitchell named in copy; full-mouth reconstruction, veneers, All-on-4, Straumann implants, nitrous (VERIFIED, site) | Reviews: Healthgrades Dr. Nathaniel Staller 4.8 / 50 ratings (Healthgrades directory search); Google count UNKNOWN
@@ -1414,7 +1419,7 @@
 • Hooks: 1) Nav lists 'Dr. Norkin' while body copy names Dr. Mitchell — visibly stale team page. 2) 30-year Delray practice on a 27KB Sesame template.
 • Pitch/offer: 4-doctor Delray flagship refresh — $8–12k
 • Sources: stallerdental.com raw HTML (curl) + pg text; Healthgrades usearch (Staller); EXCLUSIONS.md grep (no match; Signature Dental Group Delray is a different, excluded practice)
-• QC: liveness HTTP 200 · vendor cluster: Sesame 24-7 · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: Sesame 24-7 · region: Southeast (wave 2)
 
 104. Lansdale Dental, P.C. (Dr. Gopimanohar N. Varma) — Lansdale, PA — https://www.lansdaledentalpc.com/ — 68/100 — MEDIUM (MEDIUM: est. year UNKNOWN; solo)
 • Est/Doctors: Dr. Varma graduated 1998 (UMDNJ); practice founding year UNKNOWN [VERIFIED bio, partial]; 1 principal dentist (attending at Lehigh Valley Hospital GPR) [VERIFIED on site] | Reviews: Birdeye 571 reviews, 4.9 (Lansdale Dental, P.C. listing, crawl 2026-09-30)
@@ -1426,7 +1431,7 @@
 • Hooks: 1) Dead plus.google.com link, 37 <font> tags and a COVID nav item still live on the homepage source. 2) 571 Birdeye reviews (4.9) that the template does not showcase.
 • Pitch/offer: Modern single-doctor practice site with review wall and cosmetic gallery. $5-8k.
 • Sources: lansdaledentalpc.com raw HTML + Dr. Varma page (2026-09-30); reviews.birdeye.com/d/dental/lansdale-pa
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Mid-Atlantic (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Mid-Atlantic (wave 2)
 
 105. Dental Images, PC (Drs. Brock & Nieri) — Knoxville, TN — https://www.mydentalimage.com/ — 68/100 — MEDIUM (confidence: MEDIUM)
 • Est/Doctors: Est. UNKNOWN; 2 doctors; cosmetic dentistry, veneers, implants, TMJ, sleep-apnea appliances (VERIFIED, WebFetch); 1715 Downtown West Blvd (West Knoxville) | Reviews: Healthgrades Dr. Steven Brock 4.8 / 124 ratings and Dr. Chase Nieri 5.0 / 18 ratings (Healthgrades directory search); Google count UNKNOWN
@@ -1438,7 +1443,7 @@
 • Hooks: 1) ZIP code and two doctor names crammed into the <title> tag of a 'Cosmetic Dentist' site. 2) Brock's 124 Healthgrades ratings at 4.8 vs. a two-image ProSites homepage.
 • Pitch/offer: 2-doctor cosmetic practice — $5–8k
 • Sources: mydentalimage.com raw HTML (curl); WebFetch homepage; Healthgrades usearch (Brock, Nieri); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Southeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Southeast (wave 2)
 
 106. East Avenue Dentistry PLLC - Rochester, NY - https://www.eastavenuedentistry.com/ - 68/100 - MEDIUM (low-medium)
 • Est/Doctors: UNKNOWN (founding year not stated); 6 dentists + visiting specialists (periodontics, endodontics, oral surgery); 1641 East Ave Suite A | Reviews: Birdeye 676 reviews / 4.8 (Birdeye Rochester directory JSON-LD, 2026-09-30); Demandforce widget on site
@@ -1450,7 +1455,7 @@
 • Hooks: 1) 676 reviews and six dentists on a 2019 ProSites template with COVID nav still live 2) 'Welcome' title tag on a brand with real search demand
 • Pitch/offer: Group-scale redesign: doctor directory, specialist scheduling, review integration - $12-15k group tier (if ownership single)
 • Sources: eastavenuedentistry.com (curl raw HTML + WebFetch); Birdeye Rochester NY directory JSON-LD
-• QC: liveness HTTP 200 · vendor cluster: ProSites · region: Northeast (wave 2)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: ProSites · region: Northeast (wave 2)
 
 107. Michele Claeys, DMD — Augusta, GA — https://savetheteeth.com/ — 67/100 — MEDIUM-HIGH (confidence: MEDIUM-HIGH) [BELOW 68 CUT LINE — bench only]
 • Est/Doctors: Est. UNKNOWN (testimonials cite 20+ year patients); solo | Practice established 1985 (directory snippet); serves Augusta, Evans, Ft. Gordon, Martinez | Reviews: Birdeye 706 reviews / 4.8 (search snippet); Healthgrades 30; Yelp 18; Yahoo 17. Site testimonials page only [WAVE 2]
@@ -1462,7 +1467,7 @@
 • Hooks: 1) COVID-era electrostatic-spray disinfectant is the headline 'technology'. 2) Unsupported WP 6.4 core.
 • Pitch/offer: Solo redesign — $5–8k
 • Sources: savetheteeth.com (curl + rendered fetch); EXCLUSIONS.md grep (no match)
-• QC: liveness HTTP 200 · vendor cluster: WordPress (generic/agency, dated) · region: Southeast (wave 1)
+• QC: liveness HTTP 200 · social activity NOT YET CHECKED · vendor cluster: WordPress (generic/agency, dated) · region: Southeast (wave 1)
 
 108. Booker Family Dentistry — Trenton, MI — downriversmiles.com — 67/100 — MEDIUM-HIGH (medium)
 • Est/Doctors: 'Established in 1976' and 'serving the Downriver community for over 35 years' (VERIFIED, site via web.archive.org capture); solo; implants, Invisalign, Six Month Smiles, sedation, sinus surgery listed | Reviews: 2,247 reviews, 5-star aggregate, 99.7% would refer (Demandforce local.demandforce.com/b/bookerfamilydentistry, VERIFIED via fetch); 'Patient Reviews' page on site shows only a few.
@@ -1474,7 +1479,7 @@
 • Hooks: 1) 2,247 Demandforce reviews and a 1976 heritage behind a stock Officite template 2) 2012 ownership handoff from Dr. Hartwell is a natural rebrand moment
 • Pitch/offer: Brand-owning relaunch on the practice's own domain, keep Demandforce. $5–8k
 • Sources: downriversmiles.com (web.archive.org capture, 2026); local.demandforce.com/b/bookerfamilydentistry
-• QC: liveness HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent · vendor cluster: Officite · region: Midwest (wave 2)
+• QC: liveness HTTP 403 Cloudflare bot-wall — content verified via web.archive.org snapshot / rendered fetch by research agent · social activity NOT YET CHECKED · vendor cluster: Officite · region: Midwest (wave 2)
 
 ## Extended bench (109–163) — profiled finalists below the cut; full profiles in `output/work/*_top18_v2.json` / `*_wave2.json`
 

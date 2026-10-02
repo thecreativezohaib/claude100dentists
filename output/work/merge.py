@@ -65,6 +65,46 @@ def load_exclusions():
     return domains, names, dso
 
 
+SOCIAL_CSV = os.path.join(OUT, "SOCIAL_AUDIT.csv")
+SOCIAL_CUTOFF_DAYS = 365          # latest FB/IG post older than this => stale => removed
+NONE_COUNTS_AS_STALE = True       # "NONE" in both columns (no account / never posts) => removed
+
+
+def _pdate(v):
+    v = (v or "").strip()
+    for fmt in ("%Y-%m-%d", "%Y-%m", "%m/%d/%Y", "%Y"):
+        try:
+            return datetime.datetime.strptime(v, fmt).date()
+        except ValueError:
+            pass
+    return None
+
+
+def load_social(today=None):
+    """name -> dict(status=ACTIVE|STALE|UNCHECKED, latest, fb, ig)."""
+    today = today or datetime.date.today()
+    cutoff = today - datetime.timedelta(days=SOCIAL_CUTOFF_DAYS)
+    out = {}
+    if not os.path.exists(SOCIAL_CSV):
+        return out, cutoff
+    for r in csv.DictReader(open(SOCIAL_CSV, encoding="utf-8")):
+        fb, ig = (r.get("fb_last_post") or "").strip(), (r.get("ig_last_post") or "").strip()
+        dates = [d for d in (_pdate(fb), _pdate(ig)) if d]
+        latest = max(dates) if dates else None
+        if not fb and not ig:
+            st = "UNCHECKED"
+        elif latest and latest >= cutoff:
+            st = "ACTIVE"
+        elif latest:
+            st = "STALE"
+        elif fb.upper().startswith("NONE") and ig.upper().startswith("NONE") or (NONE_COUNTS_AS_STALE and all(x.upper().startswith("NONE") for x in (fb, ig) if x)):
+            st = "STALE" if NONE_COUNTS_AS_STALE else "UNCHECKED"
+        else:
+            st = "UNCHECKED"
+        out[r["name"]] = {"status": st, "latest": latest, "fb": fb, "ig": ig}
+    return out, cutoff
+
+
 def likelihood_rank(l):
     l = (l or "").upper()
     for i, k in enumerate(LIKE_ORDER):
@@ -103,6 +143,14 @@ def load_all():
     ov = json.load(open(ov_path)) if os.path.exists(ov_path) else {}
     for it in ov.get("add", []):
         items.append(it)
+    social, cutoff = load_social()
+    ov.setdefault("drop", {})
+    ov["_social"] = social
+    ov["_social_cutoff"] = str(cutoff)
+    for n, v in social.items():
+        if v["status"] == "STALE" and n not in ov["drop"]:
+            ov["drop"][n] = (f"STALE SOCIAL — latest FB/IG post {v['latest']} (before {cutoff})" if v["latest"]
+                             else f"STALE SOCIAL — no active Facebook/Instagram (FB: {v['fb'] or '-'}, IG: {v['ig'] or '-'})")
     fix = ov.get("url_fix", {})
     for it in items:
         if it.get("url") in fix:
@@ -172,6 +220,23 @@ def policy_rank(items):
         ranked.insert(50, it)
         demoted.append(it["name"])
     return ranked, demoted
+
+
+def cmd_social():
+    items, cands, ov = load_all()
+    social = ov["_social"]
+    c = {}
+    for v in social.values():
+        c[v["status"]] = c.get(v["status"], 0) + 1
+    print("cutoff:", ov["_social_cutoff"], "statuses:", c)
+    ranked, _ = policy_rank(dedupe([i for i in items if i["name"] not in ov["drop"]])[0])
+    top = ranked[:100]
+    unchecked = [i for i, it in enumerate(top, 1) if social.get(it["name"], {}).get("status", "UNCHECKED") == "UNCHECKED"]
+    print(f"top100 after social filter: {len(top)} (pool {len(ranked)}); still UNCHECKED in top100: {len(unchecked)} -> ranks {unchecked[:40]}")
+    stale = [n for n, v in social.items() if v["status"] == "STALE"]
+    print("removed as stale:", len(stale))
+    for n in stale:
+        print("  -", n, "|", ov["drop"][n])
 
 
 def cmd_check():
@@ -272,6 +337,14 @@ def cmd_write():
     overlap = [(it["name"], f) for it, f in screen(top + bench, ex_domains, ex_names) if f and it["name"] not in cleared]
     dom_overlap = [it["name"] for it in top + bench if domain_root(it["url"]) in ex_domains]
 
+    social = ov.get("_social", {})
+
+    def soc_note(it):
+        v = social.get(it["name"])
+        if not v or v["status"] == "UNCHECKED":
+            return "social activity NOT YET CHECKED"
+        return f"social {v['status']} (FB last post: {v['fb'] or '-'}; IG last post: {v['ig'] or '-'})"
+
     def live_note(u):
         c = live.get(u, {}).get("code", "?")
         if c == "200":
@@ -310,6 +383,15 @@ def cmd_write():
     for q in ov.get("qc_replacements", []):
         L.append(f"  - {q}")
     L.append("")
+    stale = [(n, v) for n, v in social.items() if v["status"] == "STALE"]
+    n_active = sum(1 for it in top if social.get(it["name"], {}).get("status") == "ACTIVE")
+    n_unchk = sum(1 for it in top if social.get(it["name"], {}).get("status", "UNCHECKED") == "UNCHECKED")
+    L.append("## Social-activity filter (Facebook / Instagram)\n")
+    L.append(f"- Rule: keep a practice only if its most recent Facebook or Instagram post is on/after **{ov.get('_social_cutoff')}** (12 months before the check date); otherwise remove and backfill from the bench in rank order. Practices with no Facebook/Instagram activity at all count as stale.")
+    L.append(f"- Source: `output/SOCIAL_AUDIT.csv` (manual check, logged-in). In the final 100: **{n_active}** ACTIVE, **{n_unchk}** not yet checked. Removed as stale: **{len(stale)}**.")
+    for n, v in stale:
+        L.append(f"  - {n} — FB last post: {v['fb'] or '-'}; IG last post: {v['ig'] or '-'}")
+    L.append("")
     L.append("## Assumptions & caveats\n")
     L.append("- Wave 2 was added beyond the playbook's single fan-out because tool budgets (WebSearch cap, Firecrawl credits) ran out; no search engine was scraped to evade caps. Discovery after the caps used public directories (YellowPages, Birdeye, Demandforce city pages), vendor client galleries and web.archive.org.")
     L.append("- Review counts are mostly Birdeye (which aggregates Google) or Healthgrades/Demandforce/Yelp, as named per profile; direct Google Maps counts could not be read. Treat counts as directional and confirm before outreach.")
@@ -327,11 +409,11 @@ def cmd_write():
     L.append("\n## Full profiles (rank order)\n")
     for i, it in enumerate(top, 1):
         L.append(f"{i}. {it['profile_md'].strip()}")
-        L.append(f"• QC: liveness {live_note(it['url'])} · vendor cluster: {it['vendor_c']} · region: {REGION_LABEL[it['region']]} (wave {it.get('wave', 1)})\n")
+        L.append(f"• QC: liveness {live_note(it['url'])} · {soc_note(it)} · vendor cluster: {it['vendor_c']} · region: {REGION_LABEL[it['region']]} (wave {it.get('wave', 1)})\n")
     L.append("## Bench (101–108, full profiles)\n")
     for i, it in enumerate(bench[:8], 101):
         L.append(f"{i}. {it['profile_md'].strip()}")
-        L.append(f"• QC: liveness {live_note(it['url'])} · vendor cluster: {it['vendor_c']} · region: {REGION_LABEL[it['region']]} (wave {it.get('wave', 1)})\n")
+        L.append(f"• QC: liveness {live_note(it['url'])} · {soc_note(it)} · vendor cluster: {it['vendor_c']} · region: {REGION_LABEL[it['region']]} (wave {it.get('wave', 1)})\n")
     L.append(f"## Extended bench (109–{100 + len(bench)}) — profiled finalists below the cut; full profiles in `output/work/*_top18_v2.json` / `*_wave2.json`\n")
     L.append("| # | Practice | Location | URL | Score | Likelihood | Region | Vendor |")
     L.append("|---|---|---|---|---|---|---|---|")
@@ -409,4 +491,4 @@ def cmd_write():
 
 
 if __name__ == "__main__":
-    {"check": cmd_check, "live": cmd_live, "write": cmd_write}[sys.argv[1]]()
+    {"check": cmd_check, "live": cmd_live, "write": cmd_write, "social": cmd_social}[sys.argv[1]]()
