@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Pick the High-Conversion 100 from conversion_ranked.json: hard gates, then score order, then tier + pitch angle."""
+"""Pick the High-Conversion 100 from conversion_ranked.json: hard gates, then score order, then pitch angle."""
 import datetime, json, os, re, sys, urllib.parse
 W = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, W)
@@ -98,7 +98,6 @@ def main():
                 if u not in seen_s and not any(b in u.lower() for b in WRONG_SOCIAL):
                     seen_s.append(u)
             x[k] = sorted(seen_s, key=lambda u: ("/pages/" in u or "/people/" in u or u.split("/")[-1].isdigit()))
-        x["tier"] = "A" if i < 30 else "B" if i < 70 else "C"
         x["pitch"] = pitch(x)
     json.dump(picked, open(os.path.join(W, "refined100.json"), "w"), indent=1)
     print("picked", len(picked), "| failed strict gates:", len(rejected))
