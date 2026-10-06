@@ -14,6 +14,7 @@ OUT = os.path.join(ROOT, "output")
 FD = "/usr/share/fonts/truetype/dejavu/"
 pdfmetrics.registerFont(TTFont("DV", FD + "DejaVuSans.ttf"))
 pdfmetrics.registerFont(TTFont("DVB", FD + "DejaVuSans-Bold.ttf"))
+pdfmetrics.registerFontFamily("DV", normal="DV", bold="DVB", italic="DV", boldItalic="DVB")
 ACCENT = colors.HexColor("#0f5e7a"); BAND = colors.HexColor("#eef3f6"); RULE = colors.HexColor("#d5dbe1")
 INK = colors.HexColor("#1f2933"); MUTED = colors.HexColor("#5f6b7a")
 ST = {

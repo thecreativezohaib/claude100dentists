@@ -1,0 +1,7572 @@
+[
+ {
+  "name": "Luis E. Martinez DMD, PA (St. Pete Cosmetic Dentistry)",
+  "city": "St. Petersburg",
+  "state": "FL",
+  "url": "https://www.stpetecosmeticdentistry.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 2,
+  "approx_score": 80.0,
+  "emails": [
+   "l.martinez@verizon.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/luismartinezdmd"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-04"
+  },
+  "latest_post": "2026-10-04",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.7,
+   "kb": 18,
+   "viewport": true,
+   "copyright_max": 2014,
+   "copyright_auto": false,
+   "vendor": "Custom/unknown",
+   "vendors": [],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "veneers",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Luis E. Martinez DMD, PA, St. Petersburg, FL",
+  "conv": {
+   "total": 69,
+   "A_gap": 25,
+   "B_money": 19,
+   "C_intent": 9,
+   "D_reach": 8,
+   "E_fit": 8,
+   "visual": 5,
+   "rating": 5,
+   "reviews": 463,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92014",
+    "retired Universal Analytics only",
+    "463 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 0,
+  "tier": "A",
+  "pitch": "Gap: very dated homepage; footer frozen at \u00a92014; analytics dead since 2024 (Universal Analytics only). Buy signals: 463 Google reviews at 5\u2605 to feature; sells veneers, cosmetic, full-mouth; posted on social this week."
+ },
+ {
+  "name": "Beck Dental Care",
+  "city": "Spring Hill",
+  "state": "TN",
+  "url": "https://www.beckdentalcare.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 58.0,
+  "emails": [
+   "scheduling@beckdentalcare.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/BeckDentalCareTN"
+  ],
+  "ig": [
+   "https://www.instagram.com/beckdentalcare"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.39,
+   "kb": 56,
+   "viewport": true,
+   "copyright_max": 2018,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Beck Dental Care, Spring Hill, TN",
+  "conv": {
+   "total": 68,
+   "A_gap": 20,
+   "B_money": 23,
+   "C_intent": 14,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 1346,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92018",
+    "1346 Google reviews (4.9\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 51,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92018. Buy signals: runs a Meta ads pixel; 1346 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Meetinghouse Dental Care (Hatboro Integrative Dentistry)",
+  "city": "Hatboro",
+  "state": "PA",
+  "url": "https://www.meetinghousedental.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 11,
+  "approx_score": 76.0,
+  "emails": [
+   "meetinghousedental@comcast.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/meetinghousedental"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-12"
+  },
+  "latest_post": "2026-09-12",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.25,
+   "kb": 66,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Meetinghouse Dental Care, Hatboro, PA",
+  "conv": {
+   "total": 67,
+   "A_gap": 22,
+   "B_money": 21,
+   "C_intent": 5,
+   "D_reach": 11,
+   "E_fit": 8,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 653,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019",
+    "retired Universal Analytics only",
+    "653 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 4,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92019; analytics dead since 2024 (Universal Analytics only). Buy signals: 653 Google reviews at 4.9\u2605 to feature; sells implants, veneers, cosmetic; direct email to a named person."
+ },
+ {
+  "name": "SmileZone Family & Cosmetic Dentistry",
+  "city": "Reston",
+  "state": "VA",
+  "url": "https://www.restonsmilezone.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 40.0,
+  "emails": [
+   "office@restonsmilezone.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/restonsmilezone"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-19"
+  },
+  "latest_post": "2026-09-19",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.35,
+   "kb": 127,
+   "viewport": true,
+   "copyright_max": 2017,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": true,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "SmileZone Family & Cosmetic Dentistry, Reston, VA",
+  "conv": {
+   "total": 67,
+   "A_gap": 26,
+   "B_money": 16,
+   "C_intent": 17,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 5,
+   "rating": 5,
+   "reviews": 238,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92017",
+    "retired Universal Analytics only",
+    "dead Google+ link",
+    "paying for Google Ads traffic",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 199,
+  "tier": "A",
+  "pitch": "Gap: very dated homepage; footer frozen at \u00a92017; analytics dead since 2024 (Universal Analytics only). Buy signals: pays for Google Ads, so traffic lands on the old site; runs a Meta ads pixel; 238 Google reviews at 5\u2605 to feature."
+ },
+ {
+  "name": "Smiles by Martin (Dr. Greg Martin - third generation)",
+  "city": "Grapevine",
+  "state": "TX",
+  "url": "https://www.smilesbymartin.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 60,
+  "approx_score": 71.0,
+  "emails": [
+   "appointments@smilesbymartin.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/SmilesByMartin"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.69,
+   "kb": 43,
+   "viewport": true,
+   "copyright_max": 2021,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Smiles by Martin, Grapevine, TX",
+  "conv": {
+   "total": 66,
+   "A_gap": 23,
+   "B_money": 21,
+   "C_intent": 11,
+   "D_reach": 3,
+   "E_fit": 8,
+   "visual": 5,
+   "rating": 5,
+   "reviews": 257,
+   "named_email": false,
+   "why": [
+    "footer \u00a92021",
+    "COVID-era copy still live",
+    "257 Google reviews (5\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 10,
+  "tier": "A",
+  "pitch": "Gap: very dated homepage; footer \u00a92021; COVID-era copy still live. Buy signals: runs a Meta ads pixel; 257 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Passidomo Cosmetic & Family Dentistry (Dr. Passidomo & Dr. Brij Patel)",
+  "city": "Centerville (Dayton)",
+  "state": "OH",
+  "url": "https://www.dpsmilecenter.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 94,
+  "approx_score": 68.0,
+  "emails": [
+   "drdan@dpsmilecenter.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DrPassidomo"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.61,
+   "kb": 32,
+   "viewport": true,
+   "copyright_max": 2014,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Passidomo Cosmetic & Family Dentistry, Centerville, OH",
+  "conv": {
+   "total": 66,
+   "A_gap": 25,
+   "B_money": 18,
+   "C_intent": 6,
+   "D_reach": 9,
+   "E_fit": 8,
+   "visual": 5,
+   "rating": 4.9,
+   "reviews": 210,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92014",
+    "COVID-era copy still live"
+   ],
+   "flags": []
+  },
+  "pool_index": 17,
+  "tier": "A",
+  "pitch": "Gap: very dated homepage; footer frozen at \u00a92014; COVID-era copy still live. Buy signals: 210 Google reviews at 4.9\u2605 to feature; sells implants, veneers, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Eola Dental",
+  "city": "Naperville",
+  "state": "IL",
+  "url": "https://www.eoladental.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 60.0,
+  "emails": [
+   "drpatel@eoladental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Eola-Dental-126763097339366"
+  ],
+  "ig": [
+   "https://www.instagram.com/eoladental"
+  ],
+  "social_latest": {
+   "fb": "2026-10-02"
+  },
+  "latest_post": "2026-10-02",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.76,
+   "kb": 89,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": true,
+   "meta_pixel": false,
+   "call_tracking": true,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Eola Dental, Naperville, IL",
+  "conv": {
+   "total": 66,
+   "A_gap": 17,
+   "B_money": 17,
+   "C_intent": 15,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 148,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019",
+    "paying for Google Ads traffic"
+   ],
+   "flags": []
+  },
+  "pool_index": 35,
+  "tier": "A",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019. Buy signals: pays for Google Ads, so traffic lands on the old site; sells implants, veneers, sedation; posted on social this week."
+ },
+ {
+  "name": "Lawton Dentistry (David Drummond DDS)",
+  "city": "Lawton",
+  "state": "OK",
+  "url": "https://www.lawtondentistry.com/",
+  "region": "south-central",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 55.0,
+  "emails": [
+   "info@lawtondentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DavidJDrummondDds"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-30"
+  },
+  "latest_post": "2026-09-30",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.12,
+   "kb": 54,
+   "viewport": false,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Lawton Dentistry, Lawton, OK",
+  "conv": {
+   "total": 66,
+   "A_gap": 28,
+   "B_money": 21,
+   "C_intent": 9,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 5,
+   "rating": 4.8,
+   "reviews": 1400,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92019",
+    "not mobile-ready",
+    "1400 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 76,
+  "tier": "A",
+  "pitch": "Gap: very dated homepage; footer frozen at \u00a92019; no mobile viewport tag. Buy signals: 1400 Google reviews at 4.8\u2605 to feature; sells implants, veneers, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Brewer Family Dentistry",
+  "city": "Modesto",
+  "state": "CA",
+  "url": "https://www.brewerdentistry.com/",
+  "region": "west",
+  "source": "ranked",
+  "rank": 3,
+  "approx_score": 80.0,
+  "emails": [
+   "info@brewerfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/BrewerFamilyDentistry"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-29"
+  },
+  "latest_post": "2026-09-29",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.75,
+   "kb": 103,
+   "viewport": true,
+   "copyright_max": 2018,
+   "copyright_auto": false,
+   "vendor": "Progressive Dental",
+   "vendors": [
+    "Progressive Dental",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Brewer Family Dentistry, Modesto, CA",
+  "conv": {
+   "total": 65,
+   "A_gap": 21,
+   "B_money": 23,
+   "C_intent": 11,
+   "D_reach": 2,
+   "E_fit": 8,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 555,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92018",
+    "retired Universal Analytics only",
+    "555 Google reviews (4.9\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 1,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92018; analytics dead since 2024 (Universal Analytics only). Buy signals: runs a Meta ads pixel; 555 Google reviews at 4.9\u2605 to feature; sells implants, veneers, all-on-4."
+ },
+ {
+  "name": "Saddle Creek Dental (Dr. Dod Moore)",
+  "city": "Waco (China Spring)",
+  "state": "TX",
+  "url": "https://www.saddlecreekdental.com/",
+  "region": "south-central",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 58.0,
+  "emails": [
+   "karrie@saddlecreekdental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Saddle-Creek-Dental-134544076598230"
+  ],
+  "ig": [
+   "https://www.instagram.com/saddlecreekdental"
+  ],
+  "social_latest": {
+   "fb": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.79,
+   "kb": 66,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Saddle Creek Dental, Waco, TX",
+  "conv": {
+   "total": 65,
+   "A_gap": 21,
+   "B_money": 21,
+   "C_intent": 6,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 692,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019",
+    "692 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 47,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92019. Buy signals: 692 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Premier Smile Center",
+  "city": "Fort Lauderdale",
+  "state": "FL",
+  "url": "https://drjohnsondds.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 58.0,
+  "emails": [
+   "premiersmilecenter@outlook.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/premiersmilecenter"
+  ],
+  "ig": [
+   "https://www.instagram.com/premiersmilecenter"
+  ],
+  "social_latest": {
+   "fb": "2026-09-29"
+  },
+  "latest_post": "2026-09-29",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.49,
+   "kb": 214,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Premier Smile Center, Fort Lauderdale, FL",
+  "conv": {
+   "total": 65,
+   "A_gap": 20,
+   "B_money": 23,
+   "C_intent": 6,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 5,
+   "rating": 4.8,
+   "reviews": 1578,
+   "named_email": true,
+   "why": [
+    "1578 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 52,
+  "tier": "A",
+  "pitch": "Gap: very dated homepage. Buy signals: 1578 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Goodman Dental Care",
+  "city": "Annapolis",
+  "state": "MD",
+  "url": "https://www.goodmandentalcare.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 5,
+  "approx_score": 79.0,
+  "emails": [
+   "info@goodmandentalcare.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/goodmandentalcare"
+  ],
+  "ig": [
+   "https://www.instagram.com/goodmandentalcare"
+  ],
+  "social_latest": {
+   "fb": "2026-09-15"
+  },
+  "latest_post": "2026-09-15",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.69,
+   "kb": 45,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental",
+    "Sesame 24-7"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Goodman Dental Care, Annapolis, MD",
+  "conv": {
+   "total": 63,
+   "A_gap": 21,
+   "B_money": 21,
+   "C_intent": 7,
+   "D_reach": 6,
+   "E_fit": 8,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 435,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92019",
+    "COVID-era copy still live",
+    "435 Google reviews (5\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 2,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92019; COVID-era copy still live. Buy signals: runs a Meta ads pixel; 435 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Ridgepointe Dental (Austin Amos DDS, JD)",
+  "city": "The Colony",
+  "state": "TX",
+  "url": "https://www.ridgepointedental.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 30,
+  "approx_score": 73.0,
+  "emails": [
+   "staff@ridgepointedental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Ridgepointe.Dental"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.67,
+   "kb": 44,
+   "viewport": true,
+   "copyright_max": 2017,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Ridgepointe Dental, The Colony, TX",
+  "conv": {
+   "total": 63,
+   "A_gap": 21,
+   "B_money": 23,
+   "C_intent": 8,
+   "D_reach": 3,
+   "E_fit": 8,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 671,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92017",
+    "COVID-era copy still live",
+    "671 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 6,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92017; COVID-era copy still live. Buy signals: 671 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Arlington Dental Associates (Dr. Brian Zulawinski)",
+  "city": "Arlington Heights",
+  "state": "IL",
+  "url": "https://www.dentistarlingtonheights.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 60.0,
+  "emails": [
+   "arldentalassoc@aol.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/arlingtondentalonline"
+  ],
+  "ig": [
+   "https://www.instagram.com/arlington_dental"
+  ],
+  "social_latest": {
+   "fb": "2026-09-18"
+  },
+  "latest_post": "2026-09-18",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.24,
+   "kb": 61,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "Custom/unknown",
+   "vendors": [],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": true,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Arlington Dental Associates, Arlington Heights, IL",
+  "conv": {
+   "total": 63,
+   "A_gap": 12,
+   "B_money": 21,
+   "C_intent": 14,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 600,
+   "named_email": true,
+   "why": [
+    "600 Google reviews (4.9\u2605) not showcased",
+    "paying for Google Ads traffic"
+   ],
+   "flags": []
+  },
+  "pool_index": 36,
+  "tier": "A",
+  "pitch": "Gap: homepage behind current standards. Buy signals: pays for Google Ads, so traffic lands on the old site; 600 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Family Smile Dentistry (Drs. Foroughi & Jarquin)",
+  "city": "Lakewood Ranch (Bradenton)",
+  "state": "FL",
+  "url": "https://familysmiledentistry.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 99,
+  "approx_score": 68.0,
+  "emails": [
+   "kendra@familysmiledentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Family-Smile-Dentistry/213348642023995"
+  ],
+  "ig": [
+   "https://www.instagram.com/family_smile_dentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.44,
+   "kb": 35,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "all-on-4",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Family Smile Dentistry, Lakewood Ranch, FL",
+  "conv": {
+   "total": 62,
+   "A_gap": 17,
+   "B_money": 17,
+   "C_intent": 8,
+   "D_reach": 12,
+   "E_fit": 8,
+   "visual": 4,
+   "rating": 4.8,
+   "reviews": 217,
+   "named_email": true,
+   "why": [
+    "dead Google+ link"
+   ],
+   "flags": []
+  },
+  "pool_index": 18,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; dead Google+ link. Buy signals: 217 Google reviews at 4.8\u2605 to feature; sells implants, all-on-4, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Webster Dental Associates (Dr. Mohammad Golparvar)",
+  "city": "Manchester",
+  "state": "NH",
+  "url": "https://www.websterdentalnh.com/",
+  "region": "northeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 52.0,
+  "emails": [
+   "websterdentalassoc@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Webster-Dental-Associates-356589601078413"
+  ],
+  "ig": [
+   "https://www.instagram.com/websterdentalassoc"
+  ],
+  "social_latest": {
+   "fb": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.34,
+   "kb": 47,
+   "viewport": true,
+   "copyright_max": 2021,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Webster Dental Associates, Manchester, NH",
+  "conv": {
+   "total": 62,
+   "A_gap": 18,
+   "B_money": 17,
+   "C_intent": 11,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 161,
+   "named_email": true,
+   "why": [
+    "footer \u00a92021"
+   ],
+   "flags": []
+  },
+  "pool_index": 114,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer \u00a92021. Buy signals: 161 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Dental Clinique",
+  "city": "Arlington Heights",
+  "state": "IL",
+  "url": "https://www.dentalclinique.us/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "contact@dentalclinique.us"
+  ],
+  "fb": [
+   "https://www.facebook.com/dc60004"
+  ],
+  "ig": [
+   "https://www.instagram.com/dentalcliniqueah",
+   "https://www.instagram.com/dentalcliniqueahil"
+  ],
+  "social_latest": {
+   "fb": "2026-09-08"
+  },
+  "latest_post": "2026-09-08",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.67,
+   "kb": 69,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "Custom/unknown",
+   "vendors": [],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": true,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Dental Clinique, Arlington Heights, IL",
+  "conv": {
+   "total": 62,
+   "A_gap": 18,
+   "B_money": 17,
+   "C_intent": 16,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 123,
+   "named_email": false,
+   "why": [
+    "retired Universal Analytics only",
+    "COVID-era copy still live",
+    "paying for Google Ads traffic",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 135,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; analytics dead since 2024 (Universal Analytics only); COVID-era copy still live. Buy signals: pays for Google Ads, so traffic lands on the old site; runs a Meta ads pixel; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Flenniken Family Dentistry",
+  "city": "Carlisle",
+  "state": "PA",
+  "url": "https://www.flennikendental.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 62.0,
+  "emails": [
+   "smiles@flennikendental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Flenniken-Family-Dentistry-468253729885572",
+   "https://www.facebook.com/FlennikenFamilyDentistry"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.27,
+   "kb": 31,
+   "viewport": true,
+   "copyright_max": 2021,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Flenniken Family Dentistry, Carlisle, PA",
+  "conv": {
+   "total": 61,
+   "A_gap": 19,
+   "B_money": 21,
+   "C_intent": 13,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.8,
+   "reviews": 619,
+   "named_email": false,
+   "why": [
+    "footer \u00a92021",
+    "COVID-era copy still live",
+    "619 Google reviews (4.8\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 29,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer \u00a92021; COVID-era copy still live. Buy signals: runs a Meta ads pixel; 619 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "My Frederick Dentist",
+  "city": "Frederick",
+  "state": "MD",
+  "url": "https://www.myfrederickdentist.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 60.0,
+  "emails": [
+   "info@myfrederickdentist.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/MyFrederickDentist2100"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.54,
+   "kb": 49,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "My Frederick Dentist, Frederick, MD",
+  "conv": {
+   "total": 61,
+   "A_gap": 21,
+   "B_money": 21,
+   "C_intent": 11,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 5,
+   "rating": 4.8,
+   "reviews": 750,
+   "named_email": false,
+   "why": [
+    "COVID-era copy still live",
+    "750 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 32,
+  "tier": "A",
+  "pitch": "Gap: very dated homepage; COVID-era copy still live. Buy signals: 750 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Estero Bay Dental",
+  "city": "Bonita Springs",
+  "state": "FL",
+  "url": "https://esterobaydental.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 57.0,
+  "emails": [
+   "info@esterobaydental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/esterobaydental1"
+  ],
+  "ig": [
+   "https://www.instagram.com/esterobaydental"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.69,
+   "kb": 334,
+   "viewport": true,
+   "copyright_max": 2022,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": true,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Estero Bay Dental, Bonita Springs, FL",
+  "conv": {
+   "total": 61,
+   "A_gap": 19,
+   "B_money": 21,
+   "C_intent": 10,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.8,
+   "reviews": 653,
+   "named_email": false,
+   "why": [
+    "footer \u00a92022",
+    "COVID-era copy still live",
+    "653 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 60,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer \u00a92022; COVID-era copy still live. Buy signals: 653 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Great Lakes Dental Care",
+  "city": "Grand Rapids",
+  "state": "MI",
+  "url": "https://www.greatlakesdentalcare.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 55.0,
+  "emails": [
+   "gldc@greatlakesdentalcare.com",
+   "info@greatlakesdentalcare.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Great-Lakes-Dental-Care/439502229418203"
+  ],
+  "ig": [
+   "https://www.instagram.com/greatlakesdentalcare"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.81,
+   "kb": 712,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Great Lakes Dental Care, Grand Rapids, MI",
+  "conv": {
+   "total": 61,
+   "A_gap": 12,
+   "B_money": 21,
+   "C_intent": 11,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.8,
+   "reviews": 1581,
+   "named_email": true,
+   "why": [
+    "1581 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 74,
+  "tier": "A",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 1581 Google reviews at 4.8\u2605 to feature; sells implants, veneers, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Smiles Elevated Chevy Chase",
+  "city": "Chevy Chase",
+  "state": "MD",
+  "url": "https://smileselevated.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "help@smileselevated.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drmariawood"
+  ],
+  "ig": [
+   "https://www.instagram.com/smileselevated"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.86,
+   "kb": 323,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "Custom/unknown",
+   "vendors": [],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": true,
+   "meta_pixel": false,
+   "call_tracking": true,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Smiles Elevated Chevy Chase, Chevy Chase, MD",
+  "conv": {
+   "total": 61,
+   "A_gap": 13,
+   "B_money": 17,
+   "C_intent": 20,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 126,
+   "named_email": false,
+   "why": [
+    "COVID-era copy still live",
+    "paying for Google Ads traffic"
+   ],
+   "flags": []
+  },
+  "pool_index": 180,
+  "tier": "A",
+  "pitch": "Gap: homepage behind current standards; COVID-era copy still live. Buy signals: pays for Google Ads, so traffic lands on the old site; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Nicole S. Kott, D.D.S",
+  "city": "Lombard",
+  "state": "IL",
+  "url": "https://www.dentistinlombard.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 0.0,
+  "emails": [
+   "kottdental@yahoo.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Nicole-Kott-DDS-136087496783692",
+   "https://www.facebook.com/people/Nicole-Kott-DDS/100050447150268"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.34,
+   "kb": 314,
+   "viewport": true,
+   "copyright_max": 2015,
+   "copyright_auto": false,
+   "vendor": "Squarespace",
+   "vendors": [
+    "Squarespace",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Nicole S. Kott, D.D.S, Lombard, IL",
+  "conv": {
+   "total": 61,
+   "A_gap": 20,
+   "B_money": 17,
+   "C_intent": 11,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 456,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92015",
+    "456 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 209,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92015. Buy signals: 456 Google reviews at 5\u2605 to feature; sells implants, veneers, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Todd Phelan DDS (Drs. S. Todd Phelan & Tyler Gossett)",
+  "city": "Rogers",
+  "state": "AR",
+  "url": "https://www.nwadentist.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 70,
+  "approx_score": 70.0,
+  "emails": [
+   "heatherd@nwadentist.com",
+   "jessica@nwadentist.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/ToddPhelanDDS"
+  ],
+  "ig": [
+   "https://www.instagram.com/nwadentist"
+  ],
+  "social_latest": {
+   "fb": "2026-09-24"
+  },
+  "latest_post": "2026-09-24",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.51,
+   "kb": 21,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Todd Phelan DDS, Rogers, AR",
+  "conv": {
+   "total": 60,
+   "A_gap": 12,
+   "B_money": 21,
+   "C_intent": 7,
+   "D_reach": 12,
+   "E_fit": 8,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 554,
+   "named_email": true,
+   "why": [
+    "554 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 12,
+  "tier": "A",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 554 Google reviews at 4.9\u2605 to feature; sells implants, veneers, cosmetic; direct email to a named person."
+ },
+ {
+  "name": "Alberto J. Lamberti DMD, PA",
+  "city": "Boca Raton",
+  "state": "FL",
+  "url": "https://www.smilespecialist.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 122,
+  "approx_score": 66.0,
+  "emails": [
+   "lambertismiles@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/albertolambertidmd"
+  ],
+  "ig": [
+   "https://www.instagram.com/albertolamberti.dmd"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.33,
+   "kb": 60,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Alberto J. Lamberti DMD, PA, Boca Raton, FL",
+  "conv": {
+   "total": 60,
+   "A_gap": 16,
+   "B_money": 19,
+   "C_intent": 6,
+   "D_reach": 11,
+   "E_fit": 8,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 118,
+   "named_email": true,
+   "why": [],
+   "flags": []
+  },
+  "pool_index": 20,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design. Buy signals: sells implants, veneers, all-on-4; posted on social this week; direct email to a named person."
+ },
+ {
+  "name": "21st Century Dental of Irving",
+  "city": "Irving",
+  "state": "TX",
+  "url": "https://www.21stcenturydental.com/",
+  "region": "south-central",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 66.0,
+  "emails": [
+   "info@21stcenturydental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/21stcenturydental"
+  ],
+  "ig": [
+   "https://www.instagram.com/21st_century_dental"
+  ],
+  "social_latest": {
+   "fb": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.27,
+   "kb": 46,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "21st Century Dental of Irving, Irving, TX",
+  "conv": {
+   "total": 60,
+   "A_gap": 12,
+   "B_money": 23,
+   "C_intent": 14,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 1315,
+   "named_email": false,
+   "why": [
+    "1315 Google reviews (4.9\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 25,
+  "tier": "A",
+  "pitch": "Gap: homepage behind current standards. Buy signals: runs a Meta ads pixel; 1315 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Azalea City Dental Midtown",
+  "city": "Daphne",
+  "state": "AL",
+  "url": "https://www.azaleacitydental.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "angie@azaleacitydental.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/Azalea-City-Dental-152577118104070"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-22"
+  },
+  "latest_post": "2026-09-22",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.38,
+   "kb": 202,
+   "viewport": false,
+   "copyright_max": 2016,
+   "copyright_auto": false,
+   "vendor": "Squarespace",
+   "vendors": [
+    "Squarespace"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Azalea City Dental, Daphne, AL",
+  "conv": {
+   "total": 60,
+   "A_gap": 25,
+   "B_money": 17,
+   "C_intent": 4,
+   "D_reach": 9,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 243,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92016",
+    "not mobile-ready",
+    "retired Universal Analytics only",
+    "COVID-era copy still live"
+   ],
+   "flags": []
+  },
+  "pool_index": 100,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92016; no mobile viewport tag. Buy signals: 243 Google reviews at 4.9\u2605 to feature; sells implants, veneers, sedation; direct email to a named person."
+ },
+ {
+  "name": "Paul M Holliday DDS",
+  "city": "Chattanooga",
+  "state": "TN",
+  "url": "https://www.paulhollidaydds.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "dr@paulhollidaydds.com",
+   "frontdesk@paulhollidaydds.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/paulhollidaydds"
+  ],
+  "ig": [
+   "https://www.instagram.com/dochollidaysmiles"
+  ],
+  "social_latest": {
+   "fb": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.89,
+   "kb": 476,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Wix",
+   "vendors": [
+    "Wix"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Paul M. Holliday, DDS, Chattanooga, TN",
+  "conv": {
+   "total": 60,
+   "A_gap": 16,
+   "B_money": 18,
+   "C_intent": 9,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 251,
+   "named_email": true,
+   "why": [
+    "251 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 105,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design. Buy signals: 251 Google reviews at 5\u2605 to feature; sells implants, veneers, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Pittsburgh Dental Spa",
+  "city": "Pittsburgh",
+  "state": "PA",
+  "url": "https://www.pghdentalspa.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "contactus@pittsburghdentalspa.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/pittsburghdentalspa"
+  ],
+  "ig": [
+   "https://www.instagram.com/pittsburgh_dental_spa"
+  ],
+  "social_latest": {
+   "fb": "2026-10-02"
+  },
+  "latest_post": "2026-10-02",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.38,
+   "kb": 154,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Duda",
+   "vendors": [
+    "Duda"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Pittsburgh Dental Spa, Pittsburgh, PA",
+  "conv": {
+   "total": 60,
+   "A_gap": 20,
+   "B_money": 18,
+   "C_intent": 6,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 5,
+   "rating": 4.8,
+   "reviews": 300,
+   "named_email": true,
+   "why": [
+    "300 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 178,
+  "tier": "A",
+  "pitch": "Gap: very dated homepage. Buy signals: 300 Google reviews at 4.8\u2605 to feature; sells implants, veneers, sedation; posted on social this week."
+ },
+ {
+  "name": "Raptou Family Dental (Dr. Nicholas Raptou)",
+  "city": "Columbus",
+  "state": "OH",
+  "url": "https://raptou.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 0.0,
+  "emails": [
+   "news@raptou.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/raptoufamilydental"
+  ],
+  "ig": [
+   "https://www.instagram.com/raptoufamilydental"
+  ],
+  "social_latest": {
+   "fb": "2026-09-16"
+  },
+  "latest_post": "2026-09-16",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.81,
+   "kb": 59,
+   "viewport": false,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WEO Media",
+   "vendors": [
+    "WEO Media"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Raptou, Nicholas P DDS, Columbus, OH",
+  "conv": {
+   "total": 60,
+   "A_gap": 19,
+   "B_money": 19,
+   "C_intent": 5,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 261,
+   "named_email": true,
+   "why": [
+    "not mobile-ready",
+    "261 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 212,
+  "tier": "A",
+  "pitch": "Gap: dated homepage design; no mobile viewport tag. Buy signals: 261 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign; direct email to a named person."
+ },
+ {
+  "name": "Lanier Family & Cosmetic Dentistry",
+  "city": "Cumming",
+  "state": "GA",
+  "url": "https://www.laniersmiles.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 54.0,
+  "emails": [
+   "bethany@laniersmiles.com",
+   "drbrown@laniersmiles.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/lanierfamilyandcosmeticdentistry",
+   "https://www.facebook.com/pages/Lanier-Family-and-Cosmetic-Dentistry/180376125337005"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-29"
+  },
+  "latest_post": "2026-09-29",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.33,
+   "kb": 79,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Dental Revenue",
+   "vendors": [
+    "Dental Revenue",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Lanier Family & Cosmetic Dentistry, Cumming, GA",
+  "conv": {
+   "total": 59,
+   "A_gap": 16,
+   "B_money": 20,
+   "C_intent": 9,
+   "D_reach": 9,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 589,
+   "named_email": true,
+   "why": [
+    "589 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 87,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design. Buy signals: 589 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Sequoia Smiles",
+  "city": "Lawrenceville",
+  "state": "GA",
+  "url": "https://sequoiasmiles.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 54.0,
+  "emails": [
+   "sequoiasmilesdmd@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Sequoia-Smiles-112054681387098"
+  ],
+  "ig": [
+   "https://www.instagram.com/sequoia_smiles"
+  ],
+  "social_latest": {
+   "fb": "2026-09-22"
+  },
+  "latest_post": "2026-09-22",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 2.43,
+   "kb": 170,
+   "viewport": true,
+   "copyright_max": 2022,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": true,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Sequoia Smiles, Lawrenceville, GA",
+  "conv": {
+   "total": 59,
+   "A_gap": 14,
+   "B_money": 18,
+   "C_intent": 11,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 453,
+   "named_email": true,
+   "why": [
+    "footer \u00a92022",
+    "453 Google reviews (4.9\u2605) not showcased",
+    "paying for Google Ads traffic"
+   ],
+   "flags": []
+  },
+  "pool_index": 90,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer \u00a92022. Buy signals: pays for Google Ads, so traffic lands on the old site; 453 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "West Springfield Dental Arts",
+  "city": "Springfield",
+  "state": "VA",
+  "url": "https://www.wsdentalarts.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "mydentist@wsdentalarts.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/WestSpringfieldDentalArts"
+  ],
+  "ig": [
+   "https://www.instagram.com/westspringfielddentalarts"
+  ],
+  "social_latest": {
+   "fb": "2026-09-30"
+  },
+  "latest_post": "2026-09-30",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.38,
+   "kb": 591,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Squarespace",
+   "vendors": [
+    "Squarespace"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "West Springfield Dental Arts, Springfield, VA",
+  "conv": {
+   "total": 59,
+   "A_gap": 14,
+   "B_money": 17,
+   "C_intent": 11,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 1156,
+   "named_email": true,
+   "why": [
+    "retired Universal Analytics only",
+    "COVID-era copy still live",
+    "1156 Google reviews (4.9\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 190,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; analytics dead since 2024 (Universal Analytics only); COVID-era copy still live. Buy signals: runs a Meta ads pixel; 1156 Google reviews at 4.9\u2605 to feature; posted on social this week."
+ },
+ {
+  "name": "Klein Family Dentistry",
+  "city": "Harrisburg",
+  "state": "PA",
+  "url": "https://www.kleinfamilydentistry.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 8,
+  "approx_score": 77.0,
+  "emails": [
+   "info@kleinfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/kleinfamilydentist"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.76,
+   "kb": 42,
+   "viewport": true,
+   "copyright_max": 2017,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Klein Family Dentistry, Harrisburg, PA",
+  "conv": {
+   "total": 58,
+   "A_gap": 17,
+   "B_money": 21,
+   "C_intent": 9,
+   "D_reach": 3,
+   "E_fit": 8,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 454,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92017",
+    "COVID-era copy still live",
+    "454 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 3,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92017; COVID-era copy still live. Buy signals: 454 Google reviews at 4.9\u2605 to feature; sells implants, veneers, all-on-4; posted on social this week."
+ },
+ {
+  "name": "The New Jersey Center for Laser and Cosmetic Dentistry",
+  "city": "Caldwell",
+  "state": "NJ",
+  "url": "https://www.drdalbon.com/",
+  "region": "northeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 56.0,
+  "emails": [
+   "info@drdalbon.com",
+   "jdb@drdalbon.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/njlcd"
+  ],
+  "ig": [
+   "https://www.instagram.com/cosmeticdentistnj"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.97,
+   "kb": 68,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "NJ Center for Laser & Cosmetic Dentistry, Caldwell, NJ",
+  "conv": {
+   "total": 58,
+   "A_gap": 17,
+   "B_money": 19,
+   "C_intent": 11,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 292,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92019",
+    "292 Google reviews (4.9\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 62,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019. Buy signals: runs a Meta ads pixel; 292 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Sarah Pitarra DDS",
+  "city": "Corpus Christi",
+  "state": "TX",
+  "url": "https://www.corpuschristidentistry.com/",
+  "region": "south-central",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 55.0,
+  "emails": [
+   "doctor@sarahpitarradds.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drsarahpitarra"
+  ],
+  "ig": [
+   "https://www.instagram.com/drsarahpitarra"
+  ],
+  "social_latest": {
+   "ig": "2026-09-25"
+  },
+  "latest_post": "2026-09-25",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.32,
+   "kb": 41,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Sarah Pitarra, DDS, Corpus Christi, TX",
+  "conv": {
+   "total": 58,
+   "A_gap": 16,
+   "B_money": 19,
+   "C_intent": 7,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 447,
+   "named_email": true,
+   "why": [
+    "447 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 75,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design. Buy signals: 447 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign; direct email to a named person."
+ },
+ {
+  "name": "Waterbury Smiles",
+  "city": "Waterbury",
+  "state": "CT",
+  "url": "https://www.waterburysmiles.com/",
+  "region": "northeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "drmarini@waterburysmiles.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/WaterburySmiles"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.29,
+   "kb": 23,
+   "viewport": true,
+   "copyright_max": 2015,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Waterbury Smiles, Waterbury, CT",
+  "conv": {
+   "total": 58,
+   "A_gap": 22,
+   "B_money": 16,
+   "C_intent": 6,
+   "D_reach": 9,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 201,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92015",
+    "dead Google+ link"
+   ],
+   "flags": []
+  },
+  "pool_index": 149,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92015; dead Google+ link. Buy signals: 201 Google reviews at 5\u2605 to feature; sells implants, veneers, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Fenwick Dental",
+  "city": "Ocean City",
+  "state": "MD",
+  "url": "https://www.fenwickdental.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "info@fenwickdental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/fenwickdental"
+  ],
+  "ig": [
+   "https://www.instagram.com/fenwickdental"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.23,
+   "kb": 775,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Wix",
+   "vendors": [
+    "Wix"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": true,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Fenwick Dental, Ocean City, MD",
+  "conv": {
+   "total": 58,
+   "A_gap": 16,
+   "B_money": 15,
+   "C_intent": 16,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.7,
+   "reviews": 186,
+   "named_email": false,
+   "why": [
+    "paying for Google Ads traffic"
+   ],
+   "flags": []
+  },
+  "pool_index": 168,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design. Buy signals: pays for Google Ads, so traffic lands on the old site; 186 Google reviews at 4.7\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Avery Dental Center",
+  "city": "Dublin",
+  "state": "OH",
+  "url": "https://averydentalcenter.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 0.0,
+  "emails": [
+   "info@averydentalcenter.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/AveryDentalCenter"
+  ],
+  "ig": [
+   "https://www.instagram.com/averydentalcenter"
+  ],
+  "social_latest": {
+   "fb": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.36,
+   "kb": 76,
+   "viewport": false,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WEO Media",
+   "vendors": [
+    "WEO Media"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": true,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Avery Dental Center, Dublin, OH",
+  "conv": {
+   "total": 58,
+   "A_gap": 19,
+   "B_money": 15,
+   "C_intent": 13,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.5,
+   "reviews": 412,
+   "named_email": false,
+   "why": [
+    "not mobile-ready",
+    "412 Google reviews (4.5\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 205,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design; no mobile viewport tag. Buy signals: runs a Meta ads pixel; 412 Google reviews at 4.5\u2605 to feature; sells implants, invisalign, all-on-4."
+ },
+ {
+  "name": "Artisan Dental",
+  "city": "Madison",
+  "state": "WI",
+  "url": "https://www.artisandentalmadison.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 0.0,
+  "emails": [
+   "info@artisandentalmadison.com",
+   "info@artisandentalmadison.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Artisan-Dental-Madison-417141075083050"
+  ],
+  "ig": [
+   "https://www.instagram.com/artisandds"
+  ],
+  "social_latest": {
+   "ig": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 2.06,
+   "kb": 373,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Artisan Dental, Madison, WI",
+  "conv": {
+   "total": 58,
+   "A_gap": 13,
+   "B_money": 19,
+   "C_intent": 9,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 981,
+   "named_email": true,
+   "why": [
+    "COVID-era copy still live",
+    "981 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 207,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; COVID-era copy still live. Buy signals: 981 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Donna L. Kiesel DDS PA",
+  "city": "Coppell",
+  "state": "TX",
+  "url": "https://www.drdonnakiesel.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 63,
+  "approx_score": 70.0,
+  "emails": [
+   "frontoffice@drdonnakiesel.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drdonnakiesel"
+  ],
+  "ig": [
+   "https://www.instagram.com/donnakieseldds"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.65,
+   "kb": 37,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Donna L. Kiesel DDS PA, Coppell, TX",
+  "conv": {
+   "total": 57,
+   "A_gap": 16,
+   "B_money": 19,
+   "C_intent": 8,
+   "D_reach": 6,
+   "E_fit": 8,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 165,
+   "named_email": false,
+   "why": [],
+   "flags": []
+  },
+  "pool_index": 11,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design. Buy signals: 165 Google reviews at 5\u2605 to feature; sells implants, veneers, all-on-4; posted on social this week."
+ },
+ {
+  "name": "Serafin Family Dentistry",
+  "city": "Carlisle",
+  "state": "PA",
+  "url": "https://www.serafinfamilydentistry.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 85,
+  "approx_score": 69.0,
+  "emails": [
+   "smile@serafinfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/SerafinFamilyDentistry"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.74,
+   "kb": 69,
+   "viewport": true,
+   "copyright_max": 2017,
+   "copyright_auto": false,
+   "vendor": "Progressive Dental",
+   "vendors": [
+    "Progressive Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Serafin Family Dentistry, Carlisle, PA",
+  "conv": {
+   "total": 57,
+   "A_gap": 17,
+   "B_money": 20,
+   "C_intent": 9,
+   "D_reach": 3,
+   "E_fit": 8,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 370,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92017",
+    "dead Google+ link",
+    "370 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 14,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92017; dead Google+ link. Buy signals: 370 Google reviews at 5\u2605 to feature; sells implants, veneers, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Harte Dental (Kimberly Harte + 3)",
+  "city": "Milton",
+  "state": "MA",
+  "url": "https://www.hartedental.com/",
+  "region": "northeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 62.0,
+  "emails": [
+   "contactus@hartedental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/HarteDental"
+  ],
+  "ig": [
+   "https://www.instagram.com/hartedental"
+  ],
+  "social_latest": {
+   "fb": "2026-09-30"
+  },
+  "latest_post": "2026-09-30",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.38,
+   "kb": 61,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Great Dental Websites",
+   "vendors": [
+    "Great Dental Websites"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Harte Dental, Milton, MA",
+  "conv": {
+   "total": 57,
+   "A_gap": 12,
+   "B_money": 20,
+   "C_intent": 8,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 805,
+   "named_email": true,
+   "why": [
+    "805 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 31,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 805 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Green Hills Dental Center",
+  "city": "Spring Hill",
+  "state": "TN",
+  "url": "https://www.greenhillsdentalcenter.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 56.0,
+  "emails": [
+   "greenhillsdentalcenter@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/GreenHillsDentalCenter"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.34,
+   "kb": 33,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Radical Wellness, Spring Hill, TN",
+  "conv": {
+   "total": 57,
+   "A_gap": 16,
+   "B_money": 17,
+   "C_intent": 11,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 105,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 65,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019. Buy signals: runs a Meta ads pixel; sells implants, veneers, all-on-4; posted on social this week."
+ },
+ {
+  "name": "Family Dental Care - Lake Mary",
+  "city": "Lake Mary",
+  "state": "FL",
+  "url": "https://www.familydentalcarefl.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 56.0,
+  "emails": [
+   "marisol@familydentalcarefl.com",
+   "maycee@familydentalcarefl.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Family-Dental-Care/207882819238692"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-03"
+  },
+  "latest_post": "2026-10-03",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.03,
+   "kb": 99,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Family Dental Care - Lake Mary, Lake Mary, FL",
+  "conv": {
+   "total": 57,
+   "A_gap": 18,
+   "B_money": 16,
+   "C_intent": 9,
+   "D_reach": 9,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 236,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019",
+    "dead Google+ link"
+   ],
+   "flags": []
+  },
+  "pool_index": 69,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019; dead Google+ link. Buy signals: 236 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Newnan Dentistry (Dr. Rima Patel)",
+  "city": "Newnan",
+  "state": "GA",
+  "url": "https://newnandentistry.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "info@newnandentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/newnandentist"
+  ],
+  "ig": [
+   "https://www.instagram.com/newnan_dentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-09-24"
+  },
+  "latest_post": "2026-09-24",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.43,
+   "kb": 2391,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Weebly",
+   "vendors": [
+    "Weebly",
+    "Squarespace",
+    "GoDaddy",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Newnan Dentistry, Newnan, GA",
+  "conv": {
+   "total": 57,
+   "A_gap": 16,
+   "B_money": 21,
+   "C_intent": 9,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 563,
+   "named_email": false,
+   "why": [
+    "563 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 103,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design. Buy signals: 563 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Thomas Thomas & Holwick",
+  "city": "Chesapeake",
+  "state": "VA",
+  "url": "https://www.greatbridgedental.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "thomasandholwick@greatbridgedental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DrBennettAThomasandAssociates"
+  ],
+  "ig": [
+   "https://www.instagram.com/greatbridgedental"
+  ],
+  "social_latest": {
+   "ig": "2026-09-23"
+  },
+  "latest_post": "2026-09-23",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.51,
+   "kb": 58,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Great Dental Websites",
+   "vendors": [
+    "Great Dental Websites"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Thomas Thomas & Holwick, Chesapeake, VA",
+  "conv": {
+   "total": 57,
+   "A_gap": 13,
+   "B_money": 21,
+   "C_intent": 6,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 1621,
+   "named_email": true,
+   "why": [
+    "retired Universal Analytics only",
+    "1621 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 189,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; analytics dead since 2024 (Universal Analytics only). Buy signals: 1621 Google reviews at 5\u2605 to feature; sells implants, sedation, cosmetic; direct email to a named person."
+ },
+ {
+  "name": "iTooth Family Dentistry",
+  "city": "Springfield",
+  "state": "MO",
+  "url": "https://www.itooth.net/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 0.0,
+  "emails": [
+   "appointments@itooth.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/iToothFamilyDentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/itoothfd"
+  ],
+  "social_latest": {
+   "ig": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.08,
+   "kb": 373,
+   "viewport": true,
+   "copyright_max": 2016,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "iTooth Family Dentistry, Springfield, MO",
+  "conv": {
+   "total": 57,
+   "A_gap": 17,
+   "B_money": 23,
+   "C_intent": 6,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 1291,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92016",
+    "retired Universal Analytics only",
+    "1291 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 211,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92016; analytics dead since 2024 (Universal Analytics only). Buy signals: 1291 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Robert A. Rees DDS, APC",
+  "city": "La Jolla",
+  "state": "CA",
+  "url": "https://www.lajollasmile.com/",
+  "region": "west",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 65.0,
+  "emails": [
+   "lajollasmile@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/LaJollaSmile"
+  ],
+  "ig": [
+   "https://www.instagram.com/lajollasmile"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.47,
+   "kb": 823,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Hibu",
+   "vendors": [
+    "Hibu"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Robert A. Rees DDS, APC, La Jolla, CA",
+  "conv": {
+   "total": 56,
+   "A_gap": 16,
+   "B_money": 10,
+   "C_intent": 14,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.4,
+   "reviews": 62,
+   "named_email": true,
+   "why": [
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 27,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design. Buy signals: runs a Meta ads pixel; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Gardens Dental Spa",
+  "city": "Palm Beach Gardens",
+  "state": "FL",
+  "url": "https://www.gardensdentalspa.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "1gardensdental@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/gardensdentalspa"
+  ],
+  "ig": [
+   "https://www.instagram.com/gardensdentalspa_pbg"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.48,
+   "kb": 100,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Gardens Dental Spa, Palm Beach Gardens, FL",
+  "conv": {
+   "total": 56,
+   "A_gap": 13,
+   "B_money": 21,
+   "C_intent": 6,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 560,
+   "named_email": true,
+   "why": [
+    "retired Universal Analytics only",
+    "560 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 111,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; analytics dead since 2024 (Universal Analytics only). Buy signals: 560 Google reviews at 4.9\u2605 to feature; sells implants, veneers, all-on-4; posted on social this week."
+ },
+ {
+  "name": "Allen Dental Inc.",
+  "city": "Pembroke Pines",
+  "state": "FL",
+  "url": "https://www.allendentalinc.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 52.0,
+  "emails": [
+   "drallen@allendentalinc.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/allendentalinc"
+  ],
+  "ig": [
+   "https://www.instagram.com/allendentalinc"
+  ],
+  "social_latest": {
+   "fb": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.48,
+   "kb": 1383,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Wix",
+   "vendors": [
+    "Wix"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Allen Dental Inc., Pembroke Pines, FL",
+  "conv": {
+   "total": 56,
+   "A_gap": 12,
+   "B_money": 16,
+   "C_intent": 11,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.8,
+   "reviews": 157,
+   "named_email": true,
+   "why": [],
+   "flags": []
+  },
+  "pool_index": 119,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 157 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "JMG Dentistry (Dr. Justin Geller)",
+  "city": "Novi",
+  "state": "MI",
+  "url": "https://www.jmgdentistry.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "drjustingeller@jmgdentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drjustingeller"
+  ],
+  "ig": [
+   "https://www.instagram.com/drjustingeller"
+  ],
+  "social_latest": {
+   "fb": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.28,
+   "kb": 34,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "sedation"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Dentistry Jmg, Novi, MI",
+  "conv": {
+   "total": 56,
+   "A_gap": 16,
+   "B_money": 17,
+   "C_intent": 6,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 461,
+   "named_email": true,
+   "why": [
+    "461 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 146,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design. Buy signals: 461 Google reviews at 5\u2605 to feature; sells implants, veneers, sedation; posted on social this week."
+ },
+ {
+  "name": "Smile Forever Atlanta",
+  "city": "Decatur",
+  "state": "GA",
+  "url": "https://www.smileforeveratlanta.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 56.0,
+  "emails": [
+   "smileforeveratlanta@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/smileforeveratlanta"
+  ],
+  "ig": [
+   "https://www.instagram.com/smileforeveratlanta"
+  ],
+  "social_latest": {
+   "fb": "2026-10-02"
+  },
+  "latest_post": "2026-10-02",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.94,
+   "kb": 394,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "Duda",
+   "vendors": [
+    "Duda"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Smile Forever Atlanta: Dental Implants, Cosmetic Dentist, Decatur, GA",
+  "conv": {
+   "total": 55,
+   "A_gap": 13,
+   "B_money": 21,
+   "C_intent": 11,
+   "D_reach": 5,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.8,
+   "reviews": 754,
+   "named_email": false,
+   "why": [
+    "COVID-era copy still live",
+    "754 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 64,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; COVID-era copy still live. Buy signals: 754 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Nashville Smiles",
+  "city": "Nashville",
+  "state": "TN",
+  "url": "https://www.nashvillesmiles.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 54.0,
+  "emails": [
+   "info@nashvillesmiles.dental"
+  ],
+  "fb": [
+   "https://www.facebook.com/NashvilleSmiles"
+  ],
+  "ig": [
+   "https://www.instagram.com/nashvillesmiles"
+  ],
+  "social_latest": {
+   "fb": "2026-09-28"
+  },
+  "latest_post": "2026-09-28",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.27,
+   "kb": 121,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": true,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Nashville Smiles, Nashville, TN",
+  "conv": {
+   "total": 55,
+   "A_gap": 12,
+   "B_money": 21,
+   "C_intent": 11,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 551,
+   "named_email": false,
+   "why": [
+    "551 Google reviews (4.9\u2605) not showcased",
+    "paying for Google Ads traffic"
+   ],
+   "flags": []
+  },
+  "pool_index": 88,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards. Buy signals: pays for Google Ads, so traffic lands on the old site; 551 Google reviews at 4.9\u2605 to feature; sells implants, veneers, all-on-4."
+ },
+ {
+  "name": "Ogden Family Dentistry",
+  "city": "La Grange",
+  "state": "IL",
+  "url": "https://www.ogdenfamilydentistry.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "ogdenfamilydentistry@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/OgdenFamilyDentistryB"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-28"
+  },
+  "latest_post": "2026-09-28",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.52,
+   "kb": 183,
+   "viewport": true,
+   "copyright_max": 2015,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Ogden Family Dentistry, La Grange, IL",
+  "conv": {
+   "total": 55,
+   "A_gap": 21,
+   "B_money": 15,
+   "C_intent": 6,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 191,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92015",
+    "dead Google+ link"
+   ],
+   "flags": []
+  },
+  "pool_index": 138,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92015; dead Google+ link. Buy signals: 191 Google reviews at 5\u2605 to feature; sells implants, veneers, cosmetic; direct email to a named person."
+ },
+ {
+  "name": "Dental Associates (Dr. Daniel Truono Sr.)",
+  "city": "Wilmington",
+  "state": "DE",
+  "url": "https://dentalassociatespa.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "missi@dentalassociatespa.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DrDanTruono"
+  ],
+  "ig": [
+   "https://www.instagram.com/dental_associates_pa"
+  ],
+  "social_latest": {
+   "fb": "2026-09-13"
+  },
+  "latest_post": "2026-09-13",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.26,
+   "kb": 120,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "GoDaddy",
+   "vendors": [
+    "GoDaddy",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": true,
+   "booking": true,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Truono Sr, Daniel D, DDS, Wilmington, DE",
+  "conv": {
+   "total": 55,
+   "A_gap": 12,
+   "B_money": 17,
+   "C_intent": 9,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 420,
+   "named_email": true,
+   "why": [
+    "420 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 188,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 420 Google reviews at 5\u2605 to feature; sells implants, cosmetic, full-mouth; direct email to a named person."
+ },
+ {
+  "name": "Oak Canyon Dentistry (Dr. Steven Haase)",
+  "city": "Bee Cave (Austin)",
+  "state": "TX",
+  "url": "https://www.oakcanyondentistry.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 58,
+  "approx_score": 71.0,
+  "emails": [
+   "information@oakcanyondentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Oak-Canyon-Dentistry-Bee-Caves-TX/106001159476402"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-09"
+  },
+  "latest_post": "2026-09-09",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.1,
+   "kb": 51,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Oak Canyon Dentistry, Bee Cave, TX",
+  "conv": {
+   "total": 54,
+   "A_gap": 18,
+   "B_money": 14,
+   "C_intent": 5,
+   "D_reach": 9,
+   "E_fit": 8,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 54,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019",
+    "retired Universal Analytics only"
+   ],
+   "flags": []
+  },
+  "pool_index": 9,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019; analytics dead since 2024 (Universal Analytics only). Buy signals: sells veneers, invisalign, cosmetic; direct email to a named person."
+ },
+ {
+  "name": "Allen Smile Design (Dr. Tonie Lewis)",
+  "city": "Allen",
+  "state": "TX",
+  "url": "https://www.allensmiledesign.com/",
+  "region": "south-central",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 63.0,
+  "emails": [
+   "office@allensmiledesign.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/allensmiledesign"
+  ],
+  "ig": [
+   "https://www.instagram.com/allensmiledesign"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.88,
+   "kb": 65,
+   "viewport": true,
+   "copyright_max": 2020,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Allen Smile Design, Allen, TX",
+  "conv": {
+   "total": 54,
+   "A_gap": 15,
+   "B_money": 19,
+   "C_intent": 9,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 328,
+   "named_email": false,
+   "why": [
+    "footer \u00a92020",
+    "COVID-era copy still live",
+    "328 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 28,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer \u00a92020; COVID-era copy still live. Buy signals: 328 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Sachs Dental: Cynthia M. Sachs DDS, PC",
+  "city": "Rockford",
+  "state": "IL",
+  "url": "https://www.sachsdental.net/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 60.0,
+  "emails": [
+   "drsachsoffice@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/SachsDental"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-03"
+  },
+  "latest_post": "2026-10-03",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.97,
+   "kb": 65,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": true,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Sachs Dental, Rockford, IL",
+  "conv": {
+   "total": 54,
+   "A_gap": 20,
+   "B_money": 12,
+   "C_intent": 9,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 70,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019",
+    "retired Universal Analytics only",
+    "COVID-era copy still live",
+    "dead Google+ link"
+   ],
+   "flags": []
+  },
+  "pool_index": 37,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019; analytics dead since 2024 (Universal Analytics only). Buy signals: sells implants, veneers, cosmetic; posted on social this week; direct email to a named person."
+ },
+ {
+  "name": "Reynolds Mountain Dentistry (Drs. Steven Adams & Harry Moczek)",
+  "city": "Asheville",
+  "state": "NC",
+  "url": "https://www.reynoldsmountaindentistry.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 55.0,
+  "emails": [
+   "contact@reynoldsmountaindentistry.com"
+  ],
+  "fb": [],
+  "ig": [
+   "https://www.instagram.com/reynoldsmountaindentistry"
+  ],
+  "social_latest": {
+   "ig": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.24,
+   "kb": 1097,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Wix",
+   "vendors": [
+    "Wix"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": true,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Reynolds Mountain Dentistry, Asheville, NC",
+  "conv": {
+   "total": 54,
+   "A_gap": 12,
+   "B_money": 18,
+   "C_intent": 16,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 251,
+   "named_email": false,
+   "why": [
+    "251 Google reviews (4.9\u2605) not showcased",
+    "paying for Google Ads traffic"
+   ],
+   "flags": []
+  },
+  "pool_index": 77,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards. Buy signals: pays for Google Ads, so traffic lands on the old site; 251 Google reviews at 4.9\u2605 to feature; sells implants, veneers, sedation."
+ },
+ {
+  "name": "Buffalo Dental Group",
+  "city": "Williamsville",
+  "state": "NY",
+  "url": "https://www.thebuffalodentalgroup.com/",
+  "region": "northeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 54.0,
+  "emails": [
+   "info@thebuffalodentalgroup.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/TheBuffaloDentalGroup"
+  ],
+  "ig": [
+   "https://www.instagram.com/buffalodentalgroup"
+  ],
+  "social_latest": {
+   "fb": "2026-09-08"
+  },
+  "latest_post": "2026-09-08",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.4,
+   "kb": 24,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": true,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Buffalo Dental Group, Williamsville, NY",
+  "conv": {
+   "total": 54,
+   "A_gap": 17,
+   "B_money": 22,
+   "C_intent": 7,
+   "D_reach": 6,
+   "E_fit": 2,
+   "visual": 3,
+   "rating": 4.8,
+   "reviews": 1063,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92019",
+    "retired Universal Analytics only",
+    "1063 Google reviews (4.8\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 83,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019; analytics dead since 2024 (Universal Analytics only). Buy signals: runs a Meta ads pixel; 1063 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Ralph Shepstone, DDS",
+  "city": "Glenview",
+  "state": "IL",
+  "url": "https://www.glenviewfamilydentist.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "drs@glenviewfamilydentist.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/ralphfshepstonedds"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.66,
+   "kb": 234,
+   "viewport": true,
+   "copyright_max": 2015,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Ralph Shepstone, DDS, Glenview, IL",
+  "conv": {
+   "total": 54,
+   "A_gap": 17,
+   "B_money": 15,
+   "C_intent": 8,
+   "D_reach": 9,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 134,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92015",
+    "dead Google+ link"
+   ],
+   "flags": []
+  },
+  "pool_index": 126,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92015; dead Google+ link. Buy signals: sells implants, veneers, cosmetic; posted on social this week; direct email to a named person."
+ },
+ {
+  "name": "Stonewall Dental (Dr. Jerome Granato)",
+  "city": "Manassas",
+  "state": "VA",
+  "url": "https://stonewalldental.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "reception@stonewalldental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/StonewallDentalAssociates"
+  ],
+  "ig": [
+   "https://www.instagram.com/stonewalldentalassociates"
+  ],
+  "social_latest": {
+   "ig": "2026-10-04"
+  },
+  "latest_post": "2026-10-04",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.77,
+   "kb": 56,
+   "viewport": false,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WEO Media",
+   "vendors": [
+    "WEO Media"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Granato, Jerome, DDS, Manassas, VA",
+  "conv": {
+   "total": 54,
+   "A_gap": 15,
+   "B_money": 19,
+   "C_intent": 9,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 631,
+   "named_email": false,
+   "why": [
+    "not mobile-ready",
+    "631 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 170,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; no mobile viewport tag. Buy signals: 631 Google reviews at 4.9\u2605 to feature; sells implants, sedation, cosmetic; posted on social this week."
+ },
+ {
+  "name": "LAT Dentistry",
+  "city": "Roanoke",
+  "state": "VA",
+  "url": "https://www.latdentistry.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "hello@latdentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/LATdentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/latdentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.44,
+   "kb": 460,
+   "viewport": true,
+   "copyright_max": 2021,
+   "copyright_auto": false,
+   "vendor": "Squarespace",
+   "vendors": [
+    "Squarespace"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "veneers",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "LAT Dentistry, Roanoke, VA",
+  "conv": {
+   "total": 54,
+   "A_gap": 15,
+   "B_money": 17,
+   "C_intent": 11,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 454,
+   "named_email": false,
+   "why": [
+    "footer \u00a92021",
+    "retired Universal Analytics only",
+    "454 Google reviews (5\u2605) not showcased",
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 171,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer \u00a92021; analytics dead since 2024 (Universal Analytics only). Buy signals: runs a Meta ads pixel; 454 Google reviews at 5\u2605 to feature; sells veneers, cosmetic, full-mouth."
+ },
+ {
+  "name": "Media Family Dentistry",
+  "city": "Media",
+  "state": "PA",
+  "url": "https://www.mediafamilydentistry.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "mediafamilydentistry@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/MediaFamilyDentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/mediadental"
+  ],
+  "social_latest": {
+   "ig": "2026-09-25"
+  },
+  "latest_post": "2026-09-25",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.54,
+   "kb": 69,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Sesame 24-7",
+   "vendors": [
+    "Sesame 24-7"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Media Family Dentistry, Media, PA",
+  "conv": {
+   "total": 54,
+   "A_gap": 13,
+   "B_money": 21,
+   "C_intent": 4,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 815,
+   "named_email": true,
+   "why": [
+    "retired Universal Analytics only",
+    "815 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 174,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; analytics dead since 2024 (Universal Analytics only). Buy signals: 815 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; direct email to a named person."
+ },
+ {
+  "name": "Elwood Avenue Dental",
+  "city": "Jenks",
+  "state": "OK",
+  "url": "https://www.elwoodavenuedental.com/",
+  "region": "south-central",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 65.0,
+  "emails": [
+   "info@elwoodavenuedental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/elwoodavenuedental"
+  ],
+  "ig": [
+   "https://www.instagram.com/elwoodavenuedental"
+  ],
+  "social_latest": {
+   "fb": "2026-09-25"
+  },
+  "latest_post": "2026-09-25",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.92,
+   "kb": 46,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Elwood Avenue Dental, Jenks, OK",
+  "conv": {
+   "total": 53,
+   "A_gap": 12,
+   "B_money": 23,
+   "C_intent": 7,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 1967,
+   "named_email": false,
+   "why": [
+    "1967 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 26,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 1967 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Lake Oconee Dentistry PC",
+  "city": "Buckhead",
+  "state": "GA",
+  "url": "https://www.lakeoconeedental.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "thesmileteam@lakeoconeedental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/LakeOconeeDental"
+  ],
+  "ig": [
+   "https://www.instagram.com/thereallakeoconeedentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.33,
+   "kb": 55,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Lake Oconee Dentistry PC, Buckhead, GA",
+  "conv": {
+   "total": 53,
+   "A_gap": 12,
+   "B_money": 21,
+   "C_intent": 9,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 557,
+   "named_email": false,
+   "why": [
+    "557 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 102,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 557 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "John D Verville DDS - Cosmetic & Implant Dentistry",
+  "city": "Fleming Island",
+  "state": "FL",
+  "url": "https://www.johnvervilledds.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "greatsmilesbyverville@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DrJohnVerville"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-03"
+  },
+  "latest_post": "2026-10-03",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.34,
+   "kb": 106,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Dental Revenue",
+   "vendors": [
+    "Dental Revenue",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "John D. Verville, DDS, Fleming Island, FL",
+  "conv": {
+   "total": 53,
+   "A_gap": 13,
+   "B_money": 18,
+   "C_intent": 9,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 469,
+   "named_email": true,
+   "why": [
+    "retired Universal Analytics only",
+    "469 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 112,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; analytics dead since 2024 (Universal Analytics only). Buy signals: 469 Google reviews at 5\u2605 to feature; sells implants, veneers, sedation; posted on social this week."
+ },
+ {
+  "name": "Wedgewood Complete Dentistry",
+  "city": "Powell",
+  "state": "OH",
+  "url": "https://www.wedgewoodcompletedentistry.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "info@wedgewoodcompletedentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/wedgewoodcompletedentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/wedgewoodcompletedentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.32,
+   "kb": 35,
+   "viewport": true,
+   "copyright_max": 2021,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Wedgewood Complete Dentistry, Powell, OH",
+  "conv": {
+   "total": 53,
+   "A_gap": 19,
+   "B_money": 17,
+   "C_intent": 6,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 192,
+   "named_email": false,
+   "why": [
+    "footer \u00a92021",
+    "COVID-era copy still live"
+   ],
+   "flags": []
+  },
+  "pool_index": 136,
+  "tier": "B",
+  "pitch": "Gap: dated homepage design; footer \u00a92021; COVID-era copy still live. Buy signals: 192 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Lubyansky Cosmetic Dentistry (Dr. Alison Lubyansky)",
+  "city": "Novi",
+  "state": "MI",
+  "url": "https://dentalnovi.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "seedrluby@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/seedrluby"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-24"
+  },
+  "latest_post": "2026-09-24",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.36,
+   "kb": 139,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Lubyansky, Alison B, DDS, Novi, MI",
+  "conv": {
+   "total": 53,
+   "A_gap": 16,
+   "B_money": 17,
+   "C_intent": 7,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 448,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019",
+    "448 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 140,
+  "tier": "B",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019. Buy signals: 448 Google reviews at 5\u2605 to feature; sells implants, veneers, cosmetic; direct email to a named person."
+ },
+ {
+  "name": "Holger Dental Group (Dr. Holger Meiser)",
+  "city": "Minnetonka",
+  "state": "MN",
+  "url": "https://www.holgerdentalgroup.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "minneapolis@holgerdentalgroup.com",
+   "minnetonka@holgerdentalgroup.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/HolgerDentalGroup",
+   "https://www.facebook.com/holgerdentalgroupmpls"
+  ],
+  "ig": [
+   "https://www.instagram.com/holgerdentalgroup"
+  ],
+  "social_latest": {
+   "ig": "2026-10-02"
+  },
+  "latest_post": "2026-10-02",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.27,
+   "kb": 36,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "sedation"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Meiser, Holger P, DDS, Minnetonka, MN",
+  "conv": {
+   "total": 53,
+   "A_gap": 12,
+   "B_money": 18,
+   "C_intent": 6,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 436,
+   "named_email": true,
+   "why": [
+    "436 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 147,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 436 Google reviews at 5\u2605 to feature; sells implants, veneers, all-on-4; posted on social this week."
+ },
+ {
+  "name": "DeLeon Family Dental",
+  "city": "Wheaton / Glen Ellyn",
+  "state": "IL",
+  "url": "https://www.deleonfamilydental.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 158,
+  "approx_score": 57.0,
+  "emails": [
+   "smile@deleonfamilydental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/deleonfamilydental"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.9,
+   "kb": 103,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "DeLeon Family Dental, Wheaton, IL",
+  "conv": {
+   "total": 52,
+   "A_gap": 18,
+   "B_money": 17,
+   "C_intent": 6,
+   "D_reach": 3,
+   "E_fit": 8,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 113,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92019",
+    "dead Google+ link"
+   ],
+   "flags": []
+  },
+  "pool_index": 24,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019; dead Google+ link. Buy signals: sells implants, veneers, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Smiles Unlimited (Dr. Richard Richman)",
+  "city": "Rockville Centre",
+  "state": "NY",
+  "url": "https://www.smilesunlimited.com/",
+  "region": "northeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 52.0,
+  "emails": [
+   "smilesunlimited99@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/SmilesUnlimited99"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.69,
+   "kb": 390,
+   "viewport": true,
+   "copyright_max": 2015,
+   "copyright_auto": false,
+   "vendor": "Squarespace",
+   "vendors": [
+    "Squarespace",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Smiles Unlimited, Rockville Centre, NY",
+  "conv": {
+   "total": 52,
+   "A_gap": 20,
+   "B_money": 19,
+   "C_intent": 6,
+   "D_reach": 2,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.9,
+   "reviews": 422,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92015",
+    "422 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 115,
+  "tier": "C",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92015. Buy signals: 422 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Chadds Ford Dental Associates",
+  "city": "Chadds Ford",
+  "state": "PA",
+  "url": "https://www.chaddsforddental.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "eileen@chaddsforddental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/people/Chadds-Ford-Dental-Associates/100063507972442"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.69,
+   "kb": 44,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "TeleVox/Milestone",
+   "vendors": [
+    "TeleVox/Milestone"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Chadds Ford Dental Associates, Chadds Ford, PA",
+  "conv": {
+   "total": 52,
+   "A_gap": 12,
+   "B_money": 18,
+   "C_intent": 8,
+   "D_reach": 9,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.8,
+   "reviews": 311,
+   "named_email": true,
+   "why": [
+    "311 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 162,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 311 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Northpoint Dental Care",
+  "city": "Fishers",
+  "state": "IN",
+  "url": "https://www.northpointdentalcare.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 0.0,
+  "emails": [
+   "northpointdentalcare@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/NorthpointDentalCare"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.74,
+   "kb": 76,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Northpoint Dental Care, Fishers, IN",
+  "conv": {
+   "total": 52,
+   "A_gap": 21,
+   "B_money": 12,
+   "C_intent": 6,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.7,
+   "reviews": 88,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92019"
+   ],
+   "flags": []
+  },
+  "pool_index": 213,
+  "tier": "C",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92019. Buy signals: sells implants, veneers, invisalign; posted on social this week; direct email to a named person."
+ },
+ {
+  "name": "Nuva Dental",
+  "city": "Vero Beach",
+  "state": "FL",
+  "url": "https://nuvadentalsmiles.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 52.0,
+  "emails": [
+   "info@nuvadentalsmiles.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/nuvadental",
+   "https://www.facebook.com/286700838695062"
+  ],
+  "ig": [
+   "https://www.instagram.com/nuva_dental"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.36,
+   "kb": 205,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "GoDaddy",
+   "vendors": [
+    "GoDaddy",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "invisalign",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Nuva Dental, Vero Beach, FL",
+  "conv": {
+   "total": 51,
+   "A_gap": 12,
+   "B_money": 20,
+   "C_intent": 8,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 576,
+   "named_email": false,
+   "why": [
+    "576 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 120,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 576 Google reviews at 5\u2605 to feature; sells implants, invisalign, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Aspen Hill Implant & Family Dentistry PC",
+  "city": "Rockville",
+  "state": "MD",
+  "url": "https://www.drziaahmed.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "drziaahmed1300@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Aspenhillimplantandfamilydentistry"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-25"
+  },
+  "latest_post": "2026-09-25",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.36,
+   "kb": 169,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Squarespace",
+   "vendors": [
+    "Squarespace"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": true,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Aspen Hill Implant & Family Dentistry PC, Rockville, MD",
+  "conv": {
+   "total": 51,
+   "A_gap": 14,
+   "B_money": 13,
+   "C_intent": 11,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.4,
+   "reviews": 196,
+   "named_email": true,
+   "why": [
+    "retired Universal Analytics only",
+    "COVID-era copy still live",
+    "paying for Google Ads traffic"
+   ],
+   "flags": []
+  },
+  "pool_index": 157,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; analytics dead since 2024 (Universal Analytics only); COVID-era copy still live. Buy signals: pays for Google Ads, so traffic lands on the old site; 196 Google reviews at 4.4\u2605 to feature; sells implants, veneers, all-on-4."
+ },
+ {
+  "name": "Total Dentistry",
+  "city": "Palatine",
+  "state": "IL",
+  "url": "https://www.totaldentistry.org/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 0.0,
+  "emails": [
+   "info@totaldentistry.org"
+  ],
+  "fb": [
+   "https://www.facebook.com/TotalDentistryPalatine"
+  ],
+  "ig": [
+   "https://www.instagram.com/totaldentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.71,
+   "kb": 236,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Duda",
+   "vendors": [
+    "Duda"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Total Dentistry, Palatine, IL",
+  "conv": {
+   "total": 51,
+   "A_gap": 16,
+   "B_money": 15,
+   "C_intent": 9,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.5,
+   "reviews": 290,
+   "named_email": false,
+   "why": [
+    "290 Google reviews (4.5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 214,
+  "tier": "C",
+  "pitch": "Gap: dated homepage design. Buy signals: 290 Google reviews at 4.5\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Blossfeld Family Dentistry (Dr. Carol M. Blossfeld)",
+  "city": "Edmond / Oklahoma City",
+  "state": "OK",
+  "url": "https://www.drblossfeld.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 90,
+  "approx_score": 69.0,
+  "emails": [
+   "frontdesk@drblossfeld.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drblossfeld"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-23"
+  },
+  "latest_post": "2026-09-23",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.73,
+   "kb": 46,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Blossfeld Family Dentistry, Edmond, OK",
+  "conv": {
+   "total": 50,
+   "A_gap": 18,
+   "B_money": 17,
+   "C_intent": 4,
+   "D_reach": 3,
+   "E_fit": 8,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 144,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92019",
+    "retired Universal Analytics only"
+   ],
+   "flags": []
+  },
+  "pool_index": 16,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019; analytics dead since 2024 (Universal Analytics only). Buy signals: sells implants, veneers, cosmetic."
+ },
+ {
+  "name": "Eric D. Ford DDS",
+  "city": "Huntington",
+  "state": "WV",
+  "url": "https://ericdforddds.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 58.0,
+  "emails": [
+   "forderic@frontier.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/ericdforddds"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.75,
+   "kb": 42,
+   "viewport": false,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WEO Media",
+   "vendors": [
+    "WEO Media"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Eric D. Ford, DDS, Huntington, WV",
+  "conv": {
+   "total": 50,
+   "A_gap": 15,
+   "B_money": 13,
+   "C_intent": 9,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.8,
+   "reviews": 214,
+   "named_email": true,
+   "why": [
+    "not mobile-ready"
+   ],
+   "flags": []
+  },
+  "pool_index": 42,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; no mobile viewport tag. Buy signals: 214 Google reviews at 4.8\u2605 to feature; posted on social this week; direct email to a named person."
+ },
+ {
+  "name": "Levesque Family Dentistry",
+  "city": "Nashua",
+  "state": "NH",
+  "url": "https://www.levesquedentistry.com/",
+  "region": "northeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 58.0,
+  "emails": [
+   "lfddesk@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/BestNashuaDentist",
+   "https://www.facebook.com/pages/Levesque-Family-Dentistry/193095127044"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-01"
+  },
+  "latest_post": "2026-10-01",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.33,
+   "kb": 73,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Dental Revenue",
+   "vendors": [
+    "Dental Revenue",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Levesque Family Dentistry, Nashua, NH",
+  "conv": {
+   "total": 50,
+   "A_gap": 12,
+   "B_money": 16,
+   "C_intent": 9,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 202,
+   "named_email": true,
+   "why": [],
+   "flags": []
+  },
+  "pool_index": 46,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 202 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Boise Prosthodontics (Gurney/Jones)",
+  "city": "Meridian",
+  "state": "ID",
+  "url": "https://www.idahoimplant.com/",
+  "region": "west",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 55.0,
+  "emails": [
+   "office@boiseprosthodontics.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/boiseprosthodonticsteam"
+  ],
+  "ig": [
+   "https://www.instagram.com/boiseprosthodontics"
+  ],
+  "social_latest": {
+   "ig": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.55,
+   "kb": 100,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Boise Prosthodontics, Meridian, ID",
+  "conv": {
+   "total": 50,
+   "A_gap": 12,
+   "B_money": 17,
+   "C_intent": 11,
+   "D_reach": 5,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 218,
+   "named_email": false,
+   "why": [
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 81,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: runs a Meta ads pixel; 218 Google reviews at 5\u2605 to feature; sells implants, veneers, all-on-4."
+ },
+ {
+  "name": "Southlake Family Dentistry of Fort Mill",
+  "city": "Fort Mill",
+  "state": "SC",
+  "url": "https://www.southlakedentistry.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "info@southlakedentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/southlake.dentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/southlakefamilydentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-09-29"
+  },
+  "latest_post": "2026-09-29",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.42,
+   "kb": 61,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Southlake Family Dentistry of Fort Mill, Fort Mill, SC",
+  "conv": {
+   "total": 50,
+   "A_gap": 12,
+   "B_money": 21,
+   "C_intent": 6,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 515,
+   "named_email": false,
+   "why": [
+    "515 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 99,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 515 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Dental Haven",
+  "city": "Appleton",
+  "state": "WI",
+  "url": "https://dentalhavenwi.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "frontdesk@dentalhavenwi.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DentalHavenWI"
+  ],
+  "ig": [
+   "https://www.instagram.com/dentalhavenwi"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.44,
+   "kb": 57,
+   "viewport": false,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WEO Media",
+   "vendors": [
+    "WEO Media"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Dental Haven, Appleton, WI",
+  "conv": {
+   "total": 50,
+   "A_gap": 15,
+   "B_money": 15,
+   "C_intent": 9,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 204,
+   "named_email": false,
+   "why": [
+    "not mobile-ready"
+   ],
+   "flags": []
+  },
+  "pool_index": 142,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; no mobile viewport tag. Buy signals: 204 Google reviews at 4.9\u2605 to feature; sells implants, invisalign, cosmetic; posted on social this week."
+ },
+ {
+  "name": "Azul Family Dentistry",
+  "city": "Charlottesville",
+  "state": "VA",
+  "url": "https://www.azulfamilydentistry.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "crozet@azulfamilydentistry.com",
+   "office@azulfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/azulfamilydentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/azulfamilydentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-10-02"
+  },
+  "latest_post": "2026-10-02",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.42,
+   "kb": 250,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Squarespace",
+   "vendors": [
+    "Squarespace"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Azul Family Dentistry, Charlottesville, VA",
+  "conv": {
+   "total": 50,
+   "A_gap": 12,
+   "B_money": 15,
+   "C_intent": 6,
+   "D_reach": 12,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.8,
+   "reviews": 183,
+   "named_email": true,
+   "why": [],
+   "flags": []
+  },
+  "pool_index": 156,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 183 Google reviews at 4.8\u2605 to feature; sells implants, cosmetic, full-mouth; posted on social this week."
+ },
+ {
+  "name": "Down Town Family Dentistry of Leesburg",
+  "city": "Leesburg",
+  "state": "VA",
+  "url": "https://www.leesburgdowntowndental.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "contact@leesburgdowntowndental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Downtown-Family-Dental-of-Leesburg-112399096858011"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.29,
+   "kb": 52,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "all-on-4",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Down Town Family Dentistry of Leesburg, Leesburg, VA",
+  "conv": {
+   "total": 50,
+   "A_gap": 12,
+   "B_money": 17,
+   "C_intent": 13,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 147,
+   "named_email": false,
+   "why": [
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 164,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: runs a Meta ads pixel; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "First Impressions Family Dental Care",
+  "city": "Westfield",
+  "state": "IN",
+  "url": "https://firstimpressionsdental.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 60.0,
+  "emails": [
+   "info@firstimpressionsdental.com",
+   "websitedevco@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/firstimpressionsfamilydental"
+  ],
+  "ig": [
+   "https://www.instagram.com/firstimpressionsfamilydental"
+  ],
+  "social_latest": {
+   "fb": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.31,
+   "kb": 334,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "GoDaddy",
+   "vendors": [
+    "GoDaddy",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": true,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "First Impressions Family Dental Care, Westfield, IN",
+  "conv": {
+   "total": 49,
+   "A_gap": 18,
+   "B_money": 17,
+   "C_intent": 6,
+   "D_reach": 6,
+   "E_fit": 2,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 166,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92019",
+    "retired Universal Analytics only",
+    "COVID-era copy still live"
+   ],
+   "flags": []
+  },
+  "pool_index": 33,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019; analytics dead since 2024 (Universal Analytics only). Buy signals: 166 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Kemper Meadow Family Dentistry",
+  "city": "Cincinnati",
+  "state": "OH",
+  "url": "https://www.kempermeadow.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 55.0,
+  "emails": [
+   "office@kempermeadow.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/kempermeadowfamilydentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/kempermeadowfamilydentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.21,
+   "kb": 27,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Kemper Meadow Family Dentistry, Cincinnati, OH",
+  "conv": {
+   "total": 49,
+   "A_gap": 12,
+   "B_money": 20,
+   "C_intent": 6,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.8,
+   "reviews": 600,
+   "named_email": false,
+   "why": [
+    "600 Google reviews (4.8\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 72,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 600 Google reviews at 4.8\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "River's Edge Dental",
+  "city": "Davidson",
+  "state": "NC",
+  "url": "https://riversedge-dental.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 54.0,
+  "emails": [
+   "riversedgedentalnc@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/riversedgedental"
+  ],
+  "ig": [
+   "https://www.instagram.com/rivers.edge.dental"
+  ],
+  "social_latest": {
+   "fb": "2026-09-17"
+  },
+  "latest_post": "2026-09-17",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.35,
+   "kb": 250,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "GoDaddy",
+   "vendors": [
+    "GoDaddy",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "River's Edge Dental, Davidson, NC",
+  "conv": {
+   "total": 49,
+   "A_gap": 12,
+   "B_money": 19,
+   "C_intent": 2,
+   "D_reach": 11,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 419,
+   "named_email": true,
+   "why": [
+    "419 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 84,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 419 Google reviews at 5\u2605 to feature; sells implants, veneers, sedation; direct email to a named person."
+ },
+ {
+  "name": "Patriot Dental",
+  "city": "Gulf Shores",
+  "state": "AL",
+  "url": "https://www.patriotdentalpensacola.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "smile@patriotdentalpensacola.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Patriot-Dental-105862481881371",
+   "https://www.facebook.com/patriotdentalpensacola"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.67,
+   "kb": 43,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Patriot Dental, Gulf Shores, AL",
+  "conv": {
+   "total": 49,
+   "A_gap": 16,
+   "B_money": 19,
+   "C_intent": 6,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 452,
+   "named_email": false,
+   "why": [
+    "452 Google reviews (5\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 101,
+  "tier": "C",
+  "pitch": "Gap: dated homepage design. Buy signals: 452 Google reviews at 5\u2605 to feature; sells implants, veneers, sedation; posted on social this week."
+ },
+ {
+  "name": "VanBuskirk Dental",
+  "city": "Troy",
+  "state": "MI",
+  "url": "https://www.vanbuskirkdental.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "smile@vanbuskirkdental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/people/VanBuskirk-Dental/61551458951575"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-06"
+  },
+  "latest_post": "2026-10-06",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.87,
+   "kb": 86,
+   "viewport": true,
+   "copyright_max": 2019,
+   "copyright_auto": false,
+   "vendor": "ProSites",
+   "vendors": [
+    "ProSites"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": true,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "VanBuskirk Dental, Troy, MI",
+  "conv": {
+   "total": 49,
+   "A_gap": 17,
+   "B_money": 13,
+   "C_intent": 11,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 81,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92019"
+   ],
+   "flags": []
+  },
+  "pool_index": 148,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92019. Buy signals: sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Knoxville Prosthodontics",
+  "city": "Maryville",
+  "state": "TN",
+  "url": "https://www.knoxprosthodontics.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 58.0,
+  "emails": [
+   "frontdesk@knoxprosthodontics.com"
+  ],
+  "fb": [],
+  "ig": [
+   "https://www.instagram.com/knoxvilleprosthodontics"
+  ],
+  "social_latest": {
+   "ig": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 4.42,
+   "kb": 163,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": true,
+   "vendor": "PBHS",
+   "vendors": [
+    "PBHS",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": true,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Knoxville Prosthodontics, Maryville, TN",
+  "conv": {
+   "total": 48,
+   "A_gap": 12,
+   "B_money": 17,
+   "C_intent": 11,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 246,
+   "named_email": false,
+   "why": [
+    "running Meta pixel (ads/retargeting)"
+   ],
+   "flags": []
+  },
+  "pool_index": 53,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: runs a Meta ads pixel; 246 Google reviews at 5\u2605 to feature; sells implants, veneers, all-on-4."
+ },
+ {
+  "name": "Irving Park Family & Cosmetic Dentistry",
+  "city": "Greensboro",
+  "state": "NC",
+  "url": "https://www.irvingparkdentalnc.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "frontdesk@irvingparkdentalnc.com"
+  ],
+  "fb": [],
+  "ig": [
+   "https://www.instagram.com/irvingparkdental"
+  ],
+  "social_latest": {
+   "ig": "2026-09-29"
+  },
+  "latest_post": "2026-09-29",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.39,
+   "kb": 426,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Dental Revenue",
+   "vendors": [
+    "Dental Revenue",
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Irving Park Family & Cosmetic Dentistry, Greensboro, NC",
+  "conv": {
+   "total": 48,
+   "A_gap": 12,
+   "B_money": 19,
+   "C_intent": 9,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 449,
+   "named_email": false,
+   "why": [
+    "449 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 96,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 449 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Gregory S. Rutherford, DDS, PA",
+  "city": "Sarasota",
+  "state": "FL",
+  "url": "https://www.gregrutherforddds.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 53.0,
+  "emails": [
+   "drrut@outlook.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Gregory-S-Rutherford-DDS-PA-1109028259211135"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.72,
+   "kb": 213,
+   "viewport": true,
+   "copyright_max": null,
+   "copyright_auto": false,
+   "vendor": "Duda",
+   "vendors": [
+    "Duda"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": true,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Gregory S. Rutherford, DDS, Sarasota, FL",
+  "conv": {
+   "total": 48,
+   "A_gap": 17,
+   "B_money": 12,
+   "C_intent": 6,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 4.8,
+   "reviews": 52,
+   "named_email": true,
+   "why": [
+    "dead Google+ link"
+   ],
+   "flags": []
+  },
+  "pool_index": 110,
+  "tier": "C",
+  "pitch": "Gap: dated homepage design; dead Google+ link. Buy signals: sells implants, cosmetic, full-mouth; posted on social this week; direct email to a named person."
+ },
+ {
+  "name": "Dr. David D. Hayes Family Dentistry",
+  "city": "Westerville",
+  "state": "OH",
+  "url": "https://drdavidhayes.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 50.0,
+  "emails": [
+   "drdaviddhayes@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DavidDHayesDDS"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-11"
+  },
+  "latest_post": "2026-09-11",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.27,
+   "kb": 77,
+   "viewport": true,
+   "copyright_max": 2015,
+   "copyright_auto": false,
+   "vendor": "WordPress",
+   "vendors": [
+    "WordPress"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": true,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "invisalign"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "David D. Hayes, DDS Family Dentistry, Westerville, OH",
+  "conv": {
+   "total": 48,
+   "A_gap": 21,
+   "B_money": 12,
+   "C_intent": 2,
+   "D_reach": 8,
+   "E_fit": 5,
+   "visual": 4,
+   "rating": 5,
+   "reviews": 147,
+   "named_email": true,
+   "why": [
+    "footer frozen at \u00a92015",
+    "retired Universal Analytics only"
+   ],
+   "flags": []
+  },
+  "pool_index": 124,
+  "tier": "C",
+  "pitch": "Gap: dated homepage design; footer frozen at \u00a92015; analytics dead since 2024 (Universal Analytics only). Buy signals: direct email to a named person."
+ },
+ {
+  "name": "Albert Family Dentistry",
+  "city": "Charlottesville",
+  "state": "VA",
+  "url": "https://www.albertfamilydentistry.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 45.0,
+  "emails": [
+   "info@albertfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/albertfamilydentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/albertfamilydentistry"
+  ],
+  "social_latest": {
+   "fb": "2026-09-11"
+  },
+  "latest_post": "2026-09-11",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.29,
+   "kb": 22,
+   "viewport": true,
+   "copyright_max": 2017,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": true,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Albert Family Dentistry, Charlottesville, VA",
+  "conv": {
+   "total": 48,
+   "A_gap": 17,
+   "B_money": 16,
+   "C_intent": 4,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 5,
+   "reviews": 204,
+   "named_email": false,
+   "why": [
+    "footer frozen at \u00a92017"
+   ],
+   "flags": []
+  },
+  "pool_index": 153,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; footer frozen at \u00a92017. Buy signals: 204 Google reviews at 5\u2605 to feature; sells implants, veneers, invisalign."
+ },
+ {
+  "name": "Arbor Dental Care (Dr. Frank Marchese)",
+  "city": "Lisle",
+  "state": "IL",
+  "url": "https://www.arbordentalcare.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 60.0,
+  "emails": [
+   "care@arbordentalcare.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/arbordentalcare"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-10-05"
+  },
+  "latest_post": "2026-10-05",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.41,
+   "kb": 33,
+   "viewport": true,
+   "copyright_max": 2020,
+   "copyright_auto": false,
+   "vendor": "TNT Dental",
+   "vendors": [
+    "TNT Dental"
+   ],
+   "modern_stack": false,
+   "jquery_old": true,
+   "ga4": true,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": true,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Arbor Dental Care, Lisle, IL",
+  "conv": {
+   "total": 47,
+   "A_gap": 16,
+   "B_money": 17,
+   "C_intent": 6,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 151,
+   "named_email": false,
+   "why": [
+    "footer \u00a92020",
+    "COVID-era copy still live"
+   ],
+   "flags": []
+  },
+  "pool_index": 34,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; footer \u00a92020; COVID-era copy still live. Buy signals: 151 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ },
+ {
+  "name": "Wildhorse Dental",
+  "city": "Chesterfield",
+  "state": "MO",
+  "url": "https://wildhorsedental.com/",
+  "region": "midwest",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 60.0,
+  "emails": [
+   "admin@wildhorsedental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/wildhorsedental"
+  ],
+  "ig": [],
+  "social_latest": {
+   "fb": "2026-09-21"
+  },
+  "latest_post": "2026-09-21",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.76,
+   "kb": 66,
+   "viewport": false,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "WEO Media",
+   "vendors": [
+    "WEO Media"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "invisalign",
+    "sedation",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": true
+  },
+  "gmaps_query": "Wildhorse Dental, Chesterfield, MO",
+  "conv": {
+   "total": 47,
+   "A_gap": 15,
+   "B_money": 19,
+   "C_intent": 5,
+   "D_reach": 3,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 908,
+   "named_email": false,
+   "why": [
+    "not mobile-ready",
+    "908 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 39,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards; no mobile viewport tag. Buy signals: 908 Google reviews at 4.9\u2605 to feature; sells invisalign, sedation, cosmetic."
+ },
+ {
+  "name": "Parkway Prosthodontics",
+  "city": "Ponte Vedra",
+  "state": "FL",
+  "url": "https://www.parkwaypros.com/",
+  "region": "southeast",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 58.0,
+  "emails": [
+   "office@parkwaypros.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/parkwaypros",
+   "https://www.facebook.com/439716009533779"
+  ],
+  "ig": [
+   "https://www.instagram.com/parkwayprosthodontics"
+  ],
+  "social_latest": {
+   "fb": "2026-09-14"
+  },
+  "latest_post": "2026-09-14",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 1.51,
+   "kb": 1282,
+   "viewport": true,
+   "copyright_max": 2026,
+   "copyright_auto": false,
+   "vendor": "Wix",
+   "vendors": [
+    "Wix"
+   ],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": true,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "all-on-4",
+    "sedation",
+    "cosmetic",
+    "full-mouth"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Parkway Prosthodontics, Ponte Vedra, FL",
+  "conv": {
+   "total": 47,
+   "A_gap": 12,
+   "B_money": 19,
+   "C_intent": 5,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 390,
+   "named_email": false,
+   "why": [
+    "390 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 56,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 390 Google reviews at 4.9\u2605 to feature; sells implants, veneers, all-on-4."
+ },
+ {
+  "name": "Cramer Dental",
+  "city": "Blue Bell",
+  "state": "PA",
+  "url": "https://smilesbycramer.com/",
+  "region": "mid-atlantic",
+  "source": "candidate",
+  "rank": null,
+  "approx_score": 55.0,
+  "emails": [
+   "info@smilesbycramer.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/smilesbycramer"
+  ],
+  "ig": [
+   "https://www.instagram.com/cramerdental"
+  ],
+  "social_latest": {
+   "fb": "2026-09-30"
+  },
+  "latest_post": "2026-09-30",
+  "audit": {
+   "http": "200",
+   "https": true,
+   "load_s": 0.55,
+   "kb": 38,
+   "viewport": true,
+   "copyright_max": 2024,
+   "copyright_auto": false,
+   "vendor": "Custom/unknown",
+   "vendors": [],
+   "modern_stack": false,
+   "jquery_old": false,
+   "ga4": false,
+   "ua_only": false,
+   "google_ads": false,
+   "meta_pixel": false,
+   "call_tracking": false,
+   "booking": false,
+   "widgets": false,
+   "high_ticket": [
+    "implants",
+    "veneers",
+    "invisalign",
+    "cosmetic"
+   ],
+   "multi_location": false,
+   "covid_text": false,
+   "google_plus": false,
+   "flash_or_tables": false
+  },
+  "gmaps_query": "Cramer Dental, Blue Bell, PA",
+  "conv": {
+   "total": 47,
+   "A_gap": 12,
+   "B_money": 18,
+   "C_intent": 6,
+   "D_reach": 6,
+   "E_fit": 5,
+   "visual": 3,
+   "rating": 4.9,
+   "reviews": 354,
+   "named_email": false,
+   "why": [
+    "354 Google reviews (4.9\u2605) not showcased"
+   ],
+   "flags": []
+  },
+  "pool_index": 71,
+  "tier": "C",
+  "pitch": "Gap: homepage behind current standards. Buy signals: 354 Google reviews at 4.9\u2605 to feature; sells implants, veneers, invisalign; posted on social this week."
+ }
+]
