@@ -55,6 +55,12 @@ def pick_emails(rec, cache):
     return good
 
 
+SPECIALTY = re.compile(r"pediatric|pedo|kids|children|orthodont|braces|perio|oral[ -]?surg|maxillofacial|endodont|oms\b", re.I)
+
+
+BADFB = re.compile(r"facebook\.com/(2008/fbml|profile\.php$|people$|pages$|groups/|sharer|tr$|dialog|plugins|home\.php|login|LostLocals$|REPLACE-WITH|YOUR-PAGE|yourpage|seymourhospital$)", re.I)
+
+
 def main(path):
     cache = json.load(open(MXCACHE)) if os.path.exists(MXCACHE) else {}
     recs = [json.loads(l) for l in open(path)]
@@ -62,6 +68,10 @@ def main(path):
     stats = {"crawled": len(recs), "site_ok": 0, "email": 0, "social": 0, "both": 0}
     for r in recs:
         if r.get("http") not in ("200",) and not r.get("emails"):
+            continue
+        r["fb"] = [u for u in r.get("fb", []) if not BADFB.search(u.rstrip("/"))]
+        r["ig"] = [u for u in r.get("ig", []) if not re.search(r"instagram\.com/(p|reel|explore|accounts|stories|tv)(/|$)", u)]
+        if SPECIALTY.search((r.get("name") or "") + " " + (r.get("url") or "") + " " + " ".join(r.get("ig", []) + r.get("fb", []))):
             continue
         stats["site_ok"] += 1
         em = pick_emails(r, cache)
