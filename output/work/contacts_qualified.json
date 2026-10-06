@@ -1,0 +1,968 @@
+[
+ {
+  "name": "D'Angelo/Olson La Jolla Dentistry",
+  "city": "La Jolla",
+  "state": "CA",
+  "url": "https://dangelohoffmanolsonlajolladentistryca.hibuwebsites.com/",
+  "region": "west",
+  "source": "ranked",
+  "rank": 1,
+  "approx_score": 82.0,
+  "emails": [
+   "dhodental@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/LaJollaDDS"
+  ],
+  "ig": [
+   "https://www.instagram.com/ryanthedentist"
+  ]
+ },
+ {
+  "name": "Luis E. Martinez DMD, PA (St. Pete Cosmetic Dentistry)",
+  "city": "St. Petersburg",
+  "state": "FL",
+  "url": "https://www.stpetecosmeticdentistry.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 2,
+  "approx_score": 80.0,
+  "emails": [
+   "l.martinez@verizon.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/luismartinezdmd"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Brewer Family Dentistry",
+  "city": "Modesto",
+  "state": "CA",
+  "url": "https://www.brewerdentistry.com/",
+  "region": "west",
+  "source": "ranked",
+  "rank": 3,
+  "approx_score": 80.0,
+  "emails": [
+   "info@brewerfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/BrewerFamilyDentistry"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Goodman Dental Care",
+  "city": "Annapolis",
+  "state": "MD",
+  "url": "https://www.goodmandentalcare.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 5,
+  "approx_score": 79.0,
+  "emails": [
+   "info@goodmandentalcare.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/goodmandentalcare"
+  ],
+  "ig": [
+   "https://www.instagram.com/goodmandentalcare"
+  ]
+ },
+ {
+  "name": "Cosmetic & Implant Dentistry of Naples",
+  "city": "Naples",
+  "state": "FL",
+  "url": "https://www.dentistryofnaples.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 6,
+  "approx_score": 78.0,
+  "emails": [
+   "care@dentistryofnaples.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DentistryOfNaples",
+   "https://www.facebook.com/DentistryofNaples"
+  ],
+  "ig": [
+   "https://www.instagram.com/dentistryofnaples"
+  ]
+ },
+ {
+  "name": "Coral Gables Dentistry & Prosthodontics",
+  "city": "Coral Gables",
+  "state": "FL",
+  "url": "https://www.coralgablesdentistry.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 7,
+  "approx_score": 77.0,
+  "emails": [
+   "info@coralgablesdentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/coralgablesdentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/coralgablesdentistry"
+  ]
+ },
+ {
+  "name": "Klein Family Dentistry",
+  "city": "Harrisburg",
+  "state": "PA",
+  "url": "https://www.kleinfamilydentistry.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 8,
+  "approx_score": 77.0,
+  "emails": [
+   "info@kleinfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/kleinfamilydentist"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Southdale Dental Associates",
+  "city": "Edina",
+  "state": "MN",
+  "url": "https://www.sdadental.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 10,
+  "approx_score": 77.0,
+  "emails": [
+   "info@sdadental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/SOUTHDALEDENTAL"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Meetinghouse Dental Care (Hatboro Integrative Dentistry)",
+  "city": "Hatboro",
+  "state": "PA",
+  "url": "https://www.meetinghousedental.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 11,
+  "approx_score": 76.0,
+  "emails": [
+   "meetinghousedental@comcast.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/meetinghousedental"
+  ],
+  "ig": [
+   "https://www.instagram.com/trovatonutrition"
+  ]
+ },
+ {
+  "name": "Highland Smiles Dental (Dr. Girish Sandadi / Dr. Rachna Patel)",
+  "city": "Dallas (Highland Park / McKinney Ave)",
+  "state": "TX",
+  "url": "https://www.highlandsmilesdental.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 20,
+  "approx_score": 74.0,
+  "emails": [
+   "highlandsmiles@outlook.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/HighlandSmilesDental"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Pioneer Valley Dental Arts (Evans / Ziemba / Reilly / Lucido)",
+  "city": "Longmeadow",
+  "state": "MA",
+  "url": "https://www.pioneervalleydentalarts.com/",
+  "region": "northeast",
+  "source": "ranked",
+  "rank": 27,
+  "approx_score": 74.0,
+  "emails": [
+   "pvda1@comcast.net",
+   "pvda@comcast.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/PVDA1",
+   "https://www.facebook.com/pages/Pioneer-Valley-Dental-Arts/185526388163856"
+  ],
+  "ig": [
+   "https://www.instagram.com/pvda_171"
+  ]
+ },
+ {
+  "name": "Hagerstown Smiles Dental Care",
+  "city": "Hagerstown",
+  "state": "MD",
+  "url": "https://www.hagerstownsmiles.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 29,
+  "approx_score": 73.0,
+  "emails": [
+   "info@hagerstownsmiles.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/hagerstownsmiles"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Ridgepointe Dental (Austin Amos DDS, JD)",
+  "city": "The Colony",
+  "state": "TX",
+  "url": "https://www.ridgepointedental.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 30,
+  "approx_score": 73.0,
+  "emails": [
+   "staff@ridgepointedental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Ridgepointe.Dental"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Transforming Smiles (Bruce E. Carter, DMD PC)",
+  "city": "Lawrenceville",
+  "state": "GA",
+  "url": "https://www.gwinnettsmiles.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 34,
+  "approx_score": 73.0,
+  "emails": [
+   "office@gwinnettsmiles.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/TransformingSmilesGA"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Gates Family Dentistry",
+  "city": "Loveland",
+  "state": "OH",
+  "url": "https://www.gatesfamilydentistry.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 36,
+  "approx_score": 73.0,
+  "emails": [
+   "gatesfamilydentistry@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/gatesfamilydentistry"
+  ],
+  "ig": []
+ },
+ {
+  "name": "West University Dentistry (Drs. Ross Pickei & James M. Seale)",
+  "city": "Houston (West U/Bellaire Blvd)",
+  "state": "TX",
+  "url": "https://www.westuniversitydentistry.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 42,
+  "approx_score": 72.0,
+  "emails": [
+   "frontdesk@westuniversitydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/westuniversitydentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/westuniversitydentistry"
+  ]
+ },
+ {
+  "name": "Gotwalt Dentistry",
+  "city": "Lititz/Akron",
+  "state": "PA",
+  "url": "https://www.drgotwalt.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 43,
+  "approx_score": 72.0,
+  "emails": [
+   "jody@drgotwalt.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drgotwalt"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Vason Family Dentistry of Buckhead",
+  "city": "Atlanta (Buckhead)",
+  "state": "GA",
+  "url": "https://www.drvason.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 45,
+  "approx_score": 72.0,
+  "emails": [
+   "patientcare@drvason.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Vason-Family-Dentistry-396993483679874"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Heck Family Dentistry of Lawrence (Dr. Brian Heck + 3 dentists)",
+  "city": "Lawrence",
+  "state": "KS",
+  "url": "https://heckfamilydentistry.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 47,
+  "approx_score": 72.0,
+  "emails": [
+   "info@heckfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/HeckFamilyDentistryLawrence"
+  ],
+  "ig": [
+   "https://www.instagram.com/heckfamilydentistry",
+   "https://www.instagram.com/kansascenter4sedationdentistry"
+  ]
+ },
+ {
+  "name": "North Shore Prosthodontic Associates",
+  "city": "Manhasset / Woodbury",
+  "state": "NY",
+  "url": "https://www.nspali.com/",
+  "region": "northeast",
+  "source": "ranked",
+  "rank": 52,
+  "approx_score": 72.0,
+  "emails": [
+   "info@nspali.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/NorthShoreProsthodonticsWoodbury",
+   "https://www.facebook.com/Northshore-Prosthodontic-Associates-106759224832123"
+  ],
+  "ig": [
+   "https://www.instagram.com/northshoreprosthodonticassoc",
+   "https://www.instagram.com/nsprostho_woodbury"
+  ]
+ },
+ {
+  "name": "Beliveau Dental (E. Charles Beliveau, DDS, PLLC)",
+  "city": "North Andover",
+  "state": "MA",
+  "url": "https://www.beliveaudental.com/",
+  "region": "northeast",
+  "source": "ranked",
+  "rank": 53,
+  "approx_score": 71.0,
+  "emails": [
+   "doctor@beliveaudental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/BeliveauSmiles"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Maras Dentistry (William H. Maras, DDS, PA)",
+  "city": "Palm Beach Gardens",
+  "state": "FL",
+  "url": "https://marasdentistry.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 56,
+  "approx_score": 71.0,
+  "emails": [
+   "info@marasdentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/MarasDentistry"
+  ],
+  "ig": [
+   "https://www.instagram.com/marasdentistry"
+  ]
+ },
+ {
+  "name": "Oak Canyon Dentistry (Dr. Steven Haase)",
+  "city": "Bee Cave (Austin)",
+  "state": "TX",
+  "url": "https://www.oakcanyondentistry.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 58,
+  "approx_score": 71.0,
+  "emails": [
+   "information@oakcanyondentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Oak-Canyon-Dentistry-Bee-Caves-TX/106001159476402"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Smiles by Martin (Dr. Greg Martin - third generation)",
+  "city": "Grapevine",
+  "state": "TX",
+  "url": "https://www.smilesbymartin.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 60,
+  "approx_score": 71.0,
+  "emails": [
+   "appointments@smilesbymartin.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/SmilesByMartin"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Thomsen Dental Group",
+  "city": "West Omaha",
+  "state": "NE",
+  "url": "https://www.thomsendental.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 62,
+  "approx_score": 70.0,
+  "emails": [
+   "smile@thomsendental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Thomsen-Dental-Group-378740288846106",
+   "https://www.facebook.com/pages/Thomsen-Dental-Group/894355417338645"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Donna L. Kiesel DDS PA",
+  "city": "Coppell",
+  "state": "TX",
+  "url": "https://www.drdonnakiesel.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 63,
+  "approx_score": 70.0,
+  "emails": [
+   "frontoffice@drdonnakiesel.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drdonnakiesel"
+  ],
+  "ig": [
+   "https://www.instagram.com/donnakieseldds"
+  ]
+ },
+ {
+  "name": "Byerly Family Dentistry",
+  "city": "Montgomery (Cincinnati)",
+  "state": "OH",
+  "url": "https://byerlydental.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 64,
+  "approx_score": 70.0,
+  "emails": [
+   "byerlyfamilydentistry@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Byerly-Family-Dental-134852086595759"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Johann Prosthetics of Boulder (Andrew R. Johann DDS MS PC)",
+  "city": "Boulder",
+  "state": "CO",
+  "url": "https://www.andrewjohannddsmspc.com/",
+  "region": "west",
+  "source": "ranked",
+  "rank": 67,
+  "approx_score": 70.0,
+  "emails": [
+   "info@andrewjohannddsmspc.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/122834314440938/reviews"
+  ],
+  "ig": [
+   "https://www.instagram.com/johannprostheticsofboulder"
+  ]
+ },
+ {
+  "name": "Baccellieri Family Dentistry (Dr. Carl Baccellieri Jr.)",
+  "city": "Kennett Square",
+  "state": "PA",
+  "url": "https://bfdentistry.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 68,
+  "approx_score": 70.0,
+  "emails": [
+   "records@bfdentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Baccellieri-Family-Dentistry-143053805741119"
+  ],
+  "ig": []
+ },
+ {
+  "name": "March Dentistry",
+  "city": "Upper Arlington (Columbus)",
+  "state": "OH",
+  "url": "https://marchdentistry.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 69,
+  "approx_score": 70.0,
+  "emails": [
+   "info@marchdentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/MarchDentistry"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Todd Phelan DDS (Drs. S. Todd Phelan & Tyler Gossett)",
+  "city": "Rogers",
+  "state": "AR",
+  "url": "https://www.nwadentist.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 70,
+  "approx_score": 70.0,
+  "emails": [
+   "heatherd@nwadentist.com",
+   "jessica@nwadentist.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/ToddPhelanDDS"
+  ],
+  "ig": [
+   "https://www.instagram.com/nwadentist"
+  ]
+ },
+ {
+  "name": "Thomas J. Emmer, DDS, PA (Prosthodontist)",
+  "city": "Morristown",
+  "state": "NJ",
+  "url": "https://www.tjemmer.com/",
+  "region": "northeast",
+  "source": "ranked",
+  "rank": 71,
+  "approx_score": 70.0,
+  "emails": [
+   "info@tjemmer.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/ThomasJEmmerDDSPA"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Dental Arts of Delaware (Drs. Gregg Fink & Christopher Appleman)",
+  "city": "Newark",
+  "state": "DE",
+  "url": "https://dentalartsofdelaware.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 78,
+  "approx_score": 69.0,
+  "emails": [
+   "dentalartsofdelaware@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pg/DentalArtsOfDelaware/reviews"
+  ],
+  "ig": []
+ },
+ {
+  "name": "CMB Family Dentistry (Drs. David Brown & Josh Alter)",
+  "city": "Broomall",
+  "state": "PA",
+  "url": "https://www.cmbdental.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 79,
+  "approx_score": 69.0,
+  "emails": [
+   "info@cmbdental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/jalterdmd"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Cinco Meadows Dental (Dr. Brian Williams)",
+  "city": "Katy (Cinco Ranch)",
+  "state": "TX",
+  "url": "https://www.cincomeadowsdental.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 80,
+  "approx_score": 69.0,
+  "emails": [
+   "info@cincomeadowsdental.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/CincoMeadowsDental"
+  ],
+  "ig": []
+ },
+ {
+  "name": "James A. Vito, DMD (Prosthodontics & Periodontics)",
+  "city": "Wayne",
+  "state": "PA",
+  "url": "https://www.jamesvito.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 84,
+  "approx_score": 69.0,
+  "emails": [
+   "drjamesvito@verizon.net"
+  ],
+  "fb": [
+   "https://www.facebook.com/DrJamesVito"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Serafin Family Dentistry",
+  "city": "Carlisle",
+  "state": "PA",
+  "url": "https://www.serafinfamilydentistry.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 85,
+  "approx_score": 69.0,
+  "emails": [
+   "smile@serafinfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/SerafinFamilyDentistry"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Allison Family & Cosmetic Dentistry (F. Vincent Allison III, DDS, PA)",
+  "city": "Durham",
+  "state": "NC",
+  "url": "https://www.allisonfamilydentistry.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 86,
+  "approx_score": 69.0,
+  "emails": [
+   "appointment@allisonfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/AllisonFamilyDentistry",
+   "https://www.facebook.com/AlllisonFamilyDentistry"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Egidio Dental Care (Aaron J. Egidio, DDS)",
+  "city": "Madison",
+  "state": "CT",
+  "url": "https://www.egidiodentalcare.com/",
+  "region": "northeast",
+  "source": "ranked",
+  "rank": 89,
+  "approx_score": 69.0,
+  "emails": [
+   "info@egidiodentalcare.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Egidio-Aaron-J-DMD/159168347438812"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Blossfeld Family Dentistry (Dr. Carol M. Blossfeld)",
+  "city": "Edmond / Oklahoma City",
+  "state": "OK",
+  "url": "https://www.drblossfeld.com/",
+  "region": "south-central",
+  "source": "ranked",
+  "rank": 90,
+  "approx_score": 69.0,
+  "emails": [
+   "frontdesk@drblossfeld.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drblossfeld"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Perfect Smiles Dental Care",
+  "city": "Lenexa",
+  "state": "KS",
+  "url": "https://www.perfectsmilesdentalcare.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 91,
+  "approx_score": 68.0,
+  "emails": [
+   "contactus@perfectsmilesdentalcare.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/perfectsmilesdentcare"
+  ],
+  "ig": [
+   "https://www.instagram.com/perfectsmilesdc"
+  ]
+ },
+ {
+  "name": "Somerset Hills Family Dentist (Joseph M. Micale, DMD, PA)",
+  "city": "Basking Ridge",
+  "state": "NJ",
+  "url": "https://www.somersethillsfamilydentist.com/",
+  "region": "northeast",
+  "source": "ranked",
+  "rank": 92,
+  "approx_score": 68.0,
+  "emails": [
+   "info@somersethillsfamilydentist.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/somersethillsfamilydentist"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Passidomo Cosmetic & Family Dentistry (Dr. Passidomo & Dr. Brij Patel)",
+  "city": "Centerville (Dayton)",
+  "state": "OH",
+  "url": "https://www.dpsmilecenter.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 94,
+  "approx_score": 68.0,
+  "emails": [
+   "drdan@dpsmilecenter.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/DrPassidomo"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Michael A. MacInnes, DDS, PLLC",
+  "city": "Sammamish",
+  "state": "WA",
+  "url": "https://www.macinnesdentistry.com/",
+  "region": "west",
+  "source": "ranked",
+  "rank": 95,
+  "approx_score": 68.0,
+  "emails": [
+   "contact@macinnesdentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/MichaelAMacInnesDDS",
+   "https://www.facebook.com/pages/Michael-A-MacInnes-DDS/963045567045473"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Family Smile Dentistry (Drs. Foroughi & Jarquin)",
+  "city": "Lakewood Ranch (Bradenton)",
+  "state": "FL",
+  "url": "https://familysmiledentistry.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 99,
+  "approx_score": 68.0,
+  "emails": [
+   "kendra@familysmiledentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Family-Smile-Dentistry/213348642023995"
+  ],
+  "ig": [
+   "https://www.instagram.com/family_smile_dentistry"
+  ]
+ },
+ {
+  "name": "Orinda Dental Care",
+  "city": "Orinda",
+  "state": "CA",
+  "url": "https://orindadentalcare.com/",
+  "region": "west",
+  "source": "ranked",
+  "rank": 101,
+  "approx_score": 68.0,
+  "emails": [
+   "office@orindadentalcare.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/Orinda-Dental-Care-1694441920574719"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Lundstrom Family Dentistry",
+  "city": "Fargo",
+  "state": "ND",
+  "url": "https://www.fargodentist.net/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 102,
+  "approx_score": 68.0,
+  "emails": [
+   "lundstromoffice@protonmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Lundstrom-Family-Dentistry/113444345364328"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Staller Dental & Associates",
+  "city": "Delray Beach",
+  "state": "FL",
+  "url": "https://www.stallerdental.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 103,
+  "approx_score": 68.0,
+  "emails": [
+   "office@stallerdentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/stallerdental"
+  ],
+  "ig": [
+   "https://www.instagram.com/stallerdental"
+  ]
+ },
+ {
+  "name": "Lansdale Dental, P.C. (Dr. Gopimanohar N. Varma)",
+  "city": "Lansdale",
+  "state": "PA",
+  "url": "https://www.lansdaledentalpc.com/",
+  "region": "mid-atlantic",
+  "source": "ranked",
+  "rank": 104,
+  "approx_score": 68.0,
+  "emails": [
+   "info@lansdaledentalpc.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/Lansdale-Dental-PC/193205240710435"
+  ],
+  "ig": []
+ },
+ {
+  "name": "East Avenue Dentistry PLLC",
+  "city": "Rochester",
+  "state": "NY",
+  "url": "https://www.eastavenuedentistry.com/",
+  "region": "northeast",
+  "source": "ranked",
+  "rank": 106,
+  "approx_score": 68.0,
+  "emails": [
+   "1641@eastavenuedentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/1641eastave",
+   "https://www.facebook.com/pages/East-Avenue-Dentistry/42573990913"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Macon Smiles Laser & Cosmetic Family Dentistry",
+  "city": "Macon",
+  "state": "GA",
+  "url": "https://www.maconsmiles.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 109,
+  "approx_score": 67.0,
+  "emails": [
+   "financial@maconsmiles.com",
+   "relations@maconsmiles.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/MaconSmiles"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Howard D. Booth Jr., DDS, MAGD",
+  "city": "Macon",
+  "state": "GA",
+  "url": "https://www.drhowardbooth.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 120,
+  "approx_score": 66.0,
+  "emails": [
+   "frontoffice@drhowardbooth.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/drhowardbooth"
+  ],
+  "ig": [
+   "https://www.instagram.com/dr_howard_booth"
+  ]
+ },
+ {
+  "name": "Friedman Family & Cosmetic Dentistry",
+  "city": "Westfield",
+  "state": "IN",
+  "url": "https://friedmanfamilydentistry.com/",
+  "region": "midwest",
+  "source": "ranked",
+  "rank": 121,
+  "approx_score": 66.0,
+  "emails": [
+   "info@friedmanfamilydentistry.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/pages/category/General-Dentist/Friedman-Family-Cosmetic-Dentistry-354472201360"
+  ],
+  "ig": []
+ },
+ {
+  "name": "Alberto J. Lamberti DMD, PA",
+  "city": "Boca Raton",
+  "state": "FL",
+  "url": "https://www.smilespecialist.com/",
+  "region": "southeast",
+  "source": "ranked",
+  "rank": 122,
+  "approx_score": 66.0,
+  "emails": [
+   "lambertismiles@gmail.com"
+  ],
+  "fb": [
+   "https://www.facebook.com/albertolambertidmd"
+  ],
+  "ig": [
+   "https://www.instagram.com/albertolamberti.dmd"
+  ]
+ }
+]
