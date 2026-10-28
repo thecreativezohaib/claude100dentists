@@ -1,0 +1,321 @@
+num,practice,town,address,phone,email
+001,Jordan Webb Christina DDS,"Ashland, KY","4330 13th St, Ashland, KY 41102",(606) 326-1234,drchristinajordan@yahoo.com
+002,"Stinson & Stinson / Dr. Warren K. Stinson, DDS","Jefferson City, TN","113 E Broadway Blvd, Jefferson City, TN 37760",(865) 475-2762,wkstinsondds@outlook.com
+003,Sunny Kids Dental,"La Puente, CA","1643 N Hacienda Blvd, La Puente, CA 91744",(626) 587-0100,sunnykidsdental.lapuente@gmail.com
+004,Michael Neopolitan DMD LLC,"Niles, OH","5402 Youngstown Warren Rd, Niles, OH 44446",(330) 544-1213,skiffey.neopolitan.dental@gmail.com
+005,Warren Family Dental Center (Lindstrom Family Dental LLC),"Warren, OH","433 Niles Cortland Rd NE Ste 1, Warren, OH 44484",(330) 856-2880,wfdental@aol.com
+006,"Samantha S. Napier, DMD (Commonwealth Dental Group PLLC)","Hazard, KY","116 Veterans Dr, Hazard, KY 41701",(606) 439-0577,sboggs@samanthanapier.com
+007,Linn Dental LLC,"Meadville, PA","1058 S Main St #2, Meadville, PA 16335",(814) 724-4508,billing@linndental.com / frontdesk@linndental.com
+008,Jennifer Nichols DMD PSC (Nichols Jennifer DDS),"Harrodsburg, KY","756 N College St, Harrodsburg, KY 40330",(859) 734-5111,drjennifernicholsdmd@gmail.com
+009,"Rebar Dental (Dr. Stephen Rebar, DDS)","Dickson City, PA","505 Sunset Dr, Dickson City, PA 18447",(570) 489-5663,stephenrebardds@gmail.com
+010,"Signature Smilz (Dr. Preeti Sahasi, DMD)","Pikeville, KY","193 Main St, Pikeville, KY 41501",(606) 437-9601,SignatureSmilz9601@gmail.com / psahasi@hotmail.com
+011,"Dr. Thomas R. Dix, DMD, PC","Powder Springs, GA","3721 New MacLand Rd Ste 210, Powder Springs, GA 30127",(770) 732-8374,drdix@drthomasdix.com
+012,"Phillip L. Fortner, D.M.D. (Phillip L Fortner DMD LLC)","Rainsville, AL","569 McCurdy Ave N, Rainsville, AL 35986",(256) 638-7272,fortnerdmd@mac.com
+013,"Dr. Thomas C. Fox, DMD","Conneaut Lake, PA","11076 PA-18 (State Highway 18), Conneaut Lake, PA 16316",(814) 382-2945,jbfox@zoominternet.net
+014,"Richard Perello, D.D.S.","Delran, NJ","8008 US-130 Ste 330, Delran, NJ 08075",(856) 461-0900,richardperello@verizon.net
+015,"Honarkar Maryam DDS PA (Maryam Honarkar, DDS)","Rockville, MD","216 W Montgomery Ave, Rockville, MD 20850-2803",(301) 762-4705,drhonarkar@cs.com
+016,Thompson Dental,"Powderly, KY","1015 Copper Creek Dr, Powderly, KY 42367",(270) 338-6332,jathompsondmd@bellsouth.net
+017,Family Dental Care of Belvidere - Farzin Yousef D.D.S.,"Belvidere, IL","860 Biester Dr #102, Belvidere, IL 61008",(815) 544-3426,belvideredental1985@gmail.com
+018,Cohen Larry DDS,"Bethpage, NY","190 Hicksville Rd, Bethpage, NY 11714",(516) 735-5666,drlarz88@gmail.com
+019,Randy Thomas DMD PC,"Church Hill, TN","108 S Central Ave, Church Hill, TN 37642",(423) 357-7661,randythomasdmd@gmail.com
+020,Perez Dental Group Inc,"Miami, FL","7801 Coral Way Ste 122, Miami, FL 33155",(305) 264-4886,perezdentalgroupinc@gmail.com
+021,Arturo Aceituno D.M.D.,"Miami, FL","8744 SW 8th St, Miami, FL 33174",(305) 559-4684,aceitunodmd@gmail.com
+022,"TD Dental Warren - Dr. George Ploumbis, DDS","Warren, OH","2239 E Market St, Warren, OH 44483",(330) 372-6888,gploumbis@aol.com
+023,Dental Associates of Fyffe,"Fyffe, AL","1516 Main St, Fyffe, AL 35971",(256) 623-2532,austinwrightdmd@gmail.com
+024,McFarland Family Dentistry,"Diamondhead, MS","4349 Gex Rd Suite A, Diamondhead, MS 39525",(228) 255-6657,dentistman93@gmail.com
+025,Highland Pediatric Dentistry P.C.,"Highland, IN","2827 Highway Ave, Highland, IN 46322",(219) 838-6709,highlandpediatricdentistry@gmail.com
+026,Aghabi Raja H DDS (Aghabi Dental),"Valley Stream, NY","5 Seaton Gate, Valley Stream, NY 11580",(516) 205-4896,raghabiddd@gmail.com
+027,"Brendan F. Mulligan, DMD, Esq. & Deron T. Kovac, DMD","Kennett Square, PA","208 W. State Street, Kennett Square, PA 19348",(610) 444-3433,brendanmulligandmd@gmail.com / bfm.dental@gmail.com
+028,"Lebanon Family Dental Care PSC (Dr. Philip H. Zink, DMD & Dr. Philip H. Zink II, DMD)","Lebanon, KY","219 S Proctor Knott Ave, Lebanon, KY 40033",(270) 692-4339,lebanonfamilydentalcare@gmail.com
+029,"M Bert Keel Jr DMD, PA (Drs. Bert Keel & Murray Keel)","Bay St Louis, MS","304 N 2nd St A, Bay St Louis, MS 39520",(228) 467-5577,mbertkeeljrdmd@bellsouth.net
+030,Cessna Robert S DDS (Robert S Cessna DMD PC),"Perryopolis, PA","305 Liberty St, Perryopolis, PA 15473",(724) 736-2300,frontdesk305@outlook.com
+031,"Vernon Dental Group (Danny Baird, DDS)","Vernon, TX","1620 Hillcrest Dr, Vernon, TX 76384",(940) 553-3300,vernondds@att.net
+032,Kendallwood Family Dentistry PC (Antonino S. Abate DDS),"Royal Oak, MI","1228 Catalpa Dr, Royal Oak, MI 48067",(248) 542-8200,drabate1228@gmail.com
+033,EZ Dental (Kai Ezell DDS LLC),"St. Joseph, MO","2618 N Belt Hwy, St. Joseph, MO 64506",(816) 364-6467,kaiezelldds@gmail.com
+034,Bloomfield Dental Care,"Bloomfield, KY","112 Fairfield Hill Rd, Bloomfield, KY 40008",(502) 252-0056,bloomfielddentistry@yahoo.com
+035,William Todd Petrey DMD General Dentistry (William T Petrey DMD Inc),"East Bernstadt, KY","2725 N Laurel Rd (2725 US Hwy 25 N), East Bernstadt, KY 40729",(606) 843-6476,willietodd606@gmail.com
+036,"Brandi Prather, DMD Pediatric Dentistry (Brandi Prather DMD PSC)","Somerset, KY","47 Sarah's Ln, Somerset, KY 42503",(606) 679-2222,"brandiprather@aol.com (also drbrandip@hotmail.com, amy@barnhillpd.com)"
+037,Kinder Family & Cosmetic Dentistry (Audrey Kinder DMD PLLC),"Pineville, KY","10156 US-25E, Pineville, KY 40977",(606) 337-1305,woolum.dixondmd@deltadentalky.com
+038,"Brad S Johnson, DMD PLLC","Morristown, TN","1551 E Morris Blvd, Morristown, TN 37813 (also 703 K St, Greeneville, TN 37745)",(423) 587-4926,jdhurst444@hotmail.com
+039,Morehead Dental Group (Morehead Dental Studio),"Morehead, KY","309 E Main St (relocated to 137 E First St), Morehead, KY 40351",(606) 784-4717,moreheaddental@yahoo.com
+040,"Dominic J. Medinger, D.D.S., Inc.","Ironton, OH","504 Chestnut St, Ironton, OH 45638",(740) 532-4430,dj_medinger@yahoo.com (also dentureclinic504@yahoo.com)
+041,"J. Eric Renye, DDS","Church Hill, TN","402 E Main Blvd, Church Hill, TN 37642",(423) 357-1177,renyedds@gmail.com
+042,"Children's Dentistry PLLC (Dr. Mary Catherine Correll Wurth, DMD)","Somerset, KY","143-A Bogle Office Park Dr, Somerset, KY 42503",(606) 451-0277,mail@childrensdentistryky.com
+043,Bullington Chris A DDS,"Greeneville, TN","1338 Tusculum Blvd, Greeneville, TN 37745",(423) 787-9696,thetoothdoctor@comcast.net
+044,Ridgeview Dental PLLC,"Kingman, AZ","2535 Hualapai Mountain Rd Ste E, Kingman, AZ 86401",(928) 753-9111,ridgeviewdental@gmail.com
+045,Wilkerson Harold T DDS,"Campbellsville, KY","227 W Main St, Campbellsville, KY 42718",(270) 465-7252,htwilkerson777@yahoo.com
+046,"Hankla John W DDS (Dr. John W. Hankla, DMD)","Danville, KY","1000 E Lexington Ave #35, Danville, KY 40422",(859) 236-2243,hankladmd@bellsouth.net
+047,Chhatpar Family Dentistry PLLC,"Farmingdale / North Massapequa, NY","1096 N Broadway, Massapequa, NY 11758 (also 103-24 127th St, South Richmond Hill, NY 11419)",(516) 249-5525 / (718) 925-0700,chhatparfamilydentistry@yahoo.com
+048,"Brownsberger's Dental Center (Dr. Gregory D. Brownsberger, DDS)","St. Joseph, MO","3901 Beck Rd # A, St. Joseph, MO 64506",(816) 232-0081,pcsportsmomdlb@yahoo.com
+049,"McCloy Family Dentistry (Dr. Jeffrey M. McCloy, DMD)","Mount Pleasant, PA","101 W Main St #1, Mount Pleasant, PA 15666",(724) 547-9105,mccloyfamilydentistry@yahoo.com
+050,"Barry D Simmons DDS PC (Dr. Barron D. Simmons, DDS)","Athens, GA","847 S Milledge Ave, Athens, GA 30605",(706) 546-1716,bsdds@bellsouth.net
+051,"Manila Dental Center & Orthodontics (Dr. Eduardo Usada II, DDS & Dr. Christopher Q. Viray, DDS)","San Jose, CA","1605 Tully Rd, San Jose, CA 95122 & 3087 McKee Rd, San Jose, CA 95127 (also 31210 Alvarado-Niles Rd, Union City, CA 94587)",(408) 729-8880 / (408) 272-9000,edusadaii@yahoo.com
+052,"Tri-Cities Dental PLLC (Dr. Drew Maddy, DMD & Dr. Su Maddy, DDS)","Kingsport, TN","909 N Wilcox Dr Ste A, Kingsport, TN 37660",(423) 247-5511,drdrewmaddy@tri-citiesdental.com
+053,"Gentle Dental of East York (Dr. Jigna A. Patel, DDS)","York, PA","3015 Eastern Blvd Ste 2, York, PA 17402",(717) 755-0114,jpgentledental@gmail.com
+054,"Just For Kids Dentistry Kingman (Dr. Ronald A. DiCarlo II, DMD)","Kingman, AZ","2401 Stockton Hill Rd #1, Kingman, AZ 86401",(928) 718-7188,justforkids@frontiernet.net
+055,"NJ Family Dentistry Inc (Dr. Gurpreet Kaur, DDS)","Elizabeth, NJ","725 N Broad St, Elizabeth, NJ 07208",(908) 351-8989,njfamilydentist@gmail.com
+056,Owens R Mark DDS (R Mark Owens DMD PA / Mark Owens Family Dentistry),"Pearl, MS","642 S Pearson Rd, Pearl, MS 39208",(601) 939-2377,markowensfamilydentistry@yahoo.com
+057,"Colonial Heights Dental Care LLC (Dr. Olalekan Okunuga, DDS)","Colonial Heights, VA","2018 Boulevard, Colonial Heights, VA 23834",(804) 520-1741,colonialheightsdentalcare@gmail.com
+058,"Patrick M. Jordan, DDS & Dr. Mollie Northern, DDS (Patrick M Jordan DDS LLC)","Savannah, MO","308 South Bus Hwy 71, Savannah, MO 64485",(816) 324-2100,patrickjordandds@gmail.com
+059,"Dr. James R. Elrod, DDS","Greenback, TN","1761 TN-95, Greenback, TN 37742",(865) 856-2320,chelc07@aol.com
+060,"Smith Brian Dental (Dr. Brian D. Smith, DDS)","Greeneville, TN","538 Tusculum Blvd, Greeneville, TN 37745",(423) 638-5791,bdsdental538@gmail.com
+061,"Community Family Dentistry (Dr. Alaa K. Hermiz, DDS)","Oak Park, MI","10460 W Nine Mile Rd (Suite 10470), Oak Park, MI 48237",(248) 548-2210,harpdental@hotmail.com
+062,Thomas Kosick DMD (Thomas Kosick DMD PC / Charlton Dental),"Meadville & Stoneboro, PA","390 Park Ave, Meadville, PA 16335 / 36 Branch St, Stoneboro, PA 16153",(814) 724-6890 / (724) 376-2004,charlton.dental@gmail.com
+063,"Dr. Anthony Frizzo Pediatric Dentistry (Anthony J. Frizzo, DMD, PC)","Saint Joseph, MO","3953 Sherman Ave, Saint Joseph, MO 64506",(816) 279-3224,dianesonner@sbcglobal.net
+064,"Dr. Thomas J. Kozicki, DDS, P.C.","Kansas City, MO","5400 N Oak Trafficway #205, Kansas City, MO 64118",(816) 453-6500,drtomkoz@hotmail.com
+065,Deaton Corky DDS (Deaton Family Dentistry),"Danville, KY","359 S 4th St Ste C, Danville, KY 40422",(859) 236-5703,corkydeaton@gmail.com
+066,"Dr. David Vanzant, DDS (David T. Van Zant DDS Inc.)","Wilmington, OH","2125 Rombach Ave, Wilmington, OH 45177",(937) 382-2627,vanzant500@aol.com
+067,"Emmons Elite Dentistry PSC (Dr. Tessa Hancock Emmons, DMD)","Greensburg, KY","105 W Court St, Greensburg, KY 42743",(270) 932-5609,temmons@windstream.net
+068,"Gronau Thomas N DDS (Dr. Thomas Nelson Gronau, DDS)","Wilmington, OH","1439 Rombach Ave, Suite 1, Wilmington, OH 45177",(937) 382-7100,tgronau@cinci.rr.com
+069,Lundberg Jr Quinn DDS (Lundberg Dentistry),"Brockway, PA","409 Main St, Brockway, PA 15824",(814) 268-6614,lundbergdentistry@yahoo.com
+070,"Peoples Family Dental Care (Dr. Douglas B. Peoples, DDS)","Petersburg, VA","1328 W Washington St, Petersburg, VA 23803",(804) 733-8135,harrisondemetris@gmail.com
+071,"Big Sandy Dental Center PSC (Dr. Todd A. Ratliff, DMD)","Pikeville, KY","180 Town Mountain Rd, Suite 111, Pikeville, KY 41501",(606) 509-8633,toddratliff.tr@gmail.com
+072,"Santarsiero Family Dental LLC (Dr. Nicholas M. Santarsiero, DMD)","Blakely, PA","1818 Main St (119 Main St), Blakely, PA 18447",(570) 382-3627,santfd119@yahoo.com
+073,"Bay Care Dental (Dr. Michael N. Nguyen, D.D.S.)","Hayward, CA","24703 Amador St #2, Hayward, CA 94544",(510) 785-0999,baycaredental@gmail.com
+074,"Sunset Family Dental LLC (Dr. Dhruv R. Patel, DDS)","Willingboro, NJ","77 Garland Ln, Ste A, Willingboro, NJ 08046",(609) 880-0090,rich@ddspracticesupport.com
+075,"Salazar Dental (Dr. Manuel Salazar, DDS / Salazar Dental Inc.)","Miami, FL","8346 SW 8th St, Miami, FL 33144 (also associated with 7821 Coral Way Ste 115, Miami, FL 33155)",(305) 269-0208,salazardds@gmail.com
+076,"Murphy Dental Care (Dr. Aaron B. Murphy, DDS)","Imboden, AR","1031 W 3rd St, Imboden, AR 72434",(870) 869-1042,murphydentalcare2004@gmail.com
+077,"Brent L. Ellis D.D.S., PC (Dr. Brent L. Ellis, DDS)","Linton, IN","290 SE A St, Linton, IN 47441",(812) 847-8601,smiledesigners290@yahoo.com
+078,"Robert R Stevens DDS (Dr. Robert Randall Stevens, DDS)","Bluefield, WV","116 North St, Bluefield, WV 24701",(304) 325-7186,robertrstevensdds@yahoo.com
+079,"Colden D. Raines Jr., DDS (Dr. Colden Douglas Raines Jr., DDS)","Newark, NJ","603 Clinton Ave (historically also 562 Clinton Ave), Newark, NJ 07108",(973) 824-7409,coldenraines@hotmail.com
+080,"Dr. Kevin R. Mann, DDS (Paragould Family Dentistry)","Paragould, AR","1224 W Court St, Paragould, AR 72450",(870) 239-5518,paragouldfamilydentistry@yahoo.com
+081,"Dr. John A. Hlaudy, DMD (Meadville Oral Surgery)","Meadville, PA","1 Poplar Street Medical Arts, 505 Poplar St #308, Meadville, PA 16335",(814) 373-3032,meadvilleoralsurgery@gmail.com
+082,Rinehart William F DDS (William F. Rinehart DMD PA / South Strand Oral Surgery),"Georgetown, SC","1729 N Fraser St, Georgetown, SC 29440",(843) 527-2081,wfrinhart@yahoo.com
+083,"Kiln Dental Center (Dr. Martin Macrae Murphree, DDS)","Kiln, MS","17094 MS-603, Kiln, MS 39556",(228) 255-0882,kilndentalctr@gmail.com
+084,"Dr. Ted A. Deatherage, DMD (Dr. Theodore A. Deatherage, DMD)","West Plains, MO","1616 Gibson St, West Plains, MO 65775",(417) 257-0126,deatheragedental@centurylink.net
+085,"Downtown Dental (Dr. Jonathan Shane Hensley, DMD / DDS)","Pikeville, KY","Professional Associates Building, 419 Town Mountain Rd #207, Pikeville, KY 41501",(606) 433-1488,downtowndental26@yahoo.com
+086,New Castle Dental (Knightstown Dental PC),"New Castle, IN","1702 S Spiceland Rd, New Castle, IN 47362",(765) 521-0301,ktd_ncd@yahoo.com
+087,"Barbara Knowles-Fenning DDS (Dr. Barbara Knowles-Fenning, DDS)","Waldwick, NJ","61 Crescent Ave D, Waldwick, NJ 07463",(201) 445-0340,drfenning@optonline.net
+088,"Dennis Alfred D DMD (Dr. Alfred D. Dennis, DMD)","Willingboro, NJ","63 Garrett Ln, Willingboro, NJ 08046",(609) 871-0900,dr_al_dennis@yahoo.com
+089,"Dugan Kevin M. DDS (Dugan Family Dental / Dr. Kevin Michael Dugan, DDS, PA)","North Little Rock, AR","3200 Springhill Dr, North Little Rock, AR 72117",(501) 758-9191,duganfamilydental1@att.net
+090,"Sandhill Dentistry: Joshua R. Toney, DDS (Joshua R. Toney, DDS, PA)","Pocahontas, AR","2654 N Thomasville St #90, Pocahontas, AR 72455",(870) 892-2010,joshuartoneydds@yahoo.com
+091,"Duchan Bruce DDS PLLC (Dr. Bruce Duchan, DDS)","Troy, MI","1977 E Wattles Rd Ste C, Troy, MI 48085",(248) 336-8478,brduchan@yahoo.com
+092,"Talladega Family Dentistry Daniel C. Picard, DMD LLC (Dr. Daniel Christopher Picard, DMD)","Talladega, AL","1202 Ashland Hwy, Talladega, AL 35160",(256) 362-4343,picardoffice1@gmail.com
+093,"Patino Claudia V DDS (Dr. Claudia V. Patino, DDS)","Valley Stream, NY","362 Sapir St, Valley Stream, NY 11580",(516) 593-9578,cpatinodds@gmail.com
+094,"Michael A. Chaney, DDS (Dr. Michael A. Chaney, DDS)","Somerset, PA","131 N Rosina Ave, Somerset, PA 15501",(814) 443-1481,rct2thdoc@gmail.com
+095,"Lanster Dental Associates (Dr. Robert M. Lanster, DDS & Dr. Steven Lanster, DMD)","Miami, FL","7399 Coral Wy, Miami, FL 33155",(305) 261-7661,office@lansterdental.com
+096,"Morvay David A DDS Inc (Dr. David A. Morvay, DDS)","Warren, OH","628 Niles Cortland Rd SE, Warren, OH 44484",(330) 856-4443,drmorvay@yahoo.com
+097,"Family Dental Practice (Dr. Vijayalakshmi N. Jesson, DDS)","Gaithersburg, MD","4 Professional Dr Ste 121, Gaithersburg, MD 20879",(301) 990-3697,drviji.familydentalpractice@gmail.com
+098,"Patrician Michael A DDS (Michael A. Patrician, DMD)","Clarks Summit, PA","109 Main Ave, Clarks Summit, PA 18411",(570) 586-8986,mapcsdmd@aol.com
+099,"Scarpino James M DDS PC (Dr. James M. Scarpino, DDS)","Jamestown, NY","616 Prendergast Ave, Jamestown, NY 14701",(716) 664-3344,drscarpino@stny.twcbc.com
+100,Burgess Walter DDS Group (Walter H Burgess DMD PC),"Opp, AL","104 E Gunter Ave, Opp, AL 36467",(334) 493-3501,walterhburgessdmd@gmail.com
+101,Cosmetic & Family Dentistry of LaGrange (Winnie Boling DMD PLLC),"La Grange, KY","214 Parker Dr, La Grange, KY 40031",(502) 222-2216,drwinnieboling@hotmail.com
+102,Vincent Deborah E DDS (Deborah Vincent DMD PSC),"Ashland, KY","2741 Winchester Ave, Ashland, KY 41101",(606) 324-1117,deborahvincentdmdpsc@gmail.com
+103,Spring Family Dentistry (Far Soltanian Family Dentistry),"Glen Allen, VA","3944 Springfield Rd, Glen Allen, VA 23060",(804) 270-5214,springfamilydentistry@gmail.com
+104,"Wade Robertson Family Dentistry (Dr. Wade Robertson, DDS)","North Little Rock, AR","5401 John F Kennedy Blvd Ste F, North Little Rock, AR 72116",(501) 771-4500,wade_wr@yahoo.com
+105,"Schlemmer Edwin R DDS (Dr. Edwin R. Schlemmer, DMD)","Brockway, PA","1326 Main St, Brockway, PA 15824",(814) 265-0300,erschlemmer19@yahoo.com
+106,"Clark Family Dentistry (Dr. Dale W. Clark, DMD)","Russellville, KY","204 E 4th St, Russellville, KY 42276",(270) 726-7511,drdalewclark@gmail.com
+107,"Heffernan Daniel P DDS (Dr. Daniel P. Heffernan, DDS)","Cincinnati, OH","6040 Harrison Ave, Cincinnati, OH 45248",(513) 574-7503,dheffernandds@swohio.twcbc.com
+108,"Dowdy & Dowdy DDS (Dr. Hugh C. Dowdy III, DDS)","Petersburg, VA","700 S Sycamore St Ste 17, Petersburg, VA 23803",(804) 861-2571,dowdydds@gmail.com
+109,"Ana Ferrer, D.M.D. (Dr. Ana M. Ferrer, DMD)","Georgetown, SC","106 Broad St, Georgetown, SC 29440",(843) 546-4024,dranamferrer@frontier.com
+110,"Perez Dental (Dr. Rolando Perez, DDS)","Miami, FL","8020 SW 24th St, Miami, FL 33155",(305) 222-1150,perezdental8020@gmail.com
+111,"Henninger Dental & Associates (Dr. David L. Henninger Jr., DMD)","DuBois, PA","17 N Main St Ste A, DuBois, PA 15801",(814) 371-0705,hdental17@outlook.com
+112,"Dr. Timothy Joseph Hall PSC (Dr. Timothy Joseph Hall, DMD & Dr. Sheldon Ballou, DMD)","Cave City, KY","203 S Dixie Hwy, Cave City, KY 42127",(270) 773-3943,drjosephhall_office@yahoo.com
+113,"Barnett, Richard DMD PSC (Dr. Richard Barnett, DMD)","Middlesboro, KY","106 S 10th St, Middlesboro, KY 40965",(606) 248-7505,barnettdentaloffice@yahoo.com
+114,Vian Family Dental Clinic (Dr. Hook / Dr. Simon),"Vian, OK","105 W Main St, Vian, OK 74962",(918) 773-6200,vianfdc@hotmail.com
+115,The Dentist Office PSC (Dr. Misty),"Pikeville, KY","1144 S Mayo Trail, Pikeville, KY 41501",(606) 433-0033,thedentistofcmanager@gmail.com
+116,"Dr. Brent G. Clark, DMD","Betsy Layne, KY","11059 US Hwy 23 S, Betsy Layne, KY 41605",(606) 478-9290,drbrentgclark@gmail.com
+117,"Danville Smile Center (Dr. Earlene Greene, DMD & Dr. Steven Swintosky, DMD)","Danville, KY","359 S 4th St Bldg E Ste #2, Danville, KY 40422",(859) 236-1898,earlene.greene5@gmail.com
+118,"Jon D Ward DMD (Dr. Jon D. Ward, DMD)","Andalusia, AL","406 E Three Notch St # E, Andalusia, AL 36420",(334) 222-4222,jondwarddmd@gmail.com
+119,"Polk Family Dental Care Center (Dr. Jason Polk, DMD)","Richland, MS","120 Scarbrough St, Richland, MS 39218",(601) 932-0606,polkdentalcenter@comcast.net
+120,Edward S. Ritchie DMD PSC (Harrodsburg Dental Center),"Harrodsburg, KY","117 E Lexington St, Harrodsburg, KY 40330",(859) 734-3819,hdcfrontoffice@gmail.com
+121,"Dr. Anne Lambert Johnson, DDS","Kansas City, MO","3715 E Gregory Blvd, Kansas City, MO 64132",(816) 523-4334,aslj341@aol.com
+122,"Heavenly Smiles Dentistry - Dr. Juan A. Rojas, DDS","Colonial Heights, VA","1021 Boulevard, Colonial Heights, VA 23834",(804) 892-1330,hsdentistry2017@gmail.com
+123,Schweikert Paul L DDS (Paul L Schweikert DMD),"Beaver, PA","343 3rd St, Beaver, PA 15009",(724) 774-3321,paulschweikertdmd@gmail.com
+124,Associated Dental of Elizabeth (REC Dental PC),"Elizabeth, NJ","444 Morris Ave, Elizabeth, NJ 07208",(908) 353-6655,recdentalpc@aol.com
+125,"Scott J. Findley, D.D.S. Family Dentistry","Terre Haute, IN","3055 Poplar St, Terre Haute, IN 47803",(812) 232-2775,sjfindleydentistry@frontier.com
+126,"Foulk P. T., DMD (Lakeland Dental)","Conneaut Lake, PA","155 N 3rd St, Conneaut Lake, PA 16316",(814) 382-5100,lakeland.dental@yahoo.com
+127,"Smiles Family Dentistry Inc (Dr. Philip A. Hardin, DMD)","Monticello, KY","169 Cumberland Crossing, Monticello, KY 42633",(606) 348-3384,mwatson0513@yahoo.com
+128,"The Smile Center (Dr. Sherif Desouky, DDS)","South Farmingdale, NY","918 Main St Ste 1, South Farmingdale, NY 11735",(516) 420-1177,thesmilectr918@yahoo.com
+129,"Farley Dental Care LLC (Dr. John Farley, DDS)","South Point, OH","301 Park Ave, South Point, OH 45680",(740) 377-2219,farleydentalcare@gmail.com
+130,Park Ave Family Dental - Dr. Caroline J Hicks DMD,"Rutherford, NJ","240 Park Ave, Rutherford, NJ 07070",(201) 933-7929,wisdomth400@gmail.com
+131,"Machen John M DDS (Dr. John M. Machen, DDS)","Kingsport, TN","1567 N Eastman Rd #8, Kingsport, TN 37664",(423) 245-4721,jmachendds@gmail.com
+132,"Caskey Steven L DDS (Dr. Steven L. Caskey, DDS)","Battle Creek, MI","14250 Beadle Lake Rd #100, Battle Creek, MI 49014",(269) 965-0744,stevencaskey@att.net
+133,"Mary Fe G. Monzon DDS Inc. (Dr. Mary Fe G. Monzon, DDS)","Torrance, CA","2543 Pacific Coast Hwy # F, Torrance, CA 90505",(310) 891-3303,drmgmonzon@sbcglobal.net
+134,"Laura G Fletes PC (Dr. Laura G. Fletes, DDS)","Highland, IN","2838 W 45th St Ste C, Highland, IN 46322",(219) 922-7945,lgfletes@comcast.net
+135,"Perez Gerry B DDS (Dr. Gerry B. Perez, DMD)","Dunbar, PA","43 Connellsville St, Dunbar, PA 15431",(724) 277-0202,dunbarfd94@yahoo.com
+136,"Kelly Family Dentistry PLLC (Dr. Kenneth Kelly, DMD)","Franklin, KY","201 Pleasant Valley Rd, Franklin, KY 42134",(270) 586-4631,kellydentistry@comcast.net
+137,"Irwin Jeff DDS (Dr. Jeff Irwin, DDS)","Meyersdale, PA","601 Salisbury St, Meyersdale, PA 15552",(814) 634-5961,jeffro601@verizon.net
+138,"Gregory Jovanelly, DMD (Gregory L Jovanelly DMD LLC)","Aliquippa, PA","1921 Main St, Aliquippa, PA 15001",(724) 378-1000,docjovo.mendy@gmail.com
+139,"Wilson Dental Clinic (Dr. Amanda Wilson Lewis, DMD)","Leitchfield, KY","1713 W Elizabethtown Rd, Leitchfield, KY 42754",(270) 259-3003,wilsondentalclinic@yahoo.com
+140,"Family Dentistry / Hyosik Kim DDS PC (Dr. Hyosik Kim, DDS)","Rockville, MD","785 Rockville Pike, Rockville, MD 20852",(301) 340-2309,hskim552201@gmail.com
+141,"Whiteside Dental (Dr. William Whiteside, DMD)","Glasgow, KY","400 E Main St, Glasgow, KY 42141",(270) 651-6471,whitesidedental@yahoo.com
+142,"Dr. Ngoc Q. Chu, D.D.S., P.A. (Dr. Ngoc Q. Chu, DDS)","Bethesda, MD","6306 Democracy Blvd, Bethesda, MD 20817",(301) 530-2622,nchudds@hotmail.com
+143,"Robert E. Friedman, DDS, PC (Dr. Robert E. Friedman, DDS)","Glen Cove, NY","1 School St Ste 201, Glen Cove, NY 11542",(516) 676-2550,gcdentist@optonline.net
+144,Sol Dental Group (Sol Dental Group Team),"Baldwin Park, CA","14135 Francisquito Ave #107, Baldwin Park, CA 91706",(626) 814-0259,sol_dental@yahoo.com
+145,Exum Antone C DDS (Exum Dentistry),"Glen Allen, VA","10124 W Broad St, Glen Allen, VA 23060",(804) 212-2501,exumdentistry@gmail.com
+146,"Dr. Jimmie Herrington, DDS Group (Jimmie Reid Herrington II DMD)","Jackson, MS","1125 E Fortification St, Jackson, MS 39202",(601) 355-7729,jrherringtoniidmd@outlook.com
+147,Vicco Dental Center PSC (Dr. Anthony Scott Browning & Dr. Sandra Browning),"Scuddy, KY","35 Longfield Cir, Scuddy, KY 41760",(606) 476-8121,viccodentalcenter@yahoo.com
+148,"John A. Jeffries, DMD (Dr. John A. Jeffries, DMD)","Williamsburg, KY","317 Main St, Williamsburg, KY 40769",(606) 549-5300,317main@att.net
+149,"Anders Charles W DDS (Dr. Charles W. Anders, DDS)","Jellico, TN","1244 5th St #4, Jellico, TN 37762",(423) 784-7035,frontdesk@charlesdmd.com
+150,"Dr. Wayman Tang, DDS (Dr. Wayman Tang, DDS)","Castro Valley, CA","20438 Redwood Rd Ste B, Castro Valley, CA 94546",(510) 888-9298,wtangdds@yahoo.com
+151,"Calcott Reid J DDS (Dr. Reid J. Calcott, DDS)","Saginaw, MI","6225 Gratiot Rd, Saginaw, MI 48638",(989) 793-8282,calcottdental@hotmail.com
+152,"James A. Watson, D.D.S. (Dr. James A. Watson, DDS)","Southfield, MI","20307 W 12 Mile Rd #106, Southfield, MI 48076",(248) 355-9800,wattzz@msn.com
+153,"Zwillinger Alan DDS PA (Dr. Alan S. Zwillinger, DDS)","Mahwah, NJ","400 Franklin Tpke #206, Mahwah, NJ 07430",(201) 825-8766,drzwillinger@gmail.com
+154,"Wong Leonard Y DDS (Dr. Leonard Y. Wong, DDS)","St. Clair Shores, MI","22301 Greater Mack Ave Ste 2, St Clair Shores, MI 48080",(586) 773-6990,docwong231@yahoo.com
+155,"Chinha Lee DDS PC (Dr. Chinha Lee, DDS)","Gaithersburg, MD","903 Russell Ave Ste 202, Gaithersburg, MD 20879",(301) 977-0126,chinhaleeddspc@gmail.com
+156,"Family Dental Care (Dr. Oliver Dozier, DDS)","Pocahontas, AR","412 W Broadway St, Pocahontas, AR 72455",(870) 892-4394,familydentalcarear@gmail.com
+157,"Vinh C. Tran, DMD APC (Dr. Vinh Cam Tran, DMD)","Rolling Hills Estates, CA","501 Deep Valley Dr #201, Rolling Hills Estates, CA 90274",(310) 377-5544,drtraninfo@gmail.com
+158,"Craig A. Light, D.D.S., PC (Dr. Craig A. Light, DDS)","Anderson, IN","1014 E 8th St, Anderson, IN 46012",(765) 643-1524,tooth_doc1234@sbcglobal.net
+159,"Dr. James L. Colocotronis, DDS (Dr. James L. Colocotronis, DDS)","Canastota, NY","121 S Peterboro St, Canastota, NY 13032",(315) 697-2259,enamelrod@aol.com
+160,"Brock Amy E DMD PSC (Dr. Amy E. Brock, DMD)","Corbin, KY","1040 Cumberland Falls Hwy A, Corbin, KY 40701",(606) 523-0307,amybrockdmd@yahoo.com
+161,"Eades Family Dentistry (Dr. William Eades, DMD)","Central City, KY","1603 Everly Brothers Blvd, Central City, KY 42330",(270) 754-1404,eadesdentistry@gmail.com
+162,"Sarah Holly Davis DMD PSC (Dr. Sarah Holly Davis, DMD)","Campbellsville, KY","603 E Maple St, Campbellsville, KY 42718",(270) 465-8005,drhollydavis@yahoo.com
+163,"Parrott Wayne DDS (Dr. E. Wayne Parrott, DMD)","London, KY","307 N Broad St, London, KY 40741",(606) 878-9755,eparrott9755@yahoo.com
+164,"Stewart David G DMD (Dr. David G. Stewart, DMD)","Ashland, KY","1616 Central Ave, Ashland, KY 41101",(606) 329-9929,dgsdmd@msn.com
+165,"Hall Daniel L DDS Center (Dr. Daniel L. Hall, DDS)","Bedford, IN","1318 16th St, Bedford, IN 47421",(812) 279-8101,kimberjean@sbcglobal.net
+166,"Bright Smile Dental Care (Dr. Maureen Martins, DDS)","Valley Stream, NY","65 Wheeler Ave, Valley Stream, NY 11580",(516) 825-0178,brightsmiledentalcare@gmail.com
+167,Lovasik Vernon DMD (Vernon A Lovasik DMD),"Moon Township, PA","850 Beaver Grade Rd Ste 202, Moon Township, PA 15108",(412) 262-3352,vlovasik@comcast.net
+168,"Alan W. Jones, D.D.S. (Dr Alan Wayne Jones DMD PSC)","South Fulton, TN","509 Broadway St #100, South Fulton, TN 38257",(731) 479-1108,jonesdmd@bellsouth.net
+169,Wichmann & Hamerski DMD PC,"Beaver Falls, PA","128 Blackhawk Rd, Beaver Falls, PA 15010",(724) 843-4280,wichmannandhamerski@hotmail.com
+170,"Tuminello David W DDS (Dr. David W. Tuminello, DMD)","Bay St. Louis, MS","700 Dunbar Ave, Bay St Louis, MS 39520",(228) 467-6044,d.tuminello@yahoo.com
+171,Porter Jesse Mark DDS,"Flatwoods, KY","2104 Argillite Rd #2, Flatwoods, KY 41139",(606) 836-7228,jm.porter55@yahoo.com
+172,"Dr. Elaine Gissendaner, DMD (Gissendaner Family Dentistry LLC)","Talladega, AL","704 Battle St E Ste C, Talladega, AL 35160",(256) 362-6861,gissendental@yahoo.com
+173,Dentures Plus of London LLC (Dr. John T. Isaacs Jr / Dr. Paula Gill),"London, KY","128 London Shopping Center, London, KY 40741",(606) 878-0708,denturespluslondon@yahoo.com
+174,"H&M Cosmetic Dentistry & Dental Laboratories (Dr. Horance Freeman, DDS)","Gaithersburg, MD","1 Maryland Ave Ste A, Gaithersburg, MD 20877",(301) 355-5155,hmdental@hotmail.com
+175,"Alimena Albert J DDS (Dr. Albert Alimena III, DMD)","Sewickley, PA","535 Blackburn Ave, Sewickley, PA 15143",(412) 741-1940,draldmd@aol.com
+176,General Dentistry - Caputo Christofer DDS (Christofer A Caputo DDS LLC),"Beaver Falls, PA","2634 Darlington Rd #2, Beaver Falls, PA 15010",(724) 846-4261,cacaputo@comcast.net
+177,Robinson Robert R DDS,"St. Albans, WV","Central Square Shopping Center, 200 Kanawha Terrace, St Albans, WV 25177",(304) 727-2225,wvteddy@hotmail.com
+178,Ybanez Danilo G DDS (Danilo G Ybanez DMD LLC),"Cape May Court House, NJ","15 Dogwood Dr, Cape May Court House, NJ 08210",(609) 465-3930,dgybanezdmd@verizon.net
+179,"Taylor Everett, D.D.S.","Camden, AR","604 J.A. Dooley Womack Dr, Camden, AR 71701",(870) 836-5222,tayloreverettdds@gmail.com
+180,"Jim S. Caudill, DMD, PSC","Hazard, KY","359 KY-15, Hazard, KY 41701",(606) 436-3432,hazarddentist1@yahoo.com
+181,Crowley Michael H DDS / Mark Breinholt DDS,"Bellingham, WA","3400 Squalicum Pkwy, Bellingham, WA 98225",(360) 734-6728,markbreinholt@gmail.com
+182,"Dr. Ryan K. Rawlings, DDS","Burton, MI","1200 Creekwood Trail, Burton, MI 48509",(810) 743-1774,drrawlings1200@gmail.com
+183,Logan James R DMD,"Baden, PA","607 State St, Baden, PA 15005",(724) 869-2131,drlogansoffice@yahoo.com
+184,Guest Jr Michael DDS (Michael J Guest Jr DDS PC),"Grosse Pointe Woods, MI","19557 Mack Ave, Grosse Pointe Woods, MI 48236",(313) 885-7776,guestdental@att.net
+185,"Bowen Dental Group: Ceredo (Dr. William Craig Bowen, DDS)","Ceredo, WV","390 C St, Ceredo, WV 25507",(304) 453-3329,bowendentalgroup@yahoo.com
+186,Mountain View Dental: Thorne Joann Dr,"South Abington Township, PA","239 Northern Blvd, South Abington Township, PA 18411",(570) 585-8888,mvd239@yahoo.com
+187,Grosnick Philip M DDS,"Watertown, WI","319 N 2nd St, Watertown, WI 53094",(920) 261-2828,p.grosnick@att.net
+188,"Dental Associates of Union (Dr. Karl D. Schweiger, DMD)","Union, NJ","1362 Morris Ave #2, Union, NJ 07083",(908) 687-9030,dentalassociatesofunion@gmail.com
+189,"Dr. Joseph P. Sinatra, DDS PLLC","Jamestown, NY","502 Foote Ave, Jamestown, NY 14701",(716) 487-1050,drjsinatra@gmail.com
+190,Peter Mazzella DDS Inc,"Torrance, CA","25550 Hawthorne Blvd Ste 305, Torrance, CA 90505",(310) 375-1000,drpetermazzella@gmail.com
+191,Pio Chua DMD Family Dentistry (Pio S Chua Jr DMD),"Linwood, NJ","2106 New Rd Ste A5, Linwood, NJ 08221",(609) 788-4059,drpschua@comcast.net
+192,Smith Robert DDS (Robert H Smith DMD PLLC),"Lebanon, KY","503 N Spalding Ave, Lebanon, KY 40033",(270) 692-3265,rhsmith@windstream.net
+193,Chau Le B DDS,"San Jose, CA","750 N Capitol Ave # C6, San Jose, CA 95133",(408) 923-0500,drchaustaff@gmail.com
+194,"LP Dental Care (Dr. Loan Pham, DDS)","Sacramento, CA","6830 Stockton Blvd #185, Sacramento, CA 95823",(916) 422-5628,loanphamdentalcare@yahoo.com
+195,Black David K DDS PA,"Gaithersburg, MD","903 Russell Ave Ste 201, Gaithersburg, MD 20879",(301) 740-8488,ins@drblackdds.com
+196,Zeitler Joseph P DMD,"DuBois, PA","462 Barnoff Rd, DuBois, PA 15801",(814) 371-4499,zeitlerdmd@hotmail.com
+197,Jackson Arlita D DDS (All Smiles Dentistry),"Austell, GA","1790 Mulkey Rd #4, Austell, GA 30106",(770) 739-4400,allsmilesdentistry01@yahoo.com
+198,Suder Robert J DDS (Robert J Suder DMD),"Aliquippa, PA","2093 Brodhead Rd, Aliquippa, PA 15001",(724) 375-2660,rjsuder@comcast.net
+199,"Jose Aviles, DDS Family and Cosmetic Dentistry","Southfield, MI","30555 Southfield Rd #320, Southfield, MI 48076",(248) 433-1469,joeavilesdds@yahoo.com
+200,"Dr. Willard J. Ellis Jr, DDS","Rocky Mount, NC","3136 Sunset Ave, Rocky Mount, NC 27804",(252) 443-9121,drwjellisstaff@embarqmail.com
+201,"Allyn G Perkins DMD, LLC","Carlisle, PA","1909 Ritner Hwy #2, Carlisle, PA 17013, United States",+1 717-249-1646,perkins1909@gmail.com
+202,Brookshire Smile Dental,"Brookshire, TX","3603 S Front St Suite 107, Brookshire, TX 77423, United States",+1 281-934-1010,brookshiresmiledental@gmail.com
+203,La Porte Smiles Family Dentistry,"La Porte, TX","410 E Fairmont Pkwy e, La Porte, TX 77571, United States",+1 281-470-2749,laportesmiles@gmail.com
+204,Gladewater Family Dental,"Gladewater, TX","406 W Upshur Ave, Gladewater, TX 75647, United States",+1 903-845-2161,gladewaterfamilidental@gmail.com
+205,Beck Michele R DDS,"Covington, KY","640 Scott St, Covington, KY 41011, United States",+1 844-578-2719,beckdentistry@gmail.com
+206,Vermet Edward J DDS,"Grosse Pointe, MI","660 Cadieux Rd #1, Grosse Pointe, MI 48230, United States",+1 313-882-2300,vermetdental@gmail.com
+207,White Knoll Dentistry,"Lexington, SC","5545 Platt Springs Rd, Lexington, SC 29073, United States",+1 803-359-3245,whiteknolldentistry@gmail.com
+208,Magic City Dentistry,"Birmingham, AL","2117 1st Ave N, Birmingham, AL 35203, United States",+1 205-238-6800,magiccitydentistry@gmail.com
+209,Rod Maxfield DDS Family Dentistry,"Pleasant Grove, UT","31 W 100 S Ste A, Pleasant Grove, UT 84062, United States",+1 801-785-2631,rodmaxfielddds@gmail.com
+210,Midland Dental,"Roy, UT","4040 South Midland Drive Suite 1, Roy, Utah 84067",(801) 317-4407,basindental11@gmail.com
+211,Yaerger Dental PC,"Okmulgee, OK","505 S Muskogee Ave, Okmulgee, OK 74447, United States",+1 918-758-0022,yaergerdds@gmail.com
+212,"Wendy Mayer, DDS","New York, NY","240 Central Park S #2i, New York, NY 10019, United States",+1 212-246-2398,wmayerdds@gmail.com
+213,Anniston Dental Group,"Anniston, AL","1613 Leighton Ave, Anniston, AL 36207, United States",+1 256-236-6021,hamrickmcelroy12@gmail.com
+214,Ghareeb Dental Group,"Cross Lanes, WV","5480 Big Tyler Rd, Cross Lanes, WV 25313, United States",+1 304-776-4541,kasburydental@gmail.com
+215,Franklin Dental Center,"Tyler, TX","631 S Broadway Ave, Tyler, TX 75701, United States",+1 903-593-2330,franklindentalcenter@suddenlinkmail.com
+216,San Jose Dental Care.,"San Jose, CA","345 E Santa Clara St #102, San Jose, CA 95113, United States",+1 408-998-8866,redcar971@gmail.com
+217,"Keith W. Brewster, DDS","Dallas, TX","1717 Main St #2480, Dallas, TX 75201, United States",+1 214-761-1171,drkbrewster@sbcglobal.net
+218,Lake Mary Family Dentistry,"Orlando, FL","1325 South International Parkway Suite 1201, Lake Mary, FL 32746",(407) 862-3344,orlandodentalgroup@gmail.com
+219,East Hill Dental Care Pl../,"Pensacola, FL","1315 E Cervantes St, Pensacola, FL 32501, United States",+1 850-429-1818,easthilldental@gmail.com
+220,First City Dental Group,"Pensacola, FL","1025 Creighton Rd, Pensacola, FL 32504, United States",+1 850-478-3330,firstcitydentalgroup@gmail.com
+221,Smile Academy Pediatric Dentistry,"Charlotte, NC","10512 Park Rd #210, Charlotte, NC 28210, United States",+1 704-800-6558,smileacademypd@gmail.com
+222,Dr. Heber W. Windley III,"Zebulon, NC","315 Hospital Rd, Zebulon, NC 27597, United States",+1 919-269-0300,uncperio93@att.net
+223,Cherry Street Dental,"Flushing, MI","113 S Cherry St, Flushing, MI 48433, United States",+1 810-659-5512,saavedranatanael@gmail.com
+224,Kaad Family Dentistry.,"Kingsford, MI","828 John McNeil Dr, Kingsford, MI 49802, United States",+1 906-774-7304,kaadfamilydentistry@gmail.com
+225,Chitra P. Naik DMD,"Flint, MI","4007 W Court St, Flint, MI 48532, United States",+1 810-235-5422,k2dentalmain@gmail.com
+226,Flint Family Dentistry,"Flint, MI","G3023 Miller Rd, Flint, MI 48507, United States",+1 810-720-0611,flint.dentistry@gmail.com
+227,Elmwood Park Dental Center PC,"Detroit, MI","1547 E Lafayette St, Detroit, MI 48207, United States",+1 313-567-6200,elmwoodparkdent@gmail.com
+228,Sauk Trail Dental Care,"Richton Park, IL","4343 Sauk Trail, Richton Park, IL 60471, United States",+1 708-608-3368,sauktraildentaloffice@gmail.com
+229,Duff Family Dental,"Springfield, MO","1251 E Sunshine St #108, Springfield, MO 65804, United States",+1 417-501-8601,granddentalstudio948@gmail.com
+230,Knight Dental Care - Little Rock,"Little Rock, AR","209 S State St, Little Rock, AR 72201, United States",+1 501-710-3344,wknightdds@gmail.com
+231,Precision Dental,"Quakertown, PA","Quakertown, PA",+1 215-538-2020,dentalprecisioninc@gmail.com
+232,Butler Pike Family Dentistry,"Conshohocken, PA","Conshohocken, PA",+1 610-825-2327,esthersmithdds@gmail.com
+233,Exquisite Dental Care,"Alexandria, VA","Alexandria, VA",+1 703-379-8800,exquisitedental@gmail.com
+234,Lifetime Dental Care,"Centreville, VA","Centreville, VA",+1 703-818-8000,centrevilledentalcare@yahoo.com
+235,Capitol Oral Surgery & Implant Center,"Little Rock, AR","Little Rock, AR",+1 501-375-7171,capitolosic@gmail.com
+236,Bartholomew Christopher DDS,"Waller, TX","Waller, TX",+1 936-372-9111,cebartdds@sbcglobal.net
+237,"Dr. Dennis L. Faucher, DDS","Bradford, PA","12 Pine St, Bradford, PA 16701, United States",+1 814-362-1575,drfaucher@verizon.net
+238,Lewistown Dental Care,"Lewistown, PA","744 Valley St, Lewistown, PA 17044, United States",+1 717-248-4896,lewistowndentalcare@gmail.com
+239,Art of Smiles Family Dentistry,"Union, SC","434 N Duncan Bypass, Union, SC 29379, United States",+1 864-427-9721,jmbdmd@gosc.net
+240,Clinton Smiles: Krueger Michael DDS,"Clinton, IA","1127 N 2nd St B, Clinton, IA 52732, United States",+1 563-243-3350,clintonsmiles@gmail.com
+241,"Paul J. Blaha, DDS, MS","Sycamore, IL","1976 Aberdeen Ct A, Sycamore, IL 60178, United States",+1 815-758-3457,drblaha@drblaha.com
+242,Fohey Dental,"Hannibal, MO","501 Clinic Rd, Hannibal, MO 63401, United States",+1 573-221-5719,clfohey@gmail.com
+243,Holloway Jeffery W DDS.,"Sedalia, MO","1711 W 9th St, Sedalia, MO 65301, United States",+1 660-826-0111,holloway46@hotmail.com
+244,Coffee Family Dental.,"Hope, AR","901 S Elm St, Hope, AR 71801, United States",+1 870-777-2577,coffeefamilydental@yahoo.com
+245,"Dr. Auston C. Williams, DDS","Dunn, NC","601 W Broad St, Dunn, NC 28334, United States",+1 910-892-3145,acwilliamsdds@yahoo.com
+246,Dr. Jim Helton,"Eufaula, AL","623 E Broad St, Eufaula, AL 36027, United States",+1 334-687-4741,drjimhelton@gmail.com
+247,Dr.Thu Lephan,"Shelby, OH","102 Auburn Ave, Shelby, OH 44875, United States",+1 419-342-3891,jeanannflor@aol.com
+248,White Rose Family Dental,"York, PA","35 Cinema Drive, York, Pennsylvania 17402",(717) 822-0272,yorkendo@gmail.com
+249,Brodhead Dental,"Monaca, PA","3544 Brodhead Rd, Monaca, PA 15061, United States",+1 724-728-1212,lackovichb@yahoo.com
+250,Aurora Sonrisa Dental,"Aurora, IL","5 N Root St, Aurora, IL 60505, United States",+1 630-800-1137,sonrisa60505@gmail.com
+251,"Edward M. Ruiz, DDS","Homewood, IL","17901 Governors Hwy Suite 201A, Homewood, IL 60430, United States",+1 708-798-8899,edwardruizdds@yahoo.com
+252,Dentino Pediatric Dentistry and Orthodontics,"Milwaukee, WI","18550 West Capitol Drive, Brookfield, WI 53045-1925",(262) 577-0277,tcbaggottdds@gmail.com
+253,Complete Family Dentistry,"Waukesha, WI","419 E Broadway, Waukesha, WI 53186, United States",+1 262-549-6850,cfdonbroadway@gmail.com
+254,Aten Orthodontics,"Oregon, WI","692 Janesville St, Oregon, WI 53575, United States",+1 608-835-3777,atenorthodontics@gmail.com
+255,Atwal Dental Care,"North Syracuse, NY","501 S Main St, North Syracuse, NY 13212, United States",+1 315-452-1020,atwaldental@gmail.com
+256,Broadway Dental Associates,"White Plains, NY","7-11 S Broadway 1st Floor, White Plains, NY 10601, United States",+1 914-290-6545,broadwayda@gmail.com
+257,"Tribeca Oral and Maxillofacial Surgery, PLLC","New York, NY","21 Murray St 2nd floor, New York, NY 10007, United States",+1 212-267-3300,tribecaoralsurgery@gmail.com
+258,Dental Horizons PC,"Succasunna, NJ","281 NJ-10 #6, Succasunna, NJ 07876, United States",+1 973-584-2600,dmdhorizon@aol.com
+259,Parkside Family Dental,"Louisville, KY","2239 Taylorsville Road, Louisville, KY 40205",(502) 409-9190,bcampbelldmd@gmail.com
+260,"Steven W. Neely, DMD","Florence, KY","7348 US-42 Ste 102, Florence, KY 41042, United States",+1 859-283-5775,drsteveneelyflorence@gmail.com
+261,My Dentist Worcester,"Worcester, MA","44 Front St, Worcester, MA 01608, United States",+1 508-753-9200,namhun77@gmail.com
+262,Olagbemi Endodontics,"Harrisburg, PA","4701 Duke St, Harrisburg, PA 17109, United States",+1 223-225-1129,ibukuno@gmail.com
+263,"Dr. Robert N. Sorenson, DDS.","Lynchburg, VA","2309 Atherholt Rd, Lynchburg, VA 24501, United States",+1 434-846-8025,sorenson.dentist@gmail.com
+264,Hefele William J DDS,"Ashland, VA","200 Virginia St, Ashland, VA 23005, United States",+1 804-798-8019,williamhefele@yahoo.com
+265,"Matthew R. Brokaw, DDS, PC","Glen Allen, VA","4924 Dominion Blvd Ste b, Glen Allen, VA 23060, United States",+1 804-270-6200,n2thatsmile@hotmail.com
+266,Legacy Dental Studio – Lutherville-Timonium,"Baltimore, MD","9475 Deereco Road UNIT 402, Timonium, MD 21093",(410) 561-8845,tzomides.dds@gmail.com
+267,David W. Handelsman DDS PA,"Annapolis, MD","116 Cathedral St, Annapolis, MD 21401, United States",+1 410-268-3347,dentalfamily125@gmail.com
+268,Gateway Dental Dr. William Swann DDS,"Bowie, MD","4000 Mitchellville Rd b426, Bowie, MD 20716, United States",+1 301-485-7492,gatewaybowie@gmail.com
+269,Hagerstown prime dental,"Hagerstown, MD","1825 Howell Rd #1, Hagerstown, MD 21740, United States",+1 301-766-7000,hagerstownprimedental@gmail.com
+270,Celebrate Dental & Braces - Olathe,"Olathe, KS","1109 E Santa Fe St, Olathe, KS 66061, United States",+1 913-946-9000,celebrateolathe@gmail.com
+271,Family & Implant Dentistry,"Manhattan, KS","1305 Westloop Place, Manhattan, KS 66502",(785) 539-5949,manhattanrootcanals@gmail.com
+272,"Family Dental Center: Scott R. Gardner, DDS","Nampa, ID","2065 12th Avenue Road, Nampa, ID 83686",(208) 248-5459,middlecdoffice@gmail.com
+273,Fackrell Family Dentistry,"Pocatello, ID","415 N 3rd Ave a, Pocatello, ID 83201, United States",+1 208-233-2355,fackrelldds@gmail.com
+274,Roy Estringel DDS,"Alice, TX","1300 N Texas Blvd, Alice, TX 78332, United States",+1 361-668-3200,restringel@yahoo.com
+275,Family Dental Health of Blue Ridge,"Taylors, SC","2543 Locust Hill Rd, Taylors, SC 29687, United States",+1 864-879-9898,serenitydental111@gmail.com
+276,Apple Seeds Pediatric Dentistry of Brushy Creek,"Taylors, SC","1405 Brushy Creek Road, Taylors, South Carolina 29687",(864) 244-3132,jamesmplaisted@gmail.com
+277,Dr. Jeffrey Knight Family Dentistry,"Gautier, MS","3105 Shaw Dr, Gautier, MS 39553, United States",+1 228-497-3111,drknightfamilydentistry@gmail.com
+278,"Dr. Michele Dallas, DDS","Fort Lauderdale, FL","620 NE 3rd St, Fort Lauderdale, FL 33301, United States",+1 954-525-5055,smilelodc620@gmail.com
+279,Knoell Family Dentistry,"Henderson, TN","136 S Washington Ave, Henderson, TN 38340, United States",+1 731-435-1253,knoell_a@bellsouth.net
+280,"Robert S. Sykes, DDS","Marietta, GA","451 Atlanta St SE, Marietta, GA 30060, United States",+1 770-873-7241,robertsykesdds@gmail.com
+281,Harvest Family Dentistry,"Harvest, AL","3154 Jeff Rd NW, Harvest, AL 35749, United States",+1 256-852-1100,harvestfamilydentistry@gmail.com
+282,Premier Smiles & Implant Dentistry,"Rock Hill, SC","1461 Ebenezer Road, Rock Hill, South Carolina 29732-2338",(803) 324-7461,michelle.dentalmanagement@gmail.com
+283,Dr J Robert Friedberg & Associates,"Houston, TX","9601 Katy Freeway #360, Houston, TX 77024",(713) 464-7444,puredentalstudio1@gmail.com
+284,Creekside Family Dentistry,"Nashville, TN","706 Lion Pkwy #4721, Columbia, TN 38401, United States",+1 931-388-3384,creeksidedentaltn@gmail.com
+285,Clark Dental Studio,"Memphis, TN","951 Riverfront Pkwy #303, Chattanooga, TN 37402, United States",+1 423-266-7927,mattclarkdds@gmail.com
+286,Beaches Gentle Dentistry,"Jacksonville Beach, FL","3316 3rd St S Ste 101, Jacksonville, FL 32250, United States",10395140996,seasidedentaljax@gmail.com
+287,Walnut Creek Dental,"Mansfield, TX","554 N Walnut Creek Dr, Mansfield, TX 76063, United States",+1 682-518-6300,walnutcreekdent@sbcglobal.net
+288,Sun Endodontics,"El Paso, TX","7049 S Desert Blvd Ste 107 & 108, El Paso, TX 79835, United States",+1 915-209-7575,credentialingendodontics@gmail.com
+289,Valle Dental Center.,"Brownsville, TX","925 W Jefferson St, Brownsville, TX 78520, United States",+1 844-595-3679,rudyvalledds@aol.com
+290,Rittenhouse Dentists,"Newtown, PA","1801 Pine Street, Philadelphia, PA 19103",(267) 813-2675,newtownimplantsperio@gmail.com
+291,"North Penn Pediatric Dental Associates, LLC","North Wales, PA","2100 N Broad St Ste 203, Lansdale, PA 19446, United States",+1 215-855-4092,smilesforkidsnw@gmail.com
+292,Quakertown Family Dental Center,"North Wales, PA","280 Trumbauersville Road, Quakertown, PA 18951",(929) 248-4806,bestdentalcarepc@gmail.com
+293,Andrew Pratt Dental Assoc,"Chester Springs, PA","6 Dickinson Drive Suite, Chadds Ford, PA 19317",(610) 558-5699,swiatekortho@aol.com
+294,Great Smiles Dental SC,"Milton, WI","858 Arthur Dr, Milton, WI 53563, United States",+1 608-868-4444,greatsmileswi@gmail.com
+295,"Dennis L. Pipher, DMD - Endodontic Associates of Norwalk","Norwalk, CT","120 East Ave #3E, Norwalk, CT 06851, United States",+1 203-635-6300,rctnorwalk@gmail.com
+296,Lehigh Family Dentistry,"Schnecksville, PA","4155 Independence Dr #2, Schnecksville, PA 18078, United States",+1 610-769-5200,lehighfamilydentist@gmail.com
+297,Rutledge Dental Associates,"Middletown, DE","410 N Cass St, Middletown, DE 19709, United States",+1 302-378-8705,rutledgedental@gmail.com
+298,"Dr. Joe M. Herrera, DDS","Kansas City, KS","701 Washington Blvd, Kansas City, KS 66101, United States",+1 913-362-8868,herrera701@gmail.com
+299,Mint Dental,"Olathe, KS","12148 West 95th Street, Lenexa, Kansas 66215",(816) 836-5520,ofd1419@aol.com
+300,FayTao Periodontics - Shawnee,"Shawnee, KS","6333 Long Ave Ste 201, Shawnee, KS 66216, United States",+1 913-268-9300,fayperiodontics@gmail.com
+301,"Oral, Facial & Implant Surgery Salina & Med Spa","Salina, KS","200 S Santa Fe Ave Ste 1, Salina, KS 67401, United States",+1 785-829-8200,darlahsalinaoms@gmail.com
+302,"Pleasant Dental, P.C.","Pleasant Hill, IA","1100 N Hickory Blvd #205, Pleasant Hill, IA 50327, United States",+1 515-262-5276,pleasantdentalpc@gmail.com
+303,Woodland Dentistry,"Alexandria, MN","403 3rd Ave E Ste 1, Alexandria, MN 56308, United States",+1 320-762-0279,woodlanddentistryalex@gmail.com
+304,Silver Kevin DDS,"Marion, NC","188 E Court St, Marion, NC 28752, United States",+1 828-652-3971,docsilver188@yahoo.com
+305,Legacy Smiles of San Juan,"San Juan, TX","826 US-83 BUS, San Juan, TX 78589, United States",+1 956-271-6508,legacysmilessanjuan@gmail.com
+306,Smile Cove Pediatric Dentistry - Pediatric Dentist Tampa,"Tampa, FL","6415 Sheldon Rd, Tampa, FL 33615, United States",+1 813-880-0100,nicole.smilebuilders@gmail.com
+307,deRoode Orthodontics,"Miami, FL","175 Southwest 7th Street Suite 1408, Miami, Florida 33130",(305) 373-7799,professionaldent@bellsouth.net
+308,Dentist At Plum Creek Kyle,"Austin, TX","400 Wetzel Suite A, Kyle, TX 78640",(512) 764-5421,dentistinaustin@gmail.com
+309,Carolina Lakes Family Dental,"Charlotte, NC","468 NC-24 #87, Cameron, NC 28326, United States",+1 919-498-0575,yuasmine.spfd@gmail.com
+310,"Verma Dental Snoring & Sleep Experts: Deepali Verma, DDS","Dallas, TX","702 W Centerville Rd #100, Garland, TX 75041, United States",+1 972-279-9494,stoweplazadental@sbcglobal.net
+311,Brite Smiles Dentistry,"Dallas, TX","4900 Long Prairie Road #300, Flower Mound, TX 75028",(469) 517-1415,smile-dental@sbcglobal.net
+312,Dentistry By Design,"Tucson, AZ","63675 E SaddleBrooke Blvd M, Tucson, AZ 85739, United States",+1 520-818-6732,azdentistrybydesign1@gmail.com
+313,"Dr. Moataz Karawi, DDS","Scottsdale, AZ","7701 E Indian School Rd # C, Scottsdale, AZ 85251, United States",+1 480-949-8427,scottsdaledental@yahoo.com
+314,Dental Care Burlington,"Burlington, WA","103 E Hazel Ave, Burlington, WA 98233, United States",+1 360-755-0057,skachkovdds@gmail.com
+315,Wichita Dental Group at Founders Circle,"Wichita, KS","2043 N Founders Cir, Wichita, KS 67206, United States",+1 316-684-7531,founderscirclellc@gmail.com
+316,Anding Family Dental - Omaha,"Omaha, NE","2430 S 73rd St #202, Omaha, NE 68124, United States",+1 402-858-1131,omahafamilydentistry@gmail.com
+317,Eagle Oral Surgery & Dental Implant Center PLLC,"Eagle, ID","197 W State St, Eagle, ID 83616, United States",+1 208-995-2865,drhixson@gmail.com
+318,Lollipop Dental - Long Beach,"Long Beach, CA","4251 Long Beach Blvd #100, Long Beach, CA 90807, United States",+1 562-270-9719,hellofriendsdental@gmail.com
+319,Jeffrey D Barton Inc,"Modesto, CA","2501 E Hatch Rd, Modesto, CA 95351, United States",+1 209-537-5890,drbartonstaff@sbcglobal.net
+320,Columbia River Implants and Periodontics,"Vancouver, WA","9300 NE Vancouver Mall Dr Ste 205, Vancouver, WA 98662, United States",+1 360-524-4236,colriverperio@gmail.com
