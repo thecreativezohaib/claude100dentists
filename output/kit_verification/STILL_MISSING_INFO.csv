@@ -3,7 +3,6 @@ id,practice,address,phone,what_is_needed,email_already_found
 241,"Paul J. Blaha, DDS, MS","Sycamore, IL",(815) 758-3457,FIND EMAIL,
 324,Dr. Shireen Ku DDS,"115 Laurel Creek Rd SE, Calhoun, GA 30701",(706) 629-6100,FIND EMAIL,
 330,Pursifull Brent B DDS,"3515 W Cumberland Ave, Middlesboro, KY 40965",(606) 248-2328,FIND EMAIL,
-333,Lebanon Family Dentistry,"1430 W Baddour Pkwy # B, Lebanon, TN 37087",(615) 200-6093,FIND EMAIL,
 334,Wells Kirk O DDS,"109 State Rte 52 A, Portland, TN 37148",(615) 325-6902,NEWEST REVIEW DATE + FIND EMAIL,
 339,High Alex DDS Center,"1203 Mount Dechantal Rd, Wheeling, WV 26003",(304) 243-5555,FIND EMAIL,
 342,Dr. Katherine Wooton DDS. Inc,"702 Professional Park Dr #100, Summersville, WV 26651",(304) 872-7272,FIND EMAIL,
@@ -16,72 +15,27 @@ id,practice,address,phone,what_is_needed,email_already_found
 355,Sicard Atchafalaya Dentistry,"1234 David Dr #106, Morgan City, LA 70380",(985) 385-5423,FIND EMAIL,
 357,"Dr. Keith Sylvester, DDS","2014 Gus Kaplan Dr, Alexandria, LA 71301",(318) 443-7080,FIND EMAIL,
 359,Downtown Dental,"1104 18th St, Hondo, TX 78861",(830) 426-2444,NEWEST REVIEW DATE + FIND EMAIL,
-368,Summers J Scott DDS,"2300 Slater St, Valdosta, GA 31602",(229) 333-0000,FIND EMAIL,
 373,Claude Harris DDS,"714 South St, Key West, FL 33040",(305) 293-3099,FIND EMAIL,
 375,"Dr. Andrew J. Mills, DMD","204 N Edwards St, Enterprise, AL 36330",(334) 347-8538,NEWEST REVIEW DATE,andrewjmills3@yahoo.com
-376,Sharp Thomas DMD,"100 E 7th St, Anniston, AL 36201",(256) 236-5343,FIND EMAIL,
 377,Sams Julie R DDS,"724 Alabama Ave, Selma, AL 36701",(334) 872-6277,FIND EMAIL,
-385,Lance V Glenn DDS,"North main professional bldg, 700 N Main St #1, Nashville, AR 71852",(870) 845-1263,FIND EMAIL,
 388,Joseph M. Moody DMD,"505 E Pushmataha St, Butler, AL 36904",(205) 459-5700,NEWEST REVIEW DATE + FIND EMAIL,
-401,Dane Bowen DDS,"137 W Mulberry St, Lancaster, OH 43130",(740) 653-0842,RE-CHECK LISTING,officebowendds@gmail.com
-402,Lima Dentist | Jeffrey J. Blanford DDS | Blanford Dental Center,"3000 Elida Rd, Lima, OH 45805",(419) 331-1080,RE-CHECK LISTING + FIND EMAIL,
-408,Bulfa & DeGrazia Family Dentistry,"250 S Washington St #4151, Hobart, IN 46342",(219) 942-1730,RE-CHECK LISTING,gbulfa@comcast.net
-409,"Cindy Kirby, DDS","5129 E 81st Ave, Merrillville, IN 46410",(219) 769-4246,RE-CHECK LISTING + FIND EMAIL,
-412,Gentle Family Dentistry,"1015 Ashman St, Midland, MI 48640",(989) 839-7376,RE-CHECK LISTING,gfdent@yahoo.com
-413,Payne & Payne,"4099 Shrestha Dr, Bay City, MI 48706",(989) 671-9711,RE-CHECK LISTING + FIND EMAIL,
-414,Daniel S Ruff DDS,"1407 S Euclid Ave, Bay City, MI 48706",(989) 893-0611,RE-CHECK LISTING + FIND EMAIL,
-415,Lincoln Dental Marquette,"1101 Lincoln Ave, Marquette, MI 49855",(906) 225-0617,RE-CHECK LISTING + FIND EMAIL,
-416,Golombisky Jeffrey L DDS,"1336 E M 21, Owosso, MI 48867",(989) 723-8135,RE-CHECK LISTING + FIND EMAIL,
-418,Ebert Dental Group,"390 E Howard St suite c, Willard, OH 44890",(419) 935-2881,RE-CHECK LISTING + FIND EMAIL,
-419,Frounfelter Dental Clinic,"715 Jefferson St, Rochester, IN 46975",(574) 223-8288,RE-CHECK LISTING,drdj@rtcol.com
-420,"Shawn R. Branton, D.D.S","301 Washington Blvd, Williamsport, PA 17701",(570) 322-8501,RE-CHECK LISTING + FIND EMAIL,
-421,"Richard M Grassmyer,DDS","200 E Hackberry St, Salem, IN 47167",(812) 883-3202,RE-CHECK LISTING,docg@blueriver.net
-422,Lewis Scott M DDS Clinic,"1570 W Hospital Rd, Paoli, IN 47454",(812) 723-3959,RE-CHECK LISTING + FIND EMAIL,
-423,Huntingburg Family Dentistry,"517 E 5th St, Huntingburg, IN 47542",(812) 683-4100,RE-CHECK LISTING,drwood@fullnet.com
-424,Boule/Spear Family Dentistry,"263 Tom Miller Rd #2, Plattsburgh, NY 12901",(518) 563-3090,RE-CHECK LISTING + FIND EMAIL,
-425,In Town Dental Llc,"57 Greene St, Cumberland, MD 21502",(301) 722-6688,RE-CHECK LISTING,intowndental@intowndental.com
-429,"Dr. Arlen R. Horsewood, DDS","11422 Hoagland Rd, Hoagland, IN 46745",(260) 639-6638,RE-CHECK LISTING + FIND EMAIL,
-431,Krupp Dental Group,"504 N Coalter St, Staunton, VA 24401",(540) 885-1631,RE-CHECK LISTING,kruppdentalgroup@gmail.com
-432,Karl P Woods DMD,"88 McSheffery Rd, Houlton, ME 04730",(207) 532-4747,RE-CHECK LISTING,info@woodsfamilydentists.com
-435,Comprehensive Dental Center,"5908 Berryhill Rd, Milton, FL 32570",(850) 623-0137,RE-CHECK LISTING + FIND EMAIL,
-436,Watson Family Dentistry,"5750 US-90, Milton, FL 32583",(850) 623-2991,RE-CHECK LISTING + FIND EMAIL,
-438,"Stephen B Demmi DMD, PA","437 SW Perimeter Glen, Lake City, FL 32025",(386) 961-9669,RE-CHECK LISTING + FIND EMAIL,
-439,Gregg Family Dental,"236 E Jefferson St #2427, Quincy, FL 32351",(850) 627-9164,RE-CHECK LISTING + FIND EMAIL,
-440,Dr. Ileana Moya D.M.D,"872 W Sugarland Hwy, Clewiston, FL 33440",(863) 983-5600,RE-CHECK LISTING + FIND EMAIL,
-442,Advanced Family Dentistry Center,"482 Main St Ste 2, Oneonta, NY 13820",(607) 433-1472,RE-CHECK LISTING,advancedfamily@stny.rr.com
-445,Wottreng Family Dental,"135 28th St NE, Owatonna, MN 55060",(507) 446-8301,RE-CHECK LISTING + FIND EMAIL,
-446,Guy Family Dentistry: Catherine Guy DDS,"316 3rd Ave NE, Austin, MN 55912",(507) 433-8789,RE-CHECK LISTING,guyfamilydentistry@gmail.com
-449,Mc Allister Edward L DDS,"2001 W 20th St, Joplin, MO 64804",(417) 623-1414,RE-CHECK LISTING,amysmenkeoffice@gmail.com
-453,The Smile Place of West Frankfort,"205 N Ida St, West Frankfort, IL 62896",(618) 937-2737,RE-CHECK LISTING,thesmileplaceofwf@gmail.com
-454,Hawkins Family Dentistry,"212 N Walnut St, Pinckneyville, IL 62274",(618) 357-9333,RE-CHECK LISTING,hawkins.family.dentistry@outlook.com
-455,"Dr. Bethel Buerk, DMD","20 S Main St, Trenton, IL 62293",(618) 224-9423,RE-CHECK LISTING + FIND EMAIL,
-457,"David R Heidenreich, DDS","105 E Green St, Marshall, MI 49068",(269) 781-7997,RE-CHECK LISTING,drdheidy@gmail.com
-458,Lakeshore Family Dental,"5638 Cleveland Ave, Stevensville, MI 49127",(269) 429-4661,RE-CHECK LISTING + FIND EMAIL,
-460,Funseth Dental,"114 13th St S, Great Falls, MT 59401",(406) 454-3711,RE-CHECK LISTING,cole@funsethdental.com
-461,Dickson Dental Practice,"820 Allison Ave, Chandler, OK 74834",(405) 258-1042,RE-CHECK LISTING + FIND EMAIL,
-462,Kingfisher Family Dental & Implant Clinic,"2700 Frontage Rd, Kingfisher, OK 73750",(405) 375-4949,RE-CHECK LISTING + FIND EMAIL,
-463,Dental Wellness- Chenoweth Ashley DDS,"641 Wyoming Ave, Powell, WY 82435",(307) 271-0771,RE-CHECK LISTING,dentalwellness@securepracticemail.com
-464,Adams Rex M DMD,"513 5th St SW, Cullman, AL 35055",(256) 734-6071,RE-CHECK LISTING,adamsdental2006@hotmail.com
-465,"Dr. Paul D. Bussman, DMD","1625 Main Ave SW, Cullman, AL 35055",(256) 734-1700,RE-CHECK LISTING + FIND EMAIL,
-468,Holland Alex DDS,"416 Parks Ave, Scottsboro, AL 35768",(256) 574-5121,RE-CHECK LISTING + FIND EMAIL,
-469,"Dr. Gregory D. Howard, Dds","1121 W Main St, Danville, VA 24541",(434) 793-2633,RE-CHECK LISTING + FIND EMAIL,
-470,Dietrich Craig DDS,"904 Brookdale St, Martinsville, VA 24112",(276) 632-0010,RE-CHECK LISTING + FIND EMAIL,
-473,"Jeffrey Ray Mattila, DDS","200 Lincoln Ave #2828, Grants, NM 87020",(505) 287-2000,RE-CHECK LISTING,swd@jrmattila.com
-474,"Dr. Randell M. Capener, DMD","515 W Forest St, Brigham City, UT 84302",(435) 723-6211,RE-CHECK LISTING,capenerdental@hotmail.com
-476,Texoma Signature Dental,"121 W Lamberth Rd Ste c, Sherman, TX 75092",(903) 893-1111,RE-CHECK LISTING + FIND EMAIL,
-479,Patricia Beatrix Reyes,"1205 Junction Hwy, Kerrville, TX 78028",(830) 253-4360,RE-CHECK LISTING + FIND EMAIL,
-482,"Horvath General Dentistry, P.C","769 Bloom Rd, Danville, PA 17821",(570) 275-1451,RE-CHECK LISTING + FIND EMAIL,
-485,Schiavone Patricia DDS,"908 Main St, Stroudsburg, PA 18360",(570) 424-8346,RE-CHECK LISTING,pschiavone908@gmail.com
-486,John L Lassiter Pa,"323 W Main St, Lincolnton, NC 28092",(704) 735-4722,RE-CHECK LISTING + FIND EMAIL,
-489,NEW HORIZONS DENTAL,"132 New Horizons Dr, Pembroke, NC 28372",(910) 521-6065,RE-CHECK LISTING + FIND EMAIL,
-490,Dental Associates,"403 Roanoke Blvd, Salem, VA 24153",(540) 389-0225,RE-CHECK LISTING,blvd403@aol.com
-491,Sunset Dental,"303 S Colorado St, Salem, VA 24153",(540) 300-6376,RE-CHECK LISTING,sunsetdental303@gmail.com
-492,"K.W. Morris, DDS, Ltd","604 N Thomas St, South Hill, VA 23970",(434) 447-4464,RE-CHECK LISTING + FIND EMAIL,
-495,Stidham Stephen E DDS,"502 E Bond St, Monett, MO 65708",(417) 235-5419,RE-CHECK LISTING + FIND EMAIL,
-497,Moore Family Dental Care,"900 E Shiloh Rd, Corinth, MS 38834",(662) 287-1171,RE-CHECK LISTING,moorefamilydentalms@gmail.com
+415,Lincoln Dental Marquette,"1101 Lincoln Ave, Marquette, MI 49855",(906) 225-0617,FIND EMAIL,
+420,"Shawn R. Branton, D.D.S","301 Washington Blvd, Williamsport, PA 17701",(570) 322-8501,FIND EMAIL,
+429,"Dr. Arlen R. Horsewood, DDS","11422 Hoagland Rd, Hoagland, IN 46745",(260) 639-6638,NEWEST REVIEW DATE + FIND EMAIL,
+439,Gregg Family Dental,"236 E Jefferson St #2427, Quincy, FL 32351",(850) 627-9164,FIND EMAIL,
+455,"Dr. Bethel Buerk, DMD","20 S Main St, Trenton, IL 62293",(618) 224-9423,FIND EMAIL,
+458,Lakeshore Family Dental,"5638 Cleveland Ave, Stevensville, MI 49127",(269) 429-4661,FIND EMAIL,
+463,Dental Wellness- Chenoweth Ashley DDS,"641 Wyoming Ave, Powell, WY 82435",(307) 271-0771,NEWEST REVIEW DATE,dentalwellness@securepracticemail.com
+470,Dietrich Craig DDS,"904 Brookdale St, Martinsville, VA 24112",(276) 632-0010,FIND EMAIL,
+482,"Horvath General Dentistry, P.C","769 Bloom Rd, Danville, PA 17821",(570) 275-1451,FIND EMAIL,
+486,John L Lassiter Pa,"323 W Main St, Lincolnton, NC 28092",(704) 735-4722,FIND EMAIL,
+489,NEW HORIZONS DENTAL,"132 New Horizons Dr, Pembroke, NC 28372",(910) 521-6065,FIND EMAIL,
+492,"K.W. Morris, DDS, Ltd","604 N Thomas St, South Hill, VA 23970",(434) 447-4464,FIND EMAIL,
+495,Stidham Stephen E DDS,"502 E Bond St, Monett, MO 65708",(417) 235-5419,FIND EMAIL,
 358,"Dr Fred M Hilburn, II","104 Griffith St, Pineville, LA 71360",(318) 445-6654,FIND EMAIL,
 434,Solana Dental Care,"4121 Meadowdale Blvd, North Chesterfield, VA 23234",(804) 303-9654,FIND EMAIL,
 441,Brookville Family Dental,"123 Main St, Brookville, PA 15825",(814) 849-2652,FIND EMAIL,
-467,"Dr. Chris Baker, DDS","101 Baker Ave, Clanton, AL 35045",(205) 755-1231,FIND EMAIL,
-483,"Paul J. Capparell, D.D.S","136 E 5th St, Hazleton, PA 18201",(570) 454-8734,FIND EMAIL,
 493,"Drake, Sandra K., DDS","145 W Spring St, Woodstock, VA 22664",(540) 459-2512,FIND EMAIL,
+219,East Hill Dental Care,,,BORDERLINE: Google review date readings conflict (2 years ago vs 3 months ago),
+246,Dr. Jim Helton,,,BORDERLINE: Google review date readings conflict (10 months ago vs edited 4 weeks ago); license confirmed active,
+015,Honarkar Maryam DDS,,,BORDERLINE: newest unedited review 6 months ago; one review edited 3 months ago,
